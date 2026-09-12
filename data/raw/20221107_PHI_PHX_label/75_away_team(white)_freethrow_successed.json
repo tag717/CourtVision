@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_75_away_team(white)_freethrow_successed",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Mikal Bridges",
+            "result": "made",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "06:30"
+            },
+            "caption": "Mikal Bridges makes free throw."
+        }
+    ]
+}

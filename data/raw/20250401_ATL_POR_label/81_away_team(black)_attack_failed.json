@@ -1,0 +1,74 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_81_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Deni Avdija dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "01:10"
+            },
+            "caption": "Deni Avdija makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Matisse Thybulle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "01:50"
+            },
+            "caption": "Matisse Thybulle holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Matisse Thybulle",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "03:40"
+            },
+            "caption": "Matisse Thybulle turnover: lost ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Steal",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "03:40"
+            },
+            "caption": "Caris LeVert steals the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "05:00"
+            },
+            "caption": "Caris LeVert dribbles the ball."
+        }
+    ]
+}

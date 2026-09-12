@@ -1,0 +1,173 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_44_away_team(blue)_attack_failed",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Miles McBride",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:20"
+            },
+            "caption": "Miles McBride dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Miles McBride",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:00"
+            },
+            "caption": "Miles McBride makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "Josh Hart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "10:20"
+            },
+            "caption": "Josh Hart hands off the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "13:30"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:20"
+            },
+            "caption": "Jalen Brunson makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Josh Hart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "15:20"
+            },
+            "caption": "Josh Hart dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Josh Hart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "16:10"
+            },
+            "caption": "Josh Hart makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "OG Anunoby",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "18:20"
+            },
+            "caption": "OG Anunoby misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "OffensiveRebound",
+            "player": "Josh Hart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:20",
+                "end": "19:20"
+            },
+            "caption": "Josh Hart gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Josh Hart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "21:20"
+            },
+            "caption": "Josh Hart dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Josh Hart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:20",
+                "end": "22:00"
+            },
+            "caption": "Josh Hart makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "3ptShot",
+            "player": "Miles McBride",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "22:20",
+                "end": "24:10"
+            },
+            "caption": "Miles McBride misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "DefensiveRebound",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "24:10",
+                "end": "25:10"
+            },
+            "caption": "Paul Reed gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "PassBall",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "25:40",
+                "end": "26:20"
+            },
+            "caption": "Paul Reed makes a pass."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "PassBall",
+            "player": "Malik Beasley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "26:00",
+                "end": "27:00"
+            },
+            "caption": "Malik Beasley makes a pass."
+        }
+    ]
+}

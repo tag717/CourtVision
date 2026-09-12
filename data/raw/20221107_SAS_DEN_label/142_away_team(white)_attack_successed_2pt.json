@@ -1,0 +1,63 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_142_away_team(white)_attack_successed_2pt",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:50"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "07:40"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "09:30"
+            },
+            "caption": "Kentavious Caldwell-Pope makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:50"
+            },
+            "caption": "Michael Porter Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Michael Porter Jr.",
+            "result": "made",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "13:10"
+            },
+            "caption": "Michael Porter Jr. makes layup."
+        }
+    ]
+}

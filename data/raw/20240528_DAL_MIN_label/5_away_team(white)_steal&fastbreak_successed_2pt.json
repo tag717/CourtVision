@@ -1,0 +1,63 @@
+{
+    "video_id": "20240528_DAL_MIN",
+    "possession_id": "poss_5_away_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "DAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Luka Dončić",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Luka Dončić turnover: bad pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "07:50"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "08:30"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "10:40"
+            },
+            "caption": "Karl-Anthony Towns dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Karl-Anthony Towns",
+            "result": "made",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "11:50"
+            },
+            "caption": "Karl-Anthony Towns makes layup."
+        }
+    ]
+}

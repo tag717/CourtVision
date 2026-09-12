@@ -1,0 +1,129 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_189_home_team(blue)_attack_foul",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Frank Ntilikina",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:40"
+            },
+            "caption": "Frank Ntilikina inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "03:40"
+            },
+            "caption": "Kyrie Irving makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Frank Ntilikina",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "10:40"
+            },
+            "caption": "Frank Ntilikina dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Frank Ntilikina",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "10:50"
+            },
+            "caption": "Frank Ntilikina hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Christian Wood",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "12:20"
+            },
+            "caption": "Christian Wood holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Christian Wood",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "13:10"
+            },
+            "caption": "Christian Wood makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Dāvis Bertāns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "14:10"
+            },
+            "caption": "Dāvis Bertāns dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Dāvis Bertāns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "14:40"
+            },
+            "caption": "Dāvis Bertāns makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Frank Ntilikina",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:40",
+                "end": "18:20"
+            },
+            "caption": "Frank Ntilikina dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Frank Ntilikina",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:20",
+                "end": "19:00"
+            },
+            "caption": "Frank Ntilikina makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "3ptShot",
+            "player": "Dāvis Bertāns",
+            "result": "made",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "21:00"
+            },
+            "caption": "Dāvis Bertāns makes 3-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_94_away_team(red)_attack_befouled",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Jabari Walker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Jabari Walker makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jerami Grant",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "03:30"
+            },
+            "caption": "Jerami Grant turnover: out of bounds lost ball."
+        }
+    ]
+}

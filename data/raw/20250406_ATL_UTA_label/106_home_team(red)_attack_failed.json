@@ -1,0 +1,74 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_106_home_team(red)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:00"
+            },
+            "caption": "Trae Young makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Georges Niang",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "06:30"
+            },
+            "caption": "Georges Niang misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Kyle Filipowski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "08:00"
+            },
+            "caption": "Kyle Filipowski gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "HandOff",
+            "player": "Kyle Filipowski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "08:10"
+            },
+            "caption": "Kyle Filipowski hands off the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Collin Sexton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "10:00"
+            },
+            "caption": "Collin Sexton dribbles the ball."
+        }
+    ]
+}

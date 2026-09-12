@@ -1,0 +1,19 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_20_away_team(white)_freethrow_successed",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Dillon Brooks",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Dillon Brooks makes free throw."
+        }
+    ]
+}

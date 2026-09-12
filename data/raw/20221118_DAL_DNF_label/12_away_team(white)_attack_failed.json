@@ -1,0 +1,63 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_12_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Bruce Brown makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "03:30"
+            },
+            "caption": "Michael Porter Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Michael Porter Jr.",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "05:40"
+            },
+            "caption": "Michael Porter Jr. misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Reggie Bullock",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:30"
+            },
+            "caption": "Reggie Bullock gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Reggie Bullock",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:40"
+            },
+            "caption": "Reggie Bullock makes a pass."
+        }
+    ]
+}

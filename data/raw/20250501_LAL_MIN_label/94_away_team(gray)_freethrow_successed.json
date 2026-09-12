@@ -1,0 +1,19 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_94_away_team(gray)_freethrow_successed",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Anthony Edwards",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Anthony Edwards makes free throw."
+        }
+    ]
+}

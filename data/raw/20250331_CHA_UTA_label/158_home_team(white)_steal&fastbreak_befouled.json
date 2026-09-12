@@ -1,0 +1,52 @@
+{
+    "video_id": "20250331_CHA_UTA",
+    "possession_id": "poss_158_home_team(white)_steal&fastbreak_befouled",
+    "home_team": "CHA",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Keyonte Georg",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Keyonte Georg turnover: inbound pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "KJ Simpson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "KJ Simpson steals the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "KJ Simpson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "04:50"
+            },
+            "caption": "KJ Simpson dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "KJ Simpson",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "10:00"
+            },
+            "caption": "KJ Simpson is fouled on a layup attempt."
+        }
+    ]
+}

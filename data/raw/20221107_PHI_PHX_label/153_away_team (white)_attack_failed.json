@@ -1,0 +1,63 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_153_away_team (white)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Landry Shamet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Landry Shamet dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Landry Shamet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "03:50"
+            },
+            "caption": "Landry Shamet hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "07:40"
+            },
+            "caption": "Mikal Bridges dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Mikal Bridges",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:50"
+            },
+            "caption": "Mikal Bridges misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:00"
+            },
+            "caption": "Tobias Harris gets the defensive rebound."
+        }
+    ]
+}

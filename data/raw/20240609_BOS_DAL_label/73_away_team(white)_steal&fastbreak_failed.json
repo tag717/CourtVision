@@ -1,0 +1,30 @@
+{
+    "video_id": "20240609_BOS_DAL",
+    "possession_id": "poss_73_away_team(white)_steal&fastbreak_failed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Al Horford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Al Horford makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:00"
+            },
+            "caption": "Derrick White dribbles the ball."
+        }
+    ]
+}

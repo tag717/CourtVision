@@ -1,0 +1,118 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_157_home_team(white)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:40"
+            },
+            "caption": "Jordan McLaughlin dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "03:00"
+            },
+            "caption": "Jordan McLaughlin makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "05:40"
+            },
+            "caption": "Karl-Anthony Towns holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:30"
+            },
+            "caption": "Karl-Anthony Towns makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:00"
+            },
+            "caption": "Naz Reid dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "09:00"
+            },
+            "caption": "Naz Reid makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:50"
+            },
+            "caption": "Karl-Anthony Towns makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "11:30"
+            },
+            "caption": "Jordan McLaughlin makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "Bryn Forbes",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "13:30"
+            },
+            "caption": "Bryn Forbes misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "Jericho Sims",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "15:00"
+            },
+            "caption": "Jericho Sims gets the defensive rebound."
+        }
+    ]
+}

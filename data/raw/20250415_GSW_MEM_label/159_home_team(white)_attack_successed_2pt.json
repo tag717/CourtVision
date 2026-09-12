@@ -1,0 +1,63 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_159_home_team(white)_attack_successed_2pt",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "13:20"
+            },
+            "caption": "Jimmy Butler dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:20"
+            },
+            "caption": "Jimmy Butler makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "15:10"
+            },
+            "caption": "Draymond Green makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "17:10"
+            },
+            "caption": "Jimmy Butler dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Jimmy Butler",
+            "result": "made",
+            "timestamp_video": {
+                "start": "17:10",
+                "end": "18:30"
+            },
+            "caption": "Jimmy Butler makes layup."
+        }
+    ]
+}

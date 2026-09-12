@@ -1,0 +1,52 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_56_away_team(blue)_attack_successed_3pt",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Santi Aldama",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Santi Aldama holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Santi Aldama",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:30"
+            },
+            "caption": "Santi Aldama makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Luke Kennard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "05:00"
+            },
+            "caption": "Luke Kennard dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Luke Kennard",
+            "result": "made",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "08:00"
+            },
+            "caption": "Luke Kennard makes 3-pt jump shot."
+        }
+    ]
+}

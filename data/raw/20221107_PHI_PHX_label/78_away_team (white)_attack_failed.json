@@ -1,0 +1,118 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_78_away_team (white)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Chris Paul",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:40"
+            },
+            "caption": "Chris Paul makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Deandre Ayton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "02:40"
+            },
+            "caption": "Deandre Ayton holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Deandre Ayton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:40"
+            },
+            "caption": "Deandre Ayton makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "04:30"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:10"
+            },
+            "caption": "Devin Booker makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Torrey Craig",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:10"
+            },
+            "caption": "Torrey Craig dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Torrey Craig",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:30"
+            },
+            "caption": "Torrey Craig makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "10:10"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Layup",
+            "player": "Devin Booker",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "12:20"
+            },
+            "caption": "Devin Booker misses layup."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "De'Anthony Melton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "13:00"
+            },
+            "caption": "De'Anthony Melton gets the defensive rebound."
+        }
+    ]
+}

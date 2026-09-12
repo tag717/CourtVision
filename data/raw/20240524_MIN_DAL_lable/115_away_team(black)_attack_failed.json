@@ -1,0 +1,74 @@
+{
+    "video_id": "20240524_MIN_DAL",
+    "possession_id": "poss_115_away_team(black)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:30"
+            },
+            "caption": "Luka Dončić dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "09:30"
+            },
+            "caption": "Luka Dončić makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Derrick Jones Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "11:10"
+            },
+            "caption": "Derrick Jones Jr. holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Derrick Jones Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:20"
+            },
+            "caption": "Derrick Jones Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "16:10"
+            },
+            "caption": "Kyrie Irving makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "2ptShot",
+            "player": "Daniel Gafford",
+            "result": "timeout",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "18:10"
+            },
+            "caption": "Daniel Gafford calls a timeout before a 2-pt shot."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_90_away_team(blue)_attack_befouled'",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:40"
+            },
+            "caption": "James Harden inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Kris Dunn",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "08:10"
+            },
+            "caption": "Kris Dunn dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Kris Dunn",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "08:40"
+            },
+            "caption": "Kris Dunn makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Ivica Zubac",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "10:50"
+            },
+            "caption": "Ivica Zubac hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Kawhi Leonard",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "14:00"
+            },
+            "caption": "Kawhi Leonard is fouled while dribbling."
+        }
+    ]
+}

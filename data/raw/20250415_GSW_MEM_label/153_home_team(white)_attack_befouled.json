@@ -1,0 +1,19 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_153_home_team(white)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Layup",
+            "player": "Jimmy Butler",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "03:00"
+            },
+            "caption": "Jimmy Butler is fouled on a layup attempt."
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_27_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Davion Mitchell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Davion Mitchell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Davion Mitchell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "04:20"
+            },
+            "caption": "Davion Mitchell makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Kevin Huerter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "07:10"
+            },
+            "caption": "Kevin Huerter dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Kevin Huerter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "07:50"
+            },
+            "caption": "Kevin Huerter makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "09:10"
+            },
+            "caption": "Domantas Sabonis makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Davion Mitchell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "09:40"
+            },
+            "caption": "Davion Mitchell dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Davion Mitchell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:10"
+            },
+            "caption": "Davion Mitchell makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Hold",
+            "player": "Kevin Huerter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "12:10"
+            },
+            "caption": "Kevin Huerter holds the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Kevin Huerter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "15:50"
+            },
+            "caption": "Kevin Huerter dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "2ptShot",
+            "player": "Kevin Huerter",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "17:40"
+            },
+            "caption": "Kevin Huerter misses 2-pt jump shot."
+        }
+    ]
+}

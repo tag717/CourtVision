@@ -1,0 +1,107 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_51_away_team(white)_attack_outside",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:20"
+            },
+            "caption": "Dennis Schröder dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:20"
+            },
+            "caption": "Dennis Schröder makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Simone Fontecchio",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "12:00"
+            },
+            "caption": "Simone Fontecchio makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "14:00"
+            },
+            "caption": "Dennis Schröder holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "14:20"
+            },
+            "caption": "Dennis Schröder makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Malik Beasley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "17:10"
+            },
+            "caption": "Malik Beasley dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Malik Beasley",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "17:10",
+                "end": "18:20"
+            },
+            "caption": "Malik Beasley misses layup."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:20",
+                "end": "19:00"
+            },
+            "caption": "Jaden Hardy gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Jaden Hardy",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "19:20"
+            },
+            "caption": "Jaden Hardy turnover: pass out of bounds."
+        }
+    ]
+}

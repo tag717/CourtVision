@@ -1,0 +1,52 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_184_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Davon Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Davon Reed makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "14:00"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Bones Hyland",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "15:50"
+            },
+            "caption": "Bones Hyland misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Tim Hardaway Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "17:00"
+            },
+            "caption": "Tim Hardaway Jr. gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_67_home_team(white)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaylen Nowell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Jaylen Nowell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jaylen Nowell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:40"
+            },
+            "caption": "Jaylen Nowell makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Kyle Anderson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:40"
+            },
+            "caption": "Kyle Anderson dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Kyle Anderson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "07:00"
+            },
+            "caption": "Kyle Anderson makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Naz Reid",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "09:20"
+            },
+            "caption": "Naz Reid misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:00"
+            },
+            "caption": "Immanuel Quickley gets the defensive rebound."
+        }
+    ]
+}

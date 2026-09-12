@@ -1,0 +1,30 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_33_away_team(white)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Amen Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "10:20"
+            },
+            "caption": "Amen Thompson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Amen Thompson",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "12:10"
+            },
+            "caption": "Amen Thompson is fouled on a layup attempt."
+        }
+    ]
+}

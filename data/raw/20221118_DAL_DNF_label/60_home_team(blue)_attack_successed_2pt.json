@@ -1,0 +1,96 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_60_home_team(blue)_attack_successed_2pt",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Reggie Bullock",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Reggie Bullock inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Tim Hardaway Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "06:00"
+            },
+            "caption": "Tim Hardaway Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Tim Hardaway Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:40"
+            },
+            "caption": "Tim Hardaway Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "09:40"
+            },
+            "caption": "Spencer Dinwiddie dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:30"
+            },
+            "caption": "Spencer Dinwiddie makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Christian Wood",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "12:00"
+            },
+            "caption": "Christian Wood misses layup."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "OffensiveRebound",
+            "player": "Christian Wood",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "12:10"
+            },
+            "caption": "Christian Wood gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Putback",
+            "player": "Christian Wood",
+            "result": "made",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:30"
+            },
+            "caption": "Christian Wood makes putback layup."
+        }
+    ]
+}

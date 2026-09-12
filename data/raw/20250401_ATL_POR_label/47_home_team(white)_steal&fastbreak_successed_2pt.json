@@ -1,0 +1,173 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_47_home_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dalano Banton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:20"
+            },
+            "caption": "Dalano Banton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Dalano Banton",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "08:20"
+            },
+            "caption": "Dalano Banton misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "OffensiveRebound",
+            "player": "Duop Reath",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:40"
+            },
+            "caption": "Duop Reath gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Duop Reath",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "12:00"
+            },
+            "caption": "Duop Reath makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Kris Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:00"
+            },
+            "caption": "Kris Murray makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Matisse Thybulle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "13:40"
+            },
+            "caption": "Matisse Thybulle dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Matisse Thybulle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "14:40"
+            },
+            "caption": "Matisse Thybulle makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Hold",
+            "player": "Toumani Camara",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:40",
+                "end": "15:20"
+            },
+            "caption": "Toumani Camara holds the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Toumani Camara",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "17:20"
+            },
+            "caption": "Toumani Camara dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Toumani Camara",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "18:30"
+            },
+            "caption": "Toumani Camara makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Duop Reath",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:30",
+                "end": "20:10"
+            },
+            "caption": "Duop Reath makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Steal",
+            "player": "Terance Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:20",
+                "end": "23:40"
+            },
+            "caption": "Terance Mann steals the ball."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:40",
+                "end": "26:10"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "26:10",
+                "end": "26:50"
+            },
+            "caption": "Trae Young makes a pass."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "Dunk",
+            "player": "Vit Krejci",
+            "result": "made",
+            "timestamp_video": {
+                "start": "26:50",
+                "end": "28:10"
+            },
+            "caption": "Vit Krejci makes dunk."
+        }
+    ]
+}

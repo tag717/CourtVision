@@ -1,0 +1,96 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_115_away_team(white)_steal&fastbreak_outside",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:30"
+            },
+            "caption": "Luka Dončić dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "01:40"
+            },
+            "caption": "Luka Dončić makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Daniel Gafford",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "03:20"
+            },
+            "caption": "Daniel Gafford turnover: lost ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "07:50"
+            },
+            "caption": "Jrue Holiday dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "08:40"
+            },
+            "caption": "Jrue Holiday makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Al Horford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:10"
+            },
+            "caption": "Al Horford makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:00"
+            },
+            "caption": "Derrick White makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "10:50"
+            },
+            "caption": "Jaylen Brown dribbles the ball."
+        }
+    ]
+}

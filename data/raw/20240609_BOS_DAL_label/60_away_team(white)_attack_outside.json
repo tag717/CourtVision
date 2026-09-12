@@ -1,0 +1,19 @@
+{
+    "video_id": "20240609_BOS_DAL",
+    "possession_id": "poss_60_away_team(white)_attack_outside",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dante Exum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:30"
+            },
+            "caption": "Dante Exum dribbles the ball."
+        }
+    ]
+}

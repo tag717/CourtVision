@@ -1,0 +1,74 @@
+{
+    "video_id": "20240612_DAL_BOS",
+    "possession_id": "poss_161_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Al Horford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Al Horford makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "08:40"
+            },
+            "caption": "Derrick White dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:30"
+            },
+            "caption": "Derrick White makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "13:30"
+            },
+            "caption": "Jayson Tatum holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "16:40"
+            },
+            "caption": "Jayson Tatum dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "2ptShot",
+            "player": "Jayson Tatum",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:40",
+                "end": "20:20"
+            },
+            "caption": "Jayson Tatum misses 2-pt jump shot."
+        }
+    ]
+}

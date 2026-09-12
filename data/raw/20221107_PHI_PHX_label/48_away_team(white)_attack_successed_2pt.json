@@ -1,0 +1,74 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_48_away_team(white)_attack_successed_2pt",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cameron Payne",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "11:20"
+            },
+            "caption": "Cameron Payne dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cameron Payne",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "11:30"
+            },
+            "caption": "Cameron Payne makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "20:20"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:20",
+                "end": "21:00"
+            },
+            "caption": "Devin Booker makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Cameron Payne",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "21:00",
+                "end": "23:20"
+            },
+            "caption": "Cameron Payne misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "2ptShot",
+            "player": "Devin Booker",
+            "result": "made",
+            "timestamp_video": {
+                "start": "27:10",
+                "end": "29:00"
+            },
+            "caption": "Devin Booker makes 2-pt jump shot."
+        }
+    ]
+}

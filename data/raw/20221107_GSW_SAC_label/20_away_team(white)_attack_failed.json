@@ -1,0 +1,74 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_20_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Davion Mitchell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Davion Mitchell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Davion Mitchell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "02:10"
+            },
+            "caption": "Davion Mitchell makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Keegan Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:50"
+            },
+            "caption": "Keegan Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Keegan Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:30"
+            },
+            "caption": "Keegan Murray makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Harrison Barnes",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "06:10"
+            },
+            "caption": "Harrison Barnes misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Kevon Looney",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:00"
+            },
+            "caption": "Kevon Looney gets the defensive rebound."
+        }
+    ]
+}

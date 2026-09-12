@@ -1,0 +1,63 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_7_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Klay Thompson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "03:40"
+            },
+            "caption": "Klay Thompson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Harrison Barnes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "04:30"
+            },
+            "caption": "Harrison Barnes makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Keegan Murray",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "06:10"
+            },
+            "caption": "Keegan Murray misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "06:50"
+            },
+            "caption": "Stephen Curry gets the defensive rebound."
+        }
+    ]
+}

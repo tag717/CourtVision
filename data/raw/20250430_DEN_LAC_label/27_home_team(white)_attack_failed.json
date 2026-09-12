@@ -1,0 +1,96 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_27_home_team(white)_attack_failed",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:30"
+            },
+            "caption": "Nikola Jokić inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "12:30"
+            },
+            "caption": "Christian Braun dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "13:10"
+            },
+            "caption": "Christian Braun makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "16:50"
+            },
+            "caption": "Nikola Jokić holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:50",
+                "end": "17:40"
+            },
+            "caption": "Nikola Jokić makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:40",
+                "end": "18:40"
+            },
+            "caption": "Christian Braun dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:40",
+                "end": "19:20"
+            },
+            "caption": "Christian Braun makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Nikola Jokić",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "23:00"
+            },
+            "caption": "Nikola Jokić misses 3-pt jump shot."
+        }
+    ]
+}

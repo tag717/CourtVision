@@ -1,0 +1,173 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_125_away_team(white)_attack_successed_3pt",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "01:20"
+            },
+            "caption": "Cade Cunningham makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Ausar Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "04:20"
+            },
+            "caption": "Ausar Thompson dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Ausar Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:00"
+            },
+            "caption": "Ausar Thompson makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "07:20"
+            },
+            "caption": "Cade Cunningham holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "11:30"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Cade Cunningham",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "13:00"
+            },
+            "caption": "Cade Cunningham misses layup."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Naji Marshall",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:10"
+            },
+            "caption": "Naji Marshall gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Naji Marshall",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "15:30"
+            },
+            "caption": "Naji Marshall makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "16:20"
+            },
+            "caption": "P.J. Washington dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Steal",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "17:10"
+            },
+            "caption": "Cade Cunningham steals the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:10",
+                "end": "18:10"
+            },
+            "caption": "Cade Cunningham makes a pass."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "Dribble",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:10",
+                "end": "20:20"
+            },
+            "caption": "Jalen Duren dribbles the ball."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "PassBall",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:20",
+                "end": "21:00"
+            },
+            "caption": "Jalen Duren makes a pass."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "3ptShot",
+            "player": "Malik Beasley",
+            "result": "made",
+            "timestamp_video": {
+                "start": "21:00",
+                "end": "23:10"
+            },
+            "caption": "Malik Beasley makes 3-pt jump shot."
+        }
+    ]
+}

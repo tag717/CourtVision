@@ -1,0 +1,52 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_150_home_team(black)_attack_successed_2pt",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:40"
+            },
+            "caption": "Tre Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "02:50"
+            },
+            "caption": "Tre Jones makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Josh Richardson",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "05:20"
+            },
+            "caption": "Josh Richardson misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PutBack",
+            "player": "Keldon Johnson",
+            "result": "made",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:30"
+            },
+            "caption": "Keldon Johnson makes putback layup."
+        }
+    ]
+}

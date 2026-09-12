@@ -1,0 +1,140 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_115_home_team(yellow)_attack_failed",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Austin Reaves",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:40"
+            },
+            "caption": "Austin Reaves makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "LeBron James",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:10"
+            },
+            "caption": "LeBron James makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Dorian Finney-Smith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:00"
+            },
+            "caption": "Dorian Finney-Smith makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Rui Hachimura",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "04:40"
+            },
+            "caption": "Rui Hachimura makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "05:30"
+            },
+            "caption": "Luka Dončić makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Austin Reaves",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:40"
+            },
+            "caption": "Austin Reaves makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "11:50"
+            },
+            "caption": "Luka Dončić dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:50",
+                "end": "13:50"
+            },
+            "caption": "Luka Dončić makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "Austin Reaves",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "15:50"
+            },
+            "caption": "Austin Reaves misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "18:10"
+            },
+            "caption": "Mike Conley gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "20:00"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Dribble",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:40",
+                "end": "21:00"
+            },
+            "caption": "Julius Randle dribbles the ball."
+        }
+    ]
+}

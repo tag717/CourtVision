@@ -1,0 +1,41 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_122_home_team(white)_attack_befouled",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Larry Nance Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Larry Nance Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Larry Nance Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "03:40"
+            },
+            "caption": "Larry Nance Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Trey Murphy III",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "06:20"
+            },
+            "caption": "Trey Murphy III is fouled on a 3-pt shot attempt."
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_32_away_team(black)_attack_outside",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:10"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "06:20"
+            },
+            "caption": "Nikola Jokić holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:10"
+            },
+            "caption": "Nikola Jokić hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "11:20"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:10"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:00"
+            },
+            "caption": "Nikola Jokić makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "15:00"
+            },
+            "caption": "Kentavious Caldwell-Pope misses layup."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "OffensiveRebound",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "20:00"
+            },
+            "caption": "Nikola Jokić gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "20:20"
+            },
+            "caption": "Nikola Jokić turnover: pass out of bounds."
+        }
+    ]
+}

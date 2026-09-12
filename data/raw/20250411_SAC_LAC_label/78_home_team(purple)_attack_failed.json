@@ -1,0 +1,85 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_78_home_team(purple)_attack_failed",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "05:50"
+            },
+            "caption": "Zach LaVine dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Zach LaVine",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "07:40"
+            },
+            "caption": "Zach LaVine misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "OffensiveRebound",
+            "player": "Keon Ellis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:50"
+            },
+            "caption": "Keon Ellis gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Keon Ellis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "09:40"
+            },
+            "caption": "Keon Ellis hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:20"
+            },
+            "caption": "Zach LaVine dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Zach LaVine",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "12:00"
+            },
+            "caption": "Zach LaVine misses layup."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:00"
+            },
+            "caption": "James Harden gets the defensive rebound."
+        }
+    ]
+}

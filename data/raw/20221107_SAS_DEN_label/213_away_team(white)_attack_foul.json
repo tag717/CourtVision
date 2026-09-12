@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_213_away_team(white)_attack_foul",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:10"
+            },
+            "caption": "Nikola Jokić inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:10",
+                "end": "06:40"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Jamal Murray",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "08:50"
+            },
+            "caption": "Jamal Murray is fouled while holding the ball."
+        }
+    ]
+}

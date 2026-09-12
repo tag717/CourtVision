@@ -1,0 +1,184 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_155_away_team(white)_steal&fastbreak_failed",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "T.J. McConnell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:40"
+            },
+            "caption": "T.J. McConnell makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Bennedict Mathurin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "05:20"
+            },
+            "caption": "Bennedict Mathurin dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Bennedict Mathurin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:20"
+            },
+            "caption": "Bennedict Mathurin makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "08:00"
+            },
+            "caption": "T.J. McConnell makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Bennedict Mathurin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "11:20"
+            },
+            "caption": "Bennedict Mathurin dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Bennedict Mathurin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:20"
+            },
+            "caption": "Bennedict Mathurin makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "13:50"
+            },
+            "caption": "T.J. McConnell dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:50",
+                "end": "15:00"
+            },
+            "caption": "T.J. McConnell makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Hold",
+            "player": "Aaron Nesmith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "17:30"
+            },
+            "caption": "Aaron Nesmith holds the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Aaron Nesmith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:30",
+                "end": "18:00"
+            },
+            "caption": "Aaron Nesmith makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Dribble",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "19:30"
+            },
+            "caption": "T.J. McConnell dribbles the ball."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "PassBall",
+            "player": "T.J. McConnell",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "19:30",
+                "end": "22:00"
+            },
+            "caption": "T.J. McConnell turnover: bad pass."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "Hold",
+            "player": "Terrence Ross",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:00",
+                "end": "23:40"
+            },
+            "caption": "Terrence Ross holds the ball."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "Dribble",
+            "player": "Terrence Ross",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:40",
+                "end": "27:20"
+            },
+            "caption": "Terrence Ross dribbles the ball."
+        },
+        {
+            "event_id": "ev_16",
+            "event_label": "3ptShot",
+            "player": "Terrence Ross",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "27:20",
+                "end": "29:10"
+            },
+            "caption": "Terrence Ross misses 3-pt jump shot."
+        }
+    ]
+}

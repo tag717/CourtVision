@@ -1,0 +1,19 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_156_away_team(black)_attack_befouled",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Michael Porter Jr.",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:10"
+            },
+            "caption": "Michael Porter Jr. is fouled while dribbling."
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_165_away_team(white)_attack_timeout",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:20"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:20"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:20"
+            },
+            "caption": "Bruce Brown makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "10:40"
+            },
+            "caption": "Bones Hyland holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "18:20"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:20",
+                "end": "19:00"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "19:40"
+            },
+            "caption": "Michael Porter Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Michael Porter Jr.",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "19:40",
+                "end": "20:40"
+            },
+            "caption": "Michael Porter Jr. misses layup."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Block",
+            "player": "Charles Bassey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:20",
+                "end": "20:40"
+            },
+            "caption": "Charles Bassey blocks the shot."
+        }
+    ]
+}

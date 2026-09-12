@@ -1,0 +1,96 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_102_home_team(green)_attack_failed",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ryan Rollins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:20"
+            },
+            "caption": "Ryan Rollins dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Ryan Rollins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:00"
+            },
+            "caption": "Ryan Rollins makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "10:00"
+            },
+            "caption": "Giannis Antetokounmpo dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "10:30"
+            },
+            "caption": "Giannis Antetokounmpo makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Taurean Prince",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:20"
+            },
+            "caption": "Taurean Prince dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Taurean Prince",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "14:00"
+            },
+            "caption": "Taurean Prince misses layup."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "14:30"
+            },
+            "caption": "Devin Booker gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "15:40"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        }
+    ]
+}

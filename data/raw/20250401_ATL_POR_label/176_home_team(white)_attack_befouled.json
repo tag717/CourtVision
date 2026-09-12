@@ -1,0 +1,41 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_176_home_team(white)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Trae Young",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:50"
+            },
+            "caption": "Trae Young is fouled on a layup attempt."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Block",
+            "player": "Toumani Camara",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:50"
+            },
+            "caption": "Toumani Camara is called for a foul on a block attempt."
+        }
+    ]
+}

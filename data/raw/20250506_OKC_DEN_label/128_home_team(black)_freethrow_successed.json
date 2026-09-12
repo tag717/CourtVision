@@ -1,0 +1,19 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_128_home_team(black)_freethrow_successed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Chet Holmgren",
+            "result": "made",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "04:00"
+            },
+            "caption": "Chet Holmgren makes free throw."
+        }
+    ]
+}

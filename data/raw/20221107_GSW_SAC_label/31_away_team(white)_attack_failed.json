@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_31_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Davion Mitchell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "Davion Mitchell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Davion Mitchell",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "08:00"
+            },
+            "caption": "Davion Mitchell misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Keegan Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "08:50"
+            },
+            "caption": "Keegan Murray gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_151_away_team(white)_attack_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:20"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:10"
+            },
+            "caption": "Cade Cunningham makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "11:20"
+            },
+            "caption": "Isaiah Stewart makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "15:20"
+            },
+            "caption": "Tobias Harris dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Tobias Harris",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "17:00"
+            },
+            "caption": "Tobias Harris misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "18:30"
+            },
+            "caption": "Paul Reed gets the defensive rebound."
+        }
+    ]
+}

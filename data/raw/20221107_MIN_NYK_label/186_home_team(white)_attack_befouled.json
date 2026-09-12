@@ -1,0 +1,85 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_186_home_team(white)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "01:30"
+            },
+            "caption": "Naz Reid makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "D'Angelo Russell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "04:00"
+            },
+            "caption": "D'Angelo Russell dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "D'Angelo Russell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "04:50"
+            },
+            "caption": "D'Angelo Russell makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "07:00"
+            },
+            "caption": "Naz Reid dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:10"
+            },
+            "caption": "Naz Reid makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Taurean Prince",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "10:00"
+            },
+            "caption": "Taurean Prince is fouled while dribbling."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Taurean Prince",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:00"
+            },
+            "caption": "Taurean Prince makes a pass."
+        }
+    ]
+}

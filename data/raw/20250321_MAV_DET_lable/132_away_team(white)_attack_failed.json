@@ -1,0 +1,85 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_132_away_team(white)_attack_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "04:20"
+            },
+            "caption": "Cade Cunningham makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Malik Beasley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "07:00"
+            },
+            "caption": "Malik Beasley holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Malik Beasley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:30"
+            },
+            "caption": "Malik Beasley makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "13:20"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "2ptShot",
+            "player": "Cade Cunningham",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:20"
+            },
+            "caption": "Cade Cunningham misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "16:30"
+            },
+            "caption": "Klay Thompson gets the defensive rebound."
+        }
+    ]
+}

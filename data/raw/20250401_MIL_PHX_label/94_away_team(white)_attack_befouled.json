@@ -1,0 +1,52 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_94_away_team(white)_attack_befouled",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Collin Gillespie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Collin Gillespie dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Collin Gillespie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:40"
+            },
+            "caption": "Collin Gillespie makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "05:00"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Devin Booker",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:20"
+            },
+            "caption": "Devin Booker is fouled on a 3-pt shot attempt."
+        }
+    ]
+}

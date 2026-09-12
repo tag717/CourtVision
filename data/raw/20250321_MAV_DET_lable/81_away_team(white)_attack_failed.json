@@ -1,0 +1,85 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_81_away_team(white)_attack_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Tobias Harris dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:10"
+            },
+            "caption": "Tobias Harris makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "04:10"
+            },
+            "caption": "Jalen Duren dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "04:30"
+            },
+            "caption": "Jalen Duren makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "11:10"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Cade Cunningham",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:20"
+            },
+            "caption": "Cade Cunningham misses layup."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Kai Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "12:30"
+            },
+            "caption": "Kai Jones gets the defensive rebound."
+        }
+    ]
+}

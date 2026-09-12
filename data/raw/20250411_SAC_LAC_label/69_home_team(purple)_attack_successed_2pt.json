@@ -1,0 +1,173 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_69_home_team(purple)_attack_successed_2pt",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Devin Carter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Devin Carter makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:10"
+            },
+            "caption": "DeMar DeRozan makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "08:40"
+            },
+            "caption": "Zach LaVine dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:20"
+            },
+            "caption": "Zach LaVine hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Trey Lyles",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "11:10"
+            },
+            "caption": "Trey Lyles dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Trey Lyles",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:00"
+            },
+            "caption": "Trey Lyles makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "14:10"
+            },
+            "caption": "DeMar DeRozan dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "17:50"
+            },
+            "caption": "DeMar DeRozan makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Keon Ellis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:50",
+                "end": "18:40"
+            },
+            "caption": "Keon Ellis dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Keon Ellis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:40",
+                "end": "19:20"
+            },
+            "caption": "Keon Ellis makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "21:20"
+            },
+            "caption": "Domantas Sabonis dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:20",
+                "end": "21:50"
+            },
+            "caption": "Domantas Sabonis makes a pass."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "Dribble",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:50",
+                "end": "23:10"
+            },
+            "caption": "Zach LaVine dribbles the ball."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "2ptShot",
+            "player": "Zach LaVine",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "23:10",
+                "end": "25:30"
+            },
+            "caption": "Zach LaVine misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "Dunk",
+            "player": "Trey Lyles",
+            "result": "made",
+            "timestamp_video": {
+                "start": "25:30",
+                "end": "28:00"
+            },
+            "caption": "Trey Lyles makes dunk."
+        }
+    ]
+}

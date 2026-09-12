@@ -1,0 +1,74 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_157_away_team(blue)_attack_successed_2pt",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Josh Hart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "01:00"
+            },
+            "caption": "Josh Hart makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "06:50"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:30"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "11:40"
+            },
+            "caption": "Jalen Brunson makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "OG Anunoby",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:30"
+            },
+            "caption": "OG Anunoby dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "2ptShot",
+            "player": "OG Anunoby",
+            "result": "made",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "16:30"
+            },
+            "caption": "OG Anunoby makes 2-pt jump shot."
+        }
+    ]
+}

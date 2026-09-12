@@ -1,0 +1,74 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_65_away_team(blue)_attack_successed_3pt",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:10"
+            },
+            "caption": "Jaren Jackson Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:00"
+            },
+            "caption": "Jaren Jackson Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Luke Kennard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:20"
+            },
+            "caption": "Luke Kennard dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Luke Kennard",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "10:10"
+            },
+            "caption": "Luke Kennard misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Vince Williams Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "12:30"
+            },
+            "caption": "Vince Williams Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Desmond Bane",
+            "result": "made",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "15:00"
+            },
+            "caption": "Desmond Bane makes 3-pt jump shot."
+        }
+    ]
+}

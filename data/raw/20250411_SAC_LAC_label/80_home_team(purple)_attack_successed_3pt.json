@@ -1,0 +1,129 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_80_home_team(purple)_attack_successed_3pt",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:10"
+            },
+            "caption": "DeMar DeRozan dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "04:50"
+            },
+            "caption": "DeMar DeRozan makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "09:30"
+            },
+            "caption": "Domantas Sabonis dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:10"
+            },
+            "caption": "Domantas Sabonis makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "12:00"
+            },
+            "caption": "Zach LaVine makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Keon Ellis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:30"
+            },
+            "caption": "Keon Ellis holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Keon Ellis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:10"
+            },
+            "caption": "Keon Ellis makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "HandOff",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "15:00"
+            },
+            "caption": "Domantas Sabonis hands off the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Keon Ellis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "17:20"
+            },
+            "caption": "Keon Ellis dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Keon Ellis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "18:00"
+            },
+            "caption": "Keon Ellis makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "3ptShot",
+            "player": "Domantas Sabonis",
+            "result": "made",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "21:00"
+            },
+            "caption": "Domantas Sabonis makes 3-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_56_away_team(blue)_attack_outside",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Evan Fournier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:30"
+            },
+            "caption": "Evan Fournier dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Evan Fournier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "06:50"
+            },
+            "caption": "Evan Fournier makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Isaiah Hartenstein",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "09:10"
+            },
+            "caption": "Isaiah Hartenstein makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Derrick Rose",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "12:00"
+            },
+            "caption": "Derrick Rose dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Derrick Rose",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "14:00"
+            },
+            "caption": "Derrick Rose misses layup (out of bounds)."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_203_away_team(white)_attack_outside",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:10"
+            },
+            "caption": "Jalen Suggs dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "05:40"
+            },
+            "caption": "Jalen Suggs makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Franz Wagner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "10:10"
+            },
+            "caption": "Franz Wagner holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Franz Wagner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "16:10"
+            },
+            "caption": "Franz Wagner dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Franz Wagner",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "18:30"
+            },
+            "caption": "Franz Wagner misses 3-pt jump shot (out of bounds)."
+        }
+    ]
+}

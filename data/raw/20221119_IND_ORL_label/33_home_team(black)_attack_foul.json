@@ -1,0 +1,129 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_33_home_team(black)_attack_foul",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:30"
+            },
+            "caption": "T.J. McConnell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "03:40"
+            },
+            "caption": "T.J. McConnell hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Bennedict Mathurin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "05:10"
+            },
+            "caption": "Bennedict Mathurin makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Isaiah Jackson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:20"
+            },
+            "caption": "Isaiah Jackson dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "HandOff",
+            "player": "Isaiah Jackson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:00"
+            },
+            "caption": "Isaiah Jackson hands off the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:30"
+            },
+            "caption": "T.J. McConnell dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:20"
+            },
+            "caption": "T.J. McConnell makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Oshae Brissett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:20"
+            },
+            "caption": "Oshae Brissett makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Bennedict Mathurin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:50"
+            },
+            "caption": "Bennedict Mathurin dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Bennedict Mathurin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "12:40"
+            },
+            "caption": "Bennedict Mathurin makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "T.J. McConnell",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "14:00"
+            },
+            "caption": "T.J. McConnell turnover: lost ball."
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "video_id": "20240617_BOS_DAL",
+    "possession_id": "poss_192_home_team(green)_block&fastbreak_failed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "Jaden Hardy dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Jaden Hardy",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "04:30"
+            },
+            "caption": "Jaden Hardy misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Block",
+            "player": "Luke Kornet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "04:30"
+            },
+            "caption": "Luke Kornet blocks the shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Svi Mykhailiuk",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:30"
+            },
+            "caption": "Svi Mykhailiuk makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Payton Pritchard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "12:40"
+            },
+            "caption": "Payton Pritchard dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Payton Pritchard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "13:30"
+            },
+            "caption": "Payton Pritchard makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Sam Hauser",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "15:50"
+            },
+            "caption": "Sam Hauser misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Dwight Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "17:00"
+            },
+            "caption": "Dwight Powell gets the defensive rebound."
+        }
+    ]
+}

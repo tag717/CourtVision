@@ -1,0 +1,30 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_206_home_team(white)_attack_outside",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mouhamed Gueye",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:40"
+            },
+            "caption": "Mouhamed Gueye dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Mouhamed Gueye",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "03:10"
+            },
+            "caption": "Mouhamed Gueye turnover: pass out of bounds."
+        }
+    ]
+}

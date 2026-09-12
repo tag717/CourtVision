@@ -1,0 +1,63 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_126_away_team(black)_steal&fastbreak_failed",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Justin Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:10"
+            },
+            "caption": "Justin Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "Justin Champagnie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "04:30"
+            },
+            "caption": "Justin Champagnie steals the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Justin Champagnie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "07:30"
+            },
+            "caption": "Justin Champagnie dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Justin Champagnie",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "09:10"
+            },
+            "caption": "Justin Champagnie misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Justin Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "09:30"
+            },
+            "caption": "Justin Edwards gets the defensive rebound."
+        }
+    ]
+}

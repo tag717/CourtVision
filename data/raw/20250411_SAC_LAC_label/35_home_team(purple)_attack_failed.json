@@ -1,0 +1,118 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_35_home_team(purple)_attack_failed",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Zach LaVine makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Devin Carter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "07:30"
+            },
+            "caption": "Devin Carter dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "Devin Carter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:40"
+            },
+            "caption": "Devin Carter hands off the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "14:30"
+            },
+            "caption": "DeMar DeRozan dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "15:40"
+            },
+            "caption": "DeMar DeRozan makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Devin Carter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "16:50"
+            },
+            "caption": "Devin Carter dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Devin Carter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:50",
+                "end": "17:30"
+            },
+            "caption": "Devin Carter makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:30",
+                "end": "19:20"
+            },
+            "caption": "DeMar DeRozan dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "2ptShot",
+            "player": "DeMar DeRozan",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "21:50"
+            },
+            "caption": "DeMar DeRozan misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:50",
+                "end": "23:00"
+            },
+            "caption": "Kawhi Leonard gets the defensive rebound."
+        }
+    ]
+}

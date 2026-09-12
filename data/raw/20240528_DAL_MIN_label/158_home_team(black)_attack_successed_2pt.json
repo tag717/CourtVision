@@ -1,0 +1,63 @@
+{
+    "video_id": "20240528_DAL_MIN",
+    "possession_id": "poss_158_home_team(black)_attack_successed_2pt",
+    "home_team": "DAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "10:10"
+            },
+            "caption": "Luka Dončić dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:10"
+            },
+            "caption": "Luka Dončić makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Derrick Jones Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "13:20"
+            },
+            "caption": "Derrick Jones Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Derrick Jones Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:00"
+            },
+            "caption": "Derrick Jones Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dunk",
+            "player": "Daniel Gafford",
+            "result": "made",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "15:00"
+            },
+            "caption": "Daniel Gafford makes dunk."
+        }
+    ]
+}

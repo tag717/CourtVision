@@ -1,0 +1,63 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_81_away_team(blue)_attack_failed",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cameron Payne",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:30"
+            },
+            "caption": "Cameron Payne dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cameron Payne",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:10"
+            },
+            "caption": "Cameron Payne makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Karl-Anthony Towns",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "07:20"
+            },
+            "caption": "Karl-Anthony Towns misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:50"
+            },
+            "caption": "Dennis Schröder gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:00"
+            },
+            "caption": "Dennis Schröder dribbles the ball."
+        }
+    ]
+}

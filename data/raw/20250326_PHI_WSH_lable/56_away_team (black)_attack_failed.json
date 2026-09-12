@@ -1,0 +1,96 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_56_away_team (black)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bub Carrington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Bub Carrington dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bub Carrington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:10"
+            },
+            "caption": "Bub Carrington makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Colby Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "05:00"
+            },
+            "caption": "Colby Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Colby Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:20"
+            },
+            "caption": "Colby Jones makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Tristan Vukcevic",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "07:10"
+            },
+            "caption": "Tristan Vukcevic misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "OffensiveRebound",
+            "player": "JT Thor",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:40"
+            },
+            "caption": "JT Thor gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "JT Thor",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:30"
+            },
+            "caption": "JT Thor makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Steal",
+            "player": "Ricky Council IV",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "09:40"
+            },
+            "caption": "Ricky Council IV steals the ball."
+        }
+    ]
+}

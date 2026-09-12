@@ -1,0 +1,19 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_196_home_team(blue)_freethrow_successed",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Hamidou Diallo",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:50"
+            },
+            "caption": "Hamidou Diallo makes free throw."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_148_away_team(white)_attack_timeout",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "Dillon Brooks inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Alperen Şengün",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "07:00"
+            },
+            "caption": "Alperen Şengün dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Alperen Şengün",
+            "result": "made",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "09:00"
+            },
+            "caption": "Alperen Şengün makes layup."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PutBack",
+            "player": "Amen Thompson",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:40"
+            },
+            "caption": "Amen Thompson misses putback layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PutBack",
+            "player": "Alperen Şengün",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "11:00"
+            },
+            "caption": "Alperen Şengün misses putback layup."
+        }
+    ]
+}

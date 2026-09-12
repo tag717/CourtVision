@@ -1,0 +1,30 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_52_home_team(white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Trae Young inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Terance Mann",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "05:10"
+            },
+            "caption": "Terance Mann misses 3-pt jump shot."
+        }
+    ]
+}

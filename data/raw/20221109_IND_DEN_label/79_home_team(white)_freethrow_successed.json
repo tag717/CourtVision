@@ -1,0 +1,19 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_79_home_team(white)_freethrow_successed",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Myles Turner",
+            "result": "made",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:10"
+            },
+            "caption": "Myles Turner makes free throw."
+        }
+    ]
+}

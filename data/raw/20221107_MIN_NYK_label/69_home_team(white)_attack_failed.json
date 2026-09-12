@@ -1,0 +1,85 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_69_home_team(white)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Jordan McLaughlin dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "05:00"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:40"
+            },
+            "caption": "Anthony Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jaylen Nowell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "07:00"
+            },
+            "caption": "Jaylen Nowell dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jaylen Nowell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:50"
+            },
+            "caption": "Jaylen Nowell makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Jordan McLaughlin",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "11:30"
+            },
+            "caption": "Jordan McLaughlin misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "13:00"
+            },
+            "caption": "Jalen Brunson gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_195_home_team(white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Vit Krejci",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Vit Krejci dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Vit Krejci",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "03:40"
+            },
+            "caption": "Vit Krejci makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "04:20"
+            },
+            "caption": "Trae Young makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "07:10"
+            },
+            "caption": "Dyson Daniels holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:10"
+            },
+            "caption": "Dyson Daniels makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Onyeka Okongwu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "08:50"
+            },
+            "caption": "Onyeka Okongwu dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Onyeka Okongwu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:00"
+            },
+            "caption": "Onyeka Okongwu makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Hold",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:30"
+            },
+            "caption": "Trae Young holds the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "12:10"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Layup",
+            "player": "Trae Young",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "14:00"
+            },
+            "caption": "Trae Young misses layup."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "DefensiveRebound",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "14:10"
+            },
+            "caption": "Deni Avdija gets the defensive rebound."
+        }
+    ]
+}

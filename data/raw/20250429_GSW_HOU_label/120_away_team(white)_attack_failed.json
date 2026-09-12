@@ -1,0 +1,52 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_120_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Dillon Brooks makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "08:20"
+            },
+            "caption": "Fred VanVleet holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Fred VanVleet",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "11:30"
+            },
+            "caption": "Fred VanVleet turnover: lost ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "14:00"
+            },
+            "caption": "Buddy Hield dribbles the ball."
+        }
+    ]
+}

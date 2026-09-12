@@ -1,0 +1,140 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_49_home_team(blue)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ty Jerome",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Ty Jerome dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Ty Jerome",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "04:50"
+            },
+            "caption": "Ty Jerome makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Anthony Lamb",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "05:20"
+            },
+            "caption": "Anthony Lamb dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Anthony Lamb",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "05:50"
+            },
+            "caption": "Anthony Lamb makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Ty Jerome",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "07:00"
+            },
+            "caption": "Ty Jerome dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Ty Jerome",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:00"
+            },
+            "caption": "Ty Jerome makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "11:00"
+            },
+            "caption": "Klay Thompson dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:00"
+            },
+            "caption": "Klay Thompson makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Ty Jerome",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:10"
+            },
+            "caption": "Ty Jerome dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Ty Jerome",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "13:40"
+            },
+            "caption": "Ty Jerome makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Layup",
+            "player": "Anthony Lamb",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "14:40"
+            },
+            "caption": "Anthony Lamb misses layup."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "DefensiveRebound",
+            "player": "Chimezie Metu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "15:50"
+            },
+            "caption": "Chimezie Metu gets the defensive rebound."
+        }
+    ]
+}

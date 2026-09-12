@@ -1,0 +1,52 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_17_home_team(purple)_attack_failed",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "07:00"
+            },
+            "caption": "DeMar DeRozan dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:20"
+            },
+            "caption": "DeMar DeRozan makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "2ptShot",
+            "player": "Domantas Sabonis",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "10:40"
+            },
+            "caption": "Domantas Sabonis misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Ivica Zubac",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "12:00"
+            },
+            "caption": "Ivica Zubac gets the defensive rebound."
+        }
+    ]
+}

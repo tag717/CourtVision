@@ -1,0 +1,52 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_181_home_team(blue)_attack_outside",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Spencer Dinwiddie dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:00"
+            },
+            "caption": "Spencer Dinwiddie makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Christian Wood",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:40"
+            },
+            "caption": "Christian Wood dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Christian Wood",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "08:20"
+            },
+            "caption": "Christian Wood misses 3-pt jump shot (out of bounds)."
+        }
+    ]
+}

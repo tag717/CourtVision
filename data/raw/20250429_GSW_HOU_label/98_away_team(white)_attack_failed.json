@@ -1,0 +1,41 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_98_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "10:10"
+            },
+            "caption": "Jalen Green dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Jalen Green",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "12:30"
+            },
+            "caption": "Jalen Green misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "14:00"
+            },
+            "caption": "Buddy Hield gets the defensive rebound."
+        }
+    ]
+}

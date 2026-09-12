@@ -1,0 +1,41 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_167_home_team(black)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "A.J. Lawson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "A.J. Lawson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "A.J. Lawson",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "03:00"
+            },
+            "caption": "A.J. Lawson misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Oshae Brissett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:00"
+            },
+            "caption": "Oshae Brissett gets the defensive rebound."
+        }
+    ]
+}

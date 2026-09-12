@@ -1,0 +1,41 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_15_away_team (blue)_attack_failed",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:50"
+            },
+            "caption": "Shai Gilgeous-Alexander dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "07:00"
+            },
+            "caption": "Shai Gilgeous-Alexander misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Steven Adams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:20"
+            },
+            "caption": "Steven Adams gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_107_home_team(blue)_steal&fastbreak_successed_2pt",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:30"
+            },
+            "caption": "Ja Morant dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:50"
+            },
+            "caption": "Ja Morant makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "John Konchar",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "08:00"
+            },
+            "caption": "John Konchar turnover: bad pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Steal",
+            "player": "Jaden Ivey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:30"
+            },
+            "caption": "Jaden Ivey steals the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Marvin Bagley III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:10"
+            },
+            "caption": "Marvin Bagley III dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Marvin Bagley III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "09:40"
+            },
+            "caption": "Marvin Bagley III makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Killian Hayes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "16:00"
+            },
+            "caption": "Killian Hayes dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Killian Hayes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "16:50"
+            },
+            "caption": "Killian Hayes makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:50",
+                "end": "19:00"
+            },
+            "caption": "Isaiah Stewart makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Hold",
+            "player": "Marvin Bagley III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "20:20"
+            },
+            "caption": "Marvin Bagley III holds the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Marvin Bagley III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:20",
+                "end": "21:50"
+            },
+            "caption": "Marvin Bagley III dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Layup",
+            "player": "Marvin Bagley III",
+            "result": "made",
+            "timestamp_video": {
+                "start": "21:50",
+                "end": "23:10"
+            },
+            "caption": "Marvin Bagley III makes layup."
+        }
+    ]
+}

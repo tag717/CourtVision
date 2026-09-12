@@ -1,0 +1,151 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_33_away_team(black)_block&fastbreak_successed_2pt",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "01:20"
+            },
+            "caption": "Tyrese Haliburton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:00"
+            },
+            "caption": "Buddy Hield hands off the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "05:10"
+            },
+            "caption": "Tyrese Haliburton holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "08:00"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "08:20"
+            },
+            "caption": "Tyrese Haliburton makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Jalen Smith",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:20"
+            },
+            "caption": "Jalen Smith misses layup."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Block",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:00"
+            },
+            "caption": "Aaron Gordon blocks the shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:40"
+            },
+            "caption": "Aaron Gordon dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "12:10"
+            },
+            "caption": "Aaron Gordon makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:30"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Layup",
+            "player": "Jamal Murray",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "15:20"
+            },
+            "caption": "Jamal Murray misses layup."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "PutBack",
+            "player": "Aaron Gordon",
+            "result": "made",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "16:00"
+            },
+            "caption": "Aaron Gordon makes putback layup."
+        }
+    ]
+}

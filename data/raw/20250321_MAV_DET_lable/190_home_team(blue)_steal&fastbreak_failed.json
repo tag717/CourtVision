@@ -1,0 +1,107 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_190_home_team(blue)_steal&fastbreak_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "10:20"
+            },
+            "caption": "Dennis Schröder dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:00"
+            },
+            "caption": "Dennis Schröder makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Isaiah Stewart",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:00"
+            },
+            "caption": "Isaiah Stewart turnover: lost ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Steal",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:00"
+            },
+            "caption": "Spencer Dinwiddie steals the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:20"
+            },
+            "caption": "Spencer Dinwiddie makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "17:00"
+            },
+            "caption": "P.J. Washington dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "17:20"
+            },
+            "caption": "P.J. Washington makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Klay Thompson",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "21:00"
+            },
+            "caption": "Klay Thompson misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:00",
+                "end": "22:00"
+            },
+            "caption": "Isaiah Stewart gets the defensive rebound."
+        }
+    ]
+}

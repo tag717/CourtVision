@@ -1,0 +1,41 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_99_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Layup",
+            "player": "Bruce Brown",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:40"
+            },
+            "caption": "Bruce Brown misses layup."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "DefensiveRebound",
+            "player": "Christian Wood",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "06:20"
+            },
+            "caption": "Christian Wood gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "Christian Wood",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:20"
+            },
+            "caption": "Christian Wood hands off the ball."
+        }
+    ]
+}

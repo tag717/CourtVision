@@ -1,0 +1,74 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_25_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Davion Mitchell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:40"
+            },
+            "caption": "Davion Mitchell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Davion Mitchell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:40"
+            },
+            "caption": "Davion Mitchell makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Kevin Huerter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:50"
+            },
+            "caption": "Kevin Huerter dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Kevin Huerter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "08:10"
+            },
+            "caption": "Kevin Huerter makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Domantas Sabonis",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "09:10"
+            },
+            "caption": "Domantas Sabonis misses layup."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Kevon Looney",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:30"
+            },
+            "caption": "Kevon Looney gets the defensive rebound."
+        }
+    ]
+}

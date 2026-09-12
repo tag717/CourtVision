@@ -1,0 +1,140 @@
+{
+    "video_id": "20240609_BOS_DAL",
+    "possession_id": "poss_46_away_team(white)_attack_failed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Josh Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:10"
+            },
+            "caption": "Josh Green dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Josh Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:00"
+            },
+            "caption": "Josh Green makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "08:00"
+            },
+            "caption": "Kyrie Irving holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:50"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "10:40"
+            },
+            "caption": "Kyrie Irving makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "13:10"
+            },
+            "caption": "P.J. Washington dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "15:10"
+            },
+            "caption": "P.J. Washington makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Josh Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "16:00"
+            },
+            "caption": "Josh Green makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Maxi Kleber",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "18:00"
+            },
+            "caption": "Maxi Kleber dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Maxi Kleber",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "18:40"
+            },
+            "caption": "Maxi Kleber makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "HandOff",
+            "player": "Daniel Gafford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:40",
+                "end": "20:00"
+            },
+            "caption": "Daniel Gafford hands off the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "3ptShot",
+            "player": "Maxi Kleber",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "22:20"
+            },
+            "caption": "Maxi Kleber misses 3-pt jump shot."
+        }
+    ]
+}

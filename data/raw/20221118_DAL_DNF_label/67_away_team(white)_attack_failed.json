@@ -1,0 +1,74 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_67_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:20"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "06:30"
+            },
+            "caption": "Bones Hyland hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "08:40"
+            },
+            "caption": "Kentavious Caldwell-Pope dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "2ptShot",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "10:30"
+            },
+            "caption": "Kentavious Caldwell-Pope misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "JaVale McGee",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "12:10"
+            },
+            "caption": "JaVale McGee gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "JaVale McGee",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "12:30"
+            },
+            "caption": "JaVale McGee makes a pass."
+        }
+    ]
+}

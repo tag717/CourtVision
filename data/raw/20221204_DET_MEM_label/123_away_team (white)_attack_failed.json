@@ -1,0 +1,107 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_123_away_team (white)_attack_failed",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:20"
+            },
+            "caption": "Ja Morant dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:50"
+            },
+            "caption": "Ja Morant makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "07:10"
+            },
+            "caption": "Dillon Brooks dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:20"
+            },
+            "caption": "Dillon Brooks makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "John Konchar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:20"
+            },
+            "caption": "John Konchar dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "John Konchar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:00"
+            },
+            "caption": "John Konchar makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:20"
+            },
+            "caption": "Dillon Brooks dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "2ptShot",
+            "player": "Dillon Brooks",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "14:00"
+            },
+            "caption": "Dillon Brooks misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "15:10"
+            },
+            "caption": "Jalen Duren gets the defensive rebound."
+        }
+    ]
+}

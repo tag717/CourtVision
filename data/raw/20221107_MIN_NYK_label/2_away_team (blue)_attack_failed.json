@@ -1,0 +1,85 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_2_away_team (blue)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:20"
+            },
+            "caption": "Naz Reid dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "06:50"
+            },
+            "caption": "Naz Reid makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Nickeil Alexander-Walker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "08:30"
+            },
+            "caption": "Nickeil Alexander-Walker dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Nickeil Alexander-Walker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:30"
+            },
+            "caption": "Nickeil Alexander-Walker makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Jalen Brunson",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "12:00"
+            },
+            "caption": "Jalen Brunson misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:30"
+            },
+            "caption": "Karl-Anthony Towns gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:00"
+            },
+            "caption": "Karl-Anthony Towns makes a pass."
+        }
+    ]
+}

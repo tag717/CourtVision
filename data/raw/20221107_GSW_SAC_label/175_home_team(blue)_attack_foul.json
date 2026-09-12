@@ -1,0 +1,74 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_175_home_team(blue)_attack_foul",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Klay Thompson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "03:00"
+            },
+            "caption": "Klay Thompson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Anthony Lamb",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "03:50"
+            },
+            "caption": "Anthony Lamb makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:20"
+            },
+            "caption": "Draymond Green hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Jordan Poole",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:00"
+            },
+            "caption": "Jordan Poole holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Jordan Poole",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "08:10"
+            },
+            "caption": "Jordan Poole is fouled while dribbling."
+        }
+    ]
+}

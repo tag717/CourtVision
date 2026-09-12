@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_188_away_team(white)_attack_befouled",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Nikola Jokić dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:10"
+            },
+            "caption": "Nikola Jokić makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "13:10"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "video_id": "20240612_DAL_BOS",
+    "possession_id": "poss_170_away_team(white)_attack_foul",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Jaylen Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:10"
+            },
+            "caption": "Jaylen Brown makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Al Horford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:10"
+            },
+            "caption": "Al Horford dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Al Horford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "03:30"
+            },
+            "caption": "Al Horford makes a pass."
+        }
+    ]
+}

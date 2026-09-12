@@ -1,0 +1,140 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_118_home_team(black)_attack_failed",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "Jaren Jackson Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:40"
+            },
+            "caption": "Jaren Jackson Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "John Konchar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "05:00"
+            },
+            "caption": "John Konchar dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "John Konchar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:00"
+            },
+            "caption": "John Konchar makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:20"
+            },
+            "caption": "Jaren Jackson Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "13:00"
+            },
+            "caption": "Ja Morant dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "2ptShot",
+            "player": "Ja Morant",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:30"
+            },
+            "caption": "Ja Morant misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Josh Giddey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "15:20"
+            },
+            "caption": "Josh Giddey gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "nan",
+            "player": "Unknown Player",
+            "result": "nan",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:00"
+            },
+            "caption": "Unknown Player unknown play."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "nan",
+            "player": "Unknown Player",
+            "result": "nan",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:00"
+            },
+            "caption": "Unknown Player unknown play."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "nan",
+            "player": "Unknown Player",
+            "result": "nan",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:00"
+            },
+            "caption": "Unknown Player unknown play."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "nan",
+            "player": "s",
+            "result": "nan",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:00"
+            },
+            "caption": "s unknown play."
+        }
+    ]
+}

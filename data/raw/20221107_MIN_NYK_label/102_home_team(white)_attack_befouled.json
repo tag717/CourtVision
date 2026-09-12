@@ -1,0 +1,52 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_102_home_team(white)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "D'Angelo Russell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:20"
+            },
+            "caption": "D'Angelo Russell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "D'Angelo Russell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:00"
+            },
+            "caption": "D'Angelo Russell makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:30"
+            },
+            "caption": "Karl-Anthony Towns makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Taurean Prince",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "10:00"
+            },
+            "caption": "Taurean Prince misses 3-pt jump shot."
+        }
+    ]
+}

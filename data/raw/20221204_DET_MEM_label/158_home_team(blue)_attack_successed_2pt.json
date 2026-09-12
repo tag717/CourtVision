@@ -1,0 +1,140 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_158_home_team(blue)_attack_successed_2pt",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:30"
+            },
+            "caption": "Isaiah Stewart makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "03:00"
+            },
+            "caption": "Cory Joseph dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "03:50"
+            },
+            "caption": "Cory Joseph makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:50"
+            },
+            "caption": "Isaiah Stewart dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "HandOff",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "05:10"
+            },
+            "caption": "Isaiah Stewart hands off the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Alec Burks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:00"
+            },
+            "caption": "Alec Burks dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Alec Burks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:00"
+            },
+            "caption": "Alec Burks makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Saddiq Bey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:00"
+            },
+            "caption": "Saddiq Bey dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Saddiq Bey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "10:40"
+            },
+            "caption": "Saddiq Bey makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Hamidou Diallo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "12:10"
+            },
+            "caption": "Hamidou Diallo dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Layup",
+            "player": "Hamidou Diallo",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:30"
+            },
+            "caption": "Hamidou Diallo misses layup."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PutBack",
+            "player": "Hamidou Diallo",
+            "result": "made",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "15:00"
+            },
+            "caption": "Hamidou Diallo makes putback layup."
+        }
+    ]
+}

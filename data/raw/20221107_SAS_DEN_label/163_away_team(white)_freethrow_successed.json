@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_163_away_team(white)_freethrow_successed",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Bones Hyland",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:40"
+            },
+            "caption": "Bones Hyland makes free throw."
+        }
+    ]
+}

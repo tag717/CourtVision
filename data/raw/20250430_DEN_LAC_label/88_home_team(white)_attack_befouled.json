@@ -1,0 +1,85 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_88_home_team(white)_attack_befouled",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:20"
+            },
+            "caption": "Nikola Jokić dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:50"
+            },
+            "caption": "Nikola Jokić makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Russell Westbrook",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "08:30"
+            },
+            "caption": "Russell Westbrook misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "OffensiveRebound",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "10:50"
+            },
+            "caption": "Unknown Player gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "12:10"
+            },
+            "caption": "Christian Braun makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "18:30"
+            },
+            "caption": "Aaron Gordon holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:30",
+                "end": "20:10"
+            },
+            "caption": "Aaron Gordon makes a pass."
+        }
+    ]
+}

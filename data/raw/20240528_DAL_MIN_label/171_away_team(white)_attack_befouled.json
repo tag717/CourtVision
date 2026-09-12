@@ -1,0 +1,52 @@
+{
+    "video_id": "20240528_DAL_MIN",
+    "possession_id": "poss_171_away_team(white)_attack_befouled",
+    "home_team": "DAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:00"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "10:10"
+            },
+            "caption": "Karl-Anthony Towns holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Karl-Anthony Towns",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "13:00"
+            },
+            "caption": "Karl-Anthony Towns is fouled while dribbling."
+        }
+    ]
+}

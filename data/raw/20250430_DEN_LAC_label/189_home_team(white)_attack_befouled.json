@@ -1,0 +1,96 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_189_home_team(white)_attack_befouled",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Hunter Tyson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Hunter Tyson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Hunter Tyson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:10"
+            },
+            "caption": "Hunter Tyson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Julian Strawther",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:10"
+            },
+            "caption": "Julian Strawther dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Julian Strawther",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:50"
+            },
+            "caption": "Julian Strawther makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Hunter Tyson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "06:40"
+            },
+            "caption": "Hunter Tyson holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Hunter Tyson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "09:10"
+            },
+            "caption": "Hunter Tyson dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Hunter Tyson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "09:50"
+            },
+            "caption": "Hunter Tyson makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Zeke Nnaji",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "13:00"
+            },
+            "caption": "Zeke Nnaji misses 3-pt jump shot."
+        }
+    ]
+}

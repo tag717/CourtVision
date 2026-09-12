@@ -1,0 +1,74 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_85_away_team(blue)_attack_failed",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "02:30"
+            },
+            "caption": "Mikal Bridges dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "03:20"
+            },
+            "caption": "Mikal Bridges makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:10"
+            },
+            "caption": "Jalen Brunson makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "10:20"
+            },
+            "caption": "Karl-Anthony Towns dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Karl-Anthony Towns",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "12:20"
+            },
+            "caption": "Karl-Anthony Towns misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Ron Holland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "13:30"
+            },
+            "caption": "Ron Holland gets the defensive rebound."
+        }
+    ]
+}

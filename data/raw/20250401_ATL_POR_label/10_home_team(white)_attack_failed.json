@@ -1,0 +1,85 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_10_home_team(white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:30"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:20"
+            },
+            "caption": "Trae Young makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:10"
+            },
+            "caption": "Dyson Daniels dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:20"
+            },
+            "caption": "Dyson Daniels makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Mouhamed Gueye",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:00"
+            },
+            "caption": "Mouhamed Gueye makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Zaccharie Risacher",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:40"
+            },
+            "caption": "Zaccharie Risacher misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Donovan Clingan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:00"
+            },
+            "caption": "Donovan Clingan gets the defensive rebound."
+        }
+    ]
+}

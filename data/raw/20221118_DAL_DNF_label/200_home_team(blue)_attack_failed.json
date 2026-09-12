@@ -1,0 +1,96 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_200_home_team(blue)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:30"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:00"
+            },
+            "caption": "Kyrie Irving makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "Dāvis Bertāns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:30"
+            },
+            "caption": "Dāvis Bertāns hands off the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "09:40"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:20"
+            },
+            "caption": "Kyrie Irving makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Dāvis Bertāns",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "12:50"
+            },
+            "caption": "Dāvis Bertāns misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:50",
+                "end": "14:00"
+            },
+            "caption": "Christian Braun gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "15:00"
+            },
+            "caption": "Christian Braun dribbles the ball."
+        }
+    ]
+}

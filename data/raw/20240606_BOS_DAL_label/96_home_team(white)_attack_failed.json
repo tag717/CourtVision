@@ -1,0 +1,85 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_96_home_team(white)_attack_failed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "18:30"
+            },
+            "caption": "Jaylen Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:30",
+                "end": "19:00"
+            },
+            "caption": "Jaylen Brown hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "20:30"
+            },
+            "caption": "Jayson Tatum dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Jayson Tatum",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "20:30",
+                "end": "22:50"
+            },
+            "caption": "Jayson Tatum misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "OffensiveRebound",
+            "player": "Kristaps Porzi艈模is",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:50",
+                "end": "23:00"
+            },
+            "caption": "Kristaps Porzi艈模is gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Kristaps Porzi艈模is",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "23:00",
+                "end": "26:00"
+            },
+            "caption": "Kristaps Porzi艈模is turnover: bad pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Steal",
+            "player": "Josh Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "24:00",
+                "end": "25:20"
+            },
+            "caption": "Josh Green steals the ball."
+        }
+    ]
+}

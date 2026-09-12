@@ -1,0 +1,74 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_153_away_team (black)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bub Carrington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Bub Carrington dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bub Carrington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:00"
+            },
+            "caption": "Bub Carrington makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Colby Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "05:10"
+            },
+            "caption": "Colby Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Colby Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "05:30"
+            },
+            "caption": "Colby Jones makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Tristan Vukcevic",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "07:20"
+            },
+            "caption": "Tristan Vukcevic misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Marcus Bagley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:30"
+            },
+            "caption": "Marcus Bagley gets the defensive rebound."
+        }
+    ]
+}

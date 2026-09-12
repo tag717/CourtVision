@@ -1,0 +1,118 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_177_away_team(black)_attack_foul",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Shaedon Sharp",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:20"
+            },
+            "caption": "Shaedon Sharp dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Shaedon Sharp",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:10"
+            },
+            "caption": "Shaedon Sharp makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Donovan Clingan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "07:10"
+            },
+            "caption": "Donovan Clingan dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Donovan Clingan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "07:30"
+            },
+            "caption": "Donovan Clingan hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "09:10"
+            },
+            "caption": "Deni Avdija dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "11:00"
+            },
+            "caption": "Deni Avdija makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Hold",
+            "player": "Shaedon Sharp",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "13:30"
+            },
+            "caption": "Shaedon Sharp holds the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Shaedon Sharp",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:00"
+            },
+            "caption": "Shaedon Sharp dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "Shaedon Sharp",
+            "result": "made",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "16:20"
+            },
+            "caption": "Shaedon Sharp makes 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "OffensiveRebound",
+            "player": "Kris Murray",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "17:00"
+            },
+            "caption": "Kris Murray is fouled on an offensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_38_home_team(black)_attack_failed",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "David Roddy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "David Roddy makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "06:50"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "07:00"
+            },
+            "caption": "Tyus Jones makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:30"
+            },
+            "caption": "Ja Morant makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "David Roddy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "10:30"
+            },
+            "caption": "David Roddy makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "12:20"
+            },
+            "caption": "Ja Morant makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "David Roddy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "13:00"
+            },
+            "caption": "David Roddy makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Tyus Jones",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "15:20"
+            },
+            "caption": "Tyus Jones misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "OffensiveRebound",
+            "player": "Santi Aldama",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "15:40"
+            },
+            "caption": "Santi Aldama gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Santi Aldama",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "16:30"
+            },
+            "caption": "Santi Aldama makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "3ptShot",
+            "player": "Ja Morant",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "18:20"
+            },
+            "caption": "Ja Morant misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "DefensiveRebound",
+            "player": "Jeremiah Robinson-Earl",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:20",
+                "end": "19:30"
+            },
+            "caption": "Jeremiah Robinson-Earl gets the defensive rebound."
+        }
+    ]
+}

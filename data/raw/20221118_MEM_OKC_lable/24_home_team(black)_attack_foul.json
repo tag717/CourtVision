@@ -1,0 +1,30 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_24_home_team(black)_attack_foul",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Dillon Brooks inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "04:40"
+            },
+            "caption": "Ja Morant is fouled while dribbling."
+        }
+    ]
+}

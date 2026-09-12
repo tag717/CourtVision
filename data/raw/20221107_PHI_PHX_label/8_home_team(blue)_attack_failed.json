@@ -1,0 +1,107 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_8_home_team(blue)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "De'Anthony Melton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "De'Anthony Melton makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Joel Embiid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "03:10"
+            },
+            "caption": "Joel Embiid dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Joel Embiid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:00"
+            },
+            "caption": "Joel Embiid makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "06:30"
+            },
+            "caption": "Tyrese Maxey holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:40"
+            },
+            "caption": "Tyrese Maxey dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:20"
+            },
+            "caption": "Tyrese Maxey makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Joel Embiid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:10"
+            },
+            "caption": "Joel Embiid makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Tobias Harris",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "11:10"
+            },
+            "caption": "Tobias Harris misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "13:00"
+            },
+            "caption": "Devin Booker gets the defensive rebound."
+        }
+    ]
+}

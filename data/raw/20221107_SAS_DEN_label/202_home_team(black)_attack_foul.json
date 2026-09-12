@@ -1,0 +1,118 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_202_home_team(black)_attack_foul",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:00"
+            },
+            "caption": "Tre Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:40"
+            },
+            "caption": "Tre Jones makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "07:50"
+            },
+            "caption": "Devin Vassell dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "08:50"
+            },
+            "caption": "Devin Vassell holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "09:40"
+            },
+            "caption": "Devin Vassell makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Jeremy Sochan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "11:40"
+            },
+            "caption": "Jeremy Sochan dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Jeremy Sochan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "12:30"
+            },
+            "caption": "Jeremy Sochan makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Keldon Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "15:10"
+            },
+            "caption": "Keldon Johnson dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Keldon Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "15:50"
+            },
+            "caption": "Keldon Johnson makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Tre Jones",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "16:50"
+            },
+            "caption": "Tre Jones is fouled while dribbling."
+        }
+    ]
+}

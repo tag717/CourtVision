@@ -1,0 +1,41 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_200_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "17:00"
+            },
+            "caption": "Shaedon Sharpe dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Shaedon Sharpe",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "19:20"
+            },
+            "caption": "Shaedon Sharpe misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Mouhamed Gueye",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "20:00"
+            },
+            "caption": "Mouhamed Gueye gets the defensive rebound."
+        }
+    ]
+}

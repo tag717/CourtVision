@@ -1,0 +1,41 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_142_away_team(white)_attack_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:20"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Cade Cunningham",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "11:10"
+            },
+            "caption": "Cade Cunningham misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "11:30"
+            },
+            "caption": "Spencer Dinwiddie gets the defensive rebound."
+        }
+    ]
+}

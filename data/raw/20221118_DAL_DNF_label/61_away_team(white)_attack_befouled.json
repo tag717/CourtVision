@@ -1,0 +1,41 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_61_away_team(white)_attack_befouled",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Bruce Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:20"
+            },
+            "caption": "Bruce Brown makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Zeke Nnaji",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "06:30"
+            },
+            "caption": "Zeke Nnaji is fouled while holding the ball."
+        }
+    ]
+}

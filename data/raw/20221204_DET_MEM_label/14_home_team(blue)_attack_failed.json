@@ -1,0 +1,52 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_14_home_team(blue)_attack_failed",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaden Ivey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:30"
+            },
+            "caption": "Jaden Ivey dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jaden Ivey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:20"
+            },
+            "caption": "Jaden Ivey makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Isaiah Stewart",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "07:00"
+            },
+            "caption": "Isaiah Stewart misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:10"
+            },
+            "caption": "Ja Morant gets the defensive rebound."
+        }
+    ]
+}

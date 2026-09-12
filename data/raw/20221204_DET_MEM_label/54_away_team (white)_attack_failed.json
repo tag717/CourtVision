@@ -1,0 +1,41 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_54_away_team (white)_attack_failed",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:40"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Tyus Jones",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "09:30"
+            },
+            "caption": "Tyus Jones misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:30"
+            },
+            "caption": "Cory Joseph gets the defensive rebound."
+        }
+    ]
+}

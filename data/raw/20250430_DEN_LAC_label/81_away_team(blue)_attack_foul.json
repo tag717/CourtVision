@@ -1,0 +1,30 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_81_away_team(blue)_attack_foul",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Kris Dunn",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Kris Dunn inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Bogdan Bogdanović",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "07:00"
+            },
+            "caption": "Bogdan Bogdanović is fouled while dribbling."
+        }
+    ]
+}

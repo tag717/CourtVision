@@ -1,0 +1,41 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_84_home_team(white)_attack_outside",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:30"
+            },
+            "caption": "Jrue Holiday dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:00"
+            },
+            "caption": "Jrue Holiday makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jayson Tatum",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "15:00"
+            },
+            "caption": "Jayson Tatum turnover: pass out of bounds."
+        }
+    ]
+}

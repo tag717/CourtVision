@@ -1,0 +1,63 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_198_home_team(black)_attack_successed_2pt",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Tre Jones holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "08:40"
+            },
+            "caption": "Tre Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "10:00"
+            },
+            "caption": "Tre Jones makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jakob Poeltl",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:30"
+            },
+            "caption": "Jakob Poeltl makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Keldon Johnson",
+            "result": "made",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "13:00"
+            },
+            "caption": "Keldon Johnson makes layup."
+        }
+    ]
+}

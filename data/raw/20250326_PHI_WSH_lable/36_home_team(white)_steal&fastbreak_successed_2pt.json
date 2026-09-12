@@ -1,0 +1,151 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_36_home_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Colby Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:20"
+            },
+            "caption": "Colby Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Colby Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:10"
+            },
+            "caption": "Colby Jones makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Alex Sarr",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "08:10"
+            },
+            "caption": "Alex Sarr makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Colby Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "13:20"
+            },
+            "caption": "Colby Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Colby Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:10"
+            },
+            "caption": "Colby Jones makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "15:10"
+            },
+            "caption": "AJ Johnson dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "16:10"
+            },
+            "caption": "AJ Johnson makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Alex Sarr",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "18:00"
+            },
+            "caption": "Alex Sarr dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Alex Sarr",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "20:00"
+            },
+            "caption": "Alex Sarr makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Steal",
+            "player": "Marcus Bagley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "21:00"
+            },
+            "caption": "Marcus Bagley steals the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Marcus Bagley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:00",
+                "end": "22:00"
+            },
+            "caption": "Marcus Bagley dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Marcus Bagley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:00",
+                "end": "22:30"
+            },
+            "caption": "Marcus Bagley makes a pass."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "Dunk",
+            "player": "Guerschon Yabusele",
+            "result": "made",
+            "timestamp_video": {
+                "start": "22:30",
+                "end": "24:20"
+            },
+            "caption": "Guerschon Yabusele makes dunk."
+        }
+    ]
+}

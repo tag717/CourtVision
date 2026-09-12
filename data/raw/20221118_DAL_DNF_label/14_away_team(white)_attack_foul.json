@@ -1,0 +1,52 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_14_away_team(white)_attack_foul",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:30"
+            },
+            "caption": "Michael Porter Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:20"
+            },
+            "caption": "Michael Porter Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:30"
+            },
+            "caption": "Jeff Green dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Jeff Green",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "07:00"
+            },
+            "caption": "Jeff Green is fouled on a layup attempt."
+        }
+    ]
+}

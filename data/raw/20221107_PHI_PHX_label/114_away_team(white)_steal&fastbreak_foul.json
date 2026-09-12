@@ -1,0 +1,74 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_114_away_team(white)_steal&fastbreak_foul",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:50"
+            },
+            "caption": "Tobias Harris dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:30"
+            },
+            "caption": "Tobias Harris makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "Torrey Craig",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:50"
+            },
+            "caption": "Torrey Craig steals the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Torrey Craig",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "11:50"
+            },
+            "caption": "Torrey Craig holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Torrey Craig",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "12:50"
+            },
+            "caption": "Torrey Craig makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "12:50",
+                "end": "18:10"
+            },
+            "caption": "Devin Booker is fouled while dribbling."
+        }
+    ]
+}

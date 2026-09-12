@@ -1,0 +1,74 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_177_home_team(white)_attack_outside",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jeff Dowtin Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:20"
+            },
+            "caption": "Jeff Dowtin Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jeff Dowtin Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:10"
+            },
+            "caption": "Jeff Dowtin Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Quentin Grimes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "09:30"
+            },
+            "caption": "Quentin Grimes dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "2ptShot",
+            "player": "Quentin Grimes",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "11:10"
+            },
+            "caption": "Quentin Grimes misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "OffensiveRebound",
+            "player": "Jeff Dowtin Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "13:00"
+            },
+            "caption": "Jeff Dowtin Jr. gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Jeff Dowtin Jr.",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:10"
+            },
+            "caption": "Jeff Dowtin Jr. turnover: out of bounds lost ball."
+        }
+    ]
+}

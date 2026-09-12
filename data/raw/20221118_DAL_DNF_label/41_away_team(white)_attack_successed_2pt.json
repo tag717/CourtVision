@@ -1,0 +1,41 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_41_away_team(white)_attack_successed_2pt",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:40"
+            },
+            "caption": "Michael Porter Jr. inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "11:10"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "2ptShot",
+            "player": "Bones Hyland",
+            "result": "made",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:40"
+            },
+            "caption": "Bones Hyland makes 2-pt jump shot."
+        }
+    ]
+}

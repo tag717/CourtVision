@@ -1,0 +1,30 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_121_home_team(black)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Buddy Hield makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Brandin Podziemski",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "04:40"
+            },
+            "caption": "Brandin Podziemski is fouled while dribbling."
+        }
+    ]
+}

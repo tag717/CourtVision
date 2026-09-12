@@ -1,0 +1,74 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_35_home_team(white)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "D'Angelo Russell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:10"
+            },
+            "caption": "D'Angelo Russell inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:00"
+            },
+            "caption": "Karl-Anthony Towns hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "D'Angelo Russell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "07:40"
+            },
+            "caption": "D'Angelo Russell dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "D'Angelo Russell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:20"
+            },
+            "caption": "D'Angelo Russell makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Taurean Prince",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "12:00"
+            },
+            "caption": "Taurean Prince misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "RJ Barrett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:00"
+            },
+            "caption": "RJ Barrett gets the defensive rebound."
+        }
+    ]
+}

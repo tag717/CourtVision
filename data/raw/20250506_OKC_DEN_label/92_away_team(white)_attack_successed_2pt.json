@@ -1,0 +1,63 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_92_away_team(white)_attack_successed_2pt",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Peyton Watson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Peyton Watson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Peyton Watson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:50"
+            },
+            "caption": "Peyton Watson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Nikola Jokić",
+            "result": "made",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "06:10"
+            },
+            "caption": "Nikola Jokić makes layup."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "OffensiveRebound",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:00"
+            },
+            "caption": "Nikola Jokić gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PutBack",
+            "player": "Nikola Jokić",
+            "result": "made",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:00"
+            },
+            "caption": "Nikola Jokić makes putback layup."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_100_home_team(black)_block&fastbreak_successed_2pt",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:30"
+            },
+            "caption": "Aaron Gordon dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "08:50"
+            },
+            "caption": "Nikola Jokić makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Block",
+            "player": "Luguentz Dort",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "10:50"
+            },
+            "caption": "Luguentz Dort blocks the shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "15:50"
+            },
+            "caption": "Jalen Williams makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "17:20"
+            },
+            "caption": "Shai Gilgeous-Alexander dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:10",
+                "end": "18:50"
+            },
+            "caption": "Shai Gilgeous-Alexander makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Isaiah Hartenstein",
+            "result": "made",
+            "timestamp_video": {
+                "start": "18:50",
+                "end": "20:50"
+            },
+            "caption": "Isaiah Hartenstein makes layup."
+        }
+    ]
+}

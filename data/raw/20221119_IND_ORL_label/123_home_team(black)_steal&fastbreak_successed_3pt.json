@@ -1,0 +1,52 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_123_home_team(black)_steal&fastbreak_successed_3pt",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:30"
+            },
+            "caption": "Jalen Suggs dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jalen Suggs",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "10:00"
+            },
+            "caption": "Jalen Suggs turnover: bad pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:00"
+            },
+            "caption": "Buddy Hield dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Buddy Hield",
+            "result": "made",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "14:50"
+            },
+            "caption": "Buddy Hield makes 3-pt jump shot."
+        }
+    ]
+}

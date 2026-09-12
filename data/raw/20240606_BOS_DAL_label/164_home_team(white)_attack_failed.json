@@ -1,0 +1,52 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_164_home_team(white)_attack_failed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "12:20"
+            },
+            "caption": "Jayson Tatum dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "13:30"
+            },
+            "caption": "Jrue Holiday makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Jrue Holiday",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:10"
+            },
+            "caption": "Jrue Holiday misses layup."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Dereck Lively II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "15:00"
+            },
+            "caption": "Dereck Lively II gets the defensive rebound."
+        }
+    ]
+}

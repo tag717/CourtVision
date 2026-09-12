@@ -1,0 +1,85 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_5_home_team(white)_attack_outside",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "10:10"
+            },
+            "caption": "Derrick White dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:00"
+            },
+            "caption": "Derrick White makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "13:00"
+            },
+            "caption": "Jrue Holiday makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Jaylen Brown",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "16:10"
+            },
+            "caption": "Jaylen Brown misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "OffensiveRebound",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "17:00"
+            },
+            "caption": "Unknown Player gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "18:00"
+            },
+            "caption": "Jayson Tatum makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Derrick White",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "20:40"
+            },
+            "caption": "Derrick White misses 3-pt jump shot."
+        }
+    ]
+}

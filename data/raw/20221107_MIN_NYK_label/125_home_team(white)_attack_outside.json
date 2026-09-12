@@ -1,0 +1,63 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_125_home_team(white)_attack_outside",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:00"
+            },
+            "caption": "Anthony Edwards hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:50"
+            },
+            "caption": "Karl-Anthony Towns dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "06:40"
+            },
+            "caption": "Karl-Anthony Towns makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "D'Angelo Russell",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "08:50"
+            },
+            "caption": "D'Angelo Russell misses 3-pt jump shot."
+        }
+    ]
+}

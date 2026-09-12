@@ -1,0 +1,41 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_147_home_team(black)_attack_successed_3pt",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:40"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "02:40"
+            },
+            "caption": "Tyrese Haliburton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Aaron Nesmith",
+            "result": "made",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "04:40"
+            },
+            "caption": "Aaron Nesmith makes 3-pt jump shot."
+        }
+    ]
+}

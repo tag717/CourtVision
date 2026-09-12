@@ -1,0 +1,85 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_105_away_team(white)_attack_outside",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cameron Payne",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Cameron Payne dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cameron Payne",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:00"
+            },
+            "caption": "Cameron Payne makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Torrey Craig",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:10"
+            },
+            "caption": "Torrey Craig makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "09:30"
+            },
+            "caption": "Mikal Bridges holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:50"
+            },
+            "caption": "Mikal Bridges dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Mikal Bridges",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "12:30"
+            },
+            "caption": "Mikal Bridges turnover: pass out of bounds."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Steal",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "12:20"
+            },
+            "caption": "Tyrese Maxey steals the ball."
+        }
+    ]
+}

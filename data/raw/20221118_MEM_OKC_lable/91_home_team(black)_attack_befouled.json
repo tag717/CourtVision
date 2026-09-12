@@ -1,0 +1,85 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_91_home_team(black)_attack_befouled",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:50"
+            },
+            "caption": "Ja Morant dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Ja Morant",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "07:00"
+            },
+            "caption": "Ja Morant misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "David Roddy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "10:20"
+            },
+            "caption": "David Roddy makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Santi Aldama",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:20"
+            },
+            "caption": "Santi Aldama makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "John Konchar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:20"
+            },
+            "caption": "John Konchar makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "14:00"
+            },
+            "caption": "Ja Morant holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "15:20"
+            },
+            "caption": "Ja Morant is fouled while dribbling."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "video_id": "20240617_BOS_DAL",
+    "possession_id": "poss_63_away_team(white)_attack_befouled",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Derrick Jones Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:40"
+            },
+            "caption": "Derrick Jones Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Derrick Jones Jr.",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "09:00"
+            },
+            "caption": "Derrick Jones Jr. is fouled on a layup attempt."
+        }
+    ]
+}

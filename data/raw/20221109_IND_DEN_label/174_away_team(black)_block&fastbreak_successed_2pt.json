@@ -1,0 +1,85 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_174_away_team(black)_block&fastbreak_successed_2pt",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "T.J. McConnell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "04:20"
+            },
+            "caption": "T.J. McConnell makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Andrew Nembhard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "06:30"
+            },
+            "caption": "Andrew Nembhard dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Andrew Nembhard",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:20"
+            },
+            "caption": "Andrew Nembhard turnover: bad pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Steal",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "07:30"
+            },
+            "caption": "Aaron Gordon steals the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "13:00"
+            },
+            "caption": "Aaron Gordon dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Aaron Gordon",
+            "result": "made",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:00"
+            },
+            "caption": "Aaron Gordon makes layup."
+        }
+    ]
+}

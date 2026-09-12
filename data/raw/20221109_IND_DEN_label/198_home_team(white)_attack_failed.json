@@ -1,0 +1,52 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_198_home_team(white)_attack_failed",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:20"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:20"
+            },
+            "caption": "Tyrese Haliburton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Jalen Smith",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "10:00"
+            },
+            "caption": "Jalen Smith misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "10:20"
+            },
+            "caption": "Aaron Gordon gets the defensive rebound."
+        }
+    ]
+}

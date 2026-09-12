@@ -1,0 +1,74 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_136_home_team(red)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:00"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:20"
+            },
+            "caption": "Trae Young makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:20"
+            },
+            "caption": "Caris LeVert makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Trae Young",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "10:20"
+            },
+            "caption": "Trae Young misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Mouhamed Gueye",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:10"
+            },
+            "caption": "Mouhamed Gueye makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Trae Young",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "13:00"
+            },
+            "caption": "Trae Young is fouled while holding the ball."
+        }
+    ]
+}

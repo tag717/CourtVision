@@ -1,0 +1,96 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_24_away_team(black)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:20"
+            },
+            "caption": "Shaedon Sharpe inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "01:20"
+            },
+            "caption": "Deni Avdija makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "06:10"
+            },
+            "caption": "Shaedon Sharpe dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:00"
+            },
+            "caption": "Shaedon Sharpe makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "09:20"
+            },
+            "caption": "Deni Avdija holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "12:10"
+            },
+            "caption": "Deni Avdija dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Deni Avdija",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:10"
+            },
+            "caption": "Deni Avdija is fouled on a layup attempt."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Steal",
+            "player": "Trae Young",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:10"
+            },
+            "caption": "Trae Young is called for a foul on a steal attempt."
+        }
+    ]
+}

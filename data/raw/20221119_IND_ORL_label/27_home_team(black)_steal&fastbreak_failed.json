@@ -1,0 +1,96 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_27_home_team(black)_steal&fastbreak_failed",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:00"
+            },
+            "caption": "Jalen Suggs dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:00"
+            },
+            "caption": "Jalen Suggs makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Terrence Ross",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "08:00"
+            },
+            "caption": "Terrence Ross holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Terrence Ross",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "10:00"
+            },
+            "caption": "Terrence Ross dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Terrence Ross",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:00"
+            },
+            "caption": "Terrence Ross makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Mo Bamba",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:30"
+            },
+            "caption": "Mo Bamba turnover: bad pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "14:20"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Tyrese Haliburton",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "16:00"
+            },
+            "caption": "Tyrese Haliburton turnover: bad pass."
+        }
+    ]
+}

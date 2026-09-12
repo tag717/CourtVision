@@ -1,0 +1,19 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_33_home_team(blue)_attack_befouled",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Spencer Dinwiddie",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:10"
+            },
+            "caption": "Spencer Dinwiddie is fouled while dribbling."
+        }
+    ]
+}

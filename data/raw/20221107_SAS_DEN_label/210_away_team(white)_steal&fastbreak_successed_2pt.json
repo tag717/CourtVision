@@ -1,0 +1,217 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_210_away_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Tre Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "01:20"
+            },
+            "caption": "Tre Jones makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "05:00"
+            },
+            "caption": "Devin Vassell dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:40"
+            },
+            "caption": "Devin Vassell makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Josh Richardson",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "07:20"
+            },
+            "caption": "Josh Richardson turnover: lost ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Steal",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "09:20"
+            },
+            "caption": "Kentavious Caldwell-Pope steals the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Hold",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "11:10"
+            },
+            "caption": "Kentavious Caldwell-Pope holds the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "11:50"
+            },
+            "caption": "Kentavious Caldwell-Pope dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "12:40"
+            },
+            "caption": "Kentavious Caldwell-Pope makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "13:50"
+            },
+            "caption": "Nikola Jokić dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:50",
+                "end": "15:00"
+            },
+            "caption": "Nikola Jokić makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Dribble",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "16:50"
+            },
+            "caption": "Kentavious Caldwell-Pope dribbles the ball."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "PassBall",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:50",
+                "end": "17:20"
+            },
+            "caption": "Kentavious Caldwell-Pope makes a pass."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "Hold",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "22:30"
+            },
+            "caption": "Nikola Jokić holds the ball."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "HandOff",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:30",
+                "end": "22:50"
+            },
+            "caption": "Nikola Jokić hands off the ball."
+        },
+        {
+            "event_id": "ev_16",
+            "event_label": "Hold",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:50",
+                "end": "25:40"
+            },
+            "caption": "Jamal Murray holds the ball."
+        },
+        {
+            "event_id": "ev_17",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "25:40",
+                "end": "27:50"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_18",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "27:50",
+                "end": "28:20"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_19",
+            "event_label": "Dunk",
+            "player": "Aaron Gordon",
+            "result": "made",
+            "timestamp_video": {
+                "start": "28:20",
+                "end": "29:40"
+            },
+            "caption": "Aaron Gordon makes dunk."
+        }
+    ]
+}

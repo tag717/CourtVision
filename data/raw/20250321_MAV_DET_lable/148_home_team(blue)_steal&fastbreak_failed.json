@@ -1,0 +1,85 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_148_home_team(blue)_steal&fastbreak_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:20"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:10"
+            },
+            "caption": "Cade Cunningham makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Ron Holland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:30"
+            },
+            "caption": "Ron Holland dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Ron Holland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:10"
+            },
+            "caption": "Ron Holland makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Steal",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "09:20"
+            },
+            "caption": "P.J. Washington steals the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "15:10"
+            },
+            "caption": "P.J. Washington dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Steal",
+            "player": "Ron Holland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "15:30"
+            },
+            "caption": "Ron Holland steals the ball."
+        }
+    ]
+}

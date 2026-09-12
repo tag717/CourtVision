@@ -1,0 +1,41 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_178_away_team(blue)_attack_befouled",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "James Harden dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:40"
+            },
+            "caption": "James Harden makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Ivica Zubac",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "10:00"
+            },
+            "caption": "Ivica Zubac is fouled on a layup attempt."
+        }
+    ]
+}

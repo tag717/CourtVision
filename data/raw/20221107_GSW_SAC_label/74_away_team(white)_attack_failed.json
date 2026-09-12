@@ -1,0 +1,129 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_74_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "De'Aaron Fox dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "01:30"
+            },
+            "caption": "De'Aaron Fox makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "02:00"
+            },
+            "caption": "Domantas Sabonis dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:40"
+            },
+            "caption": "Domantas Sabonis hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Terence Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:30"
+            },
+            "caption": "Terence Davis makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "05:30"
+            },
+            "caption": "De'Aaron Fox holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:20"
+            },
+            "caption": "De'Aaron Fox makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "08:10"
+            },
+            "caption": "Domantas Sabonis dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "08:50"
+            },
+            "caption": "Domantas Sabonis makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "3ptShot",
+            "player": "Terence Davis",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:50"
+            },
+            "caption": "Terence Davis misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "DefensiveRebound",
+            "player": "Andrew Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "11:30"
+            },
+            "caption": "Andrew Wiggins gets the defensive rebound."
+        }
+    ]
+}

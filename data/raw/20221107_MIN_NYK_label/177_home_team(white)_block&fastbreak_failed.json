@@ -1,0 +1,151 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_177_home_team(white)_block&fastbreak_failed",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Immanuel Quickley dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:00"
+            },
+            "caption": "Immanuel Quickley makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "07:00"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:50"
+            },
+            "caption": "Jalen Brunson makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "HandOff",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "08:40"
+            },
+            "caption": "Immanuel Quickley hands off the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:40"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Jalen Brunson",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "11:30"
+            },
+            "caption": "Jalen Brunson misses layup."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Block",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:30"
+            },
+            "caption": "Naz Reid blocks the shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Steal",
+            "player": "D'Angelo Russell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "12:30"
+            },
+            "caption": "D'Angelo Russell steals the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "D'Angelo Russell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "14:00"
+            },
+            "caption": "D'Angelo Russell makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Taurean Prince",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "14:50"
+            },
+            "caption": "Taurean Prince dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Layup",
+            "player": "Taurean Prince",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "16:30"
+            },
+            "caption": "Taurean Prince misses layup."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "DefensiveRebound",
+            "player": "Obi Toppin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "18:00"
+            },
+            "caption": "Obi Toppin gets the defensive rebound."
+        }
+    ]
+}

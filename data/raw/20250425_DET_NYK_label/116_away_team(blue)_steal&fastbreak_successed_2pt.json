@@ -1,0 +1,74 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_116_away_team(blue)_steal&fastbreak_successed_2pt",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Cade Cunningham inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:30"
+            },
+            "caption": "Jalen Duren dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:00"
+            },
+            "caption": "Jalen Duren makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Steal",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:30"
+            },
+            "caption": "Mikal Bridges steals the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "12:10"
+            },
+            "caption": "Mikal Bridges dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Mikal Bridges",
+            "result": "made",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:40"
+            },
+            "caption": "Mikal Bridges makes layup."
+        }
+    ]
+}

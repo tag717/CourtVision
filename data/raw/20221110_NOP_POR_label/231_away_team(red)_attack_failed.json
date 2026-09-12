@@ -1,0 +1,52 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_231_away_team(red)_attack_failed",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Justise Winslow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Justise Winslow inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Jerami Grant",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "04:50"
+            },
+            "caption": "Jerami Grant misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "05:50"
+            },
+            "caption": "CJ McCollum gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "07:00"
+            },
+            "caption": "CJ McCollum dribbles the ball."
+        }
+    ]
+}

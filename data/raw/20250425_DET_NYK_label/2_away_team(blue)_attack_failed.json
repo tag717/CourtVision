@@ -1,0 +1,63 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_2_away_team(blue)_attack_failed",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "Mikal Bridges dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "03:30"
+            },
+            "caption": "Mikal Bridges makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Karl-Anthony Towns",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "05:30"
+            },
+            "caption": "Karl-Anthony Towns misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "07:30"
+            },
+            "caption": "Cade Cunningham gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "09:00"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_184_home_team(green)_attack_failed",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "02:50"
+            },
+            "caption": "Giannis Antetokounmpo dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "04:30"
+            },
+            "caption": "Giannis Antetokounmpo makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Kyle Kuzma",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "05:50"
+            },
+            "caption": "Kyle Kuzma makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "09:30"
+            },
+            "caption": "Giannis Antetokounmpo dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Giannis Antetokounmpo",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "11:30"
+            },
+            "caption": "Giannis Antetokounmpo misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Collin Gillespie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "13:00"
+            },
+            "caption": "Collin Gillespie gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Collin Gillespie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "14:00"
+            },
+            "caption": "Collin Gillespie dribbles the ball."
+        }
+    ]
+}

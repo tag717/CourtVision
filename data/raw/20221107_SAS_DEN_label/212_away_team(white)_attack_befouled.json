@@ -1,0 +1,30 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_212_away_team(white)_attack_befouled",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Nikola Jokić holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Nikola Jokić",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "06:00"
+            },
+            "caption": "Nikola Jokić is fouled while dribbling."
+        }
+    ]
+}

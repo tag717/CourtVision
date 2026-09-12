@@ -1,0 +1,96 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_145_home_team(white)_attack_foul",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:40"
+            },
+            "caption": "James Harden dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:30"
+            },
+            "caption": "James Harden makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Ivica Zubac",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:50"
+            },
+            "caption": "Ivica Zubac makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Nicolas Batum",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "11:40"
+            },
+            "caption": "Nicolas Batum misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "OffensiveRebound",
+            "player": "Nicolas Batum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "13:40"
+            },
+            "caption": "Nicolas Batum gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Nicolas Batum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "14:30"
+            },
+            "caption": "Nicolas Batum makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Bogdan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "17:10"
+            },
+            "caption": "Bogdan Bogdanović dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Bogdan Bogdanović",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "17:10",
+                "end": "21:00"
+            },
+            "caption": "Bogdan Bogdanović is fouled on a layup attempt."
+        }
+    ]
+}

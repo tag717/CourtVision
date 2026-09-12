@@ -1,0 +1,74 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_71_home_team(black)_attack_failed",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:20"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:10"
+            },
+            "caption": "Tyus Jones makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jake LaRavia",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "09:40"
+            },
+            "caption": "Jake LaRavia makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Brandon Clarke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "13:20"
+            },
+            "caption": "Brandon Clarke dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Brandon Clarke",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "15:00"
+            },
+            "caption": "Brandon Clarke misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Lindy Waters III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "15:20"
+            },
+            "caption": "Lindy Waters III gets the defensive rebound."
+        }
+    ]
+}

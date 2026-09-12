@@ -1,0 +1,107 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_70_away_team (blue)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Evan Fournier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:30"
+            },
+            "caption": "Evan Fournier dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Evan Fournier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:30"
+            },
+            "caption": "Evan Fournier makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Obi Toppin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "06:10"
+            },
+            "caption": "Obi Toppin makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "08:30"
+            },
+            "caption": "Immanuel Quickley makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "15:30"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "16:30"
+            },
+            "caption": "Jalen Brunson makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Evan Fournier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "17:30"
+            },
+            "caption": "Evan Fournier dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Evan Fournier",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "17:30",
+                "end": "19:30"
+            },
+            "caption": "Evan Fournier misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Kyle Anderson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:30",
+                "end": "21:00"
+            },
+            "caption": "Kyle Anderson gets the defensive rebound."
+        }
+    ]
+}

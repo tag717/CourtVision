@@ -1,0 +1,107 @@
+{
+    "video_id": "20240528_DAL_MIN",
+    "possession_id": "poss_84_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:10"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:10"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jaden McDaniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "09:40"
+            },
+            "caption": "Jaden McDaniels dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jaden McDaniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:30"
+            },
+            "caption": "Jaden McDaniels makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:40"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "12:40"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "17:00"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "2ptShot",
+            "player": "Anthony Edwards",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "19:00"
+            },
+            "caption": "Anthony Edwards misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Maxi Kleber",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "20:00"
+            },
+            "caption": "Maxi Kleber gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_109_home_team(white)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Austin Rivers",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Austin Rivers dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Austin Rivers",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "03:50"
+            },
+            "caption": "Austin Rivers hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "05:40"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Anthony Edwards",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "08:00"
+            },
+            "caption": "Anthony Edwards is fouled on a layup attempt."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_136_home_team(purple)_attack_befouled",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Devin Carter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:10"
+            },
+            "caption": "Devin Carter dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Devin Carter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "04:50"
+            },
+            "caption": "Devin Carter makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "07:50"
+            },
+            "caption": "DeMar DeRozan holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "09:40"
+            },
+            "caption": "DeMar DeRozan dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "DeMar DeRozan",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "12:00"
+            },
+            "caption": "DeMar DeRozan is fouled on a layup attempt."
+        }
+    ]
+}

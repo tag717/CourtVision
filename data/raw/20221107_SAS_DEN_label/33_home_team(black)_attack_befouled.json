@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_33_home_team(black)_attack_befouled",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:00"
+            },
+            "caption": "Tre Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "09:40"
+            },
+            "caption": "Tre Jones makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jakob Poeltl",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:40"
+            },
+            "caption": "Jakob Poeltl dribbles the ball."
+        }
+    ]
+}

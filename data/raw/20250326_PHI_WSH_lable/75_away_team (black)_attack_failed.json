@@ -1,0 +1,118 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_75_away_team (black)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bub Carrington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Bub Carrington dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bub Carrington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:10"
+            },
+            "caption": "Bub Carrington makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "07:00"
+            },
+            "caption": "AJ Johnson makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Jared Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "10:10"
+            },
+            "caption": "Jared Butler holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jared Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "12:10"
+            },
+            "caption": "Jared Butler makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Tristan Vukcevic",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "14:00"
+            },
+            "caption": "Tristan Vukcevic dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Tristan Vukcevic",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "14:30"
+            },
+            "caption": "Tristan Vukcevic makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "16:30"
+            },
+            "caption": "AJ Johnson dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Layup",
+            "player": "AJ Johnson",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "18:00"
+            },
+            "caption": "AJ Johnson misses layup."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "Phillip Wheeler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "18:20"
+            },
+            "caption": "Phillip Wheeler gets the defensive rebound."
+        }
+    ]
+}

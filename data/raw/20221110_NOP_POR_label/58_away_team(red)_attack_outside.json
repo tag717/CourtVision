@@ -1,0 +1,85 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_58_away_team(red)_attack_outside",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Justise Winslow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Justise Winslow makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Jabari Walker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:20"
+            },
+            "caption": "Jabari Walker holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jabari Walker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "02:40"
+            },
+            "caption": "Jabari Walker makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Justise Winslow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "04:20"
+            },
+            "caption": "Justise Winslow makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Trendon Watford",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:00"
+            },
+            "caption": "Trendon Watford turnover: lost ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Steal",
+            "player": "Zion Williamson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "07:00"
+            },
+            "caption": "Zion Williamson steals the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Zion Williamson",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:10"
+            },
+            "caption": "Zion Williamson turnover: out of bounds lost ball."
+        }
+    ]
+}

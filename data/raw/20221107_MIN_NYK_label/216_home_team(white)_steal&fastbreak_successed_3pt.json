@@ -1,0 +1,52 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_216_home_team(white)_steal&fastbreak_successed_3pt",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Obi Toppin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Obi Toppin inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "01:10"
+            },
+            "caption": "Mike Conley steals the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "03:00"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Mike Conley",
+            "result": "made",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "06:00"
+            },
+            "caption": "Mike Conley makes 3-pt jump shot."
+        }
+    ]
+}

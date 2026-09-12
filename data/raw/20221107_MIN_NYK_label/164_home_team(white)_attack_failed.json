@@ -1,0 +1,173 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_164_home_team(white)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:30"
+            },
+            "caption": "Jordan McLaughlin dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "03:20"
+            },
+            "caption": "Jordan McLaughlin makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "06:10"
+            },
+            "caption": "Karl-Anthony Towns holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:50"
+            },
+            "caption": "Karl-Anthony Towns dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "09:50"
+            },
+            "caption": "Karl-Anthony Towns makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "10:50"
+            },
+            "caption": "Jordan McLaughlin dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "11:20"
+            },
+            "caption": "Jordan McLaughlin makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Taurean Prince",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "13:00"
+            },
+            "caption": "Taurean Prince dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Taurean Prince",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "15:00"
+            },
+            "caption": "Taurean Prince makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "16:30"
+            },
+            "caption": "Jordan McLaughlin dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "18:00"
+            },
+            "caption": "Jordan McLaughlin makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "19:40"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:40",
+                "end": "21:00"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "3ptShot",
+            "player": "Jordan McLaughlin",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "21:00",
+                "end": "23:00"
+            },
+            "caption": "Jordan McLaughlin misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "DefensiveRebound",
+            "player": "Isaiah Hartenstein",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:00",
+                "end": "24:00"
+            },
+            "caption": "Isaiah Hartenstein gets the defensive rebound."
+        }
+    ]
+}

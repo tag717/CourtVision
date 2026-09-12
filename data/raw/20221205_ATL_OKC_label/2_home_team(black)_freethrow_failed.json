@@ -1,0 +1,19 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_2_home_team(black)_freethrow_failed",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Trae Young",
+            "result": "made",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "07:00"
+            },
+            "caption": "Trae Young makes free throw."
+        }
+    ]
+}

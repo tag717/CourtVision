@@ -1,0 +1,30 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_57_home_team(black)_attack_failed",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Devin Vassell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Devin Vassell",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "05:30"
+            },
+            "caption": "Devin Vassell misses 3-pt jump shot."
+        }
+    ]
+}

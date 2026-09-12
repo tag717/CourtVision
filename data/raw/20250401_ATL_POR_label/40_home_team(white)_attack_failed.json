@@ -1,0 +1,195 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_40_home_team(white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kris Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Kris Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kris Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "01:50"
+            },
+            "caption": "Kris Murray makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "03:40"
+            },
+            "caption": "Shaedon Sharpe holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "05:00"
+            },
+            "caption": "Shaedon Sharpe dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:00"
+            },
+            "caption": "Shaedon Sharpe makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Duop Reath",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:20"
+            },
+            "caption": "Duop Reath holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Duop Reath",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "08:40"
+            },
+            "caption": "Duop Reath misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Terance Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:30"
+            },
+            "caption": "Terance Mann gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Terance Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "14:20"
+            },
+            "caption": "Terance Mann dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Terance Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "15:20"
+            },
+            "caption": "Terance Mann makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "17:50"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:50",
+                "end": "19:20"
+            },
+            "caption": "Trae Young makes a pass."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "Dribble",
+            "player": "Kobe Bufkin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "21:20"
+            },
+            "caption": "Kobe Bufkin dribbles the ball."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "PassBall",
+            "player": "Kobe Bufkin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:20",
+                "end": "22:00"
+            },
+            "caption": "Kobe Bufkin makes a pass."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "3ptShot",
+            "player": "Vit Krejci",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "22:00",
+                "end": "24:10"
+            },
+            "caption": "Vit Krejci misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_16",
+            "event_label": "DefensiveRebound",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "24:10",
+                "end": "24:50"
+            },
+            "caption": "Deni Avdija gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_17",
+            "event_label": "Dribble",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "24:50",
+                "end": "27:00"
+            },
+            "caption": "Deni Avdija dribbles the ball."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_135_home_team(blue)_attack_successed_2pt",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:20"
+            },
+            "caption": "Spencer Dinwiddie dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Spencer Dinwiddie",
+            "result": "made",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "10:00"
+            },
+            "caption": "Spencer Dinwiddie makes 2-pt jump shot."
+        }
+    ]
+}

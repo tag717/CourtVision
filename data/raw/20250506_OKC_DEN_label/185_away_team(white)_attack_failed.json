@@ -1,0 +1,63 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_185_away_team(white)_attack_failed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "01:50"
+            },
+            "caption": "Nikola Jokić inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Russell Westbrook",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "03:20"
+            },
+            "caption": "Russell Westbrook holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Russell Westbrook",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:30"
+            },
+            "caption": "Russell Westbrook dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Russell Westbrook",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "06:30"
+            },
+            "caption": "Russell Westbrook turnover: bad pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "08:00"
+            },
+            "caption": "Shai Gilgeous-Alexander dribbles the ball."
+        }
+    ]
+}

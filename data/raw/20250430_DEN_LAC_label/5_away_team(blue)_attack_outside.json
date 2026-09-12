@@ -1,0 +1,129 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_5_away_team(blue)_attack_outside",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Kris Dunn",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Kris Dunn inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Ivica Zubac",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:20"
+            },
+            "caption": "Ivica Zubac makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Kris Dunn",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:10"
+            },
+            "caption": "Kris Dunn dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Kris Dunn",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:20"
+            },
+            "caption": "Kris Dunn makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "07:00"
+            },
+            "caption": "James Harden dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:00"
+            },
+            "caption": "James Harden makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Norman Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "10:00"
+            },
+            "caption": "Norman Powell makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "13:20"
+            },
+            "caption": "James Harden dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "15:00"
+            },
+            "caption": "James Harden makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Kris Dunn",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "16:20"
+            },
+            "caption": "Kris Dunn dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Kris Dunn",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "20:00"
+            },
+            "caption": "Kris Dunn turnover: pass out of bounds."
+        }
+    ]
+}

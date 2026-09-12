@@ -1,0 +1,107 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_78_away_team(white)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Moses Moody",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Moses Moody dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "04:30"
+            },
+            "caption": "Jimmy Butler holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "08:30"
+            },
+            "caption": "Jimmy Butler dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:10"
+            },
+            "caption": "Jimmy Butler makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Brandin Podziemski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:40"
+            },
+            "caption": "Brandin Podziemski dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Brandin Podziemski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "13:50"
+            },
+            "caption": "Brandin Podziemski holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Brandin Podziemski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:50",
+                "end": "14:30"
+            },
+            "caption": "Brandin Podziemski makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Moses Moody",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "17:30"
+            },
+            "caption": "Moses Moody is fouled while dribbling."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Layup",
+            "player": "Moses Moody",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "17:30",
+                "end": "19:00"
+            },
+            "caption": "Moses Moody misses layup."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_121_away_team(red)_steal&fastbreak_failed",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "CJ McCollum inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Brandon Ingram",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "04:10"
+            },
+            "caption": "Brandon Ingram makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "CJ McCollum",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "23:10"
+            },
+            "caption": "CJ McCollum turnover: lost ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Steal",
+            "player": "Kevin Knox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:10",
+                "end": "23:40"
+            },
+            "caption": "Kevin Knox steals the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Kevin Knox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:40",
+                "end": "26:50"
+            },
+            "caption": "Kevin Knox dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Kevin Knox",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "26:50",
+                "end": "28:00"
+            },
+            "caption": "Kevin Knox misses layup."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Block",
+            "player": "Trey Murphy III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "28:00",
+                "end": "28:20"
+            },
+            "caption": "Trey Murphy III blocks the shot."
+        }
+    ]
+}

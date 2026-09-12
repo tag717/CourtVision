@@ -1,0 +1,107 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_89_away_team(white)_steal&fastbreak_failed",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:30"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:30"
+            },
+            "caption": "Tyrese Haliburton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Andrew Nembhard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "10:30"
+            },
+            "caption": "Andrew Nembhard makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Myles Turner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:50"
+            },
+            "caption": "Myles Turner holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Myles Turner",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "15:00"
+            },
+            "caption": "Myles Turner turnover: lost ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Mo Bamba",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "15:30"
+            },
+            "caption": "Mo Bamba makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "R.J. Hampton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "25:30"
+            },
+            "caption": "R.J. Hampton dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "R.J. Hampton",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "25:30",
+                "end": "27:00"
+            },
+            "caption": "R.J. Hampton misses layup."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "27:00",
+                "end": "28:00"
+            },
+            "caption": "Tyrese Haliburton gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20240609_BOS_DAL",
+    "possession_id": "poss_121_away_team(white)_attack_failed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Luka Dončić makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "04:30"
+            },
+            "caption": "Kyrie Irving holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "06:20"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "2ptShot",
+            "player": "Kyrie Irving",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "08:00"
+            },
+            "caption": "Kyrie Irving misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "10:00"
+            },
+            "caption": "Derrick White gets the defensive rebound."
+        }
+    ]
+}

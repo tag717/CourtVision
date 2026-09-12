@@ -1,0 +1,41 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_160_away_team(white)_attack_befouled",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Davon Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Davon Reed makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "05:40"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Bones Hyland",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "07:20"
+            },
+            "caption": "Bones Hyland is fouled on a layup attempt."
+        }
+    ]
+}

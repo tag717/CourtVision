@@ -1,0 +1,63 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_49_away_team(white)_attack_failed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Russell Westbrook",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:30"
+            },
+            "caption": "Russell Westbrook dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Russell Westbrook",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:20"
+            },
+            "caption": "Russell Westbrook makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:20"
+            },
+            "caption": "Christian Braun makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "13:40"
+            },
+            "caption": "Nikola Jokić holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Steal",
+            "player": "Alex Caruso",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "14:50"
+            },
+            "caption": "Alex Caruso steals the ball."
+        }
+    ]
+}

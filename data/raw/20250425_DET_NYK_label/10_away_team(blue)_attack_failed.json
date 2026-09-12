@@ -1,0 +1,85 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_10_away_team(blue)_attack_failed",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Jalen Brunson inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "01:40"
+            },
+            "caption": "Mikal Bridges makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "04:30"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Jalen Brunson",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "06:10"
+            },
+            "caption": "Jalen Brunson misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:20"
+            },
+            "caption": "Jalen Duren gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:10"
+            },
+            "caption": "Jalen Duren makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:00"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        }
+    ]
+}

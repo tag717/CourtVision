@@ -1,0 +1,19 @@
+{
+    "video_id": "20240609_BOS_DAL",
+    "possession_id": "poss_30_away_team(white)_attack_outside",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Luka Dončić",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:00"
+            },
+            "caption": "Luka Dončić turnover: pass out of bounds."
+        }
+    ]
+}

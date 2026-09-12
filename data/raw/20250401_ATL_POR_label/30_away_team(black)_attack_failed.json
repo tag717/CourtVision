@@ -1,0 +1,96 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_30_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:40"
+            },
+            "caption": "Deni Avdija dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "04:00"
+            },
+            "caption": "Deni Avdija makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Toumani Camara",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "06:10"
+            },
+            "caption": "Toumani Camara dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Toumani Camara",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "06:40"
+            },
+            "caption": "Toumani Camara makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Matisse Thybulle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:40"
+            },
+            "caption": "Matisse Thybulle dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Matisse Thybulle",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:30"
+            },
+            "caption": "Matisse Thybulle turnover: bad pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Steal",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:30"
+            },
+            "caption": "Dyson Daniels steals the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Vit Krejci",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:00"
+            },
+            "caption": "Vit Krejci dribbles the ball."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_211_away_team(white)_attack_befouled",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "John Konchar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "John Konchar dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "John Konchar",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "01:30"
+            },
+            "caption": "John Konchar is fouled on a 3-pt shot attempt."
+        }
+    ]
+}

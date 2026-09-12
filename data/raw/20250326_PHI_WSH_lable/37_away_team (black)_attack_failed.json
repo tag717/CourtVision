@@ -1,0 +1,96 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_37_away_team (black)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "AJ Johnson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:10"
+            },
+            "caption": "AJ Johnson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Alex Sarr",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "07:30"
+            },
+            "caption": "Alex Sarr dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Alex Sarr",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:20"
+            },
+            "caption": "Alex Sarr makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "12:20"
+            },
+            "caption": "AJ Johnson dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "13:20"
+            },
+            "caption": "AJ Johnson makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Alex Sarr",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "18:00"
+            },
+            "caption": "Alex Sarr misses layup."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Marcus Bagley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "19:20"
+            },
+            "caption": "Marcus Bagley gets the defensive rebound."
+        }
+    ]
+}

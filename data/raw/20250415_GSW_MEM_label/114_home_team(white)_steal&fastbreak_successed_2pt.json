@@ -1,0 +1,107 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_114_home_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Desmond Bane",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:20"
+            },
+            "caption": "Desmond Bane dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Desmond Bane",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "06:00"
+            },
+            "caption": "Desmond Bane makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Zach Edey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:30"
+            },
+            "caption": "Zach Edey dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Zach Edey",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:30"
+            },
+            "caption": "Zach Edey turnover: bad pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "11:50"
+            },
+            "caption": "Stephen Curry dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "12:40"
+            },
+            "caption": "Stephen Curry makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Moses Moody",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "13:50"
+            },
+            "caption": "Moses Moody dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Moses Moody",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:50",
+                "end": "14:30"
+            },
+            "caption": "Moses Moody makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dunk",
+            "player": "Jimmy Butler",
+            "result": "made",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "17:00"
+            },
+            "caption": "Jimmy Butler makes dunk."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "video_id": "20240612_DAL_BOS",
+    "possession_id": "poss_199_home_team(black)_attack_befouled",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Dereck Lively II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Dereck Lively II makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "P.J. Washington",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "04:00"
+            },
+            "caption": "P.J. Washington is fouled while dribbling."
+        }
+    ]
+}

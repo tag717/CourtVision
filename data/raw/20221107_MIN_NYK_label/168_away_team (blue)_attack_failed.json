@@ -1,0 +1,85 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_168_away_team (blue)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Derrick Rose",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "Derrick Rose inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "05:10"
+            },
+            "caption": "Immanuel Quickley makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Isaiah Hartenstein",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "07:30"
+            },
+            "caption": "Isaiah Hartenstein makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Evan Fournier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "10:10"
+            },
+            "caption": "Evan Fournier dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Evan Fournier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:30"
+            },
+            "caption": "Evan Fournier makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Obi Toppin",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "13:40"
+            },
+            "caption": "Obi Toppin misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "15:00"
+            },
+            "caption": "Karl-Anthony Towns gets the defensive rebound."
+        }
+    ]
+}

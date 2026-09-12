@@ -1,0 +1,19 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_100_home_team(white)_freethrow_successed",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Anthony Edwards",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "01:20"
+            },
+            "caption": "Anthony Edwards makes free throw."
+        }
+    ]
+}

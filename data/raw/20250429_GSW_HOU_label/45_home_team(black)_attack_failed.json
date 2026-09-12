@@ -1,0 +1,74 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_45_home_team(black)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Jimmy Butler dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "03:50"
+            },
+            "caption": "Jimmy Butler hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Brandin Podziemski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "05:30"
+            },
+            "caption": "Brandin Podziemski makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:10"
+            },
+            "caption": "Jimmy Butler makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Moses Moody",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "09:00"
+            },
+            "caption": "Moses Moody misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:30"
+            },
+            "caption": "Fred VanVleet gets the defensive rebound."
+        }
+    ]
+}

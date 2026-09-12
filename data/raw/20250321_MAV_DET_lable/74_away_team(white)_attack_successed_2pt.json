@@ -1,0 +1,63 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_74_away_team(white)_attack_successed_2pt",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "11:10"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:00"
+            },
+            "caption": "Cade Cunningham makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "14:20"
+            },
+            "caption": "Isaiah Stewart dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "15:10"
+            },
+            "caption": "Isaiah Stewart makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Ron Holland",
+            "result": "made",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "16:20"
+            },
+            "caption": "Ron Holland makes layup."
+        }
+    ]
+}

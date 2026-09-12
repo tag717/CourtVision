@@ -1,0 +1,30 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_1_home_team(white)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaden McDaniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Jaden McDaniels dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Jaden McDaniels",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "06:00"
+            },
+            "caption": "Jaden McDaniels is fouled on a layup attempt."
+        }
+    ]
+}

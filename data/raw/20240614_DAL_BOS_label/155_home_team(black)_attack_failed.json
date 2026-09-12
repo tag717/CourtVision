@@ -1,0 +1,74 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_155_home_team(black)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Markieff Morris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Markieff Morris dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Markieff Morris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "01:40"
+            },
+            "caption": "Markieff Morris makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Dante Exum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "09:30"
+            },
+            "caption": "Dante Exum dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Dante Exum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "11:00"
+            },
+            "caption": "Dante Exum makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Tim Hardaway Jr.",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "13:30"
+            },
+            "caption": "Tim Hardaway Jr. misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Tim Hardaway Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "15:00"
+            },
+            "caption": "Tim Hardaway Jr. gets the defensive rebound."
+        }
+    ]
+}

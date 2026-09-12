@@ -1,0 +1,63 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_26_home_team(white)_attack_befouled",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:50"
+            },
+            "caption": "Derrick White dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:00"
+            },
+            "caption": "Derrick White makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Kristaps Porzi艈模is",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "12:40"
+            },
+            "caption": "Kristaps Porzi艈模is holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Kristaps Porzi艈模is",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "13:40"
+            },
+            "caption": "Kristaps Porzi艈模is dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Kristaps Porzi艈模is",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "16:00"
+            },
+            "caption": "Kristaps Porzi艈模is is fouled on a 2-pt shot attempt."
+        }
+    ]
+}

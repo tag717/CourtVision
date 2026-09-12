@@ -1,0 +1,41 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_163_away_team(blue)_attack_successed_3pt",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "01:40"
+            },
+            "caption": "Jaren Jackson Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "02:40"
+            },
+            "caption": "Jaren Jackson Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Desmond Bane",
+            "result": "made",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "04:40"
+            },
+            "caption": "Desmond Bane makes 3-pt jump shot."
+        }
+    ]
+}

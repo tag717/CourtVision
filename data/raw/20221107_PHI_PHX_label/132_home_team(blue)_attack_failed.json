@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_132_home_team(blue)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Joel Embiid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:00"
+            },
+            "caption": "Joel Embiid dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Joel Embiid",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:50"
+            },
+            "caption": "Joel Embiid misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:00"
+            },
+            "caption": "Mikal Bridges gets the defensive rebound."
+        }
+    ]
+}

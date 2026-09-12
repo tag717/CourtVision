@@ -1,0 +1,118 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_187_home_team(black)_steal&fastbreak_successed_3pt",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Nikola Jokić turnover: bad pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "Keldon Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:20"
+            },
+            "caption": "Keldon Johnson steals the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Keldon Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:20"
+            },
+            "caption": "Keldon Johnson makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "06:00"
+            },
+            "caption": "Tre Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:20"
+            },
+            "caption": "Tre Jones makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Keldon Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:10"
+            },
+            "caption": "Keldon Johnson dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Keldon Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:00"
+            },
+            "caption": "Keldon Johnson makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "10:00"
+            },
+            "caption": "Tre Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "10:10"
+            },
+            "caption": "Tre Jones makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "2ptShot",
+            "player": "Josh Richardson",
+            "result": "made",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "12:20"
+            },
+            "caption": "Josh Richardson makes 2-pt jump shot."
+        }
+    ]
+}

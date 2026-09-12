@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_62_home_team(blue)_freethrow_successed",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Joel Embiid",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "Joel Embiid makes free throw."
+        }
+    ]
+}

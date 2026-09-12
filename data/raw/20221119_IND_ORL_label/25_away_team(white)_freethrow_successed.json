@@ -1,0 +1,19 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_25_away_team(white)_freethrow_successed",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Chuma Okeke",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Chuma Okeke makes free throw."
+        }
+    ]
+}

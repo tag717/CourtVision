@@ -1,0 +1,140 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_174_away_team(white)_attack_outside",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Vlatko Čančar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Vlatko Čančar inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "06:00"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:00"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:00"
+            },
+            "caption": "Kentavious Caldwell-Pope makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "10:50"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "11:20"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Vlatko Čančar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:20"
+            },
+            "caption": "Vlatko Čančar makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Hold",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "14:00"
+            },
+            "caption": "Bones Hyland holds the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "16:10"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "17:10"
+            },
+            "caption": "Jeff Green makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:10",
+                "end": "18:40"
+            },
+            "caption": "Jeff Green dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "3ptShot",
+            "player": "Jeff Green",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "18:40",
+                "end": "21:00"
+            },
+            "caption": "Jeff Green misses 3-pt jump shot (out of bounds)."
+        }
+    ]
+}

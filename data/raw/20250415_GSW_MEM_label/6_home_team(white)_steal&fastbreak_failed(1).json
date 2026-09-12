@@ -1,0 +1,107 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_6_home_team(white)_steal&fastbreak_failed(1)",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Desmond Bane",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Desmond Bane inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "10:00"
+            },
+            "caption": "Ja Morant dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Ja Morant",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "10:10"
+            },
+            "caption": "Ja Morant turnover: bad pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Brandin Podziemski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "14:10"
+            },
+            "caption": "Brandin Podziemski dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Brandin Podziemski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "16:00"
+            },
+            "caption": "Brandin Podziemski makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "19:40"
+            },
+            "caption": "Jimmy Butler holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:40",
+                "end": "20:40"
+            },
+            "caption": "Jimmy Butler makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Brandin Podziemski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:40",
+                "end": "22:30"
+            },
+            "caption": "Brandin Podziemski makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "Moses Moody",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "22:30",
+                "end": "26:00"
+            },
+            "caption": "Moses Moody misses 3-pt jump shot."
+        }
+    ]
+}

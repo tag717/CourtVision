@@ -1,0 +1,19 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_106_away_team(black)_attack_befouled",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jordan Poole",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Jordan Poole is fouled while dribbling."
+        }
+    ]
+}

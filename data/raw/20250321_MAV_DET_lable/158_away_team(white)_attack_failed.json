@@ -1,0 +1,74 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_158_away_team(white)_attack_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:10"
+            },
+            "caption": "Dennis Schröder dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:00"
+            },
+            "caption": "Dennis Schröder makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Simone Fontecchio",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "10:20"
+            },
+            "caption": "Simone Fontecchio makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "15:00"
+            },
+            "caption": "Dennis Schröder dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Dennis Schröder",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "17:00"
+            },
+            "caption": "Dennis Schröder misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "17:30"
+            },
+            "caption": "P.J. Washington gets the defensive rebound."
+        }
+    ]
+}

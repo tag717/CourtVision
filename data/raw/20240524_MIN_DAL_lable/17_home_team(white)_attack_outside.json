@@ -1,0 +1,63 @@
+{
+    "video_id": "20240524_MIN_DAL",
+    "possession_id": "poss_17_home_team(white)_attack_outside",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Rudy Gobert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Rudy Gobert dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Rudy Gobert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:00"
+            },
+            "caption": "Rudy Gobert makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "2ptShot",
+            "player": "Karl-Anthony Towns",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:00"
+            },
+            "caption": "Karl-Anthony Towns misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "OffensiveRebound",
+            "player": "Rudy Gobert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "04:20"
+            },
+            "caption": "Rudy Gobert gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Rudy Gobert",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:20"
+            },
+            "caption": "Rudy Gobert turnover: pass out of bounds."
+        }
+    ]
+}

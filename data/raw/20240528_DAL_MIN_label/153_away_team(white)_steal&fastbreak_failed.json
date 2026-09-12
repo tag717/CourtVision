@@ -1,0 +1,195 @@
+{
+    "video_id": "20240528_DAL_MIN",
+    "possession_id": "poss_153_away_team(white)_steal&fastbreak_failed",
+    "home_team": "DAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "P.J. Washington dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:00"
+            },
+            "caption": "P.J. Washington makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Maxi Kleber",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:00"
+            },
+            "caption": "Maxi Kleber makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:40"
+            },
+            "caption": "Jaden Hardy dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:20"
+            },
+            "caption": "Jaden Hardy makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "13:30"
+            },
+            "caption": "Kyrie Irving holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "15:10"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Maxi Kleber",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "18:40"
+            },
+            "caption": "Maxi Kleber misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "OffensiveRebound",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:40",
+                "end": "19:40"
+            },
+            "caption": "Kyrie Irving gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:40",
+                "end": "21:40"
+            },
+            "caption": "Kyrie Irving makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Josh Green",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "21:40",
+                "end": "27:20"
+            },
+            "caption": "Josh Green turnover: bad pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Nickeil Alexander-Walker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "27:20",
+                "end": "28:40"
+            },
+            "caption": "Nickeil Alexander-Walker makes a pass."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "PassBall",
+            "player": "Kyle Anderson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "28:40",
+                "end": "31:30"
+            },
+            "caption": "Kyle Anderson makes a pass."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "31:30",
+                "end": "46:40"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "46:40",
+                "end": "48:10"
+            },
+            "caption": "Anthony Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_16",
+            "event_label": "3ptShot",
+            "player": "Nickeil Alexander-Walker",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "48:10",
+                "end": "50:20"
+            },
+            "caption": "Nickeil Alexander-Walker misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_17",
+            "event_label": "DefensiveRebound",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "50:20",
+                "end": "51:30"
+            },
+            "caption": "Jaden Hardy gets the defensive rebound."
+        }
+    ]
+}

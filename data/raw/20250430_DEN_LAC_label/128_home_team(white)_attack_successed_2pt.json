@@ -1,0 +1,96 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_128_home_team(white)_attack_successed_2pt",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Michael Porter Jr. inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "04:30"
+            },
+            "caption": "Christian Braun dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:00"
+            },
+            "caption": "Christian Braun hands off the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "11:20"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "13:10"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "19:10"
+            },
+            "caption": "Nikola Jokić dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Nikola Jokić",
+            "result": "made",
+            "timestamp_video": {
+                "start": "19:10",
+                "end": "20:30"
+            },
+            "caption": "Nikola Jokić makes layup."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dunk",
+            "player": "Aaron Gordon",
+            "result": "made",
+            "timestamp_video": {
+                "start": "22:10",
+                "end": "24:00"
+            },
+            "caption": "Aaron Gordon makes dunk."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_108_away_team(white)_attack_successed_2pt",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Norman Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Norman Powell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Norman Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:30"
+            },
+            "caption": "Norman Powell makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Ivica Zubac",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "09:20"
+            },
+            "caption": "Ivica Zubac dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Ivica Zubac",
+            "result": "made",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "11:00"
+            },
+            "caption": "Ivica Zubac makes layup."
+        }
+    ]
+}

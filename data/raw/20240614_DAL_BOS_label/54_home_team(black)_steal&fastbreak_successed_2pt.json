@@ -1,0 +1,173 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_54_home_team(black)_steal&fastbreak_successed_2pt",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:20"
+            },
+            "caption": "Jayson Tatum makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "03:30"
+            },
+            "caption": "Derrick White dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:10"
+            },
+            "caption": "Derrick White makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:30"
+            },
+            "caption": "Jayson Tatum dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Steal",
+            "player": "Josh Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "07:10"
+            },
+            "caption": "Josh Green steals the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Josh Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:30"
+            },
+            "caption": "Josh Green makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:10"
+            },
+            "caption": "P.J. Washington makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "22:10"
+            },
+            "caption": "Luka Dončić dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:10",
+                "end": "23:40"
+            },
+            "caption": "Luka Dončić makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "3ptShot",
+            "player": "P.J. Washington",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "23:40",
+                "end": "25:40"
+            },
+            "caption": "P.J. Washington misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "OffensiveRebound",
+            "player": "Dereck Lively II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "25:40",
+                "end": "26:40"
+            },
+            "caption": "Dereck Lively II gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Dereck Lively II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "26:40",
+                "end": "27:40"
+            },
+            "caption": "Dereck Lively II makes a pass."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "PassBall",
+            "player": "Josh Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "27:40",
+                "end": "30:40"
+            },
+            "caption": "Josh Green makes a pass."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "Dribble",
+            "player": "Dante Exum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "30:40",
+                "end": "36:20"
+            },
+            "caption": "Dante Exum dribbles the ball."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "Layup",
+            "player": "Dante Exum",
+            "result": "made",
+            "timestamp_video": {
+                "start": "36:20",
+                "end": "38:00"
+            },
+            "caption": "Dante Exum makes layup."
+        }
+    ]
+}

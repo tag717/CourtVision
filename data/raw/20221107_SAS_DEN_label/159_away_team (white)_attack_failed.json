@@ -1,0 +1,52 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_159_away_team (white)_attack_failed",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:50"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Bones Hyland",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "07:40"
+            },
+            "caption": "Bones Hyland misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PutBack",
+            "player": "DeAndre Jordan",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "09:30"
+            },
+            "caption": "DeAndre Jordan misses putback layup."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:00"
+            },
+            "caption": "Devin Vassell gets the defensive rebound."
+        }
+    ]
+}

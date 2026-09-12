@@ -1,0 +1,85 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_171_away_team(white)_attack_failed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Peyton Watson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Peyton Watson makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "06:40"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "08:30"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Peyton Watson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:40"
+            },
+            "caption": "Peyton Watson dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Peyton Watson",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "11:50"
+            },
+            "caption": "Peyton Watson misses layup."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Aaron Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "12:50"
+            },
+            "caption": "Aaron Wiggins gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Aaron Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:50",
+                "end": "14:00"
+            },
+            "caption": "Aaron Wiggins dribbles the ball."
+        }
+    ]
+}

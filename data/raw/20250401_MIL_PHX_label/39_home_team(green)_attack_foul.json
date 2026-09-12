@@ -1,0 +1,140 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_39_home_team(green)_attack_foul",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "09:10"
+            },
+            "caption": "Unknown Player dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:00"
+            },
+            "caption": "Unknown Player makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Pat Connaughton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "12:00"
+            },
+            "caption": "Pat Connaughton dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Pat Connaughton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "14:10"
+            },
+            "caption": "Pat Connaughton makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Gary Trent Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "14:50"
+            },
+            "caption": "Gary Trent Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "19:30"
+            },
+            "caption": "Unknown Player dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:30",
+                "end": "20:30"
+            },
+            "caption": "Unknown Player makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:30",
+                "end": "22:10"
+            },
+            "caption": "Giannis Antetokounmpo dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "2ptShot",
+            "player": "Giannis Antetokounmpo",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "22:10",
+                "end": "24:00"
+            },
+            "caption": "Giannis Antetokounmpo misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "24:00",
+                "end": "26:00"
+            },
+            "caption": "Unknown Player gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "26:40",
+                "end": "27:00"
+            },
+            "caption": "Unknown Player dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "27:50",
+                "end": "28:30"
+            },
+            "caption": "Unknown Player makes a pass."
+        }
+    ]
+}

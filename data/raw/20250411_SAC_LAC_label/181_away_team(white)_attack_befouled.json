@@ -1,0 +1,52 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_181_away_team(white)_attack_befouled",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Derrick Jones Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "01:30"
+            },
+            "caption": "Derrick Jones Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "08:30"
+            },
+            "caption": "James Harden holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "14:20"
+            },
+            "caption": "James Harden dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "James Harden",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "17:00"
+            },
+            "caption": "James Harden is fouled on a layup attempt."
+        }
+    ]
+}

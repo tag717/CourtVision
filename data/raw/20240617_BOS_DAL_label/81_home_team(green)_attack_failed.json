@@ -1,0 +1,52 @@
+{
+    "video_id": "20240617_BOS_DAL",
+    "possession_id": "poss_81_home_team(green)_attack_failed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Derrick White makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "03:50"
+            },
+            "caption": "Jaylen Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Jaylen Brown",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "05:40"
+            },
+            "caption": "Jaylen Brown misses layup."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Daniel Gafford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "07:00"
+            },
+            "caption": "Daniel Gafford gets the defensive rebound."
+        }
+    ]
+}

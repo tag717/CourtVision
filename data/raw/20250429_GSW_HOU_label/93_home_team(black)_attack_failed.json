@@ -1,0 +1,41 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_93_home_team(black)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Quinten Post",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Quinten Post inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Brandin Podziemski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "18:10"
+            },
+            "caption": "Brandin Podziemski dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Brandin Podziemski",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "18:10",
+                "end": "20:10"
+            },
+            "caption": "Brandin Podziemski misses 3-pt jump shot."
+        }
+    ]
+}

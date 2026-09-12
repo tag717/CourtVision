@@ -1,0 +1,129 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_187_away_team(white)_steal&fastbreak_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Naji Marshall",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Naji Marshall dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Naji Marshall",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:20"
+            },
+            "caption": "Naji Marshall makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "10:20"
+            },
+            "caption": "P.J. Washington dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:10"
+            },
+            "caption": "P.J. Washington makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Steal",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:00"
+            },
+            "caption": "Isaiah Stewart steals the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "12:30"
+            },
+            "caption": "Isaiah Stewart makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Malik Beasley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "17:20"
+            },
+            "caption": "Malik Beasley dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Malik Beasley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "18:00"
+            },
+            "caption": "Malik Beasley makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "20:10"
+            },
+            "caption": "Cade Cunningham makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "3ptShot",
+            "player": "Dennis Schröder",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "20:10",
+                "end": "23:00"
+            },
+            "caption": "Dennis Schröder misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "DefensiveRebound",
+            "player": "Naji Marshall",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:00",
+                "end": "23:20"
+            },
+            "caption": "Naji Marshall gets the defensive rebound."
+        }
+    ]
+}

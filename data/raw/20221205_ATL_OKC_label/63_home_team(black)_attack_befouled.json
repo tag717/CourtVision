@@ -1,0 +1,63 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_63_home_team(black)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:40"
+            },
+            "caption": "Dejounte Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "05:40"
+            },
+            "caption": "Dejounte Murray makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Bogdan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:40"
+            },
+            "caption": "Bogdan Bogdanović dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Bogdan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:20"
+            },
+            "caption": "Bogdan Bogdanović makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Onyeka Okongwu",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "09:00"
+            },
+            "caption": "Onyeka Okongwu is fouled on a layup attempt."
+        }
+    ]
+}

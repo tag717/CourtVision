@@ -1,0 +1,63 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_60_home_team(green)_attack_befouled",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Tyus Jones inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "01:20"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:50"
+            },
+            "caption": "Devin Booker makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "06:10"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:40"
+            },
+            "caption": "Tyus Jones makes a pass."
+        }
+    ]
+}

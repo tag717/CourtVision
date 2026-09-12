@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_90_away_team (white)_attack_failed",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:10"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Jamal Murray",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "08:00"
+            },
+            "caption": "Jamal Murray misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Keldon Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "08:50"
+            },
+            "caption": "Keldon Johnson gets the defensive rebound."
+        }
+    ]
+}

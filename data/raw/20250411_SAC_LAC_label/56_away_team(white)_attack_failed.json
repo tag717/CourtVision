@@ -1,0 +1,85 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_56_away_team(white)_attack_failed",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bogdan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:20"
+            },
+            "caption": "Bogdan Bogdanović dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Bogdan Bogdanović",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "06:30"
+            },
+            "caption": "Bogdan Bogdanović misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "OffensiveRebound",
+            "player": "Derrick Jones Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:40"
+            },
+            "caption": "Derrick Jones Jr. gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Derrick Jones Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:40"
+            },
+            "caption": "Derrick Jones Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "HandOff",
+            "player": "Derrick Jones Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:20"
+            },
+            "caption": "Derrick Jones Jr. hands off the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Bogdan Bogdanović",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "11:30"
+            },
+            "caption": "Bogdan Bogdanović misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "13:00"
+            },
+            "caption": "Domantas Sabonis gets the defensive rebound."
+        }
+    ]
+}

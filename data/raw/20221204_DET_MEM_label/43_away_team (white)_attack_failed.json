@@ -1,0 +1,129 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_43_away_team (white)_attack_failed",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "Dillon Brooks dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:20"
+            },
+            "caption": "Dillon Brooks makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:30"
+            },
+            "caption": "Tyus Jones hands off the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "10:30"
+            },
+            "caption": "Dillon Brooks holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "12:30"
+            },
+            "caption": "Dillon Brooks dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "13:20"
+            },
+            "caption": "Dillon Brooks makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:10"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "HandOff",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "14:40"
+            },
+            "caption": "Tyus Jones hands off the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "John Konchar",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:40",
+                "end": "16:00"
+            },
+            "caption": "John Konchar misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "Alec Burks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "18:20"
+            },
+            "caption": "Alec Burks gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Alec Burks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:20",
+                "end": "19:00"
+            },
+            "caption": "Alec Burks dribbles the ball."
+        }
+    ]
+}

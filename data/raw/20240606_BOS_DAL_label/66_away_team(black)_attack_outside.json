@@ -1,0 +1,52 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_66_away_team(black)_attack_outside",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "HandOff",
+            "player": "Dereck Lively II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "03:10"
+            },
+            "caption": "Dereck Lively II hands off the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "09:00"
+            },
+            "caption": "Luka Dončić holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:50"
+            },
+            "caption": "Luka Dončić dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "12:00"
+            },
+            "caption": "Luka Dončić makes a pass."
+        }
+    ]
+}

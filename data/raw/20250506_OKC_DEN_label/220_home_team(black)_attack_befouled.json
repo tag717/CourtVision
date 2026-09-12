@@ -1,0 +1,30 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_220_home_team(black)_attack_befouled",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Alex Caruso",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:10"
+            },
+            "caption": "Alex Caruso inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Chet Holmgren",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:20"
+            },
+            "caption": "Chet Holmgren is fouled while holding the ball."
+        }
+    ]
+}

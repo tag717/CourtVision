@@ -1,0 +1,85 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_55_home_team(white)_attack_failed",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:40"
+            },
+            "caption": "Nikola Jokić dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:20"
+            },
+            "caption": "Nikola Jokić makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Russell Westbrook",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "06:40"
+            },
+            "caption": "Russell Westbrook dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Russell Westbrook",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:10"
+            },
+            "caption": "Russell Westbrook makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "09:50"
+            },
+            "caption": "Nikola Jokić holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "12:20"
+            },
+            "caption": "Nikola Jokić dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "2ptShot",
+            "player": "Nikola Jokić",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "17:00"
+            },
+            "caption": "Nikola Jokić misses 2-pt jump shot."
+        }
+    ]
+}

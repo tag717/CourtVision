@@ -1,0 +1,74 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_123_home_team(black)_attack_failed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Alex Caruso",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "Alex Caruso dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Alex Caruso",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "03:10"
+            },
+            "caption": "Alex Caruso makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "Chet Holmgren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:10"
+            },
+            "caption": "Chet Holmgren hands off the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Alex Caruso",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "07:00"
+            },
+            "caption": "Alex Caruso makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "09:00"
+            },
+            "caption": "Shai Gilgeous-Alexander misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:10"
+            },
+            "caption": "Nikola Jokić gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_53_away_team(blue)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Derrick Rose",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:30"
+            },
+            "caption": "Derrick Rose dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Derrick Rose",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:30"
+            },
+            "caption": "Derrick Rose makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Obi Toppin",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "06:50"
+            },
+            "caption": "Obi Toppin misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "OffensiveRebound",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "09:00"
+            },
+            "caption": "Immanuel Quickley gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:30"
+            },
+            "caption": "Immanuel Quickley makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Obi Toppin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:10"
+            },
+            "caption": "Obi Toppin makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Derrick Rose",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "13:30"
+            },
+            "caption": "Derrick Rose dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Derrick Rose",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "16:30"
+            },
+            "caption": "Derrick Rose misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "OffensiveRebound",
+            "player": "Isaiah Hartenstein",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "17:40"
+            },
+            "caption": "Isaiah Hartenstein gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PutBack",
+            "player": "Isaiah Hartenstein",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "17:40",
+                "end": "20:00"
+            },
+            "caption": "Isaiah Hartenstein is fouled on a putback attempt."
+        }
+    ]
+}

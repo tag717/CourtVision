@@ -1,0 +1,74 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_103_away_team (blue)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Scotty Pippen Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:00"
+            },
+            "caption": "Scotty Pippen Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Scotty Pippen Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:10"
+            },
+            "caption": "Scotty Pippen Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "09:20"
+            },
+            "caption": "Ja Morant dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:30"
+            },
+            "caption": "Ja Morant makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Zach Edey",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "12:10"
+            },
+            "caption": "Zach Edey misses layup."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "14:00"
+            },
+            "caption": "Stephen Curry gets the defensive rebound."
+        }
+    ]
+}

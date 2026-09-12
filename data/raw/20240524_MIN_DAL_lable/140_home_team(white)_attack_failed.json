@@ -1,0 +1,107 @@
+{
+    "video_id": "20240524_MIN_DAL",
+    "possession_id": "poss_140_home_team(white)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:10"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "07:20"
+            },
+            "caption": "Anthony Edwards holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:10"
+            },
+            "caption": "Anthony Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "11:00"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:00"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:20"
+            },
+            "caption": "Karl-Anthony Towns makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Rudy Gobert",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "18:20"
+            },
+            "caption": "Rudy Gobert misses layup."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:20",
+                "end": "19:00"
+            },
+            "caption": "Luka Dončić gets the defensive rebound."
+        }
+    ]
+}

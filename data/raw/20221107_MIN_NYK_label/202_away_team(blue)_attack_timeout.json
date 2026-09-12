@@ -1,0 +1,96 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_202_away_team(blue)_attack_timeout",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:10"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:00"
+            },
+            "caption": "Jalen Brunson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "15:30"
+            },
+            "caption": "Julius Randle dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "16:10"
+            },
+            "caption": "Julius Randle makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "RJ Barrett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "18:10"
+            },
+            "caption": "RJ Barrett dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "RJ Barrett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:10",
+                "end": "19:40"
+            },
+            "caption": "RJ Barrett makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Obi Toppin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:40",
+                "end": "22:00"
+            },
+            "caption": "Obi Toppin dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Obi Toppin",
+            "result": "timeout",
+            "timestamp_video": {
+                "start": "22:00",
+                "end": "25:00"
+            },
+            "caption": "Obi Toppin calls a timeout before a 3-pt shot."
+        }
+    ]
+}

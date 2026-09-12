@@ -1,0 +1,96 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_203_away_team(black)_steal&fastbreak_successed_2pt",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Dominick Barlow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Dominick Barlow holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Dominick Barlow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "02:50"
+            },
+            "caption": "Dominick Barlow dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Dominick Barlow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "03:30"
+            },
+            "caption": "Dominick Barlow makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Zaccharie Risacher",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "07:10"
+            },
+            "caption": "Zaccharie Risacher dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Zaccharie Risacher",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "07:50"
+            },
+            "caption": "Zaccharie Risacher turnover: bad pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Steal",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "08:40"
+            },
+            "caption": "Shaedon Sharpe steals the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "10:20"
+            },
+            "caption": "Shaedon Sharpe dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dunk",
+            "player": "Shaedon Sharpe",
+            "result": "made",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:20"
+            },
+            "caption": "Shaedon Sharpe makes dunk."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_162_away_team(white)_attack_foul",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:30"
+            },
+            "caption": "Jaren Jackson Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "06:50"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "07:30"
+            },
+            "caption": "Tyus Jones makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Brandon Clarke",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "14:50"
+            },
+            "caption": "Brandon Clarke is fouled while dribbling."
+        }
+    ]
+}

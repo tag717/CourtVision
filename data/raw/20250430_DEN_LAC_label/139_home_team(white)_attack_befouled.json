@@ -1,0 +1,96 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_139_home_team(white)_attack_befouled",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Nikola Jokić dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:30"
+            },
+            "caption": "Nikola Jokić makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "10:10"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:00"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Russell Westbrook",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:20"
+            },
+            "caption": "Russell Westbrook makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "17:40"
+            },
+            "caption": "Aaron Gordon holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:40",
+                "end": "20:10"
+            },
+            "caption": "Aaron Gordon dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "2ptShot",
+            "player": "Aaron Gordon",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "20:10",
+                "end": "23:00"
+            },
+            "caption": "Aaron Gordon is fouled on a 2-pt shot attempt."
+        }
+    ]
+}

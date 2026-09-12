@@ -1,0 +1,30 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_133_home_team(blue)_attack_successed_3pt",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:50"
+            },
+            "caption": "Klay Thompson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Klay Thompson",
+            "result": "made",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "07:50"
+            },
+            "caption": "Klay Thompson makes 3-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_105_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:40"
+            },
+            "caption": "Jalen Green dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jalen Green",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:10"
+            },
+            "caption": "Jalen Green turnover: bad pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "05:00"
+            },
+            "caption": "Jimmy Butler dribbles the ball."
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_180_away_team(white)_attack_successed_3pt",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:40"
+            },
+            "caption": "De'Aaron Fox dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "05:10"
+            },
+            "caption": "De'Aaron Fox makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Keegan Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:50"
+            },
+            "caption": "Keegan Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Keegan Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "07:50"
+            },
+            "caption": "Keegan Murray makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Malik Monk",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "08:50"
+            },
+            "caption": "Malik Monk holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Malik Monk",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "09:50"
+            },
+            "caption": "Malik Monk dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "HandOff",
+            "player": "Malik Monk",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "10:10"
+            },
+            "caption": "Malik Monk hands off the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Terence Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:20"
+            },
+            "caption": "Terence Davis makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Hold",
+            "player": "Keegan Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:30"
+            },
+            "caption": "Keegan Murray holds the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Keegan Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "13:10"
+            },
+            "caption": "Keegan Murray makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Chimezie Metu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "14:20"
+            },
+            "caption": "Chimezie Metu dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Dribble",
+            "player": "Chimezie Metu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "17:50"
+            },
+            "caption": "Chimezie Metu dribbles the ball."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "PassBall",
+            "player": "Chimezie Metu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:50",
+                "end": "18:40"
+            },
+            "caption": "Chimezie Metu makes a pass."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "Hold",
+            "player": "Keegan Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:40",
+                "end": "19:20"
+            },
+            "caption": "Keegan Murray holds the ball."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "Dribble",
+            "player": "Keegan Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "20:40"
+            },
+            "caption": "Keegan Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_16",
+            "event_label": "PassBall",
+            "player": "Keegan Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:40",
+                "end": "21:30"
+            },
+            "caption": "Keegan Murray makes a pass."
+        },
+        {
+            "event_id": "ev_17",
+            "event_label": "Dribble",
+            "player": "Terence Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:30",
+                "end": "22:20"
+            },
+            "caption": "Terence Davis dribbles the ball."
+        },
+        {
+            "event_id": "ev_18",
+            "event_label": "3ptShot",
+            "player": "Terence Davis",
+            "result": "made",
+            "timestamp_video": {
+                "start": "22:20",
+                "end": "24:10"
+            },
+            "caption": "Terence Davis makes 3-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_202_home_team(black)_attack_failed",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:00"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:00"
+            },
+            "caption": "Tyrese Haliburton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "13:50"
+            },
+            "caption": "Buddy Hield dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:50",
+                "end": "15:00"
+            },
+            "caption": "Buddy Hield makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Aaron Nesmith",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "16:30"
+            },
+            "caption": "Aaron Nesmith misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "R.J. Hampton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "17:40"
+            },
+            "caption": "R.J. Hampton gets the defensive rebound."
+        }
+    ]
+}

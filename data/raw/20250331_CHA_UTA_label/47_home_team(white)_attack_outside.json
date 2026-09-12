@@ -1,0 +1,107 @@
+{
+    "video_id": "20250331_CHA_UTA",
+    "possession_id": "poss_47_home_team(white)_attack_outside",
+    "home_team": "CHA",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Nick Smith Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Nick Smith Jr. inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "DaQuan Jeffries",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "04:30"
+            },
+            "caption": "DaQuan Jeffries holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "DaQuan Jeffries",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:00"
+            },
+            "caption": "DaQuan Jeffries makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "KJ Simpson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:40"
+            },
+            "caption": "KJ Simpson dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "KJ Simpson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:50"
+            },
+            "caption": "KJ Simpson makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Tidjane Salaün",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "08:30"
+            },
+            "caption": "Tidjane Salaün makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Nick Smith Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:50"
+            },
+            "caption": "Nick Smith Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "DaQuan Jeffries",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "10:40"
+            },
+            "caption": "DaQuan Jeffries makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "KJ Simpson",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "13:00"
+            },
+            "caption": "KJ Simpson turnover: pass out of bounds."
+        }
+    ]
+}

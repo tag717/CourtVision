@@ -1,0 +1,52 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_154_away_team (blue)_attack_failed",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:00"
+            },
+            "caption": "Shai Gilgeous-Alexander dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:10"
+            },
+            "caption": "Shai Gilgeous-Alexander makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Lindy Waters III",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "10:40"
+            },
+            "caption": "Lindy Waters III misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Brandon Clarke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "11:20"
+            },
+            "caption": "Brandon Clarke gets the defensive rebound."
+        }
+    ]
+}

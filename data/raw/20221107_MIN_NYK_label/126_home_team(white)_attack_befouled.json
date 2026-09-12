@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_126_home_team(white)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Anthony Edwards holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "05:00"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Anthony Edwards",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "07:00"
+            },
+            "caption": "Anthony Edwards is fouled on a layup attempt."
+        }
+    ]
+}

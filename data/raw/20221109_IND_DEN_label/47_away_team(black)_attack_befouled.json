@@ -1,0 +1,85 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_47_away_team(black)_attack_befouled",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:20"
+            },
+            "caption": "Michael Porter Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:00"
+            },
+            "caption": "Michael Porter Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:20"
+            },
+            "caption": "Jeff Green dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:10"
+            },
+            "caption": "Jeff Green makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "10:00"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:00"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dunk",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:00"
+            },
+            "caption": "Kentavious Caldwell-Pope is fouled on a dunk attempt."
+        }
+    ]
+}

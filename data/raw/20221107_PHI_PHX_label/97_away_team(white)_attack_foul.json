@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_97_away_team(white)_attack_foul",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cameron Payne",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:30"
+            },
+            "caption": "Cameron Payne dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Cameron Payne",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:50"
+            },
+            "caption": "Cameron Payne misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Torrey Craig",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "07:30"
+            },
+            "caption": "Torrey Craig is fouled while holding the ball."
+        }
+    ]
+}

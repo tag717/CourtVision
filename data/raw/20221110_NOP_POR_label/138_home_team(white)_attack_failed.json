@@ -1,0 +1,85 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_138_home_team(white)_attack_failed",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Jonas Valančiūnas",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Jonas Valančiūnas inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "05:00"
+            },
+            "caption": "CJ McCollum dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:30"
+            },
+            "caption": "CJ McCollum makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jonas Valančiūnas",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:00"
+            },
+            "caption": "Jonas Valančiūnas makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:50"
+            },
+            "caption": "CJ McCollum dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "CJ McCollum",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "09:10"
+            },
+            "caption": "CJ McCollum misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Drew Eubanks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "09:50"
+            },
+            "caption": "Drew Eubanks gets the defensive rebound."
+        }
+    ]
+}

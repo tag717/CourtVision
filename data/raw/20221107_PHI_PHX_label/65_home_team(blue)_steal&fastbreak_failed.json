@@ -1,0 +1,74 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_65_home_team(blue)_steal&fastbreak_failed",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Chris Paul",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:50"
+            },
+            "caption": "Chris Paul dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Chris Paul",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "09:10"
+            },
+            "caption": "Chris Paul makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "Georges Niang.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "09:20"
+            },
+            "caption": "Georges Niang. steals the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Georges Niang.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "12:00"
+            },
+            "caption": "Georges Niang. dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Steal",
+            "player": "Landry Shamet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:30"
+            },
+            "caption": "Landry Shamet steals the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Landry Shamet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:00"
+            },
+            "caption": "Landry Shamet dribbles the ball."
+        }
+    ]
+}

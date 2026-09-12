@@ -1,0 +1,52 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_73_home_team(white)_attack_befouled",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ricky Council IV",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:10"
+            },
+            "caption": "Ricky Council IV dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Ricky Council IV",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "06:30"
+            },
+            "caption": "Ricky Council IV misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "OffensiveRebound",
+            "player": "Ricky Council IV",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "06:40"
+            },
+            "caption": "Ricky Council IV gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Ricky Council IV",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "08:10"
+            },
+            "caption": "Ricky Council IV is fouled while dribbling."
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_63_away_team (black)_attack_failed",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Bruce Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "03:20"
+            },
+            "caption": "Bruce Brown makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:20"
+            },
+            "caption": "Jeff Green makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "DeAndre Jordan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "06:20"
+            },
+            "caption": "DeAndre Jordan holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:00"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:10"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Jeff Green",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "10:30"
+            },
+            "caption": "Jeff Green misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Isaiah Jackson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:10"
+            },
+            "caption": "Isaiah Jackson gets the defensive rebound."
+        }
+    ]
+}

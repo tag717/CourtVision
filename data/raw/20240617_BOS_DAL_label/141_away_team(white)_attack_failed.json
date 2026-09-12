@@ -1,0 +1,52 @@
+{
+    "video_id": "20240617_BOS_DAL",
+    "possession_id": "poss_141_away_team(white)_attack_failed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:50"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "08:40"
+            },
+            "caption": "Kyrie Irving makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Olivier-Maxence Prosper",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "10:40"
+            },
+            "caption": "Olivier-Maxence Prosper misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "12:00"
+            },
+            "caption": "Jaylen Brown gets the defensive rebound."
+        }
+    ]
+}

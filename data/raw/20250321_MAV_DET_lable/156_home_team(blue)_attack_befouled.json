@@ -1,0 +1,41 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_156_home_team(blue)_attack_befouled",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Brandon Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:20"
+            },
+            "caption": "Brandon Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Brandon Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:10"
+            },
+            "caption": "Brandon Williams makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Max Christie",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "12:00"
+            },
+            "caption": "Max Christie is fouled while dribbling."
+        }
+    ]
+}

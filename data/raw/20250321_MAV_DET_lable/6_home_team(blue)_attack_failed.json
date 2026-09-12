@@ -1,0 +1,41 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_6_home_team(blue)_attack_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Naji Marshall",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Naji Marshall dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Naji Marshall",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:00"
+            },
+            "caption": "Naji Marshall misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "04:20"
+            },
+            "caption": "Cade Cunningham gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_155_home_team(white)_attack_failed",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "15:00"
+            },
+            "caption": "T.J. McConnell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "15:30"
+            },
+            "caption": "T.J. McConnell makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Isaiah Jackson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "16:20"
+            },
+            "caption": "Isaiah Jackson holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Isaiah Jackson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "16:40"
+            },
+            "caption": "Isaiah Jackson makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:40",
+                "end": "18:00"
+            },
+            "caption": "T.J. McConnell dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "19:00"
+            },
+            "caption": "T.J. McConnell makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Aaron Nesmith",
+            "result": "made",
+            "timestamp_video": {
+                "start": "19:40",
+                "end": "21:10"
+            },
+            "caption": "Aaron Nesmith makes 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:20",
+                "end": "22:00"
+            },
+            "caption": "Kentavious Caldwell-Pope gets the defensive rebound."
+        }
+    ]
+}

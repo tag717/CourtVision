@@ -1,0 +1,63 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_107_home_team(black)_attack_failed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Jaylin Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Jaylin Williams inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "11:00"
+            },
+            "caption": "Jalen Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:00"
+            },
+            "caption": "Jalen Williams makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "15:30"
+            },
+            "caption": "Shai Gilgeous-Alexander misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "17:00"
+            },
+            "caption": "Aaron Gordon gets the defensive rebound."
+        }
+    ]
+}

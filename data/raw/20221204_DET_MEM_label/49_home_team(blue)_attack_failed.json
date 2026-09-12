@@ -1,0 +1,85 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_49_home_team(blue)_attack_failed",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Cory Joseph dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:10"
+            },
+            "caption": "Cory Joseph makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Alec Burks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:00"
+            },
+            "caption": "Alec Burks holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Alec Burks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:30"
+            },
+            "caption": "Alec Burks dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Alec Burks",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "07:30"
+            },
+            "caption": "Alec Burks misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Brandon Clarke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:20"
+            },
+            "caption": "Brandon Clarke gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Brandon Clarke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:00"
+            },
+            "caption": "Brandon Clarke dribbles the ball."
+        }
+    ]
+}

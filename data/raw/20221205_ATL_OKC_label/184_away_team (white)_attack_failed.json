@@ -1,0 +1,41 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_184_away_team (white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:30"
+            },
+            "caption": "Shai Gilgeous-Alexander dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:40"
+            },
+            "caption": "Shai Gilgeous-Alexander misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Jarrett Culver",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:10"
+            },
+            "caption": "Jarrett Culver gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_19_home_team(black)_attack_befouled",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dillon Brooks",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:01"
+            },
+            "caption": "Dillon Brooks turnover: out of bounds lost ball."
+        }
+    ]
+}

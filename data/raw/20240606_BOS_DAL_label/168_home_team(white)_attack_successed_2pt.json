@@ -1,0 +1,118 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_168_home_team(white)_attack_successed_2pt",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Payton Pritchard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "12:30"
+            },
+            "caption": "Payton Pritchard dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Payton Pritchard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "13:20"
+            },
+            "caption": "Payton Pritchard makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "15:20"
+            },
+            "caption": "Jayson Tatum holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "16:00"
+            },
+            "caption": "Jayson Tatum dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Jayson Tatum",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "17:50"
+            },
+            "caption": "Jayson Tatum misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "OffensiveRebound",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:50",
+                "end": "18:50"
+            },
+            "caption": "Jrue Holiday gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:50",
+                "end": "19:20"
+            },
+            "caption": "Jrue Holiday dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "HandOff",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "20:00"
+            },
+            "caption": "Jrue Holiday hands off the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Layup",
+            "player": "Jayson Tatum",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "21:40"
+            },
+            "caption": "Jayson Tatum misses layup."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PutBack",
+            "player": "Al Horford",
+            "result": "made",
+            "timestamp_video": {
+                "start": "21:40",
+                "end": "24:00"
+            },
+            "caption": "Al Horford makes putback layup."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_133_home_team(white)_attack_failed",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ausar Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:50"
+            },
+            "caption": "Ausar Thompson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Ausar Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "06:30"
+            },
+            "caption": "Ausar Thompson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "17:10"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "2ptShot",
+            "player": "Cade Cunningham",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "18:50"
+            },
+            "caption": "Cade Cunningham misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:50",
+                "end": "20:00"
+            },
+            "caption": "Mikal Bridges gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:10",
+                "end": "21:00"
+            },
+            "caption": "Mikal Bridges dribbles the ball."
+        }
+    ]
+}

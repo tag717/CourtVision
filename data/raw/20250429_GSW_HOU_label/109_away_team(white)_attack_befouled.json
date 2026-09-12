@@ -1,0 +1,74 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_109_away_team(white)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Amen Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:40"
+            },
+            "caption": "Amen Thompson makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "06:40"
+            },
+            "caption": "Fred VanVleet dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:50"
+            },
+            "caption": "Fred VanVleet makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Alperen Şengün",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "12:30"
+            },
+            "caption": "Alperen Şengün holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Alperen Şengün",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "13:10"
+            },
+            "caption": "Alperen Şengün makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Amen Thompson",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "16:20"
+            },
+            "caption": "Amen Thompson is fouled on a layup attempt."
+        }
+    ]
+}

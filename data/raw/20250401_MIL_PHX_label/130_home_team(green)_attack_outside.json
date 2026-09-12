@@ -1,0 +1,30 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_130_home_team(green)_attack_outside",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Kyle Kuzma",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "01:30"
+            },
+            "caption": "Kyle Kuzma makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Taurean Prince",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "03:20"
+            },
+            "caption": "Taurean Prince holds the ball."
+        }
+    ]
+}

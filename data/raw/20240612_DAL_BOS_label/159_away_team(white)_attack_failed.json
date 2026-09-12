@@ -1,0 +1,85 @@
+{
+    "video_id": "20240612_DAL_BOS",
+    "possession_id": "poss_159_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Payton Pritchard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:10"
+            },
+            "caption": "Payton Pritchard dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Payton Pritchard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:00"
+            },
+            "caption": "Payton Pritchard makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:00"
+            },
+            "caption": "Jrue Holiday dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "08:40"
+            },
+            "caption": "Jrue Holiday makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Payton Pritchard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "11:10"
+            },
+            "caption": "Payton Pritchard dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Payton Pritchard",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "13:20"
+            },
+            "caption": "Payton Pritchard misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "13:40"
+            },
+            "caption": "Luka Dončić gets the defensive rebound."
+        }
+    ]
+}

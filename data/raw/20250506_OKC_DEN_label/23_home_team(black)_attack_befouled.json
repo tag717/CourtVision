@@ -1,0 +1,19 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_23_home_team(black)_attack_befouled",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Layup",
+            "player": "Jalen Williams",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "03:20"
+            },
+            "caption": "Jalen Williams is fouled on a layup attempt."
+        }
+    ]
+}

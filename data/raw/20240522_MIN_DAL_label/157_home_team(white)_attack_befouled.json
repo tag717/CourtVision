@@ -1,0 +1,85 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_157_home_team(white)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "12:00"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "12:20"
+            },
+            "caption": "Anthony Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Rudy Gobert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "13:10"
+            },
+            "caption": "Rudy Gobert makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "15:30"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "16:20"
+            },
+            "caption": "Anthony Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "18:10"
+            },
+            "caption": "Naz Reid dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Naz Reid",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "18:10",
+                "end": "19:10"
+            },
+            "caption": "Naz Reid is fouled on a layup attempt."
+        }
+    ]
+}

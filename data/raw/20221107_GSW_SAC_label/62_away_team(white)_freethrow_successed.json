@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_62_away_team(white)_freethrow_successed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Malik Monk",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:30"
+            },
+            "caption": "Malik Monk makes free throw."
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_15_home_team(white)_attack_befouled",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Christian Braun dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "01:50"
+            },
+            "caption": "Christian Braun makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "09:50"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "10:40"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "14:10"
+            },
+            "caption": "Nikola Jokić holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "HandOff",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "14:30"
+            },
+            "caption": "Nikola Jokić hands off the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "16:00"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "17:40"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Layup",
+            "player": "Christian Braun",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "17:40",
+                "end": "22:00"
+            },
+            "caption": "Christian Braun is fouled on a layup attempt."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_45_away_team(blue)_attack_outside",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ben Simmons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:50"
+            },
+            "caption": "Ben Simmons dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Ben Simmons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "03:20"
+            },
+            "caption": "Ben Simmons makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Nicolas Batum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "06:20"
+            },
+            "caption": "Nicolas Batum dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Nicolas Batum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:10"
+            },
+            "caption": "Nicolas Batum makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Ben Simmons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "10:00"
+            },
+            "caption": "Ben Simmons holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Ben Simmons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "13:10"
+            },
+            "caption": "Ben Simmons dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Ben Simmons",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "18:00"
+            },
+            "caption": "Ben Simmons misses layup (out of bounds)."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_161_away_team (blue)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Luke Kennard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Luke Kennard inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Zach Edey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:00"
+            },
+            "caption": "Zach Edey makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Desmond Bane",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:40"
+            },
+            "caption": "Desmond Bane makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Block",
+            "player": "Gary Payton II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "08:00"
+            },
+            "caption": "Gary Payton II blocks the shot."
+        }
+    ]
+}

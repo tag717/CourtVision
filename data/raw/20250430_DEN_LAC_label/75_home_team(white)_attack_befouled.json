@@ -1,0 +1,41 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_75_home_team(white)_attack_befouled",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Aaron Gordon inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Russell Westbrook",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "08:30"
+            },
+            "caption": "Russell Westbrook dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Russell Westbrook",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "12:00"
+            },
+            "caption": "Russell Westbrook is fouled on a layup attempt."
+        }
+    ]
+}

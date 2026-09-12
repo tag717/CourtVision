@@ -1,0 +1,52 @@
+{
+    "video_id": "20240609_BOS_DAL",
+    "possession_id": "poss_133_away_team(white)_attack_failed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:20"
+            },
+            "caption": "Jaden Hardy dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:20"
+            },
+            "caption": "Jaden Hardy makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Josh Green",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "11:50"
+            },
+            "caption": "Josh Green misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "13:00"
+            },
+            "caption": "Jrue Holiday gets the defensive rebound."
+        }
+    ]
+}

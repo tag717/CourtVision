@@ -1,0 +1,96 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_38_away_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:30"
+            },
+            "caption": "Spencer Dinwiddie dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:20"
+            },
+            "caption": "Spencer Dinwiddie makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Max Christie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "14:30"
+            },
+            "caption": "Max Christie dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Max Christie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "15:30"
+            },
+            "caption": "Max Christie makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "21:00"
+            },
+            "caption": "Jaden Hardy dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Steal",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:00",
+                "end": "21:10"
+            },
+            "caption": "Tobias Harris steals the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:10",
+                "end": "24:00"
+            },
+            "caption": "Tobias Harris dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dunk",
+            "player": "Tobias Harris",
+            "result": "made",
+            "timestamp_video": {
+                "start": "24:00",
+                "end": "25:10"
+            },
+            "caption": "Tobias Harris makes dunk."
+        }
+    ]
+}

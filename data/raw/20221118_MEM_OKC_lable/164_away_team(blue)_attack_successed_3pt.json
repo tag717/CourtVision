@@ -1,0 +1,118 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_164_away_team(blue)_attack_successed_3pt",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Josh Giddey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Josh Giddey dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Josh Giddey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "02:50"
+            },
+            "caption": "Josh Giddey makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "09:10"
+            },
+            "caption": "Shai Gilgeous-Alexander dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:20"
+            },
+            "caption": "Shai Gilgeous-Alexander holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:20"
+            },
+            "caption": "Shai Gilgeous-Alexander makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Josh Giddey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:40"
+            },
+            "caption": "Josh Giddey dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Josh Giddey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "13:30"
+            },
+            "caption": "Josh Giddey makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Hold",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:20"
+            },
+            "caption": "Shai Gilgeous-Alexander holds the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "14:50"
+            },
+            "caption": "Shai Gilgeous-Alexander dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "3ptShot",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "made",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "16:40"
+            },
+            "caption": "Shai Gilgeous-Alexander makes 3-pt jump shot."
+        }
+    ]
+}

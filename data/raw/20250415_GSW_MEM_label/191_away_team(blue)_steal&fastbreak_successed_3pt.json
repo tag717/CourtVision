@@ -1,0 +1,129 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_191_away_team(blue)_steal&fastbreak_successed_3pt",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "09:00"
+            },
+            "caption": "Stephen Curry dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:30"
+            },
+            "caption": "Stephen Curry makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Gary Payton II",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "12:50"
+            },
+            "caption": "Gary Payton II misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "OffensiveRebound",
+            "player": "Quinten Post",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:50",
+                "end": "14:20"
+            },
+            "caption": "Quinten Post gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Quinten Post",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "16:10"
+            },
+            "caption": "Quinten Post makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Gary Payton II",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "17:20"
+            },
+            "caption": "Gary Payton II turnover: bad pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "18:40"
+            },
+            "caption": "Ja Morant dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:40",
+                "end": "19:30"
+            },
+            "caption": "Ja Morant makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Scotty Pippen Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:30",
+                "end": "20:10"
+            },
+            "caption": "Scotty Pippen Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Layup",
+            "player": "Scotty Pippen Jr.",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "20:10",
+                "end": "21:20"
+            },
+            "caption": "Scotty Pippen Jr. misses layup."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "3ptShot",
+            "player": "Desmond Bane",
+            "result": "made",
+            "timestamp_video": {
+                "start": "23:00",
+                "end": "26:00"
+            },
+            "caption": "Desmond Bane makes 3-pt jump shot."
+        }
+    ]
+}

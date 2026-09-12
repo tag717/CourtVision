@@ -1,0 +1,52 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_53_away_team (white)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Cameron Payne",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Cameron Payne inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "04:00"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "2ptShot",
+            "player": "Devin Booker",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:40"
+            },
+            "caption": "Devin Booker misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Shake Milton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:00"
+            },
+            "caption": "Shake Milton gets the defensive rebound."
+        }
+    ]
+}

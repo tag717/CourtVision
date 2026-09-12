@@ -1,0 +1,52 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_79_home_team(blue)_attack_outside",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "De'Anthony Melton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:40"
+            },
+            "caption": "De'Anthony Melton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "De'Anthony Melton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:20"
+            },
+            "caption": "De'Anthony Melton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Tobias Harris",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "05:50"
+            },
+            "caption": "Tobias Harris misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Chris Paul",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "08:00"
+            },
+            "caption": "Chris Paul turnover: out of bounds lost ball."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_9_home_team(white)_attack_successed_3pt",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Jrue Holiday makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "03:40"
+            },
+            "caption": "Jaylen Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "05:20"
+            },
+            "caption": "Jaylen Brown makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:00"
+            },
+            "caption": "Jayson Tatum makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Al Horford",
+            "result": "made",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "09:00"
+            },
+            "caption": "Al Horford makes 3-pt jump shot."
+        }
+    ]
+}

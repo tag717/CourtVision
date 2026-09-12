@@ -1,0 +1,63 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_99_home_team(white)_attack_outside",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Dennis Schröder dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "06:30"
+            },
+            "caption": "Dennis Schröder makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "12:40"
+            },
+            "caption": "Paul Reed dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "16:30"
+            },
+            "caption": "Paul Reed makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:40",
+                "end": "18:10"
+            },
+            "caption": "Dennis Schröder dribbles the ball."
+        }
+    ]
+}

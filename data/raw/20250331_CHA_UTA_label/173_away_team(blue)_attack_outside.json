@@ -1,0 +1,41 @@
+{
+    "video_id": "20250331_CHA_UTA",
+    "possession_id": "poss_173_away_team(blue)_attack_outside",
+    "home_team": "CHA",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Isaiah Collier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Isaiah Collier dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Isaiah Collier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "01:20"
+            },
+            "caption": "Isaiah Collier makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Kyle Filipowski",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "04:10"
+            },
+            "caption": "Kyle Filipowski turnover: pass out of bounds."
+        }
+    ]
+}

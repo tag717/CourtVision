@@ -1,0 +1,41 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_180_home_team(red)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Trae Young makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Onyeka Okongwu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:10"
+            },
+            "caption": "Onyeka Okongwu makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Caris LeVert",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:20"
+            },
+            "caption": "Caris LeVert is fouled on a layup attempt."
+        }
+    ]
+}

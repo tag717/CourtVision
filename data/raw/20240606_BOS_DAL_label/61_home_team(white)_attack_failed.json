@@ -1,0 +1,118 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_61_home_team(white)_attack_failed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:20"
+            },
+            "caption": "Jaylen Brown holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "09:00"
+            },
+            "caption": "Jaylen Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:00"
+            },
+            "caption": "Jaylen Brown makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:00"
+            },
+            "caption": "Jrue Holiday makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Payton Pritchard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "11:30"
+            },
+            "caption": "Payton Pritchard dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Payton Pritchard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "12:10"
+            },
+            "caption": "Payton Pritchard makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Hold",
+            "player": "Al Horford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "15:30"
+            },
+            "caption": "Al Horford holds the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Al Horford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "16:00"
+            },
+            "caption": "Al Horford makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "Payton Pritchard",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "18:40"
+            },
+            "caption": "Payton Pritchard misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "Dereck Lively II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:40",
+                "end": "20:00"
+            },
+            "caption": "Dereck Lively II gets the defensive rebound."
+        }
+    ]
+}

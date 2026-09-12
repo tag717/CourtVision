@@ -1,0 +1,85 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_9_home_team(black)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:30"
+            },
+            "caption": "Jimmy Butler dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:30"
+            },
+            "caption": "Jimmy Butler makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "09:20"
+            },
+            "caption": "Draymond Green makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Brandin Podziemski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:40"
+            },
+            "caption": "Brandin Podziemski makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Buddy Hield",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "13:20"
+            },
+            "caption": "Buddy Hield misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Alperen Şengün",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:20"
+            },
+            "caption": "Alperen Şengün gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Alperen Şengün",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "15:30"
+            },
+            "caption": "Alperen Şengün makes a pass."
+        }
+    ]
+}

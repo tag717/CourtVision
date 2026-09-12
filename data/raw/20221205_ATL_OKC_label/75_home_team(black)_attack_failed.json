@@ -1,0 +1,41 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_75_home_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "11:00"
+            },
+            "caption": "Dejounte Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Dejounte Murray",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "13:00"
+            },
+            "caption": "Dejounte Murray misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Mike Muscala",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:00"
+            },
+            "caption": "Mike Muscala gets the defensive rebound."
+        }
+    ]
+}

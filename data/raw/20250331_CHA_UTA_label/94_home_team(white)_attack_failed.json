@@ -1,0 +1,85 @@
+{
+    "video_id": "20250331_CHA_UTA",
+    "possession_id": "poss_94_home_team(white)_attack_failed",
+    "home_team": "CHA",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Miles Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Miles Bridges inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "KJ Simpson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:00"
+            },
+            "caption": "KJ Simpson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Miles Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "10:40"
+            },
+            "caption": "Miles Bridges dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Miles Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "11:40"
+            },
+            "caption": "Miles Bridges makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "KJ Simpson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "16:40"
+            },
+            "caption": "KJ Simpson dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "2ptShot",
+            "player": "KJ Simpson",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:40",
+                "end": "18:40"
+            },
+            "caption": "KJ Simpson misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Kyle Filipowski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:40",
+                "end": "20:20"
+            },
+            "caption": "Kyle Filipowski gets the defensive rebound."
+        }
+    ]
+}

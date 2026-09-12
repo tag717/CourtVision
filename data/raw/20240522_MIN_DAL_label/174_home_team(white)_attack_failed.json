@@ -1,0 +1,96 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_174_home_team(white)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:20"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:30"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:10"
+            },
+            "caption": "Anthony Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:00"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "07:10"
+            },
+            "caption": "Karl-Anthony Towns dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Karl-Anthony Towns",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:10"
+            },
+            "caption": "Karl-Anthony Towns misses layup."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "08:20"
+            },
+            "caption": "Luka Dončić gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_77_home_team(white)_attack_failed",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Malik Beasley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Malik Beasley dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Malik Beasley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "09:20"
+            },
+            "caption": "Malik Beasley dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Malik Beasley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:00"
+            },
+            "caption": "Malik Beasley makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Ron Holland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "11:20"
+            },
+            "caption": "Ron Holland hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Malik Beasley",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "12:30"
+            },
+            "caption": "Malik Beasley misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "15:20"
+            },
+            "caption": "Karl-Anthony Towns gets the defensive rebound."
+        }
+    ]
+}

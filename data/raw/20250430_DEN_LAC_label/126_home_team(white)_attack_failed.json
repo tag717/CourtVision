@@ -1,0 +1,129 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_126_home_team(white)_attack_failed",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Ivica Zubac",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Ivica Zubac makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "01:50"
+            },
+            "caption": "Jamal Murray steals the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "02:40"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "05:10"
+            },
+            "caption": "Nikola Jokić makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Jamal Murray",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "07:00"
+            },
+            "caption": "Jamal Murray misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "OffensiveRebound",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:20"
+            },
+            "caption": "Aaron Gordon gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:20"
+            },
+            "caption": "Aaron Gordon dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:00"
+            },
+            "caption": "Aaron Gordon makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "Michael Porter Jr.",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "10:20"
+            },
+            "caption": "Michael Porter Jr. misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Steal",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:20"
+            },
+            "caption": "Kawhi Leonard steals the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "13:00"
+            },
+            "caption": "Kawhi Leonard dribbles the ball."
+        }
+    ]
+}

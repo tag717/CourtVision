@@ -1,0 +1,30 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_29_away_team(black)_attack_outside",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Dexter Dennis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Dexter Dennis makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:20"
+            },
+            "caption": "Kyrie Irving turnover: out of bounds lost ball."
+        }
+    ]
+}

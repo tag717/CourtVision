@@ -1,0 +1,52 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_114_home_team(white)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:00"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Rudy Gobert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "03:20"
+            },
+            "caption": "Rudy Gobert makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "06:00"
+            },
+            "caption": "Mike Conley is fouled while dribbling."
+        }
+    ]
+}

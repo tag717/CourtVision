@@ -1,0 +1,52 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_169_home_team(white)_attack_befouled",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:00"
+            },
+            "caption": "Cade Cunningham makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Ron Holland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "03:40"
+            },
+            "caption": "Ron Holland dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Ron Holland",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "05:00"
+            },
+            "caption": "Ron Holland is fouled on a layup attempt."
+        }
+    ]
+}

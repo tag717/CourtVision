@@ -1,0 +1,63 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_70_home_team(black)_steal&fastbreak_successed_2pt",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:40"
+            },
+            "caption": "Shai Gilgeous-Alexander dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "02:40"
+            },
+            "caption": "Shai Gilgeous-Alexander turnover: bad pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jarrett Culver",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "06:40"
+            },
+            "caption": "Jarrett Culver dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Jarrett Culver",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "08:00"
+            },
+            "caption": "Jarrett Culver misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PutBack",
+            "player": "Clint Capela",
+            "result": "made",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:20"
+            },
+            "caption": "Clint Capela makes putback layup."
+        }
+    ]
+}

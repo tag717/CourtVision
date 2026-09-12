@@ -1,0 +1,85 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_147_away_team(gray)_attack_failed",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Julius Randle dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "03:00"
+            },
+            "caption": "Julius Randle makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:10"
+            },
+            "caption": "Naz Reid makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "04:40"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Anthony Edwards",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "06:40"
+            },
+            "caption": "Anthony Edwards misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Jarred Vanderbilt",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:30"
+            },
+            "caption": "Jarred Vanderbilt gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Jarred Vanderbilt",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:00"
+            },
+            "caption": "Jarred Vanderbilt dribbles the ball."
+        }
+    ]
+}

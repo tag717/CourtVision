@@ -1,0 +1,19 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_70_home_team(black)_attack_befouled",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:00"
+            },
+            "caption": "Tyrese Haliburton is fouled while dribbling."
+        }
+    ]
+}

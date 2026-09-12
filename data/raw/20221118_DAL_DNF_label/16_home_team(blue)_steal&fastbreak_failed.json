@@ -1,0 +1,140 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_16_home_team(blue)_steal&fastbreak_failed",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:40"
+            },
+            "caption": "Jeff Green inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "08:50"
+            },
+            "caption": "Bruce Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "09:40"
+            },
+            "caption": "Bruce Brown makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "14:10"
+            },
+            "caption": "Jeff Green holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "16:40"
+            },
+            "caption": "Jeff Green dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:40",
+                "end": "17:10"
+            },
+            "caption": "Jeff Green makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:10",
+                "end": "20:00"
+            },
+            "caption": "Michael Porter Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Michael Porter Jr.",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "21:10"
+            },
+            "caption": "Michael Porter Jr. turnover: bad pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Steal",
+            "player": "Dorian Finney-Smith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:10",
+                "end": "21:30"
+            },
+            "caption": "Dorian Finney-Smith steals the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Dorian Finney-Smith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:30",
+                "end": "25:40"
+            },
+            "caption": "Dorian Finney-Smith dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "3ptShot",
+            "player": "Dorian Finney-Smith",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "25:40",
+                "end": "27:40"
+            },
+            "caption": "Dorian Finney-Smith misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "DefensiveRebound",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "27:40",
+                "end": "30:20"
+            },
+            "caption": "Jeff Green gets the defensive rebound."
+        }
+    ]
+}

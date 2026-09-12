@@ -1,0 +1,85 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_154_home_team(white)_attack_failed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Derrick White makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Payton Pritchard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "04:50"
+            },
+            "caption": "Payton Pritchard dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Payton Pritchard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "05:40"
+            },
+            "caption": "Payton Pritchard makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:40"
+            },
+            "caption": "Derrick White makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Kristaps Porziņģis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "08:20"
+            },
+            "caption": "Kristaps Porziņģis dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "2ptShot",
+            "player": "Kristaps Porziņģis",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:40"
+            },
+            "caption": "Kristaps Porziņģis misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Derrick Jones Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "11:00"
+            },
+            "caption": "Derrick Jones Jr. gets the defensive rebound."
+        }
+    ]
+}

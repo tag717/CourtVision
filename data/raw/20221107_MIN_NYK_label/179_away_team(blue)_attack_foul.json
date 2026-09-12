@@ -1,0 +1,52 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_179_away_team(blue)_attack_foul",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Jalen Brunson inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Immanuel Quickley",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "02:30"
+            },
+            "caption": "Immanuel Quickley makes 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "OffensiveRebound",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "04:30"
+            },
+            "caption": "Jalen Brunson gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "06:40"
+            },
+            "caption": "Jalen Brunson makes a pass."
+        }
+    ]
+}

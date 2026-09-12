@@ -1,0 +1,85 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_24_home_team(white)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:20"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "06:30"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:20"
+            },
+            "caption": "Anthony Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Jaden McDaniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "10:00"
+            },
+            "caption": "Jaden McDaniels dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Jaden McDaniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "10:20"
+            },
+            "caption": "Jaden McDaniels makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Rudy Gobert",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:10"
+            },
+            "caption": "Rudy Gobert is fouled on a layup attempt."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_160_away_team(white)_attack_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ron Holland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Ron Holland dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Ron Holland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:00"
+            },
+            "caption": "Ron Holland makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Simone Fontecchio",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "05:00"
+            },
+            "caption": "Simone Fontecchio misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:20"
+            },
+            "caption": "Jaden Hardy gets the defensive rebound."
+        }
+    ]
+}

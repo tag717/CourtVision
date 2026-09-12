@@ -1,0 +1,52 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_160_home_team(white)_attack_successed_3pt",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jose Alvarado",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:40"
+            },
+            "caption": "Jose Alvarado dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jose Alvarado",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "04:10"
+            },
+            "caption": "Jose Alvarado makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Larry Nance Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "06:10"
+            },
+            "caption": "Larry Nance Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "CJ McCollum",
+            "result": "made",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "08:20"
+            },
+            "caption": "CJ McCollum makes 3-pt jump shot."
+        }
+    ]
+}

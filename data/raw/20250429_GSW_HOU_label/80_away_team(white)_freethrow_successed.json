@@ -1,0 +1,19 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_80_away_team(white)_freethrow_successed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Alperen Şengün",
+            "result": "made",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "03:10"
+            },
+            "caption": "Alperen Şengün makes free throw."
+        }
+    ]
+}

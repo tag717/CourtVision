@@ -1,0 +1,129 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_19_home_team(green)_attack_failed",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ryan Rollins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "05:20"
+            },
+            "caption": "Ryan Rollins dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Ryan Rollins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:20"
+            },
+            "caption": "Ryan Rollins makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "10:20"
+            },
+            "caption": "Giannis Antetokounmpo holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:10"
+            },
+            "caption": "Giannis Antetokounmpo makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Brook Lopez",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:00"
+            },
+            "caption": "Brook Lopez dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Brook Lopez",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "13:20"
+            },
+            "caption": "Brook Lopez makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Kyle Kuzma",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "15:10"
+            },
+            "caption": "Kyle Kuzma dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Kyle Kuzma",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "17:10"
+            },
+            "caption": "Kyle Kuzma misses layup."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:30",
+                "end": "18:40"
+            },
+            "caption": "Unknown Player gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:50",
+                "end": "19:30"
+            },
+            "caption": "Unknown Player makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:50",
+                "end": "21:00"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        }
+    ]
+}

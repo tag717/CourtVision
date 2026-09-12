@@ -1,0 +1,107 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_168_away_team(red)_attack_successed_3pt",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Nassir Little",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:00"
+            },
+            "caption": "Nassir Little inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:40"
+            },
+            "caption": "Anfernee Simons holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:20"
+            },
+            "caption": "Anfernee Simons makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Trendon Watford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:00"
+            },
+            "caption": "Trendon Watford makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:40"
+            },
+            "caption": "Anfernee Simons dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:10"
+            },
+            "caption": "Anfernee Simons makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Jerami Grant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "14:00"
+            },
+            "caption": "Jerami Grant dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Jerami Grant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "14:30"
+            },
+            "caption": "Jerami Grant makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "Nassir Little",
+            "result": "made",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "16:30"
+            },
+            "caption": "Nassir Little makes 3-pt jump shot."
+        }
+    ]
+}

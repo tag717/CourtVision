@@ -1,0 +1,74 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_120_home_team(black)_steal&fastbreak_failed",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:10"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:00"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "08:10"
+            },
+            "caption": "Kentavious Caldwell-Pope makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "09:00"
+            },
+            "caption": "Nikola Jokić makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "11:40"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "13:40"
+            },
+            "caption": "Jamal Murray turnover: bad pass."
+        }
+    ]
+}

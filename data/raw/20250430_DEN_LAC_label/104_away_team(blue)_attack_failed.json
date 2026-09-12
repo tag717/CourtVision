@@ -1,0 +1,85 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_104_away_team(blue)_attack_failed",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:40"
+            },
+            "caption": "James Harden dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "05:30"
+            },
+            "caption": "James Harden makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Kris Dunn",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:10"
+            },
+            "caption": "Kris Dunn makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "08:50"
+            },
+            "caption": "James Harden dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "11:00"
+            },
+            "caption": "James Harden makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Norman Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "16:20"
+            },
+            "caption": "Norman Powell dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Norman Powell",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "21:00"
+            },
+            "caption": "Norman Powell misses 3-pt jump shot."
+        }
+    ]
+}

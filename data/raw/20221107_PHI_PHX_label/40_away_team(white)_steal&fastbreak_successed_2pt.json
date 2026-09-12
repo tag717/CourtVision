@@ -1,0 +1,162 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_40_away_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "De'Anthony Melton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "De'Anthony Melton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "De'Anthony Melton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:50"
+            },
+            "caption": "De'Anthony Melton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Shake Milton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "09:50"
+            },
+            "caption": "Shake Milton dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Shake Milton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "10:30"
+            },
+            "caption": "Shake Milton makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Joel Embiid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "13:20"
+            },
+            "caption": "Joel Embiid holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Joel Embiid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "15:30"
+            },
+            "caption": "Joel Embiid dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Joel Embiid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "16:40"
+            },
+            "caption": "Joel Embiid makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Shake Milton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:40",
+                "end": "18:30"
+            },
+            "caption": "Shake Milton makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Steal",
+            "player": "Jock Landale",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "18:40"
+            },
+            "caption": "Jock Landale steals the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Jock Landale",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:30",
+                "end": "19:30"
+            },
+            "caption": "Jock Landale dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Jock Landale",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:30",
+                "end": "20:00"
+            },
+            "caption": "Jock Landale makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "21:20"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "PassBall",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:20",
+                "end": "22:00"
+            },
+            "caption": "Devin Booker makes a pass."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "Layup",
+            "player": "Jock Landale",
+            "result": "made",
+            "timestamp_video": {
+                "start": "22:00",
+                "end": "23:00"
+            },
+            "caption": "Jock Landale makes layup."
+        }
+    ]
+}

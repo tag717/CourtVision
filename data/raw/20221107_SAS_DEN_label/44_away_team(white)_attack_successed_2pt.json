@@ -1,0 +1,129 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_44_away_team(white)_attack_successed_2pt",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:40"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "04:20"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "06:30"
+            },
+            "caption": "Bruce Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:00"
+            },
+            "caption": "Bruce Brown makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "DeAndre Jordan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:40"
+            },
+            "caption": "DeAndre Jordan dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "DeAndre Jordan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:30"
+            },
+            "caption": "DeAndre Jordan makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "17:00"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "17:40"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:40",
+                "end": "18:20"
+            },
+            "caption": "Jeff Green makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:20",
+                "end": "19:50"
+            },
+            "caption": "Michael Porter Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Layup",
+            "player": "Michael Porter Jr.",
+            "result": "made",
+            "timestamp_video": {
+                "start": "19:50",
+                "end": "21:20"
+            },
+            "caption": "Michael Porter Jr. makes layup."
+        }
+    ]
+}

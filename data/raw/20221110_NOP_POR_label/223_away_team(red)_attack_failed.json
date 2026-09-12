@@ -1,0 +1,63 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_223_away_team(red)_attack_failed",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Justise Winslow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Justise Winslow dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Justise Winslow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:00"
+            },
+            "caption": "Justise Winslow makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Anfernee Simons",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "06:00"
+            },
+            "caption": "Anfernee Simons misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Trey Murphy III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:10"
+            },
+            "caption": "Trey Murphy III gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Trey Murphy III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:00"
+            },
+            "caption": "Trey Murphy III dribbles the ball."
+        }
+    ]
+}

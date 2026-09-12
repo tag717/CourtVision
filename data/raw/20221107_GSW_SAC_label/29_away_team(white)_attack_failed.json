@@ -1,0 +1,63 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_29_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Kevin Huerter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:20"
+            },
+            "caption": "Kevin Huerter makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:00"
+            },
+            "caption": "Domantas Sabonis makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Kevin Huerter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:10"
+            },
+            "caption": "Kevin Huerter makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Davion Mitchell",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "08:20"
+            },
+            "caption": "Davion Mitchell misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Andrew Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:40"
+            },
+            "caption": "Andrew Wiggins gets the defensive rebound."
+        }
+    ]
+}

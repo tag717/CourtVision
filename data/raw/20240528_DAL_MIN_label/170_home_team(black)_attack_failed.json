@@ -1,0 +1,74 @@
+{
+    "video_id": "20240528_DAL_MIN",
+    "possession_id": "poss_170_home_team(black)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:00"
+            },
+            "caption": "Kyrie Irving makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Derrick Jones Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:30"
+            },
+            "caption": "Derrick Jones Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Derrick Jones Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:50"
+            },
+            "caption": "Derrick Jones Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "P.J. Washington",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "11:20"
+            },
+            "caption": "P.J. Washington misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Rudy Gobert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "13:00"
+            },
+            "caption": "Rudy Gobert gets the defensive rebound."
+        }
+    ]
+}

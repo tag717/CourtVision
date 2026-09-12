@@ -1,0 +1,30 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_155_away_team (white)_attack_failed",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Alec Burks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Alec Burks inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Saddiq Bey",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "03:40"
+            },
+            "caption": "Saddiq Bey misses 3-pt jump shot."
+        }
+    ]
+}

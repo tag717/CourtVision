@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_101_home_team(black)_attack_befouled",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:10"
+            },
+            "caption": "Tre Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:10"
+            },
+            "caption": "Tre Jones makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Keldon Johnson",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "10:40"
+            },
+            "caption": "Keldon Johnson misses 3-pt jump shot."
+        }
+    ]
+}

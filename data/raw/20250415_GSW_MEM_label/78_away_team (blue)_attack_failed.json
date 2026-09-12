@@ -1,0 +1,63 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_78_away_team (blue)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Zach Edey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Zach Edey dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Zach Edey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "01:10"
+            },
+            "caption": "Zach Edey hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Desmond Bane",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:30"
+            },
+            "caption": "Desmond Bane dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "2ptShot",
+            "player": "Desmond Bane",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "04:20"
+            },
+            "caption": "Desmond Bane misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:00"
+            },
+            "caption": "Stephen Curry gets the defensive rebound."
+        }
+    ]
+}

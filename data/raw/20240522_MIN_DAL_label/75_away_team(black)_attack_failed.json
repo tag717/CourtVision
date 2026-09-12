@@ -1,0 +1,63 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_75_away_team(black)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:20"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:20"
+            },
+            "caption": "Kyrie Irving makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Dereck Lively II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:20"
+            },
+            "caption": "Dereck Lively II makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Luka Dončić",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "09:00"
+            },
+            "caption": "Luka Dončić misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "11:00"
+            },
+            "caption": "Anthony Edwards gets the defensive rebound."
+        }
+    ]
+}

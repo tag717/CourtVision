@@ -1,0 +1,107 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_144_home_team(blue)_attack_successed_3pt",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Stephen Curry dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "02:10"
+            },
+            "caption": "Stephen Curry makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Andrew Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:10"
+            },
+            "caption": "Andrew Wiggins dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Andrew Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "03:30"
+            },
+            "caption": "Andrew Wiggins hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:10"
+            },
+            "caption": "Klay Thompson holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "04:50"
+            },
+            "caption": "Klay Thompson makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "HandOff",
+            "player": "Kevon Looney",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "05:20"
+            },
+            "caption": "Kevon Looney hands off the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Hold",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:00"
+            },
+            "caption": "Stephen Curry holds the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "Stephen Curry",
+            "result": "made",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:50"
+            },
+            "caption": "Stephen Curry makes 3-pt jump shot."
+        }
+    ]
+}

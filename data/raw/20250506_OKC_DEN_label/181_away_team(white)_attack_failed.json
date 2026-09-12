@@ -1,0 +1,85 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_181_away_team(white)_attack_failed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Christian Braun inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Russell Westbrook",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "06:30"
+            },
+            "caption": "Russell Westbrook dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Russell Westbrook",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:40"
+            },
+            "caption": "Russell Westbrook makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "09:30"
+            },
+            "caption": "Nikola Jokić holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Nikola Jokić",
+            "result": "made",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "12:00"
+            },
+            "caption": "Nikola Jokić makes 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:00"
+            },
+            "caption": "Jalen Williams gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:00"
+            },
+            "caption": "Jalen Williams dribbles the ball."
+        }
+    ]
+}

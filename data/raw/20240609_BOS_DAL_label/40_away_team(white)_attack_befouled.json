@@ -1,0 +1,19 @@
+{
+    "video_id": "20240609_BOS_DAL",
+    "possession_id": "poss_40_away_team(white)_attack_befouled",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "10:50"
+            },
+            "caption": "Luka Dončić dribbles the ball."
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_167_home_team(white)_steal&fastbreak_failed",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:10"
+            },
+            "caption": "Bruce Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "05:40"
+            },
+            "caption": "Bruce Brown makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:30"
+            },
+            "caption": "Jeff Green dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:10"
+            },
+            "caption": "Jeff Green makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "DeAndre Jordan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:30"
+            },
+            "caption": "DeAndre Jordan holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "DeAndre Jordan",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:10"
+            },
+            "caption": "DeAndre Jordan turnover: bad pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Steal",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "09:30"
+            },
+            "caption": "T.J. McConnell steals the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:50"
+            },
+            "caption": "T.J. McConnell dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "11:50"
+            },
+            "caption": "T.J. McConnell makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Layup",
+            "player": "Bennedict Mathurin",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "12:30"
+            },
+            "caption": "Bennedict Mathurin misses layup."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Block",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "12:40"
+            },
+            "caption": "Jeff Green blocks the shot."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "DefensiveRebound",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "13:30"
+            },
+            "caption": "Jamal Murray gets the defensive rebound."
+        }
+    ]
+}

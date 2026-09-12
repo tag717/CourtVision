@@ -1,0 +1,52 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_70_home_team(blue)_attack_successed_2pt",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Andrew Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Andrew Wiggins dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Andrew Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:10"
+            },
+            "caption": "Andrew Wiggins makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jonathan Kuminga",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:20"
+            },
+            "caption": "Jonathan Kuminga dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dunk",
+            "player": "Jonathan Kuminga",
+            "result": "made",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "07:00"
+            },
+            "caption": "Jonathan Kuminga makes dunk."
+        }
+    ]
+}

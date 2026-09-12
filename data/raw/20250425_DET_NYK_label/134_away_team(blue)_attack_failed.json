@@ -1,0 +1,85 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_134_away_team(blue)_attack_failed",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:30"
+            },
+            "caption": "Mikal Bridges dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "03:30"
+            },
+            "caption": "Mikal Bridges makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "06:00"
+            },
+            "caption": "Karl-Anthony Towns dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:20"
+            },
+            "caption": "Karl-Anthony Towns makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "07:20"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Jalen Brunson",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "09:00"
+            },
+            "caption": "Jalen Brunson misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:10"
+            },
+            "caption": "Jalen Duren gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_71_home_team(black)_steal&fastbreak_successed_2pt",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "11:40"
+            },
+            "caption": "Tre Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Tre Jones",
+            "result": "made",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "13:20"
+            },
+            "caption": "Tre Jones makes layup."
+        }
+    ]
+}

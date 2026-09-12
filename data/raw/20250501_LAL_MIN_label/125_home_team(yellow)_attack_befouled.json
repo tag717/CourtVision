@@ -1,0 +1,85 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_125_home_team(yellow)_attack_befouled",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "LeBron James",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "LeBron James makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Rui Hachimura",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:00"
+            },
+            "caption": "Rui Hachimura makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "LeBron James",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:00"
+            },
+            "caption": "LeBron James dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "LeBron James",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:00"
+            },
+            "caption": "LeBron James makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Austin Reaves",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "07:10"
+            },
+            "caption": "Austin Reaves dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Austin Reaves",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "08:50"
+            },
+            "caption": "Austin Reaves makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "LeBron James",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:30"
+            },
+            "caption": "LeBron James is fouled on a layup attempt."
+        }
+    ]
+}

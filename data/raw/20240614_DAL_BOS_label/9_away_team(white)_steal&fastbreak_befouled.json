@@ -1,0 +1,140 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_9_away_team(white)_steal&fastbreak_befouled",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "11:40"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "13:00"
+            },
+            "caption": "Kyrie Irving makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "15:20"
+            },
+            "caption": "P.J. Washington dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "P.J. Washington",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "16:00"
+            },
+            "caption": "P.J. Washington turnover: bad pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Al Horford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "19:20"
+            },
+            "caption": "Al Horford dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "HandOff",
+            "player": "Al Horford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "20:00"
+            },
+            "caption": "Al Horford hands off the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "22:10"
+            },
+            "caption": "Derrick White dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:10",
+                "end": "22:50"
+            },
+            "caption": "Derrick White makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:50",
+                "end": "23:30"
+            },
+            "caption": "Jrue Holiday dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:30",
+                "end": "24:40"
+            },
+            "caption": "Jrue Holiday makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "24:40",
+                "end": "26:10"
+            },
+            "caption": "Jayson Tatum dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Layup",
+            "player": "Jayson Tatum",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "26:10",
+                "end": "28:00"
+            },
+            "caption": "Jayson Tatum is fouled on a layup attempt."
+        }
+    ]
+}

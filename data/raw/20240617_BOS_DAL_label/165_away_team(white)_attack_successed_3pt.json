@@ -1,0 +1,30 @@
+{
+    "video_id": "20240617_BOS_DAL",
+    "possession_id": "poss_165_away_team(white)_attack_successed_3pt",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:20"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Kyrie Irving",
+            "result": "made",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "11:00"
+            },
+            "caption": "Kyrie Irving makes 3-pt jump shot."
+        }
+    ]
+}

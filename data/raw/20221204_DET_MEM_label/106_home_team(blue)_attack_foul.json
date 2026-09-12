@@ -1,0 +1,107 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_106_home_team(blue)_attack_foul",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Killian Hayes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Killian Hayes makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Bojan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "02:00"
+            },
+            "caption": "Bojan Bogdanović dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Bojan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:10"
+            },
+            "caption": "Bojan Bogdanović makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Killian Hayes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:10"
+            },
+            "caption": "Killian Hayes makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:40"
+            },
+            "caption": "Isaiah Stewart holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "08:00"
+            },
+            "caption": "Isaiah Stewart dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:10"
+            },
+            "caption": "Isaiah Stewart makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Killian Hayes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:40"
+            },
+            "caption": "Killian Hayes dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "2ptShot",
+            "player": "Killian Hayes",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "13:00"
+            },
+            "caption": "Killian Hayes is fouled on a 2-pt shot attempt."
+        }
+    ]
+}

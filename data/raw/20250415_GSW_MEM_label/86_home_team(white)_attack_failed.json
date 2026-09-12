@@ -1,0 +1,107 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_86_home_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Gary Payton II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:00"
+            },
+            "caption": "Gary Payton II dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Gary Payton II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:40"
+            },
+            "caption": "Gary Payton II makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:40"
+            },
+            "caption": "Buddy Hield makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "08:20"
+            },
+            "caption": "Draymond Green makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "11:50"
+            },
+            "caption": "Jimmy Butler holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "14:00"
+            },
+            "caption": "Jimmy Butler dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "15:00"
+            },
+            "caption": "Jimmy Butler makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Buddy Hield",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "17:10"
+            },
+            "caption": "Buddy Hield misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Scotty Pippen Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:10",
+                "end": "17:40"
+            },
+            "caption": "Scotty Pippen Jr. gets the defensive rebound."
+        }
+    ]
+}

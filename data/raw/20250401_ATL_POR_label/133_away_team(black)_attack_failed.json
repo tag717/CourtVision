@@ -1,0 +1,74 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_133_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Shaedon Sharpe holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "03:10"
+            },
+            "caption": "Shaedon Sharpe dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:30"
+            },
+            "caption": "Shaedon Sharpe makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Donovan Clingan",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "07:20"
+            },
+            "caption": "Donovan Clingan misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Onyeka Okongwu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:00"
+            },
+            "caption": "Onyeka Okongwu gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Onyeka Okongwu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:00"
+            },
+            "caption": "Onyeka Okongwu makes a pass."
+        }
+    ]
+}

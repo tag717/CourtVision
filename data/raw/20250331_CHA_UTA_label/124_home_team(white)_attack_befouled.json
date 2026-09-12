@@ -1,0 +1,41 @@
+{
+    "video_id": "20250331_CHA_UTA",
+    "possession_id": "poss_124_home_team(white)_attack_befouled",
+    "home_team": "CHA",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Nick Smith Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Nick Smith Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Nick Smith Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "04:30"
+            },
+            "caption": "Nick Smith Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Jusuf Nurkić",
+            "result": "made",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "06:10"
+            },
+            "caption": "Jusuf Nurkić makes layup."
+        }
+    ]
+}

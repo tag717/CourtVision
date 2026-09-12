@@ -1,0 +1,52 @@
+{
+    "video_id": "20240609_BOS_DAL",
+    "possession_id": "poss_145_away_team(white)_attack_befouled",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dante Exum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:50"
+            },
+            "caption": "Dante Exum dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dante Exum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "04:00"
+            },
+            "caption": "Dante Exum makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:20"
+            },
+            "caption": "Luka Dončić makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "P.J. Washington",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "08:00"
+            },
+            "caption": "P.J. Washington is fouled on a layup attempt."
+        }
+    ]
+}

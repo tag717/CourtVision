@@ -1,0 +1,52 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_197_away_team (blue)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:10"
+            },
+            "caption": "Ja Morant dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:00"
+            },
+            "caption": "Ja Morant makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Desmond Bane",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "09:30"
+            },
+            "caption": "Desmond Bane misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:00"
+            },
+            "caption": "Jimmy Butler gets the defensive rebound."
+        }
+    ]
+}

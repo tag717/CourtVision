@@ -1,0 +1,118 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_141_home_team(blue)_attack_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Naji Marshall",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Naji Marshall dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Naji Marshall",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:00"
+            },
+            "caption": "Naji Marshall makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "06:10"
+            },
+            "caption": "Paul Reed dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "06:30"
+            },
+            "caption": "Paul Reed makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Max Christie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "12:30"
+            },
+            "caption": "Max Christie dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Max Christie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "13:20"
+            },
+            "caption": "Max Christie makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "15:20"
+            },
+            "caption": "Klay Thompson dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "16:10"
+            },
+            "caption": "Klay Thompson makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "Naji Marshall",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "19:10"
+            },
+            "caption": "Naji Marshall misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:10",
+                "end": "19:30"
+            },
+            "caption": "Tobias Harris gets the defensive rebound."
+        }
+    ]
+}

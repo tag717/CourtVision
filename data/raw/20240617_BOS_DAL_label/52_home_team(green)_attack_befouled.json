@@ -1,0 +1,52 @@
+{
+    "video_id": "20240617_BOS_DAL",
+    "possession_id": "poss_52_home_team(green)_attack_befouled",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Al Horford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:10"
+            },
+            "caption": "Al Horford dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Al Horford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "07:40"
+            },
+            "caption": "Al Horford makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "09:40"
+            },
+            "caption": "Jaylen Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Jaylen Brown",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "12:00"
+            },
+            "caption": "Jaylen Brown is fouled on a layup attempt."
+        }
+    ]
+}

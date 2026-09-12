@@ -1,0 +1,63 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_201_home_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "04:50"
+            },
+            "caption": "Jimmy Butler dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "06:10"
+            },
+            "caption": "Jimmy Butler holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:50"
+            },
+            "caption": "Jimmy Butler makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "2ptShot",
+            "player": "Stephen Curry",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "09:50"
+            },
+            "caption": "Stephen Curry misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Scotty Pippen Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "11:00"
+            },
+            "caption": "Scotty Pippen Jr. gets the defensive rebound."
+        }
+    ]
+}

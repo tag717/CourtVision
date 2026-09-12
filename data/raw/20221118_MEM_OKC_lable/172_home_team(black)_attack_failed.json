@@ -1,0 +1,85 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_172_home_team(black)_attack_failed",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:40"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:50"
+            },
+            "caption": "Tyus Jones makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:20"
+            },
+            "caption": "Jaren Jackson Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:00"
+            },
+            "caption": "Jaren Jackson Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:20"
+            },
+            "caption": "Dillon Brooks dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "2ptShot",
+            "player": "Dillon Brooks",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "14:00"
+            },
+            "caption": "Dillon Brooks misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Aaron Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "15:00"
+            },
+            "caption": "Aaron Wiggins gets the defensive rebound."
+        }
+    ]
+}

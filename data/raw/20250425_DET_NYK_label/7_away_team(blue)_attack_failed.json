@@ -1,0 +1,85 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_7_away_team(blue)_attack_failed",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Josh Hart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:40"
+            },
+            "caption": "Josh Hart dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Josh Hart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "03:40"
+            },
+            "caption": "Josh Hart makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:10"
+            },
+            "caption": "Karl-Anthony Towns dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "2ptShot",
+            "player": "Karl-Anthony Towns",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:10"
+            },
+            "caption": "Karl-Anthony Towns misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "10:10"
+            },
+            "caption": "Tobias Harris gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:00"
+            },
+            "caption": "Tobias Harris makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:20"
+            },
+            "caption": "Cade Cunningham makes a pass."
+        }
+    ]
+}

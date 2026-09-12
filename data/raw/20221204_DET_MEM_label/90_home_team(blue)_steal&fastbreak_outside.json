@@ -1,0 +1,63 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_90_home_team(blue)_steal&fastbreak_outside",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "11:00"
+            },
+            "caption": "Ja Morant dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Ja Morant",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "13:20"
+            },
+            "caption": "Ja Morant turnover: bad pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "Jaden Ivey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "13:30"
+            },
+            "caption": "Jaden Ivey steals the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jaden Ivey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "16:10"
+            },
+            "caption": "Jaden Ivey dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jaden Ivey",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "18:10"
+            },
+            "caption": "Jaden Ivey turnover: pass out of bounds."
+        }
+    ]
+}

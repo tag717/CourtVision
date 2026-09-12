@@ -1,0 +1,52 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_67_home_team(black)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:40"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:30"
+            },
+            "caption": "Trae Young makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "08:00"
+            },
+            "caption": "Dejounte Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "08:40"
+            },
+            "caption": "Dejounte Murray makes a pass."
+        }
+    ]
+}

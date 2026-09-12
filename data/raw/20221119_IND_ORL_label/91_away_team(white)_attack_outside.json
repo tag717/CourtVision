@@ -1,0 +1,74 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_91_away_team(white)_attack_outside",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bol Bol",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:00"
+            },
+            "caption": "Bol Bol dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Bol Bol",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "08:40"
+            },
+            "caption": "Bol Bol hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "13:20"
+            },
+            "caption": "Jalen Suggs dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:00"
+            },
+            "caption": "Jalen Suggs makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Bol Bol",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "16:00"
+            },
+            "caption": "Bol Bol dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Block",
+            "player": "Myles Turner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "18:30"
+            },
+            "caption": "Myles Turner blocks the shot."
+        }
+    ]
+}

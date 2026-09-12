@@ -1,0 +1,85 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_103_away_team(red)_attack_befouled",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Justise Winslow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Justise Winslow makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "06:50"
+            },
+            "caption": "Anfernee Simons dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "07:30"
+            },
+            "caption": "Anfernee Simons makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Justise Winslow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:30"
+            },
+            "caption": "Justise Winslow dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Justise Winslow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:00"
+            },
+            "caption": "Justise Winslow makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Jerami Grant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:20"
+            },
+            "caption": "Jerami Grant dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Jerami Grant",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "12:00"
+            },
+            "caption": "Jerami Grant is fouled on a layup attempt."
+        }
+    ]
+}

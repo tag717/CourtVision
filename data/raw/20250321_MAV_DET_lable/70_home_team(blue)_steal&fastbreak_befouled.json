@@ -1,0 +1,63 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_70_home_team(blue)_steal&fastbreak_befouled",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ron Holland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:10"
+            },
+            "caption": "Ron Holland dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "Kai Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:10"
+            },
+            "caption": "Kai Jones steals the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Kai Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "11:10"
+            },
+            "caption": "Kai Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Kai Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:10"
+            },
+            "caption": "Kai Jones makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Brandon Williams",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "14:00"
+            },
+            "caption": "Brandon Williams is fouled while dribbling."
+        }
+    ]
+}

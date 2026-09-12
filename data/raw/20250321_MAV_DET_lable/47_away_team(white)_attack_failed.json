@@ -1,0 +1,74 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_47_away_team(white)_attack_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "Dennis Schröder dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:30"
+            },
+            "caption": "Dennis Schröder makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Malik Beasley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:20"
+            },
+            "caption": "Malik Beasley makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "06:00"
+            },
+            "caption": "Isaiah Stewart makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Malik Beasley",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "08:20"
+            },
+            "caption": "Malik Beasley misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Naji Marshall",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:10"
+            },
+            "caption": "Naji Marshall gets the defensive rebound."
+        }
+    ]
+}

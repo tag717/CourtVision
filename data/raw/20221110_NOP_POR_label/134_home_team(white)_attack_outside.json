@@ -1,0 +1,41 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_134_home_team(white)_attack_outside",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "CJ McCollum makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Zion Williamson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "04:20"
+            },
+            "caption": "Zion Williamson dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Zion Williamson",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:50"
+            },
+            "caption": "Zion Williamson turnover: pass out of bounds."
+        }
+    ]
+}

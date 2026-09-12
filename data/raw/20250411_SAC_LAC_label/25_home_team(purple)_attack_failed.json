@@ -1,0 +1,140 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_25_home_team(purple)_attack_failed",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Keon Ellis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Keon Ellis dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Keon Ellis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:00"
+            },
+            "caption": "Keon Ellis makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "06:30"
+            },
+            "caption": "Domantas Sabonis holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:20"
+            },
+            "caption": "Domantas Sabonis hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "10:00"
+            },
+            "caption": "DeMar DeRozan holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:10"
+            },
+            "caption": "DeMar DeRozan dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:10"
+            },
+            "caption": "DeMar DeRozan makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:00"
+            },
+            "caption": "Domantas Sabonis dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "HandOff",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "13:30"
+            },
+            "caption": "Domantas Sabonis hands off the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:30"
+            },
+            "caption": "Zach LaVine dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "3ptShot",
+            "player": "Zach LaVine",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "16:30"
+            },
+            "caption": "Zach LaVine misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "DefensiveRebound",
+            "player": "Ivica Zubac",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "18:00"
+            },
+            "caption": "Ivica Zubac gets the defensive rebound."
+        }
+    ]
+}

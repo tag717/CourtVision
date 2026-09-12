@@ -1,0 +1,52 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_46_home_team(black)_attack_failed",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:40"
+            },
+            "caption": "T.J. McConnell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:20"
+            },
+            "caption": "T.J. McConnell hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Oshae Brissett",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "06:00"
+            },
+            "caption": "Oshae Brissett misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Chuma Okeke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:00"
+            },
+            "caption": "Chuma Okeke gets the defensive rebound."
+        }
+    ]
+}

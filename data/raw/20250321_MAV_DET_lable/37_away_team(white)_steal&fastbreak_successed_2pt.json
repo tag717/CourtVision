@@ -1,0 +1,96 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_37_away_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:00"
+            },
+            "caption": "Spencer Dinwiddie dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Spencer Dinwiddie",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:30"
+            },
+            "caption": "Spencer Dinwiddie misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "05:50"
+            },
+            "caption": "Tobias Harris gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "09:10"
+            },
+            "caption": "Tobias Harris dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "09:30"
+            },
+            "caption": "Tobias Harris makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Malik Beasley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "12:00"
+            },
+            "caption": "Malik Beasley dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "2ptShot",
+            "player": "Malik Beasley",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "12:20"
+            },
+            "caption": "Malik Beasley misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Putback",
+            "player": "Tobias Harris",
+            "result": "made",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "13:10"
+            },
+            "caption": "Tobias Harris makes putback layup."
+        }
+    ]
+}

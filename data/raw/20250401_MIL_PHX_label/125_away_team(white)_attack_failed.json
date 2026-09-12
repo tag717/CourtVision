@@ -1,0 +1,85 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_125_away_team(white)_attack_failed",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:40"
+            },
+            "caption": "Tyus Jones inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "04:30"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:40"
+            },
+            "caption": "Devin Booker makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Grayson Allen",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:50"
+            },
+            "caption": "Grayson Allen misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Taurean Prince",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "08:40"
+            },
+            "caption": "Taurean Prince gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Taurean Prince",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:10"
+            },
+            "caption": "Taurean Prince makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Ryan Rollins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:00"
+            },
+            "caption": "Ryan Rollins dribbles the ball."
+        }
+    ]
+}

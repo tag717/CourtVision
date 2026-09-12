@@ -1,0 +1,63 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_14_home_team(black)_attack_failed",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Keldon Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Keldon Johnson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Keldon Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "02:50"
+            },
+            "caption": "Keldon Johnson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "07:30"
+            },
+            "caption": "Devin Vassell dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "2ptShot",
+            "player": "Devin Vassell",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "09:20"
+            },
+            "caption": "Devin Vassell misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:10"
+            },
+            "caption": "Nikola Jokić gets the defensive rebound."
+        }
+    ]
+}

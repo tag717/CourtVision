@@ -1,0 +1,74 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_191_away_team (white)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Damion Lee",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "Damion Lee holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Damion Lee",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:30"
+            },
+            "caption": "Damion Lee makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Deandre Ayton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:30"
+            },
+            "caption": "Deandre Ayton holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Deandre Ayton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "06:30"
+            },
+            "caption": "Deandre Ayton dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Deandre Ayton",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "08:00"
+            },
+            "caption": "Deandre Ayton misses layup."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "09:00"
+            },
+            "caption": "Paul Reed gets the defensive rebound."
+        }
+    ]
+}

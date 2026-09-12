@@ -1,0 +1,107 @@
+{
+    "video_id": "20240612_DAL_BOS",
+    "possession_id": "poss_12_home_team(black)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "P.J. Washington dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "02:50"
+            },
+            "caption": "P.J. Washington hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "06:00"
+            },
+            "caption": "Kyrie Irving holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "08:20"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "10:10"
+            },
+            "caption": "Kyrie Irving makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Lamar Stevens",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:00"
+            },
+            "caption": "Lamar Stevens makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "14:00"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Kyrie Irving",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "15:30"
+            },
+            "caption": "Kyrie Irving misses layup."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "16:30"
+            },
+            "caption": "Jaylen Brown gets the defensive rebound."
+        }
+    ]
+}

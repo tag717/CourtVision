@@ -1,0 +1,52 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_92_home_team(white)_attack_successed_2pt",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Quentin Grimes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "Quentin Grimes holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Quentin Grimes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:00"
+            },
+            "caption": "Quentin Grimes makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Justin Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "12:10"
+            },
+            "caption": "Justin Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Justin Edwards",
+            "result": "made",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:30"
+            },
+            "caption": "Justin Edwards makes layup."
+        }
+    ]
+}

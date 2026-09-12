@@ -1,0 +1,52 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_94_away_team(white)_attack_outside",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:40"
+            },
+            "caption": "Jalen Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:30"
+            },
+            "caption": "Jalen Williams makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "11:00"
+            },
+            "caption": "Shai Gilgeous-Alexander dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "2ptShot",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:50"
+            },
+            "caption": "Shai Gilgeous-Alexander misses 2-pt jump shot."
+        }
+    ]
+}

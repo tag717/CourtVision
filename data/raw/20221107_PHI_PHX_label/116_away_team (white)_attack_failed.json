@@ -1,0 +1,74 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_116_away_team (white)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cameron Payne",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:00"
+            },
+            "caption": "Cameron Payne dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cameron Payne",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:00"
+            },
+            "caption": "Cameron Payne makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Torrey Craig",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:50"
+            },
+            "caption": "Torrey Craig holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Torrey Craig",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "15:00"
+            },
+            "caption": "Torrey Craig dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Torrey Craig",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "16:50"
+            },
+            "caption": "Torrey Craig misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:40",
+                "end": "18:00"
+            },
+            "caption": "Tobias Harris gets the defensive rebound."
+        }
+    ]
+}

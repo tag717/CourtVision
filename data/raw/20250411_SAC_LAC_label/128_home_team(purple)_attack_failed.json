@@ -1,0 +1,74 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_128_home_team(purple)_attack_failed",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Zach LaVine holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "06:20"
+            },
+            "caption": "Zach LaVine dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:10"
+            },
+            "caption": "Zach LaVine hands off the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Devin Carter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "09:10"
+            },
+            "caption": "Devin Carter makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Jonas Valančiūnas",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "12:20"
+            },
+            "caption": "Jonas Valančiūnas misses layup."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "14:00"
+            },
+            "caption": "James Harden gets the defensive rebound."
+        }
+    ]
+}

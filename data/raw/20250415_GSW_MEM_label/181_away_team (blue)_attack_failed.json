@@ -1,0 +1,52 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_181_away_team (blue)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Scotty Pippen Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Scotty Pippen Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "13:10"
+            },
+            "caption": "Ja Morant dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "2ptShot",
+            "player": "Ja Morant",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "15:00"
+            },
+            "caption": "Ja Morant misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "16:00"
+            },
+            "caption": "Jimmy Butler gets the defensive rebound."
+        }
+    ]
+}

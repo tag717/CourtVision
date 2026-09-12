@@ -1,0 +1,74 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_182_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Payton Pritchard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "Payton Pritchard dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Payton Pritchard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:30"
+            },
+            "caption": "Payton Pritchard makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jordan Walsh",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "11:30"
+            },
+            "caption": "Jordan Walsh dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jordan Walsh",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "12:00"
+            },
+            "caption": "Jordan Walsh makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:30"
+            },
+            "caption": "Jaden Springer dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Jaden Springer",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "16:00"
+            },
+            "caption": "Jaden Springer misses layup."
+        }
+    ]
+}

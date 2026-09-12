@@ -1,0 +1,30 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_114_away_team(blue)_attack_befouled",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:30"
+            },
+            "caption": "James Harden dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "James Harden",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "07:00"
+            },
+            "caption": "James Harden is fouled on a layup attempt."
+        }
+    ]
+}

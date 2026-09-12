@@ -1,0 +1,41 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_185_away_team(white)_attack_outside",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "R.J. Hampton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:20"
+            },
+            "caption": "R.J. Hampton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "R.J. Hampton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:30"
+            },
+            "caption": "R.J. Hampton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Caleb Houstan",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "08:50"
+            },
+            "caption": "Caleb Houstan misses 3-pt jump shot."
+        }
+    ]
+}

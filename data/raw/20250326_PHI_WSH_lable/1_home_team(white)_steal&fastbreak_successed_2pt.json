@@ -1,0 +1,173 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_1_home_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "AJ Johnson holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:10"
+            },
+            "caption": "AJ Johnson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jordan Poole",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:30"
+            },
+            "caption": "Jordan Poole makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Alex Sarr",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "08:00"
+            },
+            "caption": "Alex Sarr makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Bub Carrington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "10:00"
+            },
+            "caption": "Bub Carrington dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Bub Carrington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "10:20"
+            },
+            "caption": "Bub Carrington makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Steal",
+            "player": "Quentin Grimes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "10:30"
+            },
+            "caption": "Quentin Grimes steals the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Quentin Grimes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "14:20"
+            },
+            "caption": "Quentin Grimes dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Quentin Grimes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "15:20"
+            },
+            "caption": "Quentin Grimes makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Jeff Dowtin Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "19:20"
+            },
+            "caption": "Jeff Dowtin Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Jeff Dowtin Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "20:00"
+            },
+            "caption": "Jeff Dowtin Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Hold",
+            "player": "Ricky Council IV",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "24:10"
+            },
+            "caption": "Ricky Council IV holds the ball."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "PassBall",
+            "player": "Ricky Council IV",
+            "result": "success",
+            "timestamp_video": {
+                "start": "24:10",
+                "end": "25:10"
+            },
+            "caption": "Ricky Council IV makes a pass."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "Dribble",
+            "player": "Guerschon Yabusele",
+            "result": "success",
+            "timestamp_video": {
+                "start": "25:10",
+                "end": "30:30"
+            },
+            "caption": "Guerschon Yabusele dribbles the ball."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "Layup",
+            "player": "Guerschon Yabusele",
+            "result": "made",
+            "timestamp_video": {
+                "start": "30:30",
+                "end": "31:30"
+            },
+            "caption": "Guerschon Yabusele makes layup."
+        }
+    ]
+}

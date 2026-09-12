@@ -1,0 +1,52 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_35_away_team(blue)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Jaren Jackson Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Scotty Pippen Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "06:20"
+            },
+            "caption": "Scotty Pippen Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Scotty Pippen Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:40"
+            },
+            "caption": "Scotty Pippen Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jaren Jackson Jr.",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "14:00"
+            },
+            "caption": "Jaren Jackson Jr. is fouled while dribbling."
+        }
+    ]
+}

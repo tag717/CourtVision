@@ -1,0 +1,63 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_23_home_team(black)_attack_successed_2pt",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Dereck Lively II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Dereck Lively II holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dereck Lively II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "02:00"
+            },
+            "caption": "Dereck Lively II makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Derrick Jones Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:50"
+            },
+            "caption": "Derrick Jones Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "08:50"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Kyrie Irving",
+            "result": "made",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "12:00"
+            },
+            "caption": "Kyrie Irving makes layup."
+        }
+    ]
+}

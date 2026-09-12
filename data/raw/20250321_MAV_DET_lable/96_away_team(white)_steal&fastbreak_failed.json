@@ -1,0 +1,162 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_96_away_team(white)_steal&fastbreak_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Naji Marshall",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:20"
+            },
+            "caption": "Naji Marshall dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Naji Marshall",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:10"
+            },
+            "caption": "Naji Marshall makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "09:20"
+            },
+            "caption": "Paul Reed holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:20"
+            },
+            "caption": "Paul Reed makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "14:10"
+            },
+            "caption": "P.J. Washington holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "15:20"
+            },
+            "caption": "P.J. Washington dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Steal",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "17:00"
+            },
+            "caption": "Cade Cunningham steals the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "18:10"
+            },
+            "caption": "Cade Cunningham makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:10",
+                "end": "22:00"
+            },
+            "caption": "Tobias Harris dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:00",
+                "end": "22:20"
+            },
+            "caption": "Tobias Harris makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Malik Beasley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:20",
+                "end": "23:20"
+            },
+            "caption": "Malik Beasley dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Malik Beasley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:20",
+                "end": "24:10"
+            },
+            "caption": "Malik Beasley makes a pass."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "3ptShot",
+            "player": "Tobias Harris",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "24:10",
+                "end": "27:20"
+            },
+            "caption": "Tobias Harris misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "DefensiveRebound",
+            "player": "Max Christie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "27:20",
+                "end": "29:30"
+            },
+            "caption": "Max Christie gets the defensive rebound."
+        }
+    ]
+}

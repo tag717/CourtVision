@@ -1,0 +1,107 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_184_away_team(white)_attack_befouled",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:20"
+            },
+            "caption": "James Harden holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "13:30"
+            },
+            "caption": "James Harden dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "2ptShot",
+            "player": "James Harden",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "15:30"
+            },
+            "caption": "James Harden misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Norman Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:50",
+                "end": "22:20"
+            },
+            "caption": "Norman Powell makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:20",
+                "end": "25:10"
+            },
+            "caption": "James Harden holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "25:10",
+                "end": "26:00"
+            },
+            "caption": "James Harden makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Norman Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "26:00",
+                "end": "26:40"
+            },
+            "caption": "Norman Powell dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Norman Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "26:40",
+                "end": "27:50"
+            },
+            "caption": "Norman Powell makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "2ptShot",
+            "player": "Kawhi Leonard",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "29:00",
+                "end": "31:00"
+            },
+            "caption": "Kawhi Leonard misses 2-pt jump shot."
+        }
+    ]
+}

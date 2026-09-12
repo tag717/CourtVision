@@ -1,0 +1,85 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_76_home_team(black)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "01:40"
+            },
+            "caption": "Draymond Green inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Brandin Podziemski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "04:20"
+            },
+            "caption": "Brandin Podziemski dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:00"
+            },
+            "caption": "Jimmy Butler makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Brandin Podziemski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "11:10"
+            },
+            "caption": "Brandin Podziemski holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Brandin Podziemski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:00"
+            },
+            "caption": "Brandin Podziemski makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Quinten Post",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "14:00"
+            },
+            "caption": "Quinten Post misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "15:00"
+            },
+            "caption": "Dillon Brooks gets the defensive rebound."
+        }
+    ]
+}

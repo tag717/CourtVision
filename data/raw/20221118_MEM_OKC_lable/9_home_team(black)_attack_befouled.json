@@ -1,0 +1,52 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_9_home_team(black)_attack_befouled",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "John Konchar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "John Konchar dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "John Konchar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "01:50"
+            },
+            "caption": "John Konchar makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "07:20"
+            },
+            "caption": "Dillon Brooks dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Dillon Brooks",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:00"
+            },
+            "caption": "Dillon Brooks is fouled on a layup attempt."
+        }
+    ]
+}

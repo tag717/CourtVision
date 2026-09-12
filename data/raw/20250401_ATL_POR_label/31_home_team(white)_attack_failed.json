@@ -1,0 +1,85 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_31_home_team(white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Vit Krejci",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Vit Krejci makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:10"
+            },
+            "caption": "Dyson Daniels dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:50"
+            },
+            "caption": "Dyson Daniels holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:40"
+            },
+            "caption": "Dyson Daniels makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Caris LeVert",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "07:00"
+            },
+            "caption": "Caris LeVert misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Toumani Camara",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:40"
+            },
+            "caption": "Toumani Camara gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Hold",
+            "player": "Toumani Camara",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "09:00"
+            },
+            "caption": "Toumani Camara holds the ball."
+        }
+    ]
+}

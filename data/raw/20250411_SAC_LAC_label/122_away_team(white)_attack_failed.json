@@ -1,0 +1,85 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_122_away_team(white)_attack_failed",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Norman Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:10"
+            },
+            "caption": "Norman Powell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Norman Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:30"
+            },
+            "caption": "Norman Powell makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Ivica Zubac",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:40"
+            },
+            "caption": "Ivica Zubac makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "11:00"
+            },
+            "caption": "James Harden holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "14:00"
+            },
+            "caption": "James Harden dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "2ptShot",
+            "player": "James Harden",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "16:20"
+            },
+            "caption": "James Harden misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Jonas Valančiūnas",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "17:00"
+            },
+            "caption": "Jonas Valančiūnas gets the defensive rebound."
+        }
+    ]
+}

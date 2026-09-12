@@ -1,0 +1,63 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_87_home_team(white)_attack_failed",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Devonte' Graham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Devonte' Graham dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Devonte' Graham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "03:40"
+            },
+            "caption": "Devonte' Graham makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "05:20"
+            },
+            "caption": "CJ McCollum dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "2ptShot",
+            "player": "CJ McCollum",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "07:10"
+            },
+            "caption": "CJ McCollum misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:20"
+            },
+            "caption": "Anfernee Simons gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_140_home_team(white)_attack_successed_2pt",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaden McDaniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:30"
+            },
+            "caption": "Jaden McDaniels dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Jaden McDaniels",
+            "result": "made",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "06:00"
+            },
+            "caption": "Jaden McDaniels makes layup."
+        }
+    ]
+}

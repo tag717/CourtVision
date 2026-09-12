@@ -1,0 +1,96 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_141_home_team(black)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "GaryPaytonII",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "GaryPaytonII inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "StephenCurry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "03:40"
+            },
+            "caption": "StephenCurry dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "StephenCurry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "04:40"
+            },
+            "caption": "StephenCurry makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "JimmyButler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "09:40"
+            },
+            "caption": "JimmyButler makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "GaryPaytonII",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:20"
+            },
+            "caption": "GaryPaytonII makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "BuddyHield",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "12:20"
+            },
+            "caption": "BuddyHield misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "StevenAdams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "13:50"
+            },
+            "caption": "StevenAdams gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "StevenAdams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:50",
+                "end": "15:40"
+            },
+            "caption": "StevenAdams makes a pass."
+        }
+    ]
+}

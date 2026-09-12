@@ -1,0 +1,63 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_179_home_team(white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Trae Young",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:50"
+            },
+            "caption": "Trae Young misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "OffensiveRebound",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "05:10"
+            },
+            "caption": "Dyson Daniels gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Dyson Daniels",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:10"
+            },
+            "caption": "Dyson Daniels turnover: bad pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Steal",
+            "player": "Donovan Clingan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "06:50"
+            },
+            "caption": "Donovan Clingan steals the ball."
+        }
+    ]
+}

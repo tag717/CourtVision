@@ -1,0 +1,19 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_222_home_team(blue)_attack_befouled",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "P.J. Washington",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "P.J. Washington is fouled while dribbling."
+        }
+    ]
+}

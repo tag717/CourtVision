@@ -1,0 +1,74 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_86_away_team(white )_steal&fastbreak_outside",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Dejounte Murray makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Clint Capela",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "02:30"
+            },
+            "caption": "Clint Capela turnover: bad pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Luguentz Dort",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "06:40"
+            },
+            "caption": "Luguentz Dort dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Luguentz Dort",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:20"
+            },
+            "caption": "Luguentz Dort makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Mike Muscala",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:00"
+            },
+            "caption": "Mike Muscala dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Mike Muscala",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:00"
+            },
+            "caption": "Mike Muscala turnover: pass out of bounds."
+        }
+    ]
+}

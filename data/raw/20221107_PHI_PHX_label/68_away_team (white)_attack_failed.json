@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_68_away_team (white)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Chris Paul",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Chris Paul makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Damion Lee",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "04:00"
+            },
+            "caption": "Damion Lee misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:00"
+            },
+            "caption": "Tyrese Maxey gets the defensive rebound."
+        }
+    ]
+}

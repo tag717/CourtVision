@@ -1,0 +1,107 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_34_away_team(white)_attack_outside",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:50"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "03:40"
+            },
+            "caption": "Tyus Jones makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Collin Gillespie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "04:40"
+            },
+            "caption": "Collin Gillespie makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Cody Martin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:00"
+            },
+            "caption": "Cody Martin dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Cody Martin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:30"
+            },
+            "caption": "Cody Martin makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Collin Gillespie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "09:30"
+            },
+            "caption": "Collin Gillespie dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Collin Gillespie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:00"
+            },
+            "caption": "Collin Gillespie makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Cody Martin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:50",
+                "end": "16:50"
+            },
+            "caption": "Cody Martin dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "2ptShot",
+            "player": "Cody Martin",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "17:10",
+                "end": "19:10"
+            },
+            "caption": "Cody Martin misses 2-pt jump shot (out of bounds)."
+        }
+    ]
+}

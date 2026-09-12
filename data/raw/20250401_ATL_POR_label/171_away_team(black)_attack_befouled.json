@@ -1,0 +1,107 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_171_away_team(black)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dalano Banton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Dalano Banton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dalano Banton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:20"
+            },
+            "caption": "Dalano Banton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Donovan Clingan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "06:10"
+            },
+            "caption": "Donovan Clingan holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Donovan Clingan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "06:40"
+            },
+            "caption": "Donovan Clingan makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "09:40"
+            },
+            "caption": "Deni Avdija holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "12:10"
+            },
+            "caption": "Deni Avdija dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:00"
+            },
+            "caption": "Deni Avdija makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dunk",
+            "player": "Donovan Clingan",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:20"
+            },
+            "caption": "Donovan Clingan is fouled on a dunk attempt."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Block",
+            "player": "Terance Mann",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "14:20"
+            },
+            "caption": "Terance Mann is called for a foul on a block attempt."
+        }
+    ]
+}

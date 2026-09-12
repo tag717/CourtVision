@@ -1,0 +1,63 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_35_away_team(white)_steal&fastbreak_successed_3pt",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "T.J. McConnell makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Oshae Brissett",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "03:30"
+            },
+            "caption": "Oshae Brissett turnover: lost ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "08:50"
+            },
+            "caption": "Jalen Suggs dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:00"
+            },
+            "caption": "Jalen Suggs makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Mo Bamba",
+            "result": "made",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:40"
+            },
+            "caption": "Mo Bamba makes 3-pt jump shot."
+        }
+    ]
+}

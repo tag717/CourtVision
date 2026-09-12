@@ -1,0 +1,96 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_8_away_team(white)_steal&fastbreak_failed",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:20"
+            },
+            "caption": "Trae Young turnover: bad pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Josh Giddey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "09:50"
+            },
+            "caption": "Josh Giddey dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Josh Giddey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "10:30"
+            },
+            "caption": "Josh Giddey makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jeremiah Robinson-Earl",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:30"
+            },
+            "caption": "Jeremiah Robinson-Earl makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Luguentz Dort",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "17:00"
+            },
+            "caption": "Luguentz Dort dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Luguentz Dort",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "18:10"
+            },
+            "caption": "Luguentz Dort misses layup."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Clint Capela",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:10",
+                "end": "18:30"
+            },
+            "caption": "Clint Capela gets the defensive rebound."
+        }
+    ]
+}

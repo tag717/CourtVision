@@ -1,0 +1,19 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_86_away_team(white)_freethrow_failed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Tari Eason",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Tari Eason misses free throw."
+        }
+    ]
+}

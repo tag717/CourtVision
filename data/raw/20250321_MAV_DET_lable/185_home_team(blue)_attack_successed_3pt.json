@@ -1,0 +1,41 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_185_home_team(blue)_attack_successed_3pt",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:10"
+            },
+            "caption": "Spencer Dinwiddie dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:00"
+            },
+            "caption": "Spencer Dinwiddie makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Naji Marshall",
+            "result": "made",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "12:10"
+            },
+            "caption": "Naji Marshall makes 3-pt jump shot."
+        }
+    ]
+}

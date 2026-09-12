@@ -1,0 +1,52 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_105_away_team(blue)_attack_befouled",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Josh Hart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Josh Hart dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Josh Hart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "02:30"
+            },
+            "caption": "Josh Hart makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "10:30"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Jalen Brunson",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:00"
+            },
+            "caption": "Jalen Brunson is fouled on a layup attempt."
+        }
+    ]
+}

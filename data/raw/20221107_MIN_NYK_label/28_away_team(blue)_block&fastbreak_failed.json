@@ -1,0 +1,96 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_28_away_team(blue)_block&fastbreak_failed",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Anthony Edwards inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "D'Angelo Russell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "03:50"
+            },
+            "caption": "D'Angelo Russell holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "D'Angelo Russell",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "06:30"
+            },
+            "caption": "D'Angelo Russell turnover: bad pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Steal",
+            "player": "RJ Barrett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "06:30"
+            },
+            "caption": "RJ Barrett steals the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "RJ Barrett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "10:40"
+            },
+            "caption": "RJ Barrett dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "RJ Barrett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "11:30"
+            },
+            "caption": "RJ Barrett makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Derrick Rose",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "13:30"
+            },
+            "caption": "Derrick Rose misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:00"
+            },
+            "caption": "Anthony Edwards gets the defensive rebound."
+        }
+    ]
+}

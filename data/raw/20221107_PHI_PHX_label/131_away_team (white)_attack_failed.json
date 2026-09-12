@@ -1,0 +1,63 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_131_away_team (white)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:40"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "05:30"
+            },
+            "caption": "Devin Booker makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:40"
+            },
+            "caption": "Mikal Bridges dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Mikal Bridges",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:50"
+            },
+            "caption": "Mikal Bridges misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "P.J. Tucker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:00"
+            },
+            "caption": "P.J. Tucker gets the defensive rebound."
+        }
+    ]
+}

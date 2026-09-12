@@ -1,0 +1,129 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_129_away_team(black)_steal&fastbreak_successed_2pt",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:40"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:20"
+            },
+            "caption": "Tyrese Haliburton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Andrew Nembhard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "05:30"
+            },
+            "caption": "Andrew Nembhard dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Andrew Nembhard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:40"
+            },
+            "caption": "Andrew Nembhard holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Andrew Nembhard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:30"
+            },
+            "caption": "Andrew Nembhard makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Goga Bitadze",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "13:00"
+            },
+            "caption": "Goga Bitadze misses layup."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "OffensiveRebound",
+            "player": "Goga Bitadze",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "13:10"
+            },
+            "caption": "Goga Bitadze gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Steal",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:00"
+            },
+            "caption": "Jamal Murray steals the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "28:00"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "2ptShot",
+            "player": "Jamal Murray",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "28:00",
+                "end": "30:00"
+            },
+            "caption": "Jamal Murray misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "DefensiveRebound",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "30:00",
+                "end": "31:00"
+            },
+            "caption": "Jamal Murray gets the defensive rebound."
+        }
+    ]
+}

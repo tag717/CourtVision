@@ -1,0 +1,30 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_62_away_team(white)_attack_failed",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Kawhi Leonard dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Kawhi Leonard",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:50"
+            },
+            "caption": "Kawhi Leonard misses 2-pt jump shot."
+        }
+    ]
+}

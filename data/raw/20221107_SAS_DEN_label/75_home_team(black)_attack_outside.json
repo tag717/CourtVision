@@ -1,0 +1,74 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_75_home_team(black)_attack_outside",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Charles Bassey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Charles Bassey dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Charles Bassey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "02:10"
+            },
+            "caption": "Charles Bassey makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jeremy Sochan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "04:40"
+            },
+            "caption": "Jeremy Sochan dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jeremy Sochan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "06:00"
+            },
+            "caption": "Jeremy Sochan makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:40"
+            },
+            "caption": "Devin Vassell dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Devin Vassell",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "09:10"
+            },
+            "caption": "Devin Vassell turnover: pass out of bounds."
+        }
+    ]
+}

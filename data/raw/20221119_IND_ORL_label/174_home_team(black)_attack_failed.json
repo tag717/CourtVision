@@ -1,0 +1,85 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_174_home_team(black)_attack_failed",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Myles Turner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "03:30"
+            },
+            "caption": "Myles Turner dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Myles Turner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:10"
+            },
+            "caption": "Myles Turner makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Oshae Brissett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:40"
+            },
+            "caption": "Oshae Brissett makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "07:00"
+            },
+            "caption": "Tyrese Haliburton makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Oshae Brissett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:50"
+            },
+            "caption": "Oshae Brissett makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Aaron Nesmith",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "10:30"
+            },
+            "caption": "Aaron Nesmith misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Kevon Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "16:00"
+            },
+            "caption": "Kevon Harris gets the defensive rebound."
+        }
+    ]
+}

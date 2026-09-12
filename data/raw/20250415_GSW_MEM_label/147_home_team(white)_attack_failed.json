@@ -1,0 +1,63 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_147_home_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "Stephen Curry dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:50"
+            },
+            "caption": "Stephen Curry makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Gary Payton II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "09:00"
+            },
+            "caption": "Gary Payton II makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Stephen Curry",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "11:20"
+            },
+            "caption": "Stephen Curry misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:20"
+            },
+            "caption": "Jaren Jackson Jr. gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_65_away_team(blue)_attack_failed",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Kawhi Leonard dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Kawhi Leonard",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "07:00"
+            },
+            "caption": "Kawhi Leonard misses 3-pt jump shot."
+        }
+    ]
+}

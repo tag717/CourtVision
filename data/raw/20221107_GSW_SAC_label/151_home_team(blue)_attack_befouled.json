@@ -1,0 +1,129 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_151_home_team(blue)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jordan Poole",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:40"
+            },
+            "caption": "Jordan Poole dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jordan Poole",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:00"
+            },
+            "caption": "Jordan Poole makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "10:00"
+            },
+            "caption": "Stephen Curry holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:40"
+            },
+            "caption": "Stephen Curry dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "12:20"
+            },
+            "caption": "Stephen Curry holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "14:30"
+            },
+            "caption": "Stephen Curry makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Andrew Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "19:30"
+            },
+            "caption": "Andrew Wiggins dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "2ptShot",
+            "player": "Andrew Wiggins",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "19:30",
+                "end": "20:50"
+            },
+            "caption": "Andrew Wiggins misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "OffensiveRebound",
+            "player": "Andrew Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:50",
+                "end": "22:30"
+            },
+            "caption": "Andrew Wiggins gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PutBack",
+            "player": "Andrew Wiggins",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "22:40",
+                "end": "24:00"
+            },
+            "caption": "Andrew Wiggins is fouled on a putback attempt."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Block",
+            "player": "Keegan Murray",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "22:40",
+                "end": "24:00"
+            },
+            "caption": "Keegan Murray is called for a foul on a block attempt."
+        }
+    ]
+}

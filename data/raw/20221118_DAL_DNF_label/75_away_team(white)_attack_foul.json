@@ -1,0 +1,19 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_75_away_team(white)_attack_foul",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bruce Brown",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:40"
+            },
+            "caption": "Bruce Brown is fouled while dribbling."
+        }
+    ]
+}

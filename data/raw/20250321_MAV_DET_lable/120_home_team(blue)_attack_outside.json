@@ -1,0 +1,52 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_120_home_team(blue)_attack_outside",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "Spencer Dinwiddie dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Spencer Dinwiddie",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "08:00"
+            },
+            "caption": "Spencer Dinwiddie misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Ausar Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "08:20"
+            },
+            "caption": "Ausar Thompson gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Ausar Thompson",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:20"
+            },
+            "caption": "Ausar Thompson turnover: out of bounds lost ball."
+        }
+    ]
+}

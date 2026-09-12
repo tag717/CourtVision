@@ -1,0 +1,30 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_168_away_team(white)_attack_befouled",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Oshae Brissett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:40"
+            },
+            "caption": "Oshae Brissett dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Oshae Brissett",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "07:00"
+            },
+            "caption": "Oshae Brissett misses layup."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_111_away_team(black)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dalano Banton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Dalano Banton dribbles the ball."
+        }
+    ]
+}

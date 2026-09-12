@@ -1,0 +1,85 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_127_away_team(blue)_attack_foul",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mike Muscala",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:40"
+            },
+            "caption": "Mike Muscala dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Mike Muscala",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "02:20"
+            },
+            "caption": "Mike Muscala makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Luguentz Dort",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:40"
+            },
+            "caption": "Luguentz Dort makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Mike Muscala",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "04:50"
+            },
+            "caption": "Mike Muscala dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Jeremiah Robinson-Earl",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "07:00"
+            },
+            "caption": "Jeremiah Robinson-Earl misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "11:40"
+            },
+            "caption": "Shai Gilgeous-Alexander dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "2ptShot",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "13:20"
+            },
+            "caption": "Shai Gilgeous-Alexander misses 2-pt jump shot."
+        }
+    ]
+}

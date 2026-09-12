@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_34_home_team(white)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "D'Angelo Russell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "D'Angelo Russell makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "03:00"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "06:00"
+            },
+            "caption": "Anthony Edwards is fouled while passing the ball."
+        }
+    ]
+}

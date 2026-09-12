@@ -1,0 +1,52 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_6_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:30"
+            },
+            "caption": "Jalen Green dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jalen Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:20"
+            },
+            "caption": "Jalen Green makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Alperen Şengün",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "09:20"
+            },
+            "caption": "Alperen Şengün misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "11:00"
+            },
+            "caption": "Jimmy Butler gets the defensive rebound."
+        }
+    ]
+}

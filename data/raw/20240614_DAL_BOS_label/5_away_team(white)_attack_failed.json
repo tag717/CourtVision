@@ -1,0 +1,63 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_5_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:10"
+            },
+            "caption": "Derrick White dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:20"
+            },
+            "caption": "Derrick White makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:30"
+            },
+            "caption": "Jayson Tatum makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Jaylen Brown",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "10:40"
+            },
+            "caption": "Jaylen Brown misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "12:00"
+            },
+            "caption": "Luka Dončić gets the defensive rebound."
+        }
+    ]
+}

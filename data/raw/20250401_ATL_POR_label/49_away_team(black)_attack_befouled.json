@@ -1,0 +1,74 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_49_away_team(black)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Duop Reath",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Duop Reath dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Duop Reath",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "01:30"
+            },
+            "caption": "Duop Reath hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Dalano Banton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "02:40"
+            },
+            "caption": "Dalano Banton makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Kris Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "04:10"
+            },
+            "caption": "Kris Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Kris Murray",
+            "result": "made",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "06:00"
+            },
+            "caption": "Kris Murray makes layup."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Dominick Barlow",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:10"
+            },
+            "caption": "Dominick Barlow is fouled on a defensive rebound."
+        }
+    ]
+}

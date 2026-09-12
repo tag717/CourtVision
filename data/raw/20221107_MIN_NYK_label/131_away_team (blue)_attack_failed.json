@@ -1,0 +1,52 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_131_away_team (blue)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Jalen Brunson makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "RJ Barrett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "02:00"
+            },
+            "caption": "RJ Barrett dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "RJ Barrett",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "04:10"
+            },
+            "caption": "RJ Barrett misses layup."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:00"
+            },
+            "caption": "Karl-Anthony Towns gets the defensive rebound."
+        }
+    ]
+}

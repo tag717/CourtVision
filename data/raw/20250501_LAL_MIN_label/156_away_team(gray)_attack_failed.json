@@ -1,0 +1,85 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_156_away_team(gray)_attack_failed",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "10:00"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:10"
+            },
+            "caption": "Anthony Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Nickeil Alexander-Walker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "11:30"
+            },
+            "caption": "Nickeil Alexander-Walker dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "2ptShot",
+            "player": "Nickeil Alexander-Walker",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "13:10"
+            },
+            "caption": "Nickeil Alexander-Walker misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Steal",
+            "player": "Gabe Vincent",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "14:50"
+            },
+            "caption": "Gabe Vincent steals the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Gabe Vincent",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "16:10"
+            },
+            "caption": "Gabe Vincent makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "LeBron James",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "17:00"
+            },
+            "caption": "LeBron James dribbles the ball."
+        }
+    ]
+}

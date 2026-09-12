@@ -1,0 +1,74 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_68_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "15:20"
+            },
+            "caption": "Jaylen Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "16:00"
+            },
+            "caption": "Jaylen Brown makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "18:00"
+            },
+            "caption": "Jrue Holiday dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Jrue Holiday",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "19:10"
+            },
+            "caption": "Jrue Holiday misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Daniel Gafford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:10",
+                "end": "20:30"
+            },
+            "caption": "Daniel Gafford gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Daniel Gafford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:30",
+                "end": "21:00"
+            },
+            "caption": "Daniel Gafford makes a pass."
+        }
+    ]
+}

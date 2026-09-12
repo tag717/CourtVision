@@ -1,0 +1,74 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_47_home_team(black)_attack_outside",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Josh Richardson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "04:30"
+            },
+            "caption": "Josh Richardson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Doug McDermott",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "06:30"
+            },
+            "caption": "Doug McDermott makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Charles Bassey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:00"
+            },
+            "caption": "Charles Bassey hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Doug McDermott",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "09:10"
+            },
+            "caption": "Doug McDermott dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Doug McDermott",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "11:00"
+            },
+            "caption": "Doug McDermott turnover: pass out of bounds."
+        }
+    ]
+}

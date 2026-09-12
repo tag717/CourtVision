@@ -1,0 +1,41 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_14_home_team(blue)_attack_outside",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kai Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Kai Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "Ausar Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "03:20"
+            },
+            "caption": "Ausar Thompson steals the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Ausar Thompson",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:00"
+            },
+            "caption": "Ausar Thompson turnover: out of bounds lost ball."
+        }
+    ]
+}

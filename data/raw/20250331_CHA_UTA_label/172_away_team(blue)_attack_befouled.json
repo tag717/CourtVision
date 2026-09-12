@@ -1,0 +1,118 @@
+{
+    "video_id": "20250331_CHA_UTA",
+    "possession_id": "poss_172_away_team(blue)_attack_befouled",
+    "home_team": "CHA",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Keyonte George",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:20"
+            },
+            "caption": "Keyonte George dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Keyonte George",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:20"
+            },
+            "caption": "Keyonte George makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:30"
+            },
+            "caption": "Jaden Springer holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "09:10"
+            },
+            "caption": "Jaden Springer dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "HandOff",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "09:40"
+            },
+            "caption": "Jaden Springer hands off the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Keyonte George",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "15:50"
+            },
+            "caption": "Keyonte George dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Keyonte George",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "16:40"
+            },
+            "caption": "Keyonte George makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:40",
+                "end": "18:20"
+            },
+            "caption": "Jaden Springer dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:20",
+                "end": "19:00"
+            },
+            "caption": "Jaden Springer makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Layup",
+            "player": "KJ Martin",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "21:20"
+            },
+            "caption": "KJ Martin is fouled on a layup attempt."
+        }
+    ]
+}

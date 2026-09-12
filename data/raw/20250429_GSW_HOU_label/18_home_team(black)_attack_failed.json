@@ -1,0 +1,74 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_18_home_team(black)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "01:30"
+            },
+            "caption": "Jimmy Butler makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "06:00"
+            },
+            "caption": "Draymond Green holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:40"
+            },
+            "caption": "Draymond Green makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Brandin Podziemski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "09:00"
+            },
+            "caption": "Brandin Podziemski dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Brandin Podziemski",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:50"
+            },
+            "caption": "Brandin Podziemski misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Amen Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "12:00"
+            },
+            "caption": "Amen Thompson gets the defensive rebound."
+        }
+    ]
+}

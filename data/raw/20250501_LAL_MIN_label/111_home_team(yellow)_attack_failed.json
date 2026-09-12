@@ -1,0 +1,30 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_111_home_team(yellow)_attack_failed",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Steal",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Mike Conley steals the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "04:40"
+            },
+            "caption": "Mike Conley makes a pass."
+        }
+    ]
+}

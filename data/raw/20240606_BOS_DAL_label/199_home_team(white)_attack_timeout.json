@@ -1,0 +1,19 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_199_home_team(white)_attack_timeout",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Sam Hauser",
+            "result": "timeout",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "24:00"
+            },
+            "caption": "Sam Hauser dribbles and calls a timeout."
+        }
+    ]
+}

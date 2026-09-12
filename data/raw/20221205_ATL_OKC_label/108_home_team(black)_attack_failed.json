@@ -1,0 +1,63 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_108_home_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Clint Capela",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Clint Capela dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Clint Capela",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "01:50"
+            },
+            "caption": "Clint Capela hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "AJ Griffin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "06:30"
+            },
+            "caption": "AJ Griffin dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "AJ Griffin",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:50"
+            },
+            "caption": "AJ Griffin misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Luguentz Dort",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "09:00"
+            },
+            "caption": "Luguentz Dort gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_13_home_team(white)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jeff Dowtin Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:10"
+            },
+            "caption": "Jeff Dowtin Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jeff Dowtin Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "09:30"
+            },
+            "caption": "Jeff Dowtin Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Justin Edwards",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "12:00"
+            },
+            "caption": "Justin Edwards misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Kelly Oubre Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "12:30"
+            },
+            "caption": "Kelly Oubre Jr. gets the defensive rebound."
+        }
+    ]
+}

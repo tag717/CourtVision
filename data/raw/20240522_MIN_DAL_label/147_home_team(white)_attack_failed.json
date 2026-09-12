@@ -1,0 +1,85 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_147_home_team(white)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "10:10"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "10:30"
+            },
+            "caption": "Anthony Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "12:30"
+            },
+            "caption": "Naz Reid dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "13:20"
+            },
+            "caption": "Naz Reid makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Rudy Gobert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "15:00"
+            },
+            "caption": "Rudy Gobert makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Anthony Edwards",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "17:30"
+            },
+            "caption": "Anthony Edwards misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:30",
+                "end": "18:10"
+            },
+            "caption": "Kyrie Irving gets the defensive rebound."
+        }
+    ]
+}

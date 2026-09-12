@@ -1,0 +1,63 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_221_home_team(white)_attack_failed",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Zion Williamson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:20"
+            },
+            "caption": "Zion Williamson inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "08:40"
+            },
+            "caption": "CJ McCollum dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "CJ McCollum",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "10:20"
+            },
+            "caption": "CJ McCollum misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Kevin Knox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "12:00"
+            },
+            "caption": "Kevin Knox gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Kevin Knox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:10"
+            },
+            "caption": "Kevin Knox makes a pass."
+        }
+    ]
+}

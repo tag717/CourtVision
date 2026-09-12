@@ -1,0 +1,107 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_214_away_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:00"
+            },
+            "caption": "Draymond Green dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:40"
+            },
+            "caption": "Draymond Green holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "11:40"
+            },
+            "caption": "Draymond Green makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Andrew Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "13:00"
+            },
+            "caption": "Andrew Wiggins holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Andrew Wiggins",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "17:00"
+            },
+            "caption": "Andrew Wiggins turnover: lost ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Steal",
+            "player": "Terence Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "17:00"
+            },
+            "caption": "Terence Davis steals the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Terence Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "18:30"
+            },
+            "caption": "Terence Davis dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Terence Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:30",
+                "end": "19:20"
+            },
+            "caption": "Terence Davis makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dunk",
+            "player": "Malik Monk",
+            "result": "made",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "20:30"
+            },
+            "caption": "Malik Monk makes dunk."
+        }
+    ]
+}

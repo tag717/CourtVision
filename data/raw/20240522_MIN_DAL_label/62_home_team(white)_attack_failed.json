@@ -1,0 +1,96 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_62_home_team(white)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "Mike Conley holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "04:00"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:00"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "08:10"
+            },
+            "caption": "Naz Reid dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "09:00"
+            },
+            "caption": "Naz Reid makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Nickeil Alexander-Walker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "11:00"
+            },
+            "caption": "Nickeil Alexander-Walker dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Nickeil Alexander-Walker",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:10"
+            },
+            "caption": "Nickeil Alexander-Walker misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Tim Hardaway Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "14:00"
+            },
+            "caption": "Tim Hardaway Jr. gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_132_home_team(blue)_attack_successed_3pt",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Cory Joseph dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:00"
+            },
+            "caption": "Cory Joseph makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Saddiq Bey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:00"
+            },
+            "caption": "Saddiq Bey dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Saddiq Bey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:50"
+            },
+            "caption": "Saddiq Bey makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Bojan Bogdanović",
+            "result": "made",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "08:30"
+            },
+            "caption": "Bojan Bogdanović makes 3-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_29_home_team(black)_freethrow_successed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Quinten Post",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "02:20"
+            },
+            "caption": "Quinten Post makes free throw."
+        }
+    ]
+}

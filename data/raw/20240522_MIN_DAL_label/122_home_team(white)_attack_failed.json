@@ -1,0 +1,107 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_122_home_team(white)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:00"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "10:10"
+            },
+            "caption": "Anthony Edwards holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "12:20"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "13:10"
+            },
+            "caption": "Anthony Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Jaden McDaniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "15:00"
+            },
+            "caption": "Jaden McDaniels dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Jaden McDaniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "15:20"
+            },
+            "caption": "Jaden McDaniels makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Karl-Anthony Towns",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "17:20"
+            },
+            "caption": "Karl-Anthony Towns misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "18:20"
+            },
+            "caption": "P.J. Washington gets the defensive rebound."
+        }
+    ]
+}

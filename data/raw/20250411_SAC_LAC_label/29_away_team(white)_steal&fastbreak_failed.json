@@ -1,0 +1,195 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_29_away_team(white)_steal&fastbreak_failed",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Keon Ellis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "08:30"
+            },
+            "caption": "Keon Ellis dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Keon Ellis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:30"
+            },
+            "caption": "Keon Ellis makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "12:20"
+            },
+            "caption": "Domantas Sabonis dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "13:00"
+            },
+            "caption": "Domantas Sabonis makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "15:30"
+            },
+            "caption": "Zach LaVine dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Zach LaVine",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "17:30"
+            },
+            "caption": "Zach LaVine turnover: bad pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Steal",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "17:30"
+            },
+            "caption": "Kawhi Leonard steals the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:30",
+                "end": "19:00"
+            },
+            "caption": "Kawhi Leonard dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "19:50"
+            },
+            "caption": "Kawhi Leonard makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:50",
+                "end": "21:50"
+            },
+            "caption": "James Harden dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:50",
+                "end": "23:30"
+            },
+            "caption": "James Harden makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Dribble",
+            "player": "Ivica Zubac",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:30",
+                "end": "24:40"
+            },
+            "caption": "Ivica Zubac dribbles the ball."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "PassBall",
+            "player": "Ivica Zubac",
+            "result": "success",
+            "timestamp_video": {
+                "start": "24:40",
+                "end": "26:00"
+            },
+            "caption": "Ivica Zubac makes a pass."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "PassBall",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "26:00",
+                "end": "27:40"
+            },
+            "caption": "James Harden makes a pass."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "Dribble",
+            "player": "Ivica Zubac",
+            "result": "success",
+            "timestamp_video": {
+                "start": "27:40",
+                "end": "30:00"
+            },
+            "caption": "Ivica Zubac dribbles the ball."
+        },
+        {
+            "event_id": "ev_16",
+            "event_label": "Layup",
+            "player": "Ivica Zubac",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "30:00",
+                "end": "31:20"
+            },
+            "caption": "Ivica Zubac misses layup."
+        },
+        {
+            "event_id": "ev_17",
+            "event_label": "DefensiveRebound",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "31:20",
+                "end": "32:00"
+            },
+            "caption": "Domantas Sabonis gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_75_away_team(black)_steal&fastbreak_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Zaccharie Risacher",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Zaccharie Risacher inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Onyeka Okongwu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:20"
+            },
+            "caption": "Onyeka Okongwu dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Onyeka Okongwu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "04:00"
+            },
+            "caption": "Onyeka Okongwu makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:10"
+            },
+            "caption": "Caris LeVert makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Georges Niang",
+            "result": "made",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:50"
+            },
+            "caption": "Georges Niang makes 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "OffensiveRebound",
+            "player": "Zaccharie Risacher",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "07:30"
+            },
+            "caption": "Zaccharie Risacher gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Zaccharie Risacher",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "09:00"
+            },
+            "caption": "Zaccharie Risacher dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Hold",
+            "player": "Zaccharie Risacher",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "09:50"
+            },
+            "caption": "Zaccharie Risacher holds the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Zaccharie Risacher",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "10:50"
+            },
+            "caption": "Zaccharie Risacher makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Hold",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "13:30"
+            },
+            "caption": "Dyson Daniels holds the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:40"
+            },
+            "caption": "Dyson Daniels makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Georges Niang",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:40",
+                "end": "15:20"
+            },
+            "caption": "Georges Niang makes a pass."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "Dribble",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "16:20"
+            },
+            "caption": "Caris LeVert dribbles the ball."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "PassBall",
+            "player": "Caris LeVert",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "17:20"
+            },
+            "caption": "Caris LeVert turnover: bad pass."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "Steal",
+            "player": "Matisse Thybulle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "18:40"
+            },
+            "caption": "Matisse Thybulle steals the ball."
+        },
+        {
+            "event_id": "ev_16",
+            "event_label": "Dribble",
+            "player": "Matisse Thybulle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:40",
+                "end": "19:00"
+            },
+            "caption": "Matisse Thybulle dribbles the ball."
+        },
+        {
+            "event_id": "ev_17",
+            "event_label": "PassBall",
+            "player": "Matisse Thybulle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "19:40"
+            },
+            "caption": "Matisse Thybulle makes a pass."
+        },
+        {
+            "event_id": "ev_18",
+            "event_label": "Dribble",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:40",
+                "end": "21:00"
+            },
+            "caption": "Deni Avdija dribbles the ball."
+        },
+        {
+            "event_id": "ev_19",
+            "event_label": "Layup",
+            "player": "Deni Avdija",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "21:00",
+                "end": "22:30"
+            },
+            "caption": "Deni Avdija misses layup."
+        },
+        {
+            "event_id": "ev_20",
+            "event_label": "DefensiveRebound",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:30",
+                "end": "23:00"
+            },
+            "caption": "Dyson Daniels gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_21",
+            "event_label": "Dribble",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "24:00",
+                "end": "25:00"
+            },
+            "caption": "Dyson Daniels dribbles the ball."
+        }
+    ]
+}

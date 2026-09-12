@@ -1,0 +1,30 @@
+{
+    "video_id": "20240528_DAL_MIN",
+    "possession_id": "poss_80_away_team(white)_attack_successed_2pt",
+    "home_team": "DAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "10:00"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Mike Conley",
+            "result": "made",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:30"
+            },
+            "caption": "Mike Conley makes layup."
+        }
+    ]
+}

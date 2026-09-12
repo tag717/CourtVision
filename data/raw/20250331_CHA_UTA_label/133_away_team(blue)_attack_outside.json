@@ -1,0 +1,74 @@
+{
+    "video_id": "20250331_CHA_UTA",
+    "possession_id": "poss_133_away_team(blue)_attack_outside",
+    "home_team": "CHA",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "01:30"
+            },
+            "caption": "Jaden Springer makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Keyonte George",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "03:10"
+            },
+            "caption": "Keyonte George makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "Oscar Tshiebwe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:30"
+            },
+            "caption": "Oscar Tshiebwe hands off the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "09:40"
+            },
+            "caption": "Jaden Springer dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:10"
+            },
+            "caption": "Jaden Springer makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "KJ Martin",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "14:50"
+            },
+            "caption": "KJ Martin turnover: out of bounds lost ball."
+        }
+    ]
+}

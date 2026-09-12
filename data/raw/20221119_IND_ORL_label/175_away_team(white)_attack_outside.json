@@ -1,0 +1,30 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_175_away_team(white)_attack_outside",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kevon Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "12:30"
+            },
+            "caption": "Kevon Harris dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Kevon Harris",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "13:30"
+            },
+            "caption": "Kevon Harris misses layup."
+        }
+    ]
+}

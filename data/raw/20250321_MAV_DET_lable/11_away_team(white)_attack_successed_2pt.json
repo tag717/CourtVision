@@ -1,0 +1,107 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_11_away_team(white)_attack_successed_2pt",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tim Hardaway Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Tim Hardaway Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tim Hardaway Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:10"
+            },
+            "caption": "Tim Hardaway Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "06:00"
+            },
+            "caption": "Jalen Duren dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:10"
+            },
+            "caption": "Jalen Duren makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "08:00"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "08:20"
+            },
+            "caption": "Cade Cunningham makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Tobias Harris",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "10:20"
+            },
+            "caption": "Tobias Harris misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "OffensiveRebound",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:10"
+            },
+            "caption": "Jalen Duren gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dunk",
+            "player": "Jalen Duren",
+            "result": "made",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:10"
+            },
+            "caption": "Jalen Duren makes dunk."
+        }
+    ]
+}

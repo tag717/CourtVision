@@ -1,0 +1,63 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_40_home_team(white)_steal&fastbreak_failed",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Luke Kennard",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:30"
+            },
+            "caption": "Luke Kennard turnover: bad pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Quinten Post",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "03:40"
+            },
+            "caption": "Quinten Post makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Gary Payton II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "04:10"
+            },
+            "caption": "Gary Payton II dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Gary Payton II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:00"
+            },
+            "caption": "Gary Payton II makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Buddy Hield",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "09:00"
+            },
+            "caption": "Buddy Hield misses 3-pt jump shot."
+        }
+    ]
+}

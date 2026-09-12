@@ -1,0 +1,41 @@
+{
+    "video_id": "20240528_DAL_MIN",
+    "possession_id": "poss_54_home_team(black)_steal&fastbreak_befouled",
+    "home_team": "DAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "15:30"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "17:00"
+            },
+            "caption": "Anthony Edwards turnover: bad pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Josh Green",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "22:00"
+            },
+            "caption": "Josh Green is fouled while dribbling."
+        }
+    ]
+}

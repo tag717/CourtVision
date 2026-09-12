@@ -1,0 +1,52 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_59_away_team(white)_attack_outside",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:40"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:20"
+            },
+            "caption": "Tyus Jones makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:00"
+            },
+            "caption": "Jaren Jackson Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jaren Jackson Jr.",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "11:00"
+            },
+            "caption": "Jaren Jackson Jr. turnover: pass out of bounds."
+        }
+    ]
+}

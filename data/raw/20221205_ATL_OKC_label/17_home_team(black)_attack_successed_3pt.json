@@ -1,0 +1,74 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_17_home_team(black)_attack_successed_3pt",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "10:30"
+            },
+            "caption": "Dejounte Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:10"
+            },
+            "caption": "Dejounte Murray makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:40"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "13:50"
+            },
+            "caption": "Trae Young makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jalen Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:50",
+                "end": "14:40"
+            },
+            "caption": "Jalen Johnson makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "AJ Griffin",
+            "result": "made",
+            "timestamp_video": {
+                "start": "14:40",
+                "end": "16:50"
+            },
+            "caption": "AJ Griffin makes 3-pt jump shot."
+        }
+    ]
+}

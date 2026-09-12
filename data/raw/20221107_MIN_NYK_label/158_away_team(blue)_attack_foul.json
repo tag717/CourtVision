@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_158_away_team(blue)_attack_foul",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "RJ Barrett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:50"
+            },
+            "caption": "RJ Barrett dribbles the ball."
+        }
+    ]
+}

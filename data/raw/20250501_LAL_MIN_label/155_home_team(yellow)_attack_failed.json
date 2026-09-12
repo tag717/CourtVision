@@ -1,0 +1,118 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_155_home_team(yellow)_attack_failed",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "LeBron James",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "LeBron James dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "LeBron James",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "02:50"
+            },
+            "caption": "LeBron James makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "Rui Hachimura",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:10"
+            },
+            "caption": "Rui Hachimura hands off the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "LeBron James",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:20"
+            },
+            "caption": "LeBron James makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "11:10"
+            },
+            "caption": "Luka Dončić dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Luka Dončić",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "13:50"
+            },
+            "caption": "Luka Dončić misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Rudy Gobert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:50",
+                "end": "15:10"
+            },
+            "caption": "Rudy Gobert gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Rudy Gobert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "16:10"
+            },
+            "caption": "Rudy Gobert makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "17:00"
+            },
+            "caption": "Naz Reid makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "18:00"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        }
+    ]
+}

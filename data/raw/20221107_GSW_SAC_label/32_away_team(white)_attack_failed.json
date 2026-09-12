@@ -1,0 +1,118 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_32_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Domantas Sabonis holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "01:50"
+            },
+            "caption": "Domantas Sabonis dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "02:50"
+            },
+            "caption": "Domantas Sabonis makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Kevin Huerter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "04:10"
+            },
+            "caption": "Kevin Huerter dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Kevin Huerter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:10"
+            },
+            "caption": "Kevin Huerter makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:30"
+            },
+            "caption": "Domantas Sabonis holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "09:40"
+            },
+            "caption": "Domantas Sabonis dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:30"
+            },
+            "caption": "Domantas Sabonis makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "Harrison Barnes",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "12:40"
+            },
+            "caption": "Harrison Barnes misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "Kevon Looney",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "14:00"
+            },
+            "caption": "Kevon Looney gets the defensive rebound."
+        }
+    ]
+}

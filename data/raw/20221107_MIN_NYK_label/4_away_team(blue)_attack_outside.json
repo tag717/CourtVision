@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_4_away_team(blue)_attack_outside",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "02:40"
+            },
+            "caption": "Jalen Brunson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "RJ Barrett",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "05:00"
+            },
+            "caption": "RJ Barrett turnover: out of bounds lost ball."
+        }
+    ]
+}

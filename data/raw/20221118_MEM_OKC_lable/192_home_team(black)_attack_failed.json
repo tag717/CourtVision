@@ -1,0 +1,129 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_192_home_team(black)_attack_failed",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:50"
+            },
+            "caption": "Ja Morant dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "08:30"
+            },
+            "caption": "Ja Morant holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:10"
+            },
+            "caption": "Ja Morant makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Brandon Clarke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "11:20"
+            },
+            "caption": "Brandon Clarke holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Brandon Clarke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:10"
+            },
+            "caption": "Brandon Clarke makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:40"
+            },
+            "caption": "Ja Morant makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Hold",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "15:50"
+            },
+            "caption": "Jaren Jackson Jr. holds the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "16:50"
+            },
+            "caption": "Jaren Jackson Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "David Roddy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:50",
+                "end": "17:40"
+            },
+            "caption": "David Roddy makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "3ptShot",
+            "player": "John Konchar",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "17:40",
+                "end": "19:50"
+            },
+            "caption": "John Konchar misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "DefensiveRebound",
+            "player": "Aaron Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:50",
+                "end": "20:00"
+            },
+            "caption": "Aaron Wiggins gets the defensive rebound."
+        }
+    ]
+}

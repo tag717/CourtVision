@@ -1,0 +1,107 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_80_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Kyle Filipowski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Kyle Filipowski inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Isaiah Collier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "09:00"
+            },
+            "caption": "Isaiah Collier dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Isaiah Collier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:00"
+            },
+            "caption": "Isaiah Collier makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Johnny Juzang",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "13:00"
+            },
+            "caption": "Johnny Juzang dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Johnny Juzang",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "13:20"
+            },
+            "caption": "Johnny Juzang makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Isaiah Collier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "17:40"
+            },
+            "caption": "Isaiah Collier dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Isaiah Collier",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "17:40",
+                "end": "18:20"
+            },
+            "caption": "Isaiah Collier turnover: bad pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Steal",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "18:40"
+            },
+            "caption": "Dyson Daniels steals the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:40",
+                "end": "20:00"
+            },
+            "caption": "Dyson Daniels dribbles the ball."
+        }
+    ]
+}

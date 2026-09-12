@@ -1,0 +1,52 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_95_home_team(black)_attack_successed_3pt",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:40"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:30"
+            },
+            "caption": "Tyrese Haliburton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Bennedict Mathurin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:30"
+            },
+            "caption": "Bennedict Mathurin makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Buddy Hield",
+            "result": "made",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "06:30"
+            },
+            "caption": "Buddy Hield makes 3-pt jump shot."
+        }
+    ]
+}

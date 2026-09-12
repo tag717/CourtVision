@@ -1,0 +1,19 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_159_home_team(black)_freethrow_successed",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Aaron Nesmith",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Aaron Nesmith makes free throw."
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_47_away_team (white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tre Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:30"
+            },
+            "caption": "Tre Mann dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tre Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "03:30"
+            },
+            "caption": "Tre Mann makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Aleksej Pokusevski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:30"
+            },
+            "caption": "Aleksej Pokusevski makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "06:00"
+            },
+            "caption": "Jalen Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:30"
+            },
+            "caption": "Jalen Williams makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Tre Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "08:40"
+            },
+            "caption": "Tre Mann dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Tre Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:30"
+            },
+            "caption": "Tre Mann makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "11:30"
+            },
+            "caption": "Jalen Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "12:30"
+            },
+            "caption": "Jalen Williams makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Tre Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "18:30"
+            },
+            "caption": "Tre Mann dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Layup",
+            "player": "Tre Mann",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "18:30",
+                "end": "20:30"
+            },
+            "caption": "Tre Mann misses layup."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "DefensiveRebound",
+            "player": "Onyeka Okongwu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:30",
+                "end": "21:00"
+            },
+            "caption": "Onyeka Okongwu gets the defensive rebound."
+        }
+    ]
+}

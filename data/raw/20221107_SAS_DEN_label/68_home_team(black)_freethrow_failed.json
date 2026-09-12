@@ -1,0 +1,30 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_68_home_team(black)_freethrow_failed",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Charles Bassey",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Charles Bassey misses free throw."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "DefensiveRebound",
+            "player": "DeAndre Jordan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:30"
+            },
+            "caption": "DeAndre Jordan gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_96_home_team(white)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "01:30"
+            },
+            "caption": "Karl-Anthony Towns dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "02:20"
+            },
+            "caption": "Karl-Anthony Towns hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "04:30"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:50"
+            },
+            "caption": "Anthony Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "D'Angelo Russell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "08:30"
+            },
+            "caption": "D'Angelo Russell holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "D'Angelo Russell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:20"
+            },
+            "caption": "D'Angelo Russell makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Kyle Anderson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:00"
+            },
+            "caption": "Kyle Anderson dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Kyle Anderson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "10:50"
+            },
+            "caption": "Kyle Anderson makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "11:30"
+            },
+            "caption": "Anthony Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "3ptShot",
+            "player": "Jaden McDaniels",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "13:40"
+            },
+            "caption": "Jaden McDaniels misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "DefensiveRebound",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "15:00"
+            },
+            "caption": "Julius Randle gets the defensive rebound."
+        }
+    ]
+}

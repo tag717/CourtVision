@@ -1,0 +1,107 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_198_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Johnny Juzang",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:20"
+            },
+            "caption": "Johnny Juzang makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Brice Sensabaugh",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "01:40"
+            },
+            "caption": "Brice Sensabaugh dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Brice Sensabaugh",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "02:40"
+            },
+            "caption": "Brice Sensabaugh makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Isaiah Collier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:30"
+            },
+            "caption": "Isaiah Collier makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Keyonte George",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "06:00"
+            },
+            "caption": "Keyonte George misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Terance Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:40"
+            },
+            "caption": "Terance Mann gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Terance Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:10"
+            },
+            "caption": "Terance Mann dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Terance Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "08:50"
+            },
+            "caption": "Terance Mann makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:00"
+            },
+            "caption": "Trae Young dribbles the ball."
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_31_away_team(white)_attack_successed_2pt",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:40"
+            },
+            "caption": "Tyus Jones makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Collin Gillespie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "03:30"
+            },
+            "caption": "Collin Gillespie makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:10"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "05:40"
+            },
+            "caption": "Devin Booker makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Cody Martin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:50"
+            },
+            "caption": "Cody Martin dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Cody Martin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:20"
+            },
+            "caption": "Cody Martin makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "2ptShot",
+            "player": "Oso Ighodaro",
+            "result": "made",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:50"
+            },
+            "caption": "Oso Ighodaro makes 2-pt jump shot."
+        }
+    ]
+}

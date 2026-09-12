@@ -1,0 +1,41 @@
+{
+    "video_id": "20250331_CHA_UTA",
+    "possession_id": "poss_80_home_team(white)_attack_foul",
+    "home_team": "CHA",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Miles Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:00"
+            },
+            "caption": "Miles Bridges dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Miles Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:00"
+            },
+            "caption": "Miles Bridges makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Mark Williams",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "12:00"
+            },
+            "caption": "Mark Williams is fouled on a layup attempt."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_76_away_team(blue)_attack_successed_2pt",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Mikal Bridges inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Landry Shamet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "03:30"
+            },
+            "caption": "Landry Shamet makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "14:50"
+            },
+            "caption": "Mikal Bridges dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "15:20"
+            },
+            "caption": "Mikal Bridges makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Cameron Payne",
+            "result": "made",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "17:20"
+            },
+            "caption": "Cameron Payne makes 3-pt jump shot."
+        }
+    ]
+}

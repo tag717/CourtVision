@@ -1,0 +1,129 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_16_away_team(white)_attack_failed",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Kris Dunn",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Kris Dunn makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Norman Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "03:10"
+            },
+            "caption": "Norman Powell makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Ivica Zubac",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "06:10"
+            },
+            "caption": "Ivica Zubac holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Ivica Zubac",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:00"
+            },
+            "caption": "Ivica Zubac makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Norman Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "09:30"
+            },
+            "caption": "Norman Powell dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Norman Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "11:10"
+            },
+            "caption": "Norman Powell makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Hold",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "13:10"
+            },
+            "caption": "James Harden holds the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "14:00"
+            },
+            "caption": "James Harden makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Norman Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "15:00"
+            },
+            "caption": "Norman Powell dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "2ptShot",
+            "player": "Norman Powell",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "17:00"
+            },
+            "caption": "Norman Powell misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "DefensiveRebound",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "18:00"
+            },
+            "caption": "Domantas Sabonis gets the defensive rebound."
+        }
+    ]
+}

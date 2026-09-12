@@ -1,0 +1,30 @@
+{
+    "video_id": "20250331_CHA_UTA",
+    "possession_id": "poss_166_home_team(white)_attack_failed",
+    "home_team": "CHA",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Miles Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Miles Bridges dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Miles Bridges",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "04:20"
+            },
+            "caption": "Miles Bridges turnover: bad pass."
+        }
+    ]
+}

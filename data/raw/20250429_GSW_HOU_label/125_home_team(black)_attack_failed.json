@@ -1,0 +1,129 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_125_home_team(black)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:40"
+            },
+            "caption": "Stephen Curry inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "02:50"
+            },
+            "caption": "Buddy Hield makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "05:10"
+            },
+            "caption": "Stephen Curry dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:20"
+            },
+            "caption": "Stephen Curry makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Brandin Podziemski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "08:50"
+            },
+            "caption": "Brandin Podziemski holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Brandin Podziemski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "09:30"
+            },
+            "caption": "Brandin Podziemski makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Trayce Jackson-Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:20"
+            },
+            "caption": "Trayce Jackson-Davis makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Quinten Post",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "12:40"
+            },
+            "caption": "Quinten Post dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Quinten Post",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "13:20"
+            },
+            "caption": "Quinten Post makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "3ptShot",
+            "player": "Brandin Podziemski",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "15:20"
+            },
+            "caption": "Brandin Podziemski misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "DefensiveRebound",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "17:50"
+            },
+            "caption": "Fred VanVleet gets the defensive rebound."
+        }
+    ]
+}

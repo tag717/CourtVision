@@ -1,0 +1,41 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_186_home_team(black)_attack_outside",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Olivier-Maxence Prosper",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Olivier-Maxence Prosper dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Olivier-Maxence Prosper",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "04:30"
+            },
+            "caption": "Olivier-Maxence Prosper makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Markieff Morris",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "08:00"
+            },
+            "caption": "Markieff Morris turnover: out of bounds lost ball."
+        }
+    ]
+}

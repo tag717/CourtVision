@@ -1,0 +1,96 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_167_away_team(blue)_attack_failed",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Josh Hart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "01:50"
+            },
+            "caption": "Josh Hart inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Miles McBride",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "07:30"
+            },
+            "caption": "Miles McBride dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Miles McBride",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:00"
+            },
+            "caption": "Miles McBride makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "14:00"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "14:30"
+            },
+            "caption": "Jalen Brunson makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "OG Anunoby",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:40",
+                "end": "16:20"
+            },
+            "caption": "OG Anunoby misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "17:10"
+            },
+            "caption": "Dennis Schröder gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "19:00"
+            },
+            "caption": "Dennis Schröder dribbles the ball."
+        }
+    ]
+}

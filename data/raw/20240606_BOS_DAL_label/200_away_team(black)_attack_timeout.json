@@ -1,0 +1,19 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_200_away_team(black)_attack_timeout",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dante Exum",
+            "result": "timeout",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:00"
+            },
+            "caption": "Dante Exum dribbles and calls a timeout."
+        }
+    ]
+}

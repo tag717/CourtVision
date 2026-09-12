@@ -1,0 +1,52 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_40_home_team(blue)_attack_befouled",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:40"
+            },
+            "caption": "Cory Joseph dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "05:20"
+            },
+            "caption": "Cory Joseph makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Kevin Knox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:50"
+            },
+            "caption": "Kevin Knox dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Kevin Knox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "07:40"
+            },
+            "caption": "Kevin Knox makes a pass."
+        }
+    ]
+}

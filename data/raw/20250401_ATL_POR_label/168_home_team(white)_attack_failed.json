@@ -1,0 +1,107 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_168_home_team(white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "02:40"
+            },
+            "caption": "Trae Young inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Dominick Barlow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "04:30"
+            },
+            "caption": "Dominick Barlow dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Dominick Barlow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:00"
+            },
+            "caption": "Dominick Barlow makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:20"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:00"
+            },
+            "caption": "Trae Young makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Terance Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:30"
+            },
+            "caption": "Terance Mann dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Terance Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:10"
+            },
+            "caption": "Terance Mann makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Vit Krejci",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "11:30"
+            },
+            "caption": "Vit Krejci misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Dalano Banton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "12:30"
+            },
+            "caption": "Dalano Banton gets the defensive rebound."
+        }
+    ]
+}

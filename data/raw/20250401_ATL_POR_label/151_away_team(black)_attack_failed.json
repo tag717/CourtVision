@@ -1,0 +1,129 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_151_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Dalano Banton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Dalano Banton makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Dalano Banton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "05:10"
+            },
+            "caption": "Dalano Banton dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Matisse Thybulle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:20"
+            },
+            "caption": "Matisse Thybulle makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Duop Reath",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:20"
+            },
+            "caption": "Duop Reath hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Dalano Banton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:30"
+            },
+            "caption": "Dalano Banton holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Dalano Banton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "10:20"
+            },
+            "caption": "Dalano Banton dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Hold",
+            "player": "Dalano Banton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:40"
+            },
+            "caption": "Dalano Banton holds the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Duop Reath",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "13:00"
+            },
+            "caption": "Duop Reath makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Hold",
+            "player": "Jabari Walker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "13:20"
+            },
+            "caption": "Jabari Walker holds the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Jabari Walker",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:30"
+            },
+            "caption": "Jabari Walker turnover: lost ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Steal",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "15:30"
+            },
+            "caption": "Dyson Daniels steals the ball."
+        }
+    ]
+}

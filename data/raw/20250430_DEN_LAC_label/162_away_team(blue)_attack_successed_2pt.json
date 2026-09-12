@@ -1,0 +1,96 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_162_away_team(blue)_attack_successed_2pt",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Bogdan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Bogdan Bogdanović inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kris Dunn",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "02:20"
+            },
+            "caption": "Kris Dunn makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Bogdan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "07:50"
+            },
+            "caption": "Bogdan Bogdanović dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Bogdan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "09:00"
+            },
+            "caption": "Bogdan Bogdanović makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "HandOff",
+            "player": "Ivica Zubac",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:30"
+            },
+            "caption": "Ivica Zubac hands off the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "12:40"
+            },
+            "caption": "Kawhi Leonard makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Kris Dunn",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "14:50"
+            },
+            "caption": "Kris Dunn dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Kris Dunn",
+            "result": "made",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "17:00"
+            },
+            "caption": "Kris Dunn makes layup."
+        }
+    ]
+}

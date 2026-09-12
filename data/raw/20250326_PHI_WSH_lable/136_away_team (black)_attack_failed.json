@@ -1,0 +1,63 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_136_away_team (black)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bub Carrington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:20"
+            },
+            "caption": "Bub Carrington dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bub Carrington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:10"
+            },
+            "caption": "Bub Carrington makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Alex Sarr",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "10:00"
+            },
+            "caption": "Alex Sarr dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "2ptShot",
+            "player": "Alex Sarr",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:10"
+            },
+            "caption": "Alex Sarr misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Marcus Bagley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:10"
+            },
+            "caption": "Marcus Bagley gets the defensive rebound."
+        }
+    ]
+}

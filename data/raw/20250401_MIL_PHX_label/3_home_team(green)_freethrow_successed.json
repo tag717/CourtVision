@@ -1,0 +1,19 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_3_home_team(green)_freethrow_successed",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Giannis Antetokounmpo",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Giannis Antetokounmpo makes free throw."
+        }
+    ]
+}

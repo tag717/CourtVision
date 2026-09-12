@@ -1,0 +1,96 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_161_home_team(black)_steal&fastbreak_successed_2pt",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "11:50"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "13:10"
+            },
+            "caption": "Bones Hyland turnover: bad pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "Keita Bates-Diop",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:10"
+            },
+            "caption": "Keita Bates-Diop steals the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Keita Bates-Diop",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "14:50"
+            },
+            "caption": "Keita Bates-Diop dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Keita Bates-Diop",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "16:30"
+            },
+            "caption": "Keita Bates-Diop misses layup."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Block",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "16:30"
+            },
+            "caption": "Jeff Green blocks the shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "OffensiveRebound",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "16:50"
+            },
+            "caption": "Josh Richardson gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Josh Richardson",
+            "result": "made",
+            "timestamp_video": {
+                "start": "16:50",
+                "end": "18:20"
+            },
+            "caption": "Josh Richardson makes layup."
+        }
+    ]
+}

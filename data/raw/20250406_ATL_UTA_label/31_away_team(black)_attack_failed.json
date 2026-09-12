@@ -1,0 +1,74 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_31_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Keyonte George",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Keyonte George dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Keyonte George",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:00"
+            },
+            "caption": "Keyonte George makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Svi Mykhailiuk",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "06:00"
+            },
+            "caption": "Svi Mykhailiuk dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Svi Mykhailiuk",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "08:00"
+            },
+            "caption": "Svi Mykhailiuk misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:20"
+            },
+            "caption": "Caris LeVert gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "11:00"
+            },
+            "caption": "Caris LeVert dribbles the ball."
+        }
+    ]
+}

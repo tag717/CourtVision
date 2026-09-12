@@ -1,0 +1,107 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_4_away_team(white)_attack_failed",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Collin Gillespie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Collin Gillespie dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Collin Gillespie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "01:50"
+            },
+            "caption": "Collin Gillespie makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "08:20"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:10"
+            },
+            "caption": "Devin Booker makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:00"
+            },
+            "caption": "Unknown Player dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Unknown Player",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:00"
+            },
+            "caption": "Unknown Player misses layup."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Brook Lopez",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:20"
+            },
+            "caption": "Brook Lopez gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Brook Lopez",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "13:50"
+            },
+            "caption": "Brook Lopez makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:50",
+                "end": "15:00"
+            },
+            "caption": "Giannis Antetokounmpo dribbles the ball."
+        }
+    ]
+}

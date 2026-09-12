@@ -1,0 +1,96 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_59_home_team(blue)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Shake Milton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:30"
+            },
+            "caption": "Shake Milton inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "04:50"
+            },
+            "caption": "Tyrese Maxey dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "05:20"
+            },
+            "caption": "Tyrese Maxey makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Shake Milton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "09:40"
+            },
+            "caption": "Shake Milton dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Shake Milton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:30"
+            },
+            "caption": "Shake Milton makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Joel Embiid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "12:50"
+            },
+            "caption": "Joel Embiid dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "2ptShot",
+            "player": "Joel Embiid",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:50",
+                "end": "14:40"
+            },
+            "caption": "Joel Embiid misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Damion Lee",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "15:00"
+            },
+            "caption": "Damion Lee gets the defensive rebound."
+        }
+    ]
+}

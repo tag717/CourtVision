@@ -1,0 +1,107 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_80_home_team(black)_block&fastbreak_successed_2pt",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Luguentz Dort",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Luguentz Dort dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Block",
+            "player": "Clint Capela",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:20"
+            },
+            "caption": "Clint Capela blocks the shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Onyeka Okongwu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:40"
+            },
+            "caption": "Onyeka Okongwu dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Onyeka Okongwu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "04:50"
+            },
+            "caption": "Onyeka Okongwu makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "07:00"
+            },
+            "caption": "Dejounte Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:00"
+            },
+            "caption": "Dejounte Murray makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Trae Young",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "10:20"
+            },
+            "caption": "Trae Young misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "OffensiveRebound",
+            "player": "Jalen Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:20"
+            },
+            "caption": "Jalen Johnson gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Layup",
+            "player": "Jalen Johnson",
+            "result": "made",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "13:00"
+            },
+            "caption": "Jalen Johnson makes layup."
+        }
+    ]
+}

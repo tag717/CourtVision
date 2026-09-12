@@ -1,0 +1,41 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_180_away_team (white)_attack_failed",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Xavier Tillman Sr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Xavier Tillman Sr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dunk",
+            "player": "Xavier Tillman Sr.",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "02:40"
+            },
+            "caption": "Xavier Tillman Sr. misses dunk."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Saddiq Bey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:50"
+            },
+            "caption": "Saddiq Bey gets the defensive rebound."
+        }
+    ]
+}

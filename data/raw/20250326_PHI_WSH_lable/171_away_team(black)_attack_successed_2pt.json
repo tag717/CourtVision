@@ -1,0 +1,52 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_171_away_team(black)_attack_successed_2pt",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:30"
+            },
+            "caption": "AJ Johnson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:20"
+            },
+            "caption": "AJ Johnson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Tristan Vukcevic",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:30"
+            },
+            "caption": "Tristan Vukcevic dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Tristan Vukcevic",
+            "result": "made",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:30"
+            },
+            "caption": "Tristan Vukcevic makes layup."
+        }
+    ]
+}

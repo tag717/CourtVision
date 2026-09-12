@@ -1,0 +1,30 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_112_away_team(white)_attack_successed_2pt",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:00"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Cade Cunningham",
+            "result": "made",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:00"
+            },
+            "caption": "Cade Cunningham makes layup."
+        }
+    ]
+}

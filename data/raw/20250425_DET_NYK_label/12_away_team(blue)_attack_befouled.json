@@ -1,0 +1,107 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_12_away_team(blue)_attack_befouled",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "01:00"
+            },
+            "caption": "Jalen Brunson makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Josh Hart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "01:30"
+            },
+            "caption": "Josh Hart dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Josh Hart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "02:30"
+            },
+            "caption": "Josh Hart makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "OG Anunoby",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "04:30"
+            },
+            "caption": "OG Anunoby misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "OffensiveRebound",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:30"
+            },
+            "caption": "Mikal Bridges gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:20"
+            },
+            "caption": "Mikal Bridges dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:20"
+            },
+            "caption": "Mikal Bridges makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:30"
+            },
+            "caption": "Karl-Anthony Towns dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Layup",
+            "player": "Karl-Anthony Towns",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:20"
+            },
+            "caption": "Karl-Anthony Towns is fouled on a layup attempt."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_102_home_team(blue)_attack_failed",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Killian Hayes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "10:10"
+            },
+            "caption": "Killian Hayes dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Killian Hayes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:10"
+            },
+            "caption": "Killian Hayes makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:10"
+            },
+            "caption": "Isaiah Stewart makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Bojan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:30"
+            },
+            "caption": "Bojan Bogdanović dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Bojan Bogdanović",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "15:20"
+            },
+            "caption": "Bojan Bogdanović misses layup."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "John Konchar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "16:00"
+            },
+            "caption": "John Konchar gets the defensive rebound."
+        }
+    ]
+}

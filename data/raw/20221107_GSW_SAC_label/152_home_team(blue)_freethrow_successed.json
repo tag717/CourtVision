@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_152_home_team(blue)_freethrow_successed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Andrew Wiggins",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "02:20"
+            },
+            "caption": "Andrew Wiggins makes free throw."
+        }
+    ]
+}

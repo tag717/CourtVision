@@ -1,0 +1,52 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_92_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "11:50"
+            },
+            "caption": "Deni Avdija dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Deni Avdija",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "14:00"
+            },
+            "caption": "Deni Avdija misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "15:30"
+            },
+            "caption": "Caris LeVert gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "16:40"
+            },
+            "caption": "Dyson Daniels makes a pass."
+        }
+    ]
+}

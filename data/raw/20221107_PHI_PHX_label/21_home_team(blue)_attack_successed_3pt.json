@@ -1,0 +1,140 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_21_home_team(blue)_attack_successed_3pt",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:30"
+            },
+            "caption": "Tyrese Maxey dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "03:10"
+            },
+            "caption": "Tyrese Maxey makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:10"
+            },
+            "caption": "Paul Reed dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "04:40"
+            },
+            "caption": "Paul Reed hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "P.J. Tucker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:30"
+            },
+            "caption": "P.J. Tucker makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "09:20"
+            },
+            "caption": "Tyrese Maxey dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:00"
+            },
+            "caption": "Tyrese Maxey makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Hold",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:20"
+            },
+            "caption": "Tobias Harris holds the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:20"
+            },
+            "caption": "Tobias Harris makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "13:40"
+            },
+            "caption": "Tyrese Maxey dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "14:10"
+            },
+            "caption": "Tyrese Maxey makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "3ptShot",
+            "player": "Tobias Harris",
+            "result": "made",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "16:40"
+            },
+            "caption": "Tobias Harris makes 3-pt jump shot."
+        }
+    ]
+}

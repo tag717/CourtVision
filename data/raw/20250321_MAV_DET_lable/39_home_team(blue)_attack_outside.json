@@ -1,0 +1,74 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_39_home_team(blue)_attack_outside",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Jaden Hardy dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:20"
+            },
+            "caption": "Jaden Hardy makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "06:20"
+            },
+            "caption": "Paul Reed holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:10"
+            },
+            "caption": "Paul Reed makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Brandon Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "11:00"
+            },
+            "caption": "Brandon Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Brandon Williams",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:00"
+            },
+            "caption": "Brandon Williams turnover: pass out of bounds."
+        }
+    ]
+}

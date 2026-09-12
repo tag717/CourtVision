@@ -1,0 +1,19 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_117_home_team(white)_freethrow_successed",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Jimmy Butler",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Jimmy Butler makes free throw."
+        }
+    ]
+}

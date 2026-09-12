@@ -1,0 +1,52 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_167_away_team (blue)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Zach Edey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Zach Edey makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Desmond Bane",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "07:40"
+            },
+            "caption": "Desmond Bane dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Desmond Bane",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "10:00"
+            },
+            "caption": "Desmond Bane misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "13:00"
+            },
+            "caption": "Jimmy Butler gets the defensive rebound."
+        }
+    ]
+}

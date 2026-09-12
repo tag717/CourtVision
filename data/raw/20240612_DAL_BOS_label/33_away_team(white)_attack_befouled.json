@@ -1,0 +1,30 @@
+{
+    "video_id": "20240612_DAL_BOS",
+    "possession_id": "poss_33_away_team(white)_attack_befouled",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:10"
+            },
+            "caption": "Jaylen Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Jaylen Brown",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "06:30"
+            },
+            "caption": "Jaylen Brown is fouled on a 3-pt shot attempt."
+        }
+    ]
+}

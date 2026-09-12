@@ -1,0 +1,19 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_120_away_team(black)_freethrow_successed",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Nikola Jokić",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:10",
+                "end": "01:10"
+            },
+            "caption": "Nikola Jokić makes free throw."
+        }
+    ]
+}

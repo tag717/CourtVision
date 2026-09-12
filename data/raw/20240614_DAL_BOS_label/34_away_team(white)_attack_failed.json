@@ -1,0 +1,118 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_34_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Xavier Tillman Sr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:30"
+            },
+            "caption": "Xavier Tillman Sr. makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "01:40"
+            },
+            "caption": "Jayson Tatum makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "11:20"
+            },
+            "caption": "Jaylen Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:00"
+            },
+            "caption": "Jaylen Brown makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Xavier Tillman Sr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "12:50"
+            },
+            "caption": "Xavier Tillman Sr. makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:50",
+                "end": "19:00"
+            },
+            "caption": "Jayson Tatum dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "20:40"
+            },
+            "caption": "Jayson Tatum makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:40",
+                "end": "22:10"
+            },
+            "caption": "Jrue Holiday dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "2ptShot",
+            "player": "Jrue Holiday",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "22:10",
+                "end": "23:30"
+            },
+            "caption": "Jrue Holiday misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "Josh Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:30",
+                "end": "26:00"
+            },
+            "caption": "Josh Green gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_227_away_team(red)_attack_successed_2pt",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Justise Winslow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:10"
+            },
+            "caption": "Justise Winslow dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Justise Winslow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "05:30"
+            },
+            "caption": "Justise Winslow hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "17:30"
+            },
+            "caption": "Anfernee Simons dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:30",
+                "end": "18:00"
+            },
+            "caption": "Anfernee Simons makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Kevin Knox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "20:00"
+            },
+            "caption": "Kevin Knox dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "2ptShot",
+            "player": "Kevin Knox",
+            "result": "made",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "22:20"
+            },
+            "caption": "Kevin Knox makes 2-pt jump shot."
+        }
+    ]
+}

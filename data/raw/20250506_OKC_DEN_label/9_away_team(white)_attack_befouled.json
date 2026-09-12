@@ -1,0 +1,52 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_9_away_team(white)_attack_befouled",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Jamal Murray",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "05:00"
+            },
+            "caption": "Jamal Murray misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "OffensiveRebound",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:40"
+            },
+            "caption": "Aaron Gordon gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PutBack",
+            "player": "Aaron Gordon",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "08:00"
+            },
+            "caption": "Aaron Gordon is fouled on a putback attempt."
+        }
+    ]
+}

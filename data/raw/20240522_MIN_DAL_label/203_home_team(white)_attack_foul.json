@@ -1,0 +1,41 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_203_home_team(white)_attack_foul",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:30"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Mike Conley",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "04:30"
+            },
+            "caption": "Mike Conley misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PutBack",
+            "player": "Karl-Anthony Towns",
+            "result": "made",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:20"
+            },
+            "caption": "Karl-Anthony Towns makes putback layup."
+        }
+    ]
+}

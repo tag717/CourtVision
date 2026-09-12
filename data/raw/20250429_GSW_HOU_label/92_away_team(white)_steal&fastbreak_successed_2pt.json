@@ -1,0 +1,63 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_92_away_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:30"
+            },
+            "caption": "Stephen Curry turnover: lost ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Alperen Şengün",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "08:40"
+            },
+            "caption": "Alperen Şengün makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:30"
+            },
+            "caption": "Fred VanVleet dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "10:50"
+            },
+            "caption": "Fred VanVleet makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dunk",
+            "player": "Alperen Şengün",
+            "result": "made",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "12:20"
+            },
+            "caption": "Alperen Şengün makes dunk."
+        }
+    ]
+}

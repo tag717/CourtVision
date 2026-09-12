@@ -1,0 +1,85 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_147_home_team(green)_attack_failed",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:00"
+            },
+            "caption": "Unknown Player dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:30"
+            },
+            "caption": "Unknown Player makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Brook Lopez",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:50"
+            },
+            "caption": "Brook Lopez dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Brook Lopez",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "08:30"
+            },
+            "caption": "Brook Lopez misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Cody Martin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:50"
+            },
+            "caption": "Cody Martin gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Cody Martin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "10:30"
+            },
+            "caption": "Cody Martin makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "11:00"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        }
+    ]
+}

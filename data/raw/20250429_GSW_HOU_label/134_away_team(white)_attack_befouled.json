@@ -1,0 +1,63 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_134_away_team(white)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:50"
+            },
+            "caption": "Fred VanVleet dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "03:40"
+            },
+            "caption": "Fred VanVleet makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Alperen Şengün",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "06:20"
+            },
+            "caption": "Alperen Şengün holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Alperen Şengün",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "10:20"
+            },
+            "caption": "Alperen Şengün dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Alperen Şengün",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "13:10"
+            },
+            "caption": "Alperen Şengün is fouled on a 2-pt shot attempt."
+        }
+    ]
+}

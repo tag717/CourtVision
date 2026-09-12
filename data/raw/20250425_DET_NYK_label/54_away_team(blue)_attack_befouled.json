@@ -1,0 +1,74 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_54_away_team(blue)_attack_befouled",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "OG Anunoby",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "OG Anunoby dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "OG Anunoby",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "03:30"
+            },
+            "caption": "OG Anunoby holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "OG Anunoby",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:40"
+            },
+            "caption": "OG Anunoby makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Mitchell Robinson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:00"
+            },
+            "caption": "Mitchell Robinson dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Mitchell Robinson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:00"
+            },
+            "caption": "Mitchell Robinson makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "OG Anunoby",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:10"
+            },
+            "caption": "OG Anunoby dribbles the ball."
+        }
+    ]
+}

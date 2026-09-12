@@ -1,0 +1,129 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_113_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Fred VanVleet dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "03:50"
+            },
+            "caption": "Fred VanVleet makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Amen Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "08:20"
+            },
+            "caption": "Amen Thompson holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Amen Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:00"
+            },
+            "caption": "Amen Thompson makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:00"
+            },
+            "caption": "Dillon Brooks holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:00"
+            },
+            "caption": "Dillon Brooks makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Amen Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "13:00"
+            },
+            "caption": "Amen Thompson dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Amen Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:50"
+            },
+            "caption": "Amen Thompson makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "Tari Eason",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "17:10"
+            },
+            "caption": "Tari Eason misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:10",
+                "end": "18:00"
+            },
+            "caption": "Stephen Curry gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "20:00"
+            },
+            "caption": "Stephen Curry dribbles the ball."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_220_home_team(blue)_freethrow_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "P.J. Washington",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "P.J. Washington misses free throw."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "DefensiveRebound",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "02:30"
+            },
+            "caption": "Jalen Duren gets the defensive rebound."
+        }
+    ]
+}

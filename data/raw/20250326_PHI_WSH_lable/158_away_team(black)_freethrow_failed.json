@@ -1,0 +1,19 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_158_away_team(black)_freethrow_failed",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "JT Thor",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "02:10"
+            },
+            "caption": "JT Thor misses free throw."
+        }
+    ]
+}

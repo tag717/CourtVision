@@ -1,0 +1,30 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_122_home_team(green)_attack_befouled",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:40"
+            },
+            "caption": "Giannis Antetokounmpo dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Giannis Antetokounmpo",
+            "result": "made",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "05:00"
+            },
+            "caption": "Giannis Antetokounmpo makes layup."
+        }
+    ]
+}

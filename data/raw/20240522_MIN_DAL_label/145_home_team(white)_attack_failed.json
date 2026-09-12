@@ -1,0 +1,52 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_145_home_team(white)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kyle Anderson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:00"
+            },
+            "caption": "Kyle Anderson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kyle Anderson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:00"
+            },
+            "caption": "Kyle Anderson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Rudy Gobert",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "09:20"
+            },
+            "caption": "Rudy Gobert misses layup."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Daniel Gafford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:10"
+            },
+            "caption": "Daniel Gafford gets the defensive rebound."
+        }
+    ]
+}

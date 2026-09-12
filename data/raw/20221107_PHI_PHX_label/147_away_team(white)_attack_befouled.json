@@ -1,0 +1,63 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_147_away_team(white)_attack_befouled",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Landry Shamet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "03:30"
+            },
+            "caption": "Landry Shamet dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Landry Shamet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:30"
+            },
+            "caption": "Landry Shamet makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Deandre Ayton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "07:00"
+            },
+            "caption": "Deandre Ayton makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "11:30"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Devin Booker",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "13:20"
+            },
+            "caption": "Devin Booker is fouled on a 2-pt shot attempt."
+        }
+    ]
+}

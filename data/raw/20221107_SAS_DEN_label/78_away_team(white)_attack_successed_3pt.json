@@ -1,0 +1,30 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_78_away_team(white)_attack_successed_3pt",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:00"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Bones Hyland",
+            "result": "made",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "07:00"
+            },
+            "caption": "Bones Hyland makes 3-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_77_away_team(white)_attack_befouled",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:10"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "04:40"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "06:10"
+            },
+            "caption": "Jeff Green dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "06:40"
+            },
+            "caption": "Jeff Green hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "08:00"
+            },
+            "caption": "Bruce Brown dribbles the ball."
+        }
+    ]
+}

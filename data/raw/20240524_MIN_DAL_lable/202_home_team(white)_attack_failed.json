@@ -1,0 +1,41 @@
+{
+    "video_id": "20240524_MIN_DAL",
+    "possession_id": "poss_202_home_team(white)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Mike Conley",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "04:00"
+            },
+            "caption": "Mike Conley misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:10"
+            },
+            "caption": "P.J. Washington gets the defensive rebound."
+        }
+    ]
+}

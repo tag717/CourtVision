@@ -1,0 +1,41 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_111_home_team(blue)_attack_successed_3pt",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kai Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:10"
+            },
+            "caption": "Kai Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kai Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:10"
+            },
+            "caption": "Kai Jones makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "P.J. Washington",
+            "result": "made",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "07:10"
+            },
+            "caption": "P.J. Washington makes 3-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_108_home_team(yellow)_attack_failed",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Rui Hachimura",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Rui Hachimura inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Austin Reaves",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "19:00"
+            },
+            "caption": "Austin Reaves dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Austin Reaves",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "19:40"
+            },
+            "caption": "Austin Reaves makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "LeBron James",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:50",
+                "end": "21:00"
+            },
+            "caption": "LeBron James dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "LeBron James",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "21:00",
+                "end": "22:30"
+            },
+            "caption": "LeBron James misses layup."
+        }
+    ]
+}

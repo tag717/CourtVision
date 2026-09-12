@@ -1,0 +1,162 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_194_home_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "AJ Johnson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:00"
+            },
+            "caption": "AJ Johnson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "Justin Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:10"
+            },
+            "caption": "Justin Edwards steals the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Justin Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "07:00"
+            },
+            "caption": "Justin Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Jared Butler",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "09:10"
+            },
+            "caption": "Jared Butler misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Colby Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "11:10"
+            },
+            "caption": "Colby Jones gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Colby Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "13:00"
+            },
+            "caption": "Colby Jones makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Justin Edwards",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "16:20"
+            },
+            "caption": "Justin Edwards misses layup."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "OffensiveRebound",
+            "player": "Jared Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "19:00"
+            },
+            "caption": "Jared Butler gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Jared Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "20:20"
+            },
+            "caption": "Jared Butler makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Ricky Council IV",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:20",
+                "end": "23:00"
+            },
+            "caption": "Ricky Council IV dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Ricky Council IV",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:00",
+                "end": "24:10"
+            },
+            "caption": "Ricky Council IV makes a pass."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "Dribble",
+            "player": "Jeff Dowtin Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "24:10",
+                "end": "27:00"
+            },
+            "caption": "Jeff Dowtin Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "Layup",
+            "player": "Jeff Dowtin Jr.",
+            "result": "made",
+            "timestamp_video": {
+                "start": "27:00",
+                "end": "28:10"
+            },
+            "caption": "Jeff Dowtin Jr. makes layup."
+        }
+    ]
+}

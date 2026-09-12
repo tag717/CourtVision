@@ -1,0 +1,173 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_62_home_team(black)_attack_befouled",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Josh Richardson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:30"
+            },
+            "caption": "Josh Richardson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "07:20"
+            },
+            "caption": "Devin Vassell holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:00"
+            },
+            "caption": "Devin Vassell makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Charles Bassey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "10:10"
+            },
+            "caption": "Charles Bassey makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Doug McDermott",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "12:40"
+            },
+            "caption": "Doug McDermott misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "OffensiveRebound",
+            "player": "Charles Bassey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "13:50"
+            },
+            "caption": "Charles Bassey gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Charles Bassey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:50",
+                "end": "15:40"
+            },
+            "caption": "Charles Bassey dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Charles Bassey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "16:30"
+            },
+            "caption": "Charles Bassey makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "17:30"
+            },
+            "caption": "Josh Richardson dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:30",
+                "end": "18:10"
+            },
+            "caption": "Josh Richardson makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Dribble",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:10",
+                "end": "22:00"
+            },
+            "caption": "Devin Vassell dribbles the ball."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "PassBall",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:00",
+                "end": "22:50"
+            },
+            "caption": "Devin Vassell makes a pass."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "Dribble",
+            "player": "Doug McDermott",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:50",
+                "end": "24:10"
+            },
+            "caption": "Doug McDermott dribbles the ball."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "Layup",
+            "player": "Doug McDermott",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "24:10",
+                "end": "25:30"
+            },
+            "caption": "Doug McDermott is fouled on a layup attempt."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_65_home_team(green)_attack_successed_2pt",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Unknown Player dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "02:50"
+            },
+            "caption": "Unknown Player makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Kyle Kuzma",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:30"
+            },
+            "caption": "Kyle Kuzma dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Kyle Kuzma",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:40"
+            },
+            "caption": "Kyle Kuzma makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Brook Lopez",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:40"
+            },
+            "caption": "Brook Lopez dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "2ptShot",
+            "player": "Brook Lopez",
+            "result": "made",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "11:30"
+            },
+            "caption": "Brook Lopez makes 2-pt jump shot."
+        }
+    ]
+}

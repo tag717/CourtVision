@@ -1,0 +1,52 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_84_home_team(black)_attack_outside",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "11:40"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Tyrese Haliburton",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "13:30"
+            },
+            "caption": "Tyrese Haliburton misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "OffensiveRebound",
+            "player": "Myles Turner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:40",
+                "end": "15:40"
+            },
+            "caption": "Myles Turner gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Myles Turner",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "17:40"
+            },
+            "caption": "Myles Turner turnover: out of bounds lost ball."
+        }
+    ]
+}

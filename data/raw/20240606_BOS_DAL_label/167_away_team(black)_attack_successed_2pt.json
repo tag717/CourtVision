@@ -1,0 +1,41 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_167_away_team(black)_attack_successed_2pt",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "06:30"
+            },
+            "caption": "P.J. Washington dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:30"
+            },
+            "caption": "P.J. Washington makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dunk",
+            "player": "Dereck Lively II",
+            "result": "made",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "10:00"
+            },
+            "caption": "Dereck Lively II makes dunk."
+        }
+    ]
+}

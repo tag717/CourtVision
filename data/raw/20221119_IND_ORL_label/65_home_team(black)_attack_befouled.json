@@ -1,0 +1,41 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_65_home_team(black)_attack_befouled",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "T.J. McConnell inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Oshae Brissett",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:30"
+            },
+            "caption": "Oshae Brissett misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PutBack",
+            "player": "Myles Turner",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "07:00"
+            },
+            "caption": "Myles Turner is fouled on a putback attempt."
+        }
+    ]
+}

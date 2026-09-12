@@ -1,0 +1,19 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_48_home_team(black)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Brandin Podziemski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "07:10"
+            },
+            "caption": "Brandin Podziemski dribbles the ball."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_59_away_team(blue)_attack_timeout",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bogdan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:20"
+            },
+            "caption": "Bogdan Bogdanović dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bogdan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:00"
+            },
+            "caption": "Bogdan Bogdanović makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "13:50"
+            },
+            "caption": "James Harden holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:50",
+                "end": "16:40"
+            },
+            "caption": "James Harden dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "James Harden",
+            "result": "timeout",
+            "timestamp_video": {
+                "start": "16:40",
+                "end": "17:20"
+            },
+            "caption": "James Harden passes the ball and calls a timeout."
+        }
+    ]
+}

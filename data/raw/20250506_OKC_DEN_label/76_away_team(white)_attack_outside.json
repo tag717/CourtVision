@@ -1,0 +1,41 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_76_away_team(white)_attack_outside",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Russell Westbrook",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:30"
+            },
+            "caption": "Russell Westbrook dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Russell Westbrook",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:20"
+            },
+            "caption": "Russell Westbrook makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Aaron Gordon",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "09:20"
+            },
+            "caption": "Aaron Gordon turnover: pass out of bounds."
+        }
+    ]
+}

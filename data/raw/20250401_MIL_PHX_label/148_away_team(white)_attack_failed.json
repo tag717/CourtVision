@@ -1,0 +1,74 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_148_away_team(white)_attack_failed",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:00"
+            },
+            "caption": "Tyus Jones makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Collin Gillespie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:40"
+            },
+            "caption": "Collin Gillespie dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Block",
+            "player": "Brook Lopez",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "11:10"
+            },
+            "caption": "Brook Lopez blocks the shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Gary Trent Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "13:10"
+            },
+            "caption": "Gary Trent Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Taurean Prince",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:00"
+            },
+            "caption": "Taurean Prince dribbles the ball."
+        }
+    ]
+}

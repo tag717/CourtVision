@@ -1,0 +1,118 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_119_away_team(white)_attack_failed",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:40"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:50"
+            },
+            "caption": "Devin Booker makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Grayson Allen",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "09:00"
+            },
+            "caption": "Grayson Allen misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "OffensiveRebound",
+            "player": "Cody Martin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:30"
+            },
+            "caption": "Cody Martin gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Cody Martin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:00"
+            },
+            "caption": "Cody Martin makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "14:20"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Devin Booker",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "16:10"
+            },
+            "caption": "Devin Booker misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Kyle Kuzma",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "16:50"
+            },
+            "caption": "Kyle Kuzma gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Kyle Kuzma",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:10",
+                "end": "19:10"
+            },
+            "caption": "Kyle Kuzma makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "20:00"
+            },
+            "caption": "Giannis Antetokounmpo dribbles the ball."
+        }
+    ]
+}

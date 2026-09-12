@@ -1,0 +1,52 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_27_home_team(blue)_attack_befouled",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Spencer Dinwiddie dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:10"
+            },
+            "caption": "Spencer Dinwiddie makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:10"
+            },
+            "caption": "Klay Thompson makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Max Christie",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "07:00"
+            },
+            "caption": "Max Christie is fouled while dribbling."
+        }
+    ]
+}

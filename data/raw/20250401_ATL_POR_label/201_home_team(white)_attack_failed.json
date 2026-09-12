@@ -1,0 +1,107 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_201_home_team(white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mouhamed Gueye",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Mouhamed Gueye dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Mouhamed Gueye",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:20"
+            },
+            "caption": "Mouhamed Gueye makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Zaccharie Risacher",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:50"
+            },
+            "caption": "Zaccharie Risacher holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Zaccharie Risacher",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "08:00"
+            },
+            "caption": "Zaccharie Risacher dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Zaccharie Risacher",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "08:40"
+            },
+            "caption": "Zaccharie Risacher makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "10:00"
+            },
+            "caption": "Caris LeVert dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:00"
+            },
+            "caption": "Caris LeVert makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Zaccharie Risacher",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "13:10"
+            },
+            "caption": "Zaccharie Risacher misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "15:40"
+            },
+            "caption": "Shaedon Sharpe gets the defensive rebound."
+        }
+    ]
+}

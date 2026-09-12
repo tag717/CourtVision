@@ -1,0 +1,151 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_163_home_team(white)_block&fastbreak_successed_3pt",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dalano Banto",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Dalano Banto dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dalano Banto",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "01:10"
+            },
+            "caption": "Dalano Banto makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Duop Reath",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:50"
+            },
+            "caption": "Duop Reath dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Duop Reath",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "03:30"
+            },
+            "caption": "Duop Reath makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:20"
+            },
+            "caption": "Deni Avdija makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Dalano Banto",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:40"
+            },
+            "caption": "Dalano Banto dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Dalano Banto",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:30"
+            },
+            "caption": "Dalano Banto makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:00"
+            },
+            "caption": "Deni Avdija dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Layup",
+            "player": "Deni Avdija",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:40"
+            },
+            "caption": "Deni Avdija misses layup."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Block",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:10"
+            },
+            "caption": "Dyson Daniels blocks the shot."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Vit Krejci",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:50"
+            },
+            "caption": "Vit Krejci dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Vit Krejci",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "11:40"
+            },
+            "caption": "Vit Krejci makes a pass."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "3ptShot",
+            "player": "Trae Young",
+            "result": "made",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "14:00"
+            },
+            "caption": "Trae Young makes 3-pt jump shot."
+        }
+    ]
+}

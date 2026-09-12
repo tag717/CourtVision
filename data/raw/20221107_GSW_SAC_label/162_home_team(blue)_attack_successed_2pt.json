@@ -1,0 +1,52 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_162_home_team(blue)_attack_successed_2pt",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "01:40"
+            },
+            "caption": "Draymond Green makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Klay Thompson",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:40"
+            },
+            "caption": "Klay Thompson misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "OffensiveRebound",
+            "player": "Anthony Lamb",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "04:10"
+            },
+            "caption": "Anthony Lamb gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PutBack",
+            "player": "Anthony Lamb",
+            "result": "made",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:00"
+            },
+            "caption": "Anthony Lamb makes putback layup."
+        }
+    ]
+}

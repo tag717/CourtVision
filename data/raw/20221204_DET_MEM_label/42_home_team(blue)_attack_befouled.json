@@ -1,0 +1,74 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_42_home_team(blue)_attack_befouled",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "01:30"
+            },
+            "caption": "Cory Joseph dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "02:30"
+            },
+            "caption": "Cory Joseph makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Alec Burks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "06:30"
+            },
+            "caption": "Alec Burks dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Alec Burks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:20"
+            },
+            "caption": "Alec Burks makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Saddiq Bey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:50"
+            },
+            "caption": "Saddiq Bey dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Saddiq Bey",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:10"
+            },
+            "caption": "Saddiq Bey is fouled on a layup attempt."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_108_away_team (white)_attack_failed",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:10"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "06:50"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:00"
+            },
+            "caption": "Nikola Jokić hands off the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "09:50"
+            },
+            "caption": "Kentavious Caldwell-Pope dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "11:30"
+            },
+            "caption": "Kentavious Caldwell-Pope makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Nikola Jokić",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "13:20"
+            },
+            "caption": "Nikola Jokić misses layup."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Jakob Poeltl",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "13:50"
+            },
+            "caption": "Jakob Poeltl gets the defensive rebound."
+        }
+    ]
+}

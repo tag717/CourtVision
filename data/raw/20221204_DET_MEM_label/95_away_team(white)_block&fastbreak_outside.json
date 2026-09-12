@@ -1,0 +1,162 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_95_away_team(white)_block&fastbreak_outside",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaden Ivey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Jaden Ivey dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jaden Ivey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "06:00"
+            },
+            "caption": "Jaden Ivey makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Bojan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "08:20"
+            },
+            "caption": "Bojan Bogdanović holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Bojan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:40"
+            },
+            "caption": "Bojan Bogdanović makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Marvin Bagley III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "11:40"
+            },
+            "caption": "Marvin Bagley III dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Marvin Bagley III",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "12:20"
+            },
+            "caption": "Marvin Bagley III misses layup."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Marvin Bagley III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "13:30"
+            },
+            "caption": "Marvin Bagley III gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Marvin Bagley III",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:00"
+            },
+            "caption": "Marvin Bagley III misses layup."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Block",
+            "player": "Santi Aldama",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "13:50"
+            },
+            "caption": "Santi Aldama blocks the shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "Santi Aldama",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:50",
+                "end": "15:20"
+            },
+            "caption": "Santi Aldama gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Santi Aldama",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "19:40"
+            },
+            "caption": "Santi Aldama dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Santi Aldama",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:40",
+                "end": "21:20"
+            },
+            "caption": "Santi Aldama makes a pass."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "3ptShot",
+            "player": "David Roddy",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "21:20",
+                "end": "23:20"
+            },
+            "caption": "David Roddy misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "DefensiveRebound",
+            "player": "Xavier Tillman Sr.",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "23:20",
+                "end": "24:20"
+            },
+            "caption": "Xavier Tillman Sr. knocks defensive rebound out of bounds."
+        }
+    ]
+}

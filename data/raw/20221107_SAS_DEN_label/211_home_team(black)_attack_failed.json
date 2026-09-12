@@ -1,0 +1,63 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_211_home_team(black)_attack_failed",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Josh Richardson inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "01:30"
+            },
+            "caption": "Devin Vassell holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Devin Vassell",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "04:10"
+            },
+            "caption": "Devin Vassell misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "04:50"
+            },
+            "caption": "Nikola Jokić gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "06:00"
+            },
+            "caption": "Nikola Jokić holds the ball."
+        }
+    ]
+}

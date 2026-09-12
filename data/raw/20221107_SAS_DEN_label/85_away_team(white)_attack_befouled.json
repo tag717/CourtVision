@@ -1,0 +1,52 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_85_away_team(white)_attack_befouled",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:50"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "04:40"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "08:00"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Jamal Murray",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "11:00"
+            },
+            "caption": "Jamal Murray is fouled on a 3-pt shot attempt."
+        }
+    ]
+}

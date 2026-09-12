@@ -1,0 +1,63 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_201_away_team(white)_attack_befouled",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:00"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:30"
+            },
+            "caption": "Cade Cunningham makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "09:30"
+            },
+            "caption": "Dennis Schröder makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "12:10"
+            },
+            "caption": "Cade Cunningham holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:20"
+            },
+            "caption": "Cade Cunningham is fouled while dribbling."
+        }
+    ]
+}

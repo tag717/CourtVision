@@ -1,0 +1,107 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_90_home_team(blue)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:00"
+            },
+            "caption": "Tyrese Maxey dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "08:40"
+            },
+            "caption": "Tyrese Maxey makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "De'Anthony Melton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "10:00"
+            },
+            "caption": "De'Anthony Melton dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "De'Anthony Melton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:20"
+            },
+            "caption": "De'Anthony Melton makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:40"
+            },
+            "caption": "Tobias Harris holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "13:40"
+            },
+            "caption": "Tobias Harris makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "De'Anthony Melton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "20:00"
+            },
+            "caption": "De'Anthony Melton dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "De'Anthony Melton",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "22:20"
+            },
+            "caption": "De'Anthony Melton misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:00",
+                "end": "24:00"
+            },
+            "caption": "Mikal Bridges gets the defensive rebound."
+        }
+    ]
+}

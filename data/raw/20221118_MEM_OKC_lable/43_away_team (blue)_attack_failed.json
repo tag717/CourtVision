@@ -1,0 +1,63 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_43_away_team (blue)_attack_failed",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:50"
+            },
+            "caption": "Shai Gilgeous-Alexander dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "03:50"
+            },
+            "caption": "Shai Gilgeous-Alexander makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Aleksej Pokusevski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "05:50"
+            },
+            "caption": "Aleksej Pokusevski makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Jalen Williams",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "08:10"
+            },
+            "caption": "Jalen Williams misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Santi Aldama",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "08:30"
+            },
+            "caption": "Santi Aldama gets the defensive rebound."
+        }
+    ]
+}

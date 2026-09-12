@@ -1,0 +1,85 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_51_home_team(white)_attack_failed",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:00"
+            },
+            "caption": "T.J. McConnell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:20"
+            },
+            "caption": "T.J. McConnell makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Aaron Nesmith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "07:00"
+            },
+            "caption": "Aaron Nesmith holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Aaron Nesmith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:00"
+            },
+            "caption": "Aaron Nesmith dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Aaron Nesmith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "08:20"
+            },
+            "caption": "Aaron Nesmith makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Bennedict Mathurin",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "10:00"
+            },
+            "caption": "Bennedict Mathurin misses layup."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "DeAndre Jordan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:00"
+            },
+            "caption": "DeAndre Jordan gets the defensive rebound."
+        }
+    ]
+}

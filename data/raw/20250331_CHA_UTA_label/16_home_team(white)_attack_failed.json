@@ -1,0 +1,74 @@
+{
+    "video_id": "20250331_CHA_UTA",
+    "possession_id": "poss_16_home_team(white)_attack_failed",
+    "home_team": "CHA",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "KJ Simpsdon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:20"
+            },
+            "caption": "KJ Simpsdon dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "KJ Simpsdon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "01:50"
+            },
+            "caption": "KJ Simpsdon makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Josh Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "03:30"
+            },
+            "caption": "Josh Green makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Mark Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "09:20"
+            },
+            "caption": "Mark Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Mark Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:30"
+            },
+            "caption": "Mark Williams makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Seth Curry",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "12:30"
+            },
+            "caption": "Seth Curry misses 3-pt jump shot."
+        }
+    ]
+}

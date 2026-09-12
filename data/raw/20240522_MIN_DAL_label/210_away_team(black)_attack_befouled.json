@@ -1,0 +1,41 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_210_away_team(black)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "P.J. Washington inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Derrick Jones Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "04:20"
+            },
+            "caption": "Derrick Jones Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:20"
+            },
+            "caption": "Kyrie Irving is fouled while dribbling."
+        }
+    ]
+}

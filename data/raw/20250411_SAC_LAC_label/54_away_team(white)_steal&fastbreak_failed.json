@@ -1,0 +1,96 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_54_away_team(white)_steal&fastbreak_failed",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Devin Carter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:00"
+            },
+            "caption": "Devin Carter dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Devin Carter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:40"
+            },
+            "caption": "Devin Carter makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jonas Valančiūnas",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "09:10"
+            },
+            "caption": "Jonas Valančiūnas dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Jonas Valančiūnas",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "09:40"
+            },
+            "caption": "Jonas Valančiūnas hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "11:40"
+            },
+            "caption": "Zach LaVine dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Norman Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "20:00"
+            },
+            "caption": "Norman Powell dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Norman Powell",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "21:30"
+            },
+            "caption": "Norman Powell misses layup."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:30",
+                "end": "23:00"
+            },
+            "caption": "Domantas Sabonis gets the defensive rebound."
+        }
+    ]
+}

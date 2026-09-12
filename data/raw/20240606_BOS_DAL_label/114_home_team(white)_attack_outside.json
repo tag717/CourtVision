@@ -1,0 +1,52 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_114_home_team(white)_attack_outside",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Al Horford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Al Horford holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Al Horford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "02:10"
+            },
+            "caption": "Al Horford hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "09:50"
+            },
+            "caption": "Jayson Tatum dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jayson Tatum",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "12:00"
+            },
+            "caption": "Jayson Tatum turnover: pass out of bounds."
+        }
+    ]
+}

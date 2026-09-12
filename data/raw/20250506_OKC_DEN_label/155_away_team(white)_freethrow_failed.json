@@ -1,0 +1,30 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_155_away_team(white)_freethrow_failed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Jamal Murray",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Jamal Murray misses free throw."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "DefensiveRebound",
+            "player": "Chet Holmgren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:00"
+            },
+            "caption": "Chet Holmgren gets the defensive rebound."
+        }
+    ]
+}

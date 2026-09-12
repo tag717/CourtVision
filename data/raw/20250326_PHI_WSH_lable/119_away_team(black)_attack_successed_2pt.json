@@ -1,0 +1,74 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_119_away_team(black)_attack_successed_2pt",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:10"
+            },
+            "caption": "AJ Johnson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "06:20"
+            },
+            "caption": "AJ Johnson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Justin Champagnie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:20"
+            },
+            "caption": "Justin Champagnie makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Alex Sarr",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "09:10"
+            },
+            "caption": "Alex Sarr makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "12:00"
+            },
+            "caption": "AJ Johnson dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "AJ Johnson",
+            "result": "made",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:10"
+            },
+            "caption": "AJ Johnson makes layup."
+        }
+    ]
+}

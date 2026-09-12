@@ -1,0 +1,74 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_140_home_team(white)_attack_failed",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:40"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "04:20"
+            },
+            "caption": "Tyrese Haliburton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:30"
+            },
+            "caption": "Buddy Hield dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:00"
+            },
+            "caption": "Buddy Hield makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Goga Bitadze",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "08:10"
+            },
+            "caption": "Goga Bitadze misses layup."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "09:00"
+            },
+            "caption": "Aaron Gordon gets the defensive rebound."
+        }
+    ]
+}

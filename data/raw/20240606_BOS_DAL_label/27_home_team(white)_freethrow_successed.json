@@ -1,0 +1,19 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_27_home_team(white)_freethrow_successed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Kristaps Porzi艈模is",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Kristaps Porzi艈模is makes free throw."
+        }
+    ]
+}

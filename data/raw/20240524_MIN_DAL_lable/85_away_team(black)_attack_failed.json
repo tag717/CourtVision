@@ -1,0 +1,63 @@
+{
+    "video_id": "20240524_MIN_DAL",
+    "possession_id": "poss_85_away_team(black)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:20"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Kyrie Irving",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "08:10"
+            },
+            "caption": "Kyrie Irving misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "OffensiveRebound",
+            "player": "Daniel Gafford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "09:10"
+            },
+            "caption": "Daniel Gafford gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Daniel Gafford",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:10"
+            },
+            "caption": "Daniel Gafford misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:10"
+            },
+            "caption": "Karl-Anthony Towns gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_21_home_team(blue)_attack_failed",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Killian Hayes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:00"
+            },
+            "caption": "Killian Hayes dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Killian Hayes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:00"
+            },
+            "caption": "Killian Hayes makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "2ptShot",
+            "player": "Marvin Bagley III",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "12:00"
+            },
+            "caption": "Marvin Bagley III misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:00"
+            },
+            "caption": "Ja Morant gets the defensive rebound."
+        }
+    ]
+}

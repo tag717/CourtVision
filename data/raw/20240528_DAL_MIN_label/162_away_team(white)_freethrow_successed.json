@@ -1,0 +1,19 @@
+{
+    "video_id": "20240528_DAL_MIN",
+    "possession_id": "poss_162_away_team(white)_freethrow_successed",
+    "home_team": "DAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Rudy Gobert",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Rudy Gobert makes free throw."
+        }
+    ]
+}

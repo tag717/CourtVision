@@ -1,0 +1,107 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_12_home_team(black)_attack_befouled",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:10"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:10"
+            },
+            "caption": "Tyrese Haliburton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jalen Smith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "09:40"
+            },
+            "caption": "Jalen Smith dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jalen Smith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:20"
+            },
+            "caption": "Jalen Smith makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Andrew Nembhard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:20"
+            },
+            "caption": "Andrew Nembhard makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "13:00"
+            },
+            "caption": "Buddy Hield dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "13:40"
+            },
+            "caption": "Buddy Hield makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Andrew Nembhard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:40"
+            },
+            "caption": "Andrew Nembhard makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Myles Turner",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "14:40",
+                "end": "17:00"
+            },
+            "caption": "Myles Turner is fouled while dribbling."
+        }
+    ]
+}

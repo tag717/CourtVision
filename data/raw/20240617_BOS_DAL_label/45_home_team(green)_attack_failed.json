@@ -1,0 +1,74 @@
+{
+    "video_id": "20240617_BOS_DAL",
+    "possession_id": "poss_45_home_team(green)_attack_failed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:20"
+            },
+            "caption": "Jaylen Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:50"
+            },
+            "caption": "Jaylen Brown makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "13:20"
+            },
+            "caption": "Jayson Tatum holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "19:20"
+            },
+            "caption": "Jayson Tatum dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Jayson Tatum",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "21:50"
+            },
+            "caption": "Jayson Tatum misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:50",
+                "end": "23:00"
+            },
+            "caption": "P.J. Washington gets the defensive rebound."
+        }
+    ]
+}

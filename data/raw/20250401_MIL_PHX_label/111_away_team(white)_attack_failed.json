@@ -1,0 +1,74 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_111_away_team(white)_attack_failed",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "03:50"
+            },
+            "caption": "Devin Booker makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Ryan Dunn",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "04:40"
+            },
+            "caption": "Ryan Dunn makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Collin Gillespie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "07:00"
+            },
+            "caption": "Collin Gillespie dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Steal",
+            "player": "Taurean Prince",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:30"
+            },
+            "caption": "Taurean Prince steals the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Taurean Prince",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:00"
+            },
+            "caption": "Taurean Prince makes a pass."
+        }
+    ]
+}

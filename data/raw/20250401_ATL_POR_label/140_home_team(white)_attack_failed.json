@@ -1,0 +1,52 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_140_home_team(white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Vit Krejci",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Vit Krejci makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "03:20"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Trae Young",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "05:20"
+            },
+            "caption": "Trae Young misses layup."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Dalano Banton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "05:50"
+            },
+            "caption": "Dalano Banton gets the defensive rebound."
+        }
+    ]
+}

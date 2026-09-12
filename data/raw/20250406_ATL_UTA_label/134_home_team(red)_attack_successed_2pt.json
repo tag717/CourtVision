@@ -1,0 +1,140 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_134_home_team(red)_attack_successed_2pt",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "3ptShot",
+            "player": "Caris LeVert",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Caris LeVert misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "OffensiveRebound",
+            "player": "Vít Krejčí",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "02:20"
+            },
+            "caption": "Vít Krejčí gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Vít Krejčí",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:30"
+            },
+            "caption": "Vít Krejčí makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Terance Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:20"
+            },
+            "caption": "Terance Mann makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Vít Krejčí",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "07:10"
+            },
+            "caption": "Vít Krejčí dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Vít Krejčí",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:00"
+            },
+            "caption": "Vít Krejčí makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:00"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "09:20"
+            },
+            "caption": "Trae Young makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Vít Krejčí",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "11:00"
+            },
+            "caption": "Vít Krejčí dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Vít Krejčí",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:10"
+            },
+            "caption": "Vít Krejčí makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:10"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Layup",
+            "player": "Trae Young",
+            "result": "made",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "15:00"
+            },
+            "caption": "Trae Young makes layup."
+        }
+    ]
+}

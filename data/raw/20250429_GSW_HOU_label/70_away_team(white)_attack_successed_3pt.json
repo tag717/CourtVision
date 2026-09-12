@@ -1,0 +1,52 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_70_away_team(white)_attack_successed_3pt",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Amen Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Amen Thompson makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "02:00"
+            },
+            "caption": "Dillon Brooks makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "06:20"
+            },
+            "caption": "Fred VanVleet dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Fred VanVleet",
+            "result": "made",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "08:30"
+            },
+            "caption": "Fred VanVleet makes 3-pt jump shot."
+        }
+    ]
+}

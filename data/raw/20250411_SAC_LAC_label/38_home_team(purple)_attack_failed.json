@@ -1,0 +1,96 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_38_home_team(purple)_attack_failed",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "DeMar DeRozan dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "02:30"
+            },
+            "caption": "DeMar DeRozan makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Jonas Valančiūnas",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "04:10"
+            },
+            "caption": "Jonas Valančiūnas holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jonas Valančiūnas",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "07:00"
+            },
+            "caption": "Jonas Valančiūnas dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jonas Valančiūnas",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "09:30"
+            },
+            "caption": "Jonas Valančiūnas makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "11:10"
+            },
+            "caption": "DeMar DeRozan dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "DeMar DeRozan",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:10"
+            },
+            "caption": "DeMar DeRozan misses layup."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:00"
+            },
+            "caption": "James Harden gets the defensive rebound."
+        }
+    ]
+}

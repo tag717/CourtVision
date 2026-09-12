@@ -1,0 +1,19 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_182_away_team(black)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Luka Dončić",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:10"
+            },
+            "caption": "Luka Dončić is fouled while dribbling."
+        }
+    ]
+}

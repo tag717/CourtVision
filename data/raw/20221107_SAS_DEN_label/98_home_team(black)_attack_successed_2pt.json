@@ -1,0 +1,85 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_98_home_team(black)_attack_successed_2pt",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "Tre Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:50"
+            },
+            "caption": "Tre Jones makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "07:40"
+            },
+            "caption": "Josh Richardson dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:10"
+            },
+            "caption": "Josh Richardson makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "HandOff",
+            "player": "Jakob Poeltl",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "09:00"
+            },
+            "caption": "Jakob Poeltl hands off the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:00"
+            },
+            "caption": "Josh Richardson dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "2ptShot",
+            "player": "Josh Richardson",
+            "result": "made",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:50"
+            },
+            "caption": "Josh Richardson makes 2-pt jump shot."
+        }
+    ]
+}

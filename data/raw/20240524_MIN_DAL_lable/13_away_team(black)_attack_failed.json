@@ -1,0 +1,41 @@
+{
+    "video_id": "20240524_MIN_DAL",
+    "possession_id": "poss_13_away_team(black)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:20"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Kyrie Irving",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "06:00"
+            },
+            "caption": "Kyrie Irving misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:20"
+            },
+            "caption": "Anthony Edwards gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "video_id": "20240617_BOS_DAL",
+    "possession_id": "poss_150_home_team(green)_attack_befouled",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:10",
+                "end": "10:00"
+            },
+            "caption": "Derrick White dribbles the ball."
+        }
+    ]
+}

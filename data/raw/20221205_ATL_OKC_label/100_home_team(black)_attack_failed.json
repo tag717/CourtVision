@@ -1,0 +1,107 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_100_home_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "02:40"
+            },
+            "caption": "Trae Young makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "AJ Griffin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:20"
+            },
+            "caption": "AJ Griffin dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "AJ Griffin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "03:50"
+            },
+            "caption": "AJ Griffin hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "05:00"
+            },
+            "caption": "Dejounte Murray makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:50"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "07:50"
+            },
+            "caption": "Trae Young makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Clint Capela",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "08:50"
+            },
+            "caption": "Clint Capela makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "AJ Griffin",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "11:00"
+            },
+            "caption": "AJ Griffin misses 3-pt jump shot."
+        }
+    ]
+}

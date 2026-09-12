@@ -1,0 +1,30 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_62_away_team(white)_attack_successed_2pt",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Aleksej Pokusevski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:10"
+            },
+            "caption": "Aleksej Pokusevski dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Aleksej Pokusevski",
+            "result": "made",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "06:40"
+            },
+            "caption": "Aleksej Pokusevski makes layup."
+        }
+    ]
+}

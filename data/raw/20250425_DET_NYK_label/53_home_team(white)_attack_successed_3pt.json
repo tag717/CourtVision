@@ -1,0 +1,85 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_53_home_team(white)_attack_successed_3pt",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "08:40"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Cade Cunningham",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "10:10"
+            },
+            "caption": "Cade Cunningham misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "OffensiveRebound",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "14:50"
+            },
+            "caption": "Cade Cunningham gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "15:40"
+            },
+            "caption": "Cade Cunningham makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Malik Beasley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "16:50"
+            },
+            "caption": "Malik Beasley makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:40",
+                "end": "18:10"
+            },
+            "caption": "Dennis Schröder dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Dennis Schröder",
+            "result": "made",
+            "timestamp_video": {
+                "start": "18:50",
+                "end": "20:40"
+            },
+            "caption": "Dennis Schröder makes 3-pt jump shot."
+        }
+    ]
+}

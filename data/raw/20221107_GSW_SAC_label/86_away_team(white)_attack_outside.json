@@ -1,0 +1,30 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_86_away_team(white)_attack_outside",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Davion Mitchell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "10:50"
+            },
+            "caption": "Davion Mitchell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Davion Mitchell",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "13:20"
+            },
+            "caption": "Davion Mitchell misses layup (out of bounds)."
+        }
+    ]
+}

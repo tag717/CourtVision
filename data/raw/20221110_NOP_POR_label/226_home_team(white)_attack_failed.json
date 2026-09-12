@@ -1,0 +1,52 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_226_home_team(white)_attack_failed",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:30"
+            },
+            "caption": "CJ McCollum dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "CJ McCollum",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "05:20"
+            },
+            "caption": "CJ McCollum misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Justise Winslow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:30"
+            },
+            "caption": "Justise Winslow gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Justise Winslow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "08:00"
+            },
+            "caption": "Justise Winslow holds the ball."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_83_home_team(blue)_steal&fastbreak_befouled",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Devin Booker",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:20"
+            },
+            "caption": "Devin Booker misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "P.J. Tucker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "05:10"
+            },
+            "caption": "P.J. Tucker steals the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "09:40"
+            },
+            "caption": "Paul Reed makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "De'Anthony Melton",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "18:40"
+            },
+            "caption": "De'Anthony Melton is fouled while dribbling."
+        }
+    ]
+}

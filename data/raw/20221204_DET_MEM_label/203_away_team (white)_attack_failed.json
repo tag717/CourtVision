@@ -1,0 +1,30 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_203_away_team (white)_attack_failed",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:20"
+            },
+            "caption": "Ja Morant inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Brandon Clarke",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "05:00"
+            },
+            "caption": "Brandon Clarke misses layup."
+        }
+    ]
+}

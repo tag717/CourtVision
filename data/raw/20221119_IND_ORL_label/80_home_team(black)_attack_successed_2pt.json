@@ -1,0 +1,30 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_80_home_team(black)_attack_successed_2pt",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:50"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Tyrese Haliburton",
+            "result": "made",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "09:00"
+            },
+            "caption": "Tyrese Haliburton makes layup."
+        }
+    ]
+}

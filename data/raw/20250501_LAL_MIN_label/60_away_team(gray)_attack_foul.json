@@ -1,0 +1,140 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_60_away_team(gray)_attack_foul",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:50"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "05:30"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:10"
+            },
+            "caption": "Julius Randle hands off the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "06:40"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:30"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Donte DiVincenzo",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "10:30"
+            },
+            "caption": "Donte DiVincenzo misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "OffensiveRebound",
+            "player": "Jaden McDaniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:30"
+            },
+            "caption": "Jaden McDaniels gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Jaden McDaniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "12:50"
+            },
+            "caption": "Jaden McDaniels makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "Julius Randle",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "15:00"
+            },
+            "caption": "Julius Randle misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "OffensiveRebound",
+            "player": "Donte DiVincenzo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "15:20"
+            },
+            "caption": "Donte DiVincenzo gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Donte DiVincenzo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "16:40"
+            },
+            "caption": "Donte DiVincenzo makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Layup",
+            "player": "Julius Randle",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "18:00"
+            },
+            "caption": "Julius Randle is fouled on a layup attempt."
+        }
+    ]
+}

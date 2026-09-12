@@ -1,0 +1,52 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_191_away_team (black)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:20"
+            },
+            "caption": "AJ Johnson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:10"
+            },
+            "caption": "AJ Johnson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Tristan Vukcevic",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "09:10"
+            },
+            "caption": "Tristan Vukcevic misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Jared Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:20"
+            },
+            "caption": "Jared Butler gets the defensive rebound."
+        }
+    ]
+}

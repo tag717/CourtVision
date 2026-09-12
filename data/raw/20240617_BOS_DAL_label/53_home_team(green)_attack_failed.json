@@ -1,0 +1,52 @@
+{
+    "video_id": "20240617_BOS_DAL",
+    "possession_id": "poss_53_home_team(green)_attack_failed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:10"
+            },
+            "caption": "Jaylen Brown holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:10"
+            },
+            "caption": "Jaylen Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Jaylen Brown",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "10:10"
+            },
+            "caption": "Jaylen Brown misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Dereck Lively II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:00"
+            },
+            "caption": "Dereck Lively II gets the defensive rebound."
+        }
+    ]
+}

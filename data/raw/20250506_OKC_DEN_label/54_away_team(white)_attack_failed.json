@@ -1,0 +1,96 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_54_away_team(white)_attack_failed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Christian Braun dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "03:30"
+            },
+            "caption": "Christian Braun holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:40"
+            },
+            "caption": "Christian Braun makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "06:50"
+            },
+            "caption": "Nikola Jokić holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "08:00"
+            },
+            "caption": "Nikola Jokić dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:20"
+            },
+            "caption": "Nikola Jokić makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Michael Porter Jr.",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "11:40"
+            },
+            "caption": "Michael Porter Jr. misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Isaiah Joe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "13:00"
+            },
+            "caption": "Isaiah Joe gets the defensive rebound."
+        }
+    ]
+}

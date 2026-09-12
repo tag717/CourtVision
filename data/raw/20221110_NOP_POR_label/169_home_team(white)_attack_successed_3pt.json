@@ -1,0 +1,41 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_169_home_team(white)_attack_successed_3pt",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Zion Williamson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:50"
+            },
+            "caption": "Zion Williamson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Zion Williamson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "08:40"
+            },
+            "caption": "Zion Williamson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Trey Murphy III",
+            "result": "made",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "10:40"
+            },
+            "caption": "Trey Murphy III makes 3-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_31_away_team(gray)_attack_failed",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:50"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:40"
+            },
+            "caption": "Anthony Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Naz Reid",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "08:30"
+            },
+            "caption": "Naz Reid misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:30"
+            },
+            "caption": "Luka Dončić gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:00"
+            },
+            "caption": "Luka Dončić dribbles the ball."
+        }
+    ]
+}

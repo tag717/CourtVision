@@ -1,0 +1,107 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_154_away_team(white)_attack_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:20"
+            },
+            "caption": "Dennis Schröder dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:10"
+            },
+            "caption": "Dennis Schröder makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Ron Holland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "07:10"
+            },
+            "caption": "Ron Holland makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "09:20"
+            },
+            "caption": "Isaiah Stewart dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:10"
+            },
+            "caption": "Isaiah Stewart makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "12:00"
+            },
+            "caption": "Dennis Schröder dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Dennis Schröder",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "12:20"
+            },
+            "caption": "Dennis Schröder makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Ron Holland",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "14:10"
+            },
+            "caption": "Ron Holland misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Max Christie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "15:00"
+            },
+            "caption": "Max Christie gets the defensive rebound."
+        }
+    ]
+}

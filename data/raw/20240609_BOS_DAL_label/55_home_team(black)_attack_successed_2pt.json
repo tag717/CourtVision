@@ -1,0 +1,63 @@
+{
+    "video_id": "20240609_BOS_DAL",
+    "possession_id": "poss_55_home_team(black)_attack_successed_2pt",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Payton Pritchard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:00"
+            },
+            "caption": "Payton Pritchard dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Payton Pritchard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "09:50"
+            },
+            "caption": "Payton Pritchard hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "12:00"
+            },
+            "caption": "Jaylen Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "12:30"
+            },
+            "caption": "Jaylen Brown makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Derrick White",
+            "result": "made",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "15:00"
+            },
+            "caption": "Derrick White makes 2-pt jump shot."
+        }
+    ]
+}

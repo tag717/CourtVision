@@ -1,0 +1,41 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_160_away_team(black)_attack_failed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Luka Dončić inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "P.J. Washington",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "03:20"
+            },
+            "caption": "P.J. Washington misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "05:00"
+            },
+            "caption": "Jayson Tatum gets the defensive rebound."
+        }
+    ]
+}

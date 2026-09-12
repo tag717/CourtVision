@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_137_away_team(white)_attack_foul",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Landry Shamet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:20"
+            },
+            "caption": "Landry Shamet dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Landry Shamet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:30"
+            },
+            "caption": "Landry Shamet makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Deandre Ayton",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "11:10"
+            },
+            "caption": "Deandre Ayton is fouled while dribbling."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_158_away_team(white)_attack_successed_2pt",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Layup",
+            "player": "Davion Mitchell",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Davion Mitchell makes layup."
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_4_home_team(black)_attack_failed",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:40"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:30"
+            },
+            "caption": "Tyrese Haliburton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "Myles Turner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:30"
+            },
+            "caption": "Myles Turner hands off the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:10"
+            },
+            "caption": "Buddy Hield dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "05:50"
+            },
+            "caption": "Buddy Hield makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Myles Turner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "06:10"
+            },
+            "caption": "Myles Turner dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Myles Turner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:00"
+            },
+            "caption": "Myles Turner makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Jalen Smith",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "09:40"
+            },
+            "caption": "Jalen Smith misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Michael Carter-Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "11:00"
+            },
+            "caption": "Michael Carter-Williams gets the defensive rebound."
+        }
+    ]
+}

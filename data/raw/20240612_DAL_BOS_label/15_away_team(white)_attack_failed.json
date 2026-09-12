@@ -1,0 +1,41 @@
+{
+    "video_id": "20240612_DAL_BOS",
+    "possession_id": "poss_15_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:40"
+            },
+            "caption": "Jaylen Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Jaylen Brown",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "06:10"
+            },
+            "caption": "Jaylen Brown misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "06:40"
+            },
+            "caption": "Luka Dončić gets the defensive rebound."
+        }
+    ]
+}

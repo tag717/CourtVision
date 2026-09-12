@@ -1,0 +1,140 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_65_home_team(black)_block&fastbreak_successed_2pt",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "JumpBall",
+            "player": "Kenrich Williams&Jake LaRavia",
+            "result": "left",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:20"
+            },
+            "caption": "Kenrich Williams&Jake LaRavia wins jump ball (taps to left)."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kenrich Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "01:50"
+            },
+            "caption": "Kenrich Williams makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Aaron Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "02:30"
+            },
+            "caption": "Aaron Wiggins makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Josh Giddey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "04:20"
+            },
+            "caption": "Josh Giddey makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Kenrich Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "07:10"
+            },
+            "caption": "Kenrich Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Kenrich Williams",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:00"
+            },
+            "caption": "Kenrich Williams misses layup."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Block",
+            "player": "Brandon Clarke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:40"
+            },
+            "caption": "Brandon Clarke blocks the shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "09:20"
+            },
+            "caption": "Jaren Jackson Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Jake LaRavia",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "13:00"
+            },
+            "caption": "Jake LaRavia dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Jake LaRavia",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:20"
+            },
+            "caption": "Jake LaRavia makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "17:00"
+            },
+            "caption": "Jaren Jackson Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Dunk",
+            "player": "Jaren Jackson Jr.",
+            "result": "made",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "17:50"
+            },
+            "caption": "Jaren Jackson Jr. makes dunk."
+        }
+    ]
+}

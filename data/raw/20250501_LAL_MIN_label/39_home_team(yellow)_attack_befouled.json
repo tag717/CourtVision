@@ -1,0 +1,96 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_39_home_team(yellow)_attack_befouled",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "Luka Dončić dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:00"
+            },
+            "caption": "Luka Dončić makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Austin Reaves",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:30"
+            },
+            "caption": "Austin Reaves dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Austin Reaves",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:10"
+            },
+            "caption": "Austin Reaves makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Gabe Vincent",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "08:50"
+            },
+            "caption": "Gabe Vincent makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Austin Reaves",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:00"
+            },
+            "caption": "Austin Reaves dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Austin Reaves",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "10:40"
+            },
+            "caption": "Austin Reaves makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "LeBron James",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "12:50"
+            },
+            "caption": "LeBron James is fouled on a layup attempt."
+        }
+    ]
+}

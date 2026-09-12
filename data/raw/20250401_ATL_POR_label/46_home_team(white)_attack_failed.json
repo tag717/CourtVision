@@ -1,0 +1,63 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_46_home_team(white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Terance Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Terance Mann dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Terance Mann",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "05:10"
+            },
+            "caption": "Terance Mann misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Toumani Camara",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:30"
+            },
+            "caption": "Toumani Camara gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Kris Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:20"
+            },
+            "caption": "Kris Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Kris Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:30"
+            },
+            "caption": "Kris Murray makes a pass."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "video_id": "20250331_CHA_UTA",
+    "possession_id": "poss_60_away_team(blue)_attack_failed",
+    "home_team": "CHA",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Jaden Springer makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Svi Mykhailiuk",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:50"
+            },
+            "caption": "Svi Mykhailiuk misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Mark Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "05:00"
+            },
+            "caption": "Mark Williams gets the defensive rebound."
+        }
+    ]
+}

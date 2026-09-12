@@ -1,0 +1,85 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_113_home_team(white)_attack_failed",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:10"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "09:10"
+            },
+            "caption": "Cade Cunningham makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:00"
+            },
+            "caption": "Jalen Duren dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "10:40"
+            },
+            "caption": "Jalen Duren makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Malik Beasley",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:30"
+            },
+            "caption": "Malik Beasley misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "13:10"
+            },
+            "caption": "Jalen Brunson gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "14:00"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        }
+    ]
+}

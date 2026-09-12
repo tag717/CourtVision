@@ -1,0 +1,19 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_68_away_team(blue)_freethrow_failed",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Zach Edey",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Zach Edey misses free throw."
+        }
+    ]
+}

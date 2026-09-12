@@ -1,0 +1,41 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_57_home_team(white)_attack_befouled",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bennedict Mathurin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:10"
+            },
+            "caption": "Bennedict Mathurin dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bennedict Mathurin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:10",
+                "end": "01:00"
+            },
+            "caption": "Bennedict Mathurin makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Aaron Nesmith",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "01:30"
+            },
+            "caption": "Aaron Nesmith is fouled while dribbling."
+        }
+    ]
+}

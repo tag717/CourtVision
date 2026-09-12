@@ -1,0 +1,19 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_120_away_team(white)_attack_outside",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Norman Powell",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "Norman Powell turnover: out of bounds lost ball."
+        }
+    ]
+}

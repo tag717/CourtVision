@@ -1,0 +1,107 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_8_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Johnny Juzang",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Johnny Juzang makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Brice Sensabaugh",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "04:00"
+            },
+            "caption": "Brice Sensabaugh holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Brice Sensabaugh",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "06:00"
+            },
+            "caption": "Brice Sensabaugh dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Brice Sensabaugh",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:20"
+            },
+            "caption": "Brice Sensabaugh makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Isaiah Collier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "10:20"
+            },
+            "caption": "Isaiah Collier dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "2ptShot",
+            "player": "Isaiah Collier",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "12:10"
+            },
+            "caption": "Isaiah Collier misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Onyeka Okongwu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:00"
+            },
+            "caption": "Onyeka Okongwu gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Onyeka Okongwu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:00"
+            },
+            "caption": "Onyeka Okongwu makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "15:00"
+            },
+            "caption": "Trae Young dribbles the ball."
+        }
+    ]
+}

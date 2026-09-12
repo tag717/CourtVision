@@ -1,0 +1,74 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_130_home_team(blue)_attack_successed_2pt",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:20"
+            },
+            "caption": "Cory Joseph dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "06:40"
+            },
+            "caption": "Cory Joseph makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:40"
+            },
+            "caption": "Jalen Duren dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:10"
+            },
+            "caption": "Jalen Duren hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Bojan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:40"
+            },
+            "caption": "Bojan Bogdanović dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "2ptShot",
+            "player": "Bojan Bogdanović",
+            "result": "made",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "12:20"
+            },
+            "caption": "Bojan Bogdanović makes 2-pt jump shot."
+        }
+    ]
+}

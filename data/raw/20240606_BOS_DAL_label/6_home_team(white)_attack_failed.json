@@ -1,0 +1,206 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_6_home_team(white)_attack_failed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Derrick White inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Al Horford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "02:40"
+            },
+            "caption": "Al Horford makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:50"
+            },
+            "caption": "Jrue Holiday makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "06:30"
+            },
+            "caption": "Jayson Tatum dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:10"
+            },
+            "caption": "Jayson Tatum makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "09:30"
+            },
+            "caption": "Jaylen Brown holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "11:10"
+            },
+            "caption": "Jaylen Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "13:00"
+            },
+            "caption": "Jaylen Brown makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "Derrick White",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:50"
+            },
+            "caption": "Derrick White misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "OffensiveRebound",
+            "player": "Al Horford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "15:50"
+            },
+            "caption": "Al Horford gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Al Horford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "16:30"
+            },
+            "caption": "Al Horford makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "3ptShot",
+            "player": "Jaylen Brown",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "18:30"
+            },
+            "caption": "Jaylen Brown misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "OffensiveRebound",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:30",
+                "end": "21:20"
+            },
+            "caption": "Jaylen Brown gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "Hold",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:20",
+                "end": "24:40"
+            },
+            "caption": "Jaylen Brown holds the ball."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "Dribble",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "24:40",
+                "end": "25:30"
+            },
+            "caption": "Jaylen Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_16",
+            "event_label": "PassBall",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "25:30",
+                "end": "26:10"
+            },
+            "caption": "Jaylen Brown makes a pass."
+        },
+        {
+            "event_id": "ev_17",
+            "event_label": "3ptShot",
+            "player": "Al Horford",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "26:10",
+                "end": "29:30"
+            },
+            "caption": "Al Horford misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_18",
+            "event_label": "DefensiveRebound",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "29:10",
+                "end": "31:00"
+            },
+            "caption": "Luka Dončić gets the defensive rebound."
+        }
+    ]
+}

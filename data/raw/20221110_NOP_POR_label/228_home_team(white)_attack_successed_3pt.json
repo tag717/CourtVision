@@ -1,0 +1,74 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_228_home_team(white)_attack_successed_3pt",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "CJ McCollum dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:20"
+            },
+            "caption": "CJ McCollum makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Trey Murphy III",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "06:30"
+            },
+            "caption": "Trey Murphy III misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "OffensiveRebound",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "08:20"
+            },
+            "caption": "CJ McCollum gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "10:00"
+            },
+            "caption": "CJ McCollum makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Zion Williamson",
+            "result": "made",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "12:30"
+            },
+            "caption": "Zion Williamson makes 3-pt jump shot."
+        }
+    ]
+}

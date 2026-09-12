@@ -1,0 +1,96 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_69_away_team(white)_steal&fastbreak_outside",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Buddy Hield makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Oshae Brissett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "02:10"
+            },
+            "caption": "Oshae Brissett makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Aaron Nesmith",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:10"
+            },
+            "caption": "Aaron Nesmith turnover: lost ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Terrence Ross",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "09:30"
+            },
+            "caption": "Terrence Ross makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Terrence Ross",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "11:00"
+            },
+            "caption": "Terrence Ross makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Admiral Schofield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "13:50"
+            },
+            "caption": "Admiral Schofield makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Franz Wagner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:50",
+                "end": "20:30"
+            },
+            "caption": "Franz Wagner dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Franz Wagner",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "20:30",
+                "end": "22:00"
+            },
+            "caption": "Franz Wagner misses layup (out of bounds)."
+        }
+    ]
+}

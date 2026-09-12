@@ -1,0 +1,52 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_192_away_team(red)_attack_outside",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Trendon Watford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Trendon Watford dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Trendon Watford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "02:50"
+            },
+            "caption": "Trendon Watford makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Justise Winslow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "09:10"
+            },
+            "caption": "Justise Winslow dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Justise Winslow",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:30"
+            },
+            "caption": "Justise Winslow turnover: pass out of bounds."
+        }
+    ]
+}

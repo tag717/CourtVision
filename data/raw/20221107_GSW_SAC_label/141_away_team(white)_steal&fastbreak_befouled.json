@@ -1,0 +1,96 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_141_away_team(white)_steal&fastbreak_befouled",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:30"
+            },
+            "caption": "Draymond Green dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:20"
+            },
+            "caption": "Draymond Green makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Jordan Poole",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:00"
+            },
+            "caption": "Jordan Poole holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jordan Poole",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:20"
+            },
+            "caption": "Jordan Poole turnover: bad pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Steal",
+            "player": "Harrison Barnes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:10"
+            },
+            "caption": "Harrison Barnes steals the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Harrison Barnes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:10"
+            },
+            "caption": "Harrison Barnes makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "De'Aaron Fox",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "13:30"
+            },
+            "caption": "De'Aaron Fox is fouled while dribbling."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Steal",
+            "player": "Stephen Curry",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "13:30"
+            },
+            "caption": "Stephen Curry is called for a foul on a steal attempt."
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_120_home_team(blue)_attack_failed",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaden Ivey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "10:30"
+            },
+            "caption": "Jaden Ivey dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jaden Ivey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "13:10"
+            },
+            "caption": "Jaden Ivey makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Marvin Bagley III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "14:30"
+            },
+            "caption": "Marvin Bagley III holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Marvin Bagley III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "15:40"
+            },
+            "caption": "Marvin Bagley III dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Marvin Bagley III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "16:50"
+            },
+            "caption": "Marvin Bagley III makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Jaden Ivey",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:50",
+                "end": "19:20"
+            },
+            "caption": "Jaden Ivey misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Brandon Clarke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "20:20"
+            },
+            "caption": "Brandon Clarke gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Brandon Clarke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:20",
+                "end": "21:00"
+            },
+            "caption": "Brandon Clarke makes a pass."
+        }
+    ]
+}

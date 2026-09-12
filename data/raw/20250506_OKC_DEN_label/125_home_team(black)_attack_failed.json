@@ -1,0 +1,52 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_125_home_team(black)_attack_failed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Alex Caruso",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:40"
+            },
+            "caption": "Alex Caruso makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Chet Holmgren",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "04:10"
+            },
+            "caption": "Chet Holmgren misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PutBack",
+            "player": "Jalen Williams",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:20"
+            },
+            "caption": "Jalen Williams misses putback layup."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "07:50"
+            },
+            "caption": "Michael Porter Jr. gets the defensive rebound."
+        }
+    ]
+}

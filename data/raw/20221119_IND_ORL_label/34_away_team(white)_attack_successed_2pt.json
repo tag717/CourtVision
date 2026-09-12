@@ -1,0 +1,85 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_34_away_team(white)_attack_successed_2pt",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Chuma Okeke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:40"
+            },
+            "caption": "Chuma Okeke dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Chuma Okeke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:30"
+            },
+            "caption": "Chuma Okeke makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "Terrence Ross",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:10"
+            },
+            "caption": "Terrence Ross hands off the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Chuma Okeke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "10:10"
+            },
+            "caption": "Chuma Okeke dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Chuma Okeke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "10:50"
+            },
+            "caption": "Chuma Okeke makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Terrence Ross",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "14:40"
+            },
+            "caption": "Terrence Ross dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Terrence Ross",
+            "result": "made",
+            "timestamp_video": {
+                "start": "14:40",
+                "end": "16:50"
+            },
+            "caption": "Terrence Ross makes layup."
+        }
+    ]
+}

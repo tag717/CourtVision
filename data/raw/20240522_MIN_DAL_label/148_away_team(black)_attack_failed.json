@@ -1,0 +1,63 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_148_away_team(black)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:00"
+            },
+            "caption": "Jaden Hardy dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:00"
+            },
+            "caption": "Jaden Hardy makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Daniel Gafford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "12:00"
+            },
+            "caption": "Daniel Gafford dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Daniel Gafford",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:10"
+            },
+            "caption": "Daniel Gafford misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "13:30"
+            },
+            "caption": "Naz Reid gets the defensive rebound."
+        }
+    ]
+}

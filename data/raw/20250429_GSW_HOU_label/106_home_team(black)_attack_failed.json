@@ -1,0 +1,107 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_106_home_team(black)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Jimmy Butler dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "04:00"
+            },
+            "caption": "Jimmy Butler holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:00"
+            },
+            "caption": "Jimmy Butler makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:50"
+            },
+            "caption": "Buddy Hield dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "07:50"
+            },
+            "caption": "Buddy Hield makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "09:20"
+            },
+            "caption": "Draymond Green holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:10"
+            },
+            "caption": "Draymond Green makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Brandin Podziemski",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:10"
+            },
+            "caption": "Brandin Podziemski misses layup."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Jalen Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "11:50"
+            },
+            "caption": "Jalen Green gets the defensive rebound."
+        }
+    ]
+}

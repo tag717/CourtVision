@@ -1,0 +1,74 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_62_away_team(white)_attack_successed_2pt",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Bruce Brown inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "03:50"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:20"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Vlatko Čančar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:30"
+            },
+            "caption": "Vlatko Čančar dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Vlatko Čančar",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "07:30"
+            },
+            "caption": "Vlatko Čančar misses layup."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Putback",
+            "player": "Zeke Nnaji",
+            "result": "made",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "09:00"
+            },
+            "caption": "Zeke Nnaji makes putback layup."
+        }
+    ]
+}

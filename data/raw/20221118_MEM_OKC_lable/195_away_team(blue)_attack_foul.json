@@ -1,0 +1,63 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_195_away_team(blue)_attack_foul",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:40"
+            },
+            "caption": "Jalen Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "04:40"
+            },
+            "caption": "Jalen Williams makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Josh Giddey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "07:10"
+            },
+            "caption": "Josh Giddey holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Josh Giddey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:20"
+            },
+            "caption": "Josh Giddey makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Jeremiah Robinson-Earl",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:10"
+            },
+            "caption": "Jeremiah Robinson-Earl is fouled while dribbling."
+        }
+    ]
+}

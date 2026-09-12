@@ -1,0 +1,74 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_177_home_team(white)_attack_successed_2pt",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Aaron Nesmith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Aaron Nesmith dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Aaron Nesmith",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "02:20"
+            },
+            "caption": "Aaron Nesmith misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "OffensiveRebound",
+            "player": "Aaron Nesmith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "06:20"
+            },
+            "caption": "Aaron Nesmith gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Aaron Nesmith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "08:20"
+            },
+            "caption": "Aaron Nesmith dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Aaron Nesmith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:10"
+            },
+            "caption": "Aaron Nesmith makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Bennedict Mathurin",
+            "result": "made",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "11:10"
+            },
+            "caption": "Bennedict Mathurin makes layup."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_124_away_team(white)_attack_outside",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cody Martin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:20"
+            },
+            "caption": "Cody Martin dribbles the ball."
+        }
+    ]
+}

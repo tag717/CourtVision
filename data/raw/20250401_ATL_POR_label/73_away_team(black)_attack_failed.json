@@ -1,0 +1,96 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_73_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:40"
+            },
+            "caption": "Shaedon Sharpe dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "07:40"
+            },
+            "caption": "Shaedon Sharpe makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Kris Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:30"
+            },
+            "caption": "Kris Murray holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Kris Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:30"
+            },
+            "caption": "Kris Murray makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:40"
+            },
+            "caption": "Deni Avdija dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Deni Avdija",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "13:10"
+            },
+            "caption": "Deni Avdija misses layup."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Zaccharie Risacher",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "15:00"
+            },
+            "caption": "Zaccharie Risacher gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Zaccharie Risacher",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "16:00"
+            },
+            "caption": "Zaccharie Risacher dribbles the ball."
+        }
+    ]
+}

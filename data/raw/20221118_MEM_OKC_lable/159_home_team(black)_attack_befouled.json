@@ -1,0 +1,184 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_159_home_team(black)_attack_befouled",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:50"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "06:40"
+            },
+            "caption": "Tyus Jones makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Dillon Brooks",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "08:40"
+            },
+            "caption": "Dillon Brooks misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "OffensiveRebound",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "11:20"
+            },
+            "caption": "Tyus Jones gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:50"
+            },
+            "caption": "Tyus Jones holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:50",
+                "end": "16:10"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "17:00"
+            },
+            "caption": "Tyus Jones makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "2ptShot",
+            "player": "Santi Aldama",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "19:00"
+            },
+            "caption": "Santi Aldama misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "OffensiveRebound",
+            "player": "Santi Aldama",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "20:20"
+            },
+            "caption": "Santi Aldama gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Santi Aldama",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:20",
+                "end": "21:30"
+            },
+            "caption": "Santi Aldama makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Brandon Clarke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:30",
+                "end": "23:00"
+            },
+            "caption": "Brandon Clarke makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Dribble",
+            "player": "David Roddy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:00",
+                "end": "25:30"
+            },
+            "caption": "David Roddy dribbles the ball."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "PassBall",
+            "player": "David Roddy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "25:30",
+                "end": "26:50"
+            },
+            "caption": "David Roddy makes a pass."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "PassBall",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "26:50",
+                "end": "28:40"
+            },
+            "caption": "Dillon Brooks makes a pass."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "28:40",
+                "end": "29:50"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_16",
+            "event_label": "Layup",
+            "player": "Tyus Jones",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "29:50",
+                "end": "31:10"
+            },
+            "caption": "Tyus Jones is fouled on a layup attempt."
+        }
+    ]
+}

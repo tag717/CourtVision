@@ -1,0 +1,74 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_169_home_team(white)_steal&fastbreak_failed",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:40"
+            },
+            "caption": "Jaren Jackson Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "09:40"
+            },
+            "caption": "Jaren Jackson Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "11:00"
+            },
+            "caption": "Jimmy Butler steals the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Gui Santos",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "11:40"
+            },
+            "caption": "Gui Santos makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "16:10"
+            },
+            "caption": "Jimmy Butler dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Block",
+            "player": "Desmond Bane",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "18:00"
+            },
+            "caption": "Desmond Bane blocks the shot."
+        }
+    ]
+}

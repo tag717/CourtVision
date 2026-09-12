@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_75_home_team(blue)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Andrew Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:10"
+            },
+            "caption": "Andrew Wiggins dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Andrew Wiggins",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "07:20"
+            },
+            "caption": "Andrew Wiggins misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Terence Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "07:50"
+            },
+            "caption": "Terence Davis gets the defensive rebound."
+        }
+    ]
+}

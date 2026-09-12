@@ -1,0 +1,41 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_138_home_team(blue)_attack_outside",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "10:00"
+            },
+            "caption": "Cory Joseph dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:00"
+            },
+            "caption": "Cory Joseph makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Saddiq Bey",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "13:10"
+            },
+            "caption": "Saddiq Bey misses 3-pt jump shot."
+        }
+    ]
+}

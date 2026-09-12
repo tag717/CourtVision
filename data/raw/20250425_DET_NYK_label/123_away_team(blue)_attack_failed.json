@@ -1,0 +1,107 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_123_away_team(blue)_attack_failed",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "01:30"
+            },
+            "caption": "Karl-Anthony Towns inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "11:00"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "11:40"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "OG Anunoby",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "13:30"
+            },
+            "caption": "OG Anunoby makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "17:50"
+            },
+            "caption": "Karl-Anthony Towns makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "OG Anunoby",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:10",
+                "end": "19:50"
+            },
+            "caption": "OG Anunoby dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "OG Anunoby",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "20:20",
+                "end": "21:40"
+            },
+            "caption": "OG Anunoby misses layup."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:40",
+                "end": "23:00"
+            },
+            "caption": "Cade Cunningham gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:20",
+                "end": "24:00"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        }
+    ]
+}

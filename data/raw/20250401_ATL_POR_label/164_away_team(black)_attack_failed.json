@@ -1,0 +1,63 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_164_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dalano Banton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:50"
+            },
+            "caption": "Dalano Banton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dalano Banton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "05:30"
+            },
+            "caption": "Dalano Banton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:30"
+            },
+            "caption": "Deni Avdija makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Toumani Camara",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "08:20"
+            },
+            "caption": "Toumani Camara dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Toumani Camara",
+            "result": "made",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "10:50"
+            },
+            "caption": "Toumani Camara makes layup."
+        }
+    ]
+}

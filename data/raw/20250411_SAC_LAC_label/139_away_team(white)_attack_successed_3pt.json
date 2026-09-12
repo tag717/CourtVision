@@ -1,0 +1,96 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_139_away_team(white)_attack_successed_3pt",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bogdan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:00"
+            },
+            "caption": "Bogdan Bogdanović dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Bogdan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:50"
+            },
+            "caption": "Bogdan Bogdanović hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "13:10"
+            },
+            "caption": "James Harden holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "14:10"
+            },
+            "caption": "James Harden makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "18:30"
+            },
+            "caption": "Kawhi Leonard holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:30",
+                "end": "20:50"
+            },
+            "caption": "Kawhi Leonard dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:50",
+                "end": "21:30"
+            },
+            "caption": "Kawhi Leonard makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Derrick Jones Jr.",
+            "result": "made",
+            "timestamp_video": {
+                "start": "21:30",
+                "end": "24:00"
+            },
+            "caption": "Derrick Jones Jr. makes 3-pt jump shot."
+        }
+    ]
+}

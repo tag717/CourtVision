@@ -1,0 +1,41 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_93_home_team(green)_attack_successed_2pt",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Brook Lopez",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "01:10"
+            },
+            "caption": "Brook Lopez makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "11:00"
+            },
+            "caption": "Giannis Antetokounmpo dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dunk",
+            "player": "Giannis Antetokounmpo",
+            "result": "made",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "12:30"
+            },
+            "caption": "Giannis Antetokounmpo makes dunk."
+        }
+    ]
+}

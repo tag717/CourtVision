@@ -1,0 +1,129 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_50_away_team(blue)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Luke Kennard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Luke Kennard dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Luke Kennard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:00"
+            },
+            "caption": "Luke Kennard makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "05:00"
+            },
+            "caption": "Jaren Jackson Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:30"
+            },
+            "caption": "Jaren Jackson Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Luke Kennard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "08:30"
+            },
+            "caption": "Luke Kennard dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Luke Kennard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:10"
+            },
+            "caption": "Luke Kennard makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Desmond Bane",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:00"
+            },
+            "caption": "Desmond Bane dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Desmond Bane",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "10:40"
+            },
+            "caption": "Desmond Bane makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Santi Aldama",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "13:00"
+            },
+            "caption": "Santi Aldama dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Santi Aldama",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "13:40"
+            },
+            "caption": "Santi Aldama makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Jaren Jackson Jr.",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "20:00"
+            },
+            "caption": "Jaren Jackson Jr. is fouled while dribbling."
+        }
+    ]
+}

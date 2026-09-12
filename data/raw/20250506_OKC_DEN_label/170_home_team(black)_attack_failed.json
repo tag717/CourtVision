@@ -1,0 +1,52 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_170_home_team(black)_attack_failed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:20"
+            },
+            "caption": "Jalen Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:30"
+            },
+            "caption": "Jalen Williams makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Isaiah Joe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:00"
+            },
+            "caption": "Isaiah Joe makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Steal",
+            "player": "Peyton Watson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "15:40"
+            },
+            "caption": "Peyton Watson steals the ball."
+        }
+    ]
+}

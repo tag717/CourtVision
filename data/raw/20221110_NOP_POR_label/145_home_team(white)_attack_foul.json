@@ -1,0 +1,30 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_145_home_team(white)_attack_foul",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Herbert Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Herbert Jones makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Brandon Ingram",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "08:10"
+            },
+            "caption": "Brandon Ingram is fouled while dribbling."
+        }
+    ]
+}

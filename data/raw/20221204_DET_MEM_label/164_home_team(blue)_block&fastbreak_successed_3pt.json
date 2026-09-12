@@ -1,0 +1,173 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_164_home_team(blue)_block&fastbreak_successed_3pt",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "David Roddy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "David Roddy makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "05:40"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:20"
+            },
+            "caption": "Tyus Jones makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:00"
+            },
+            "caption": "Dillon Brooks makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "09:10"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "09:50"
+            },
+            "caption": "Tyus Jones makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "11:00"
+            },
+            "caption": "Dillon Brooks dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Dillon Brooks",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:00"
+            },
+            "caption": "Dillon Brooks misses layup."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Block",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:00"
+            },
+            "caption": "Isaiah Stewart blocks the shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:00"
+            },
+            "caption": "Cory Joseph gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "15:40"
+            },
+            "caption": "Cory Joseph dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "16:50"
+            },
+            "caption": "Cory Joseph makes a pass."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "Dribble",
+            "player": "Hamidou Diallo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:50",
+                "end": "17:20"
+            },
+            "caption": "Hamidou Diallo dribbles the ball."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "PassBall",
+            "player": "Hamidou Diallo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "18:10"
+            },
+            "caption": "Hamidou Diallo makes a pass."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "3ptShot",
+            "player": "Alec Burks",
+            "result": "made",
+            "timestamp_video": {
+                "start": "18:10",
+                "end": "20:10"
+            },
+            "caption": "Alec Burks makes 3-pt jump shot."
+        }
+    ]
+}

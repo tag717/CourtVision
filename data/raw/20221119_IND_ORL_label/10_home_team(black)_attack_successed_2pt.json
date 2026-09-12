@@ -1,0 +1,52 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_10_home_team(black)_attack_successed_2pt",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:20"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:30"
+            },
+            "caption": "Tyrese Haliburton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Myles Turner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:30"
+            },
+            "caption": "Myles Turner dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Myles Turner",
+            "result": "made",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:40"
+            },
+            "caption": "Myles Turner makes layup."
+        }
+    ]
+}

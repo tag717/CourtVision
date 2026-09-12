@@ -1,0 +1,30 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_155_away_team(black)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Shaedon Sharpe",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:10"
+            },
+            "caption": "Shaedon Sharpe is fouled while dribbling."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "Terance Mann",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "09:10"
+            },
+            "caption": "Terance Mann is called for a foul on a steal attempt."
+        }
+    ]
+}

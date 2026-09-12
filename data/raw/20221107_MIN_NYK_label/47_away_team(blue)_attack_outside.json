@@ -1,0 +1,63 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_47_away_team(blue)_attack_outside",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cam Reddish",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Cam Reddish dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cam Reddish",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:20"
+            },
+            "caption": "Cam Reddish makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Isaiah Hartenstein",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "07:00"
+            },
+            "caption": "Isaiah Hartenstein makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "09:50"
+            },
+            "caption": "Julius Randle dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Julius Randle",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "13:00"
+            },
+            "caption": "Julius Randle turnover: pass out of bounds."
+        }
+    ]
+}

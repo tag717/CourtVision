@@ -1,0 +1,52 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_201_home_team(blue)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Stephen Curry dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "02:00"
+            },
+            "caption": "Stephen Curry makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Klay Thompson",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "04:20"
+            },
+            "caption": "Klay Thompson misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Malik Monk",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:30"
+            },
+            "caption": "Malik Monk gets the defensive rebound."
+        }
+    ]
+}

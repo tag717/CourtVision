@@ -1,0 +1,41 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_164_home_team(white)_attack_befouled",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Paul Reed makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Ron Holland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "03:20"
+            },
+            "caption": "Ron Holland dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Ron Holland",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:30"
+            },
+            "caption": "Ron Holland is fouled on a layup attempt."
+        }
+    ]
+}

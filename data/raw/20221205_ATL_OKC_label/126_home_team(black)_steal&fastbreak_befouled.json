@@ -1,0 +1,85 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_126_home_team(black)_steal&fastbreak_befouled",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Clint Capela",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:20"
+            },
+            "caption": "Clint Capela makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "07:00"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "2ptShot",
+            "player": "Trae Young",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "09:00"
+            },
+            "caption": "Trae Young misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "OffensiveRebound",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:20"
+            },
+            "caption": "Dejounte Murray gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "18:20"
+            },
+            "caption": "Dejounte Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "2ptShot",
+            "player": "Dejounte Murray",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "18:20",
+                "end": "20:00"
+            },
+            "caption": "Dejounte Murray misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "OffensiveRebound",
+            "player": "Clint Capela",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "20:50"
+            },
+            "caption": "Clint Capela is fouled on an offensive rebound."
+        }
+    ]
+}

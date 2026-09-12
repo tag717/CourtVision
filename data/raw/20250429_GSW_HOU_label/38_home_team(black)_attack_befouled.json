@@ -1,0 +1,52 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_38_home_team(black)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:20"
+            },
+            "caption": "Stephen Curry dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:10"
+            },
+            "caption": "Stephen Curry makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:10"
+            },
+            "caption": "Jimmy Butler makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Buddy Hield",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "08:10"
+            },
+            "caption": "Buddy Hield misses 3-pt jump shot."
+        }
+    ]
+}

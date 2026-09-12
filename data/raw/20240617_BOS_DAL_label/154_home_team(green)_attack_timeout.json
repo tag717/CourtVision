@@ -1,0 +1,63 @@
+{
+    "video_id": "20240617_BOS_DAL",
+    "possession_id": "poss_154_home_team(green)_attack_timeout",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Jaylen Brown makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kristaps Porziņģis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "04:30"
+            },
+            "caption": "Kristaps Porziņģis makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:10"
+            },
+            "caption": "Jaylen Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:00"
+            },
+            "caption": "Jaylen Brown makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:10"
+            },
+            "caption": "Jrue Holiday dribbles the ball."
+        }
+    ]
+}

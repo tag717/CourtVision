@@ -1,0 +1,74 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_168_away_team(white)_attack_befouled",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Franz Wagner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "Franz Wagner dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Franz Wagner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:10"
+            },
+            "caption": "Franz Wagner makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Mo Bamba",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:00"
+            },
+            "caption": "Mo Bamba makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "R.J. Hampton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:40"
+            },
+            "caption": "R.J. Hampton makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Terrence Ross",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "11:40"
+            },
+            "caption": "Terrence Ross misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dunk",
+            "player": "Mo Bamba",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "15:00"
+            },
+            "caption": "Mo Bamba is fouled on a dunk attempt."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_27_away_team(black)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Keyonte George",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Keyonte George dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Keyonte George",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:20"
+            },
+            "caption": "Keyonte George makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Johnny Juzang",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "05:00"
+            },
+            "caption": "Johnny Juzang dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Johnny Juzang",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:30"
+            },
+            "caption": "Johnny Juzang makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Kyle Filipowski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:20"
+            },
+            "caption": "Kyle Filipowski makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Keyonte George",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "08:00"
+            },
+            "caption": "Keyonte George dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Keyonte George",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "10:00"
+            },
+            "caption": "Keyonte George is fouled on a layup attempt."
+        }
+    ]
+}

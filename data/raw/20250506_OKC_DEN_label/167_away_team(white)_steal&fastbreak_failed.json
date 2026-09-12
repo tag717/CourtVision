@@ -1,0 +1,52 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_167_away_team(white)_steal&fastbreak_failed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Alex Caruso",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Alex Caruso turnover: inbound pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "02:00"
+            },
+            "caption": "Christian Braun steals the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:50"
+            },
+            "caption": "Christian Braun dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Christian Braun",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "06:00"
+            },
+            "caption": "Christian Braun misses 3-pt jump shot."
+        }
+    ]
+}

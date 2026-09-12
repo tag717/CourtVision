@@ -1,0 +1,63 @@
+{
+    "video_id": "20240524_MIN_DAL",
+    "possession_id": "poss_60_away_team(black)_steal&fastbreak_timeout",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Nickeil Alexander-Walker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Nickeil Alexander-Walker inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Naz Reid",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:00"
+            },
+            "caption": "Naz Reid turnover: lost ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "Josh Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "03:10"
+            },
+            "caption": "Josh Green steals the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Josh Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:10"
+            },
+            "caption": "Josh Green dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Josh Green",
+            "result": "timeout",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:00"
+            },
+            "caption": "Josh Green calls a timeout before a 3-pt shot."
+        }
+    ]
+}

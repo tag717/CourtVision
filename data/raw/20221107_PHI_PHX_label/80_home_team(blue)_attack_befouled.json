@@ -1,0 +1,30 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_80_home_team(blue)_attack_befouled",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:00"
+            },
+            "caption": "Tyrese Maxey inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Paul Reed",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:10"
+            },
+            "caption": "Paul Reed is fouled while holding the ball."
+        }
+    ]
+}

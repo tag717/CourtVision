@@ -1,0 +1,151 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_148_home_team(black)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dante Exum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Dante Exum dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dante Exum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:10"
+            },
+            "caption": "Dante Exum makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Dwight Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "07:10"
+            },
+            "caption": "Dwight Powell dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Dwight Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "07:50"
+            },
+            "caption": "Dwight Powell hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "10:10"
+            },
+            "caption": "Jaden Hardy dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "2ptShot",
+            "player": "Jaden Hardy",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:40"
+            },
+            "caption": "Jaden Hardy misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "OffensiveRebound",
+            "player": "Dwight Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "12:00"
+            },
+            "caption": "Dwight Powell gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Dwight Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:50"
+            },
+            "caption": "Dwight Powell makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Dante Exum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:50",
+                "end": "15:00"
+            },
+            "caption": "Dante Exum makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "16:10"
+            },
+            "caption": "Jaden Hardy dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "16:50"
+            },
+            "caption": "Jaden Hardy makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "3ptShot",
+            "player": "Dante Exum",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:50",
+                "end": "19:30"
+            },
+            "caption": "Dante Exum misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "DefensiveRebound",
+            "player": "Oshae Brissett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:30",
+                "end": "21:00"
+            },
+            "caption": "Oshae Brissett gets the defensive rebound."
+        }
+    ]
+}

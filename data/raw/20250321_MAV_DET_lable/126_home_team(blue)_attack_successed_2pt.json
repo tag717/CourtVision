@@ -1,0 +1,52 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_126_home_team(blue)_attack_successed_2pt",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kai Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "Kai Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kai Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:00"
+            },
+            "caption": "Kai Jones makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:30"
+            },
+            "caption": "Klay Thompson dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Klay Thompson",
+            "result": "made",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "06:10"
+            },
+            "caption": "Klay Thompson makes layup."
+        }
+    ]
+}

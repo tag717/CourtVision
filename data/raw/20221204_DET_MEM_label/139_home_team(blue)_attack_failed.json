@@ -1,0 +1,74 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_139_home_team(blue)_attack_failed",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Saddiq Bey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "01:20"
+            },
+            "caption": "Saddiq Bey inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "03:50"
+            },
+            "caption": "Cory Joseph holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "05:00"
+            },
+            "caption": "Cory Joseph makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Kevin Knox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:40"
+            },
+            "caption": "Kevin Knox dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Kevin Knox",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "07:30"
+            },
+            "caption": "Kevin Knox misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Santi Aldama",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:40"
+            },
+            "caption": "Santi Aldama gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_210_away_team(white)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Terence Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:00"
+            },
+            "caption": "Terence Davis dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Terence Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:40"
+            },
+            "caption": "Terence Davis makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "07:00"
+            },
+            "caption": "De'Aaron Fox holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:40"
+            },
+            "caption": "De'Aaron Fox makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Terence Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "09:30"
+            },
+            "caption": "Terence Davis holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Terence Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "11:10"
+            },
+            "caption": "Terence Davis dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Terence Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "11:50"
+            },
+            "caption": "Terence Davis makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "2ptShot",
+            "player": "Domantas Sabonis",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "13:30"
+            },
+            "caption": "Domantas Sabonis is fouled on a 2-pt shot attempt."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Block",
+            "player": "Kevon Looney",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "13:30"
+            },
+            "caption": "Kevon Looney is called for a foul on a block attempt."
+        }
+    ]
+}

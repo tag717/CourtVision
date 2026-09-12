@@ -1,0 +1,52 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_77_away_team(red)_attack_foul",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Trendon Watford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Trendon Watford makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Justise Winslow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "08:30"
+            },
+            "caption": "Justise Winslow dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Justise Winslow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:10"
+            },
+            "caption": "Justise Winslow makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Kevin Knox",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:40"
+            },
+            "caption": "Kevin Knox is fouled while dribbling."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_134_away_team(black)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:10"
+            },
+            "caption": "P.J. Washington dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:00"
+            },
+            "caption": "P.J. Washington makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Dereck Lively II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "08:20"
+            },
+            "caption": "Dereck Lively II dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Dereck Lively II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:00"
+            },
+            "caption": "Dereck Lively II makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "15:20"
+            },
+            "caption": "Luka Dončić holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Luka Dončić",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "17:10"
+            },
+            "caption": "Luka Dončić is fouled while dribbling."
+        }
+    ]
+}

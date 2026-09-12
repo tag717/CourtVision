@@ -1,0 +1,85 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_63_away_team(blue)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Jalen Brunson makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "05:00"
+            },
+            "caption": "Immanuel Quickley dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:00"
+            },
+            "caption": "Immanuel Quickley makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Obi Toppin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "08:30"
+            },
+            "caption": "Obi Toppin dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "HandOff",
+            "player": "Obi Toppin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "10:30"
+            },
+            "caption": "Obi Toppin hands off the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "14:00"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Jalen Brunson",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "16:00"
+            },
+            "caption": "Jalen Brunson is fouled on a layup attempt."
+        }
+    ]
+}

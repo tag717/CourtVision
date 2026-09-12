@@ -1,0 +1,107 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_121_home_team(white)_attack_successed_2pt",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "10:10"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:00"
+            },
+            "caption": "Tyrese Haliburton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Andrew Nembhard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "11:30"
+            },
+            "caption": "Andrew Nembhard dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Andrew Nembhard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "12:10"
+            },
+            "caption": "Andrew Nembhard makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:30"
+            },
+            "caption": "Tyrese Haliburton holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:10"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "14:20"
+            },
+            "caption": "Tyrese Haliburton makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Andrew Nembhard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "18:30"
+            },
+            "caption": "Andrew Nembhard dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "2ptShot",
+            "player": "Andrew Nembhard",
+            "result": "made",
+            "timestamp_video": {
+                "start": "18:30",
+                "end": "20:10"
+            },
+            "caption": "Andrew Nembhard makes 2-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_194_away_team(white)_attack_befouled",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:10"
+            },
+            "caption": "Jalen Suggs dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:00"
+            },
+            "caption": "Jalen Suggs makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Franz Wagner",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "10:00"
+            },
+            "caption": "Franz Wagner turnover: out of bounds lost ball."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_207_home_team(blue)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "01:50"
+            },
+            "caption": "Draymond Green holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "02:50"
+            },
+            "caption": "Draymond Green makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Stephen Curry",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "05:10"
+            },
+            "caption": "Stephen Curry misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Kevin Huerter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:00"
+            },
+            "caption": "Kevin Huerter gets the defensive rebound."
+        }
+    ]
+}

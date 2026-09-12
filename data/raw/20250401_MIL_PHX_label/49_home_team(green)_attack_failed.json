@@ -1,0 +1,63 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_49_home_team(green)_attack_failed",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:50"
+            },
+            "caption": "Giannis Antetokounmpo dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Giannis Antetokounmpo",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "07:20"
+            },
+            "caption": "Giannis Antetokounmpo misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:20"
+            },
+            "caption": "Unknown Player gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:00"
+            },
+            "caption": "Unknown Player makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Collin Gillespie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:00"
+            },
+            "caption": "Collin Gillespie dribbles the ball."
+        }
+    ]
+}

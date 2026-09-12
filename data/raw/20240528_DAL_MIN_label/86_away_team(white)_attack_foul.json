@@ -1,0 +1,41 @@
+{
+    "video_id": "20240528_DAL_MIN",
+    "possession_id": "poss_86_away_team(white)_attack_foul",
+    "home_team": "DAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "11:00"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:30"
+            },
+            "caption": "Anthony Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Naz Reid",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "14:30"
+            },
+            "caption": "Naz Reid misses 3-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_131_away_team(black)_attack_befouled",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:10"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "08:50"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "09:50"
+            },
+            "caption": "Kentavious Caldwell-Pope is fouled on a layup attempt."
+        }
+    ]
+}

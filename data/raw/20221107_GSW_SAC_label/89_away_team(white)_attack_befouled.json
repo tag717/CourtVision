@@ -1,0 +1,129 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_89_away_team(white)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "De'Aaron Fox dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:10"
+            },
+            "caption": "De'Aaron Fox makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:20"
+            },
+            "caption": "Domantas Sabonis dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:40"
+            },
+            "caption": "Domantas Sabonis holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "HandOff",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:10"
+            },
+            "caption": "Domantas Sabonis hands off the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Malik Monk",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "10:30"
+            },
+            "caption": "Malik Monk dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Malik Monk",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:20"
+            },
+            "caption": "Malik Monk makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "14:30"
+            },
+            "caption": "Domantas Sabonis dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "15:20"
+            },
+            "caption": "Domantas Sabonis makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Malik Monk",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "17:20"
+            },
+            "caption": "Malik Monk is fouled while dribbling."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Steal",
+            "player": "Klay Thompson",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "17:40"
+            },
+            "caption": "Klay Thompson is called for a foul on a steal attempt."
+        }
+    ]
+}

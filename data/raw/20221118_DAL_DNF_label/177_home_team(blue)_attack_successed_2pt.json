@@ -1,0 +1,85 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_177_home_team(blue)_attack_successed_2pt",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Tim Hardaway Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Tim Hardaway Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Frank Ntilikina",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "01:50"
+            },
+            "caption": "Frank Ntilikina makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "02:50"
+            },
+            "caption": "Spencer Dinwiddie makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Frank Ntilikina",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "03:50"
+            },
+            "caption": "Frank Ntilikina makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "JaVale McGee",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:30"
+            },
+            "caption": "JaVale McGee dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "JaVale McGee",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:00"
+            },
+            "caption": "JaVale McGee makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dunk",
+            "player": "Christian Wood",
+            "result": "made",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:30"
+            },
+            "caption": "Christian Wood makes dunk."
+        }
+    ]
+}

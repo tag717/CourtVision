@@ -1,0 +1,52 @@
+{
+    "video_id": "20240612_DAL_BOS",
+    "possession_id": "poss_174_home_team(black)_attack_befouled",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:20"
+            },
+            "caption": "P.J. Washington dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "01:10"
+            },
+            "caption": "P.J. Washington makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "09:10"
+            },
+            "caption": "Luka Dončić holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Luka Dončić",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "13:20"
+            },
+            "caption": "Luka Dončić is fouled while dribbling."
+        }
+    ]
+}

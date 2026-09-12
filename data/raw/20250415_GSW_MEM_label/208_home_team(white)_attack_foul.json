@@ -1,0 +1,74 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_208_home_team(white)_attack_foul",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Moses Moody",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Moses Moody makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "06:10"
+            },
+            "caption": "Jimmy Butler dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:10"
+            },
+            "caption": "Jimmy Butler hands off the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "15:40"
+            },
+            "caption": "Stephen Curry holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "18:20"
+            },
+            "caption": "Stephen Curry dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Stephen Curry",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "18:20",
+                "end": "19:50"
+            },
+            "caption": "Stephen Curry misses layup."
+        }
+    ]
+}

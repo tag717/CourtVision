@@ -1,0 +1,63 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_77_away_team(white)_attack_successed_2pt",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Russell Westbrook",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "02:00"
+            },
+            "caption": "Russell Westbrook inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "05:00"
+            },
+            "caption": "Aaron Gordon holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:50"
+            },
+            "caption": "Aaron Gordon makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "10:30"
+            },
+            "caption": "Nikola Jokić holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Nikola Jokić",
+            "result": "made",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "12:30"
+            },
+            "caption": "Nikola Jokić makes 2-pt jump shot."
+        }
+    ]
+}

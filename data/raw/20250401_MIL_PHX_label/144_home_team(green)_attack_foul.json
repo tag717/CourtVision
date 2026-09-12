@@ -1,0 +1,41 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_144_home_team(green)_attack_foul",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:30"
+            },
+            "caption": "Unknown Player dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:00"
+            },
+            "caption": "Unknown Player makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Taurean Prince",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "09:50"
+            },
+            "caption": "Taurean Prince makes a pass."
+        }
+    ]
+}

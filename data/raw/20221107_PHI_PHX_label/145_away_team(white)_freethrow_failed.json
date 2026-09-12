@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_145_away_team(white)_freethrow_failed",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Devin Booker",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:30"
+            },
+            "caption": "Devin Booker misses free throw."
+        }
+    ]
+}

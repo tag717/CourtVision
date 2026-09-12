@@ -1,0 +1,96 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_18_home_team(red)_attack_outside",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Georges Niang",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Georges Niang inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "10:00"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:00"
+            },
+            "caption": "Trae Young makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Zaccharie Risacher",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "13:00"
+            },
+            "caption": "Zaccharie Risacher misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "OffensiveRebound",
+            "player": "Onyeka Okongwu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "13:20"
+            },
+            "caption": "Onyeka Okongwu gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Onyeka Okongwu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "15:10"
+            },
+            "caption": "Onyeka Okongwu makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "16:00"
+            },
+            "caption": "Dyson Daniels dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Dyson Daniels",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "17:10"
+            },
+            "caption": "Dyson Daniels misses layup."
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_20_away_team (white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Josh Giddey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Josh Giddey dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Josh Giddey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:00"
+            },
+            "caption": "Josh Giddey makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jeremiah Robinson-Earl",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:00"
+            },
+            "caption": "Jeremiah Robinson-Earl makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Luguentz Dort",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "06:00"
+            },
+            "caption": "Luguentz Dort dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Luguentz Dort",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:00"
+            },
+            "caption": "Luguentz Dort makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "10:00"
+            },
+            "caption": "Jalen Williams makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "HandOff",
+            "player": "Jeremiah Robinson-Earl",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "10:30"
+            },
+            "caption": "Jeremiah Robinson-Earl hands off the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Josh Giddey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "14:00"
+            },
+            "caption": "Josh Giddey dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Layup",
+            "player": "Josh Giddey",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "15:30"
+            },
+            "caption": "Josh Giddey misses layup."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "Jalen Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "16:50"
+            },
+            "caption": "Jalen Johnson gets the defensive rebound."
+        }
+    ]
+}

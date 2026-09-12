@@ -1,0 +1,85 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_66_home_team(black)_attack_befouled",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "HandOff",
+            "player": "Daniel Gafford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Daniel Gafford hands off the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:20"
+            },
+            "caption": "Kyrie Irving makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Dante Exum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "11:30"
+            },
+            "caption": "Dante Exum dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Dante Exum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "12:10"
+            },
+            "caption": "Dante Exum makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Kyrie Irving",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "15:10"
+            },
+            "caption": "Kyrie Irving misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "OffensiveRebound",
+            "player": "Daniel Gafford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "15:50"
+            },
+            "caption": "Daniel Gafford gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Daniel Gafford",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "18:00"
+            },
+            "caption": "Daniel Gafford is fouled on a layup attempt."
+        }
+    ]
+}

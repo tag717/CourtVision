@@ -1,0 +1,96 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_182_home_team(white)_attack_befouled",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Brandon Ingram",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Brandon Ingram dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Brandon Ingram",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:20"
+            },
+            "caption": "Brandon Ingram makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Devonte' Graham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "04:00"
+            },
+            "caption": "Devonte' Graham dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Devonte' Graham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:00"
+            },
+            "caption": "Devonte' Graham makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Brandon Ingram",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:20"
+            },
+            "caption": "Brandon Ingram makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Zion Williamson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:30"
+            },
+            "caption": "Zion Williamson holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Zion Williamson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "09:10"
+            },
+            "caption": "Zion Williamson dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Zion Williamson",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:10"
+            },
+            "caption": "Zion Williamson is fouled on a layup attempt."
+        }
+    ]
+}

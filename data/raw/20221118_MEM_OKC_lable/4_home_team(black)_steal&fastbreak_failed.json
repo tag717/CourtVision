@@ -1,0 +1,140 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_4_home_team(black)_steal&fastbreak_failed",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Shai Gilgeous-Alexander makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:30"
+            },
+            "caption": "Jalen Williams makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "04:30"
+            },
+            "caption": "Shai Gilgeous-Alexander dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:30"
+            },
+            "caption": "Shai Gilgeous-Alexander makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Aleksej Pokusevski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "07:50"
+            },
+            "caption": "Aleksej Pokusevski dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Aleksej Pokusevski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "08:40"
+            },
+            "caption": "Aleksej Pokusevski makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Josh Giddey",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:20"
+            },
+            "caption": "Josh Giddey misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Block",
+            "player": "John Konchar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:30"
+            },
+            "caption": "John Konchar blocks the shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "12:10"
+            },
+            "caption": "Dillon Brooks makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "John Konchar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "14:00"
+            },
+            "caption": "John Konchar dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Layup",
+            "player": "John Konchar",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "14:50"
+            },
+            "caption": "John Konchar misses layup."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "DefensiveRebound",
+            "player": "Luguentz Dort",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "15:10"
+            },
+            "caption": "Luguentz Dort gets the defensive rebound."
+        }
+    ]
+}

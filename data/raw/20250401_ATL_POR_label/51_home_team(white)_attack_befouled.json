@@ -1,0 +1,41 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_51_home_team(white)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Terance Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Terance Mann inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dominick Barlow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:00"
+            },
+            "caption": "Dominick Barlow makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "08:00"
+            },
+            "caption": "Trae Young is fouled while dribbling."
+        }
+    ]
+}

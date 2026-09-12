@@ -1,0 +1,52 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_50_away_team(blue)_attack_outside",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "OG Anunoby",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "OG Anunoby inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Miles McBride",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "09:30"
+            },
+            "caption": "Miles McBride dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Miles McBride",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:10"
+            },
+            "caption": "Miles McBride makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "16:00"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        }
+    ]
+}

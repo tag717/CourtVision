@@ -1,0 +1,74 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_152_home_team(blue)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Shake Milton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Shake Milton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Shake Milton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "03:50"
+            },
+            "caption": "Shake Milton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "05:00"
+            },
+            "caption": "Tobias Harris makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "08:10"
+            },
+            "caption": "Tyrese Maxey dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Tyrese Maxey",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "10:00"
+            },
+            "caption": "Tyrese Maxey misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Jock Landale",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:00"
+            },
+            "caption": "Jock Landale gets the defensive rebound."
+        }
+    ]
+}

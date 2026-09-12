@@ -1,0 +1,63 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_108_away_team(white)_attack_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:00"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Cade Cunningham",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:10"
+            },
+            "caption": "Cade Cunningham misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Malik Beasley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:20"
+            },
+            "caption": "Malik Beasley gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Malik Beasley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:10"
+            },
+            "caption": "Malik Beasley makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Tobias Harris",
+            "result": "timeout",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:30"
+            },
+            "caption": "Tobias Harris calls a timeout before a 3-pt shot."
+        }
+    ]
+}

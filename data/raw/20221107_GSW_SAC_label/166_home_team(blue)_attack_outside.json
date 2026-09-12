@@ -1,0 +1,30 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_166_home_team(blue)_attack_outside",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Stephen Curry dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Stephen Curry",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "04:10"
+            },
+            "caption": "Stephen Curry turnover: pass out of bounds."
+        }
+    ]
+}

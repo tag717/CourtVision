@@ -1,0 +1,30 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_64_home_team(white)_attack_successed_3pt",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bennedict Mathurin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Bennedict Mathurin dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Bennedict Mathurin",
+            "result": "made",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:20"
+            },
+            "caption": "Bennedict Mathurin makes 3-pt jump shot."
+        }
+    ]
+}

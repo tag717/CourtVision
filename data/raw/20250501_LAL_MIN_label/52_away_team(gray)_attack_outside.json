@@ -1,0 +1,52 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_52_away_team(gray)_attack_outside",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Naz Reid inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Donte DiVincenzo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "07:10"
+            },
+            "caption": "Donte DiVincenzo dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Donte DiVincenzo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:00"
+            },
+            "caption": "Donte DiVincenzo makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Nickeil Alexander-Walker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:40"
+            },
+            "caption": "Nickeil Alexander-Walker dribbles the ball."
+        }
+    ]
+}

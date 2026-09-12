@@ -1,0 +1,63 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_145_home_team(white)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "D'Angelo Russell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "D'Angelo Russell makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "03:00"
+            },
+            "caption": "Jordan McLaughlin dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "03:50"
+            },
+            "caption": "Jordan McLaughlin makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "D'Angelo Russell",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "05:20"
+            },
+            "caption": "D'Angelo Russell misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:00"
+            },
+            "caption": "Julius Randle gets the defensive rebound."
+        }
+    ]
+}

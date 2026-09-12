@@ -1,0 +1,19 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_66_home_team(red)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Terance Mann",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:20"
+            },
+            "caption": "Terance Mann is fouled while dribbling."
+        }
+    ]
+}

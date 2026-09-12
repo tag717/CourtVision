@@ -1,0 +1,74 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_75_home_team(black)_attack_successed_3pt",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Cason Wallace",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Cason Wallace holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cason Wallace",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:00"
+            },
+            "caption": "Cason Wallace makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Alex Caruso",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:50"
+            },
+            "caption": "Alex Caruso holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Alex Caruso",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "05:50"
+            },
+            "caption": "Alex Caruso makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Chet Holmgren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:10"
+            },
+            "caption": "Chet Holmgren makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Alex Caruso",
+            "result": "made",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "13:10"
+            },
+            "caption": "Alex Caruso makes 3-pt jump shot."
+        }
+    ]
+}

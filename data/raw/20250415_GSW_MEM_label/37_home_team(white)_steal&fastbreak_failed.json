@@ -1,0 +1,118 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_37_home_team(white)_steal&fastbreak_failed",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "JaMorant",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:40"
+            },
+            "caption": "JaMorant turnover: inbound pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "BuddyHield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "08:40"
+            },
+            "caption": "BuddyHield dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "BuddyHield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:40"
+            },
+            "caption": "BuddyHield makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "JimmyButler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "11:10"
+            },
+            "caption": "JimmyButler holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "JimmyButler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "13:10"
+            },
+            "caption": "JimmyButler dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "JimmyButler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "14:00"
+            },
+            "caption": "JimmyButler makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "BuddyHield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "15:30"
+            },
+            "caption": "BuddyHield dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "BuddyHield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "16:30"
+            },
+            "caption": "BuddyHield makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "JimmyButler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "18:10"
+            },
+            "caption": "JimmyButler dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Layup",
+            "player": "JimmyButler",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "18:10",
+                "end": "22:00"
+            },
+            "caption": "JimmyButler misses layup."
+        }
+    ]
+}

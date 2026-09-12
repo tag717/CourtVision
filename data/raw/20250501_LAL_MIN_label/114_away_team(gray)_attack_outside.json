@@ -1,0 +1,41 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_114_away_team(gray)_attack_outside",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "00:40"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "06:10"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Anthony Edwards",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "08:20"
+            },
+            "caption": "Anthony Edwards misses 3-pt jump shot (out of bounds)."
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_12_home_team(blue)_attack_successed_2pt",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:10"
+            },
+            "caption": "Tyrese Maxey dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:00"
+            },
+            "caption": "Tyrese Maxey makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Joel Embiid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "08:40"
+            },
+            "caption": "Joel Embiid makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "10:20"
+            },
+            "caption": "Tyrese Maxey makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Joel Embiid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "15:10"
+            },
+            "caption": "Joel Embiid holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Joel Embiid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "16:30"
+            },
+            "caption": "Joel Embiid dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Joel Embiid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "17:30"
+            },
+            "caption": "Joel Embiid makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:30",
+                "end": "19:00"
+            },
+            "caption": "Tobias Harris dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "2ptShot",
+            "player": "Tobias Harris",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "20:50"
+            },
+            "caption": "Tobias Harris misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "De'Anthony Melton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:50",
+                "end": "22:30"
+            },
+            "caption": "De'Anthony Melton dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "De'Anthony Melton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:20",
+                "end": "24:20"
+            },
+            "caption": "De'Anthony Melton makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Dribble",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "24:20",
+                "end": "26:20"
+            },
+            "caption": "Tyrese Maxey dribbles the ball."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "PassBall",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "26:20",
+                "end": "27:40"
+            },
+            "caption": "Tyrese Maxey makes a pass."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "2ptShot",
+            "player": "Joel Embiid",
+            "result": "made",
+            "timestamp_video": {
+                "start": "27:40",
+                "end": "29:00"
+            },
+            "caption": "Joel Embiid makes 2-pt jump shot."
+        }
+    ]
+}

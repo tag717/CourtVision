@@ -1,0 +1,41 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_130_home_team(purple)_attack_befouled",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:20"
+            },
+            "caption": "Zach LaVine dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:10"
+            },
+            "caption": "Zach LaVine makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Trey Lyles",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:10"
+            },
+            "caption": "Trey Lyles makes a pass."
+        }
+    ]
+}

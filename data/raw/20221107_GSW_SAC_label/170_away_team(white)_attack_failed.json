@@ -1,0 +1,74 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_170_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Chimezie Metu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Chimezie Metu makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "13:00"
+            },
+            "caption": "De'Aaron Fox dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "13:40"
+            },
+            "caption": "De'Aaron Fox makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Malik Monk",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "15:50"
+            },
+            "caption": "Malik Monk dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Malik Monk",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "17:10"
+            },
+            "caption": "Malik Monk misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Anthony Lamb",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:10",
+                "end": "18:00"
+            },
+            "caption": "Anthony Lamb gets the defensive rebound."
+        }
+    ]
+}

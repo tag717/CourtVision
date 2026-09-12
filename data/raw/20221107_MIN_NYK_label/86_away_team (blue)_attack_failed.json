@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_86_away_team (blue)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "3ptShot",
+            "player": "Obi Toppin",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "11:50"
+            },
+            "caption": "Obi Toppin misses 3-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_181_home_team(blue)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Jordan Poole",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Jordan Poole holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jordan Poole",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "07:30"
+            },
+            "caption": "Jordan Poole dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jordan Poole",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:20"
+            },
+            "caption": "Jordan Poole makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "08:50"
+            },
+            "caption": "Draymond Green makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Jordan Poole",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "09:50"
+            },
+            "caption": "Jordan Poole holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Jordan Poole",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "11:30"
+            },
+            "caption": "Jordan Poole dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "2ptShot",
+            "player": "Jordan Poole",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "13:20"
+            },
+            "caption": "Jordan Poole misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Terence Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:50"
+            },
+            "caption": "Terence Davis gets the defensive rebound."
+        }
+    ]
+}

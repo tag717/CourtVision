@@ -1,0 +1,85 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_157_home_team(white)_attack_foul",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:20"
+            },
+            "caption": "T.J. McConnell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:00"
+            },
+            "caption": "T.J. McConnell makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Oshae Brissett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:50"
+            },
+            "caption": "Oshae Brissett dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Oshae Brissett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "12:30"
+            },
+            "caption": "Oshae Brissett makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Aaron Nesmith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "13:10"
+            },
+            "caption": "Aaron Nesmith holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Aaron Nesmith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "14:10"
+            },
+            "caption": "Aaron Nesmith makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Bennedict Mathurin",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "19:20"
+            },
+            "caption": "Bennedict Mathurin is fouled while dribbling."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_73_away_team(white)_freethrow_failed",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Jeff Green",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:50"
+            },
+            "caption": "Jeff Green misses free throw."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "DefensiveRebound",
+            "player": "Charles Bassey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "03:20"
+            },
+            "caption": "Charles Bassey gets the defensive rebound."
+        }
+    ]
+}

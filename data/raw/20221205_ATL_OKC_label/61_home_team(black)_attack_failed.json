@@ -1,0 +1,63 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_61_home_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bogdan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:00"
+            },
+            "caption": "Bogdan Bogdanović dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bogdan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:00"
+            },
+            "caption": "Bogdan Bogdanović makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "AJ Griffin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "08:50"
+            },
+            "caption": "AJ Griffin dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "AJ Griffin",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:30"
+            },
+            "caption": "AJ Griffin misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Aleksej Pokusevski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:30"
+            },
+            "caption": "Aleksej Pokusevski gets the defensive rebound."
+        }
+    ]
+}

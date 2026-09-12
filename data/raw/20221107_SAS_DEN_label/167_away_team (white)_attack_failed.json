@@ -1,0 +1,30 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_167_away_team (white)_attack_failed",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "08:20"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Bones Hyland",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "10:30"
+            },
+            "caption": "Bones Hyland misses 3-pt jump shot."
+        }
+    ]
+}

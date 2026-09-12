@@ -1,0 +1,19 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_186_away_team(red)_freethrow_failed",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Jerami Grant",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Jerami Grant misses free throw."
+        }
+    ]
+}

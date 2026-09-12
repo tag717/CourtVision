@@ -1,0 +1,19 @@
+{
+    "video_id": "20240609_BOS_DAL",
+    "possession_id": "poss_45_home_team(black)_freethrow_successed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Kristaps Porziņģis",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Kristaps Porziņģis makes free throw."
+        }
+    ]
+}

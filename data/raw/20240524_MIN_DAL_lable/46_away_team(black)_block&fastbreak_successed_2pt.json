@@ -1,0 +1,140 @@
+{
+    "video_id": "20240524_MIN_DAL",
+    "possession_id": "poss_46_away_team(black)_block&fastbreak_successed_2pt",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaden McDaniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Jaden McDaniels dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jaden McDaniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:00"
+            },
+            "caption": "Jaden McDaniels makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "10:30"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Anthony Edwards",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "12:00"
+            },
+            "caption": "Anthony Edwards misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "OffensiveRebound",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "12:20"
+            },
+            "caption": "Anthony Edwards gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "14:20"
+            },
+            "caption": "Anthony Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Jaden McDaniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "17:00"
+            },
+            "caption": "Jaden McDaniels dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Jaden McDaniels",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "17:10"
+            },
+            "caption": "Jaden McDaniels misses layup."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Josh Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:10",
+                "end": "19:00"
+            },
+            "caption": "Josh Green gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Josh Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "19:20"
+            },
+            "caption": "Josh Green makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "22:20"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Layup",
+            "player": "Kyrie Irving",
+            "result": "made",
+            "timestamp_video": {
+                "start": "22:20",
+                "end": "25:10"
+            },
+            "caption": "Kyrie Irving makes layup."
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_88_home_team(white)_attack_failed",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "03:20"
+            },
+            "caption": "Tyrese Haliburton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Myles Turner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:00"
+            },
+            "caption": "Myles Turner makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Bennedict Mathurin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "10:00"
+            },
+            "caption": "Bennedict Mathurin dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Bennedict Mathurin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "12:00"
+            },
+            "caption": "Bennedict Mathurin makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Aaron Nesmith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "13:00"
+            },
+            "caption": "Aaron Nesmith makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Oshae Brissett",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "15:00"
+            },
+            "caption": "Oshae Brissett misses layup."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "15:30"
+            },
+            "caption": "Aaron Gordon gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_112_home_team(white)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jeff Dowtin Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:40"
+            },
+            "caption": "Jeff Dowtin Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jeff Dowtin Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:20"
+            },
+            "caption": "Jeff Dowtin Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Guerschon Yabusele",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:20"
+            },
+            "caption": "Guerschon Yabusele makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Quentin Grimes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "14:20"
+            },
+            "caption": "Quentin Grimes dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dunk",
+            "player": "Quentin Grimes",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "15:20"
+            },
+            "caption": "Quentin Grimes misses dunk."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Justin Champagnie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "16:20"
+            },
+            "caption": "Justin Champagnie gets the defensive rebound."
+        }
+    ]
+}

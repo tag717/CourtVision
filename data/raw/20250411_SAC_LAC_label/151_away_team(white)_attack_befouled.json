@@ -1,0 +1,30 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_151_away_team(white)_attack_befouled",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ivica Zubac",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Ivica Zubac dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Ivica Zubac",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "04:10"
+            },
+            "caption": "Ivica Zubac hands off the ball."
+        }
+    ]
+}

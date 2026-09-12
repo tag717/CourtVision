@@ -1,0 +1,74 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_86_away_team(white)_attack_outside",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Jalen Suggs dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "02:30"
+            },
+            "caption": "Jalen Suggs hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Bol Bol",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "06:10"
+            },
+            "caption": "Bol Bol dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Bol Bol",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:10"
+            },
+            "caption": "Bol Bol makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "R.J. Hampton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "09:10"
+            },
+            "caption": "R.J. Hampton dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "2ptShot",
+            "player": "R.J. Hampton",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "11:10"
+            },
+            "caption": "R.J. Hampton misses 2-pt jump shot."
+        }
+    ]
+}

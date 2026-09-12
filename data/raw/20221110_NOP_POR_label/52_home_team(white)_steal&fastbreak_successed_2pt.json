@@ -1,0 +1,96 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_52_home_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kevin Knox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:00"
+            },
+            "caption": "Kevin Knox dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Kevin Knox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:10"
+            },
+            "caption": "Kevin Knox holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Kevin Knox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "09:40"
+            },
+            "caption": "Kevin Knox makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jerami Grant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:40"
+            },
+            "caption": "Jerami Grant dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Jerami Grant",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "11:20"
+            },
+            "caption": "Jerami Grant misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Block",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:30"
+            },
+            "caption": "CJ McCollum blocks the shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "15:10"
+            },
+            "caption": "CJ McCollum dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "CJ McCollum",
+            "result": "made",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "16:20"
+            },
+            "caption": "CJ McCollum makes layup."
+        }
+    ]
+}

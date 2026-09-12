@@ -1,0 +1,140 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_50_home_team(white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Caris LeVert dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:00"
+            },
+            "caption": "Caris LeVert makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Dominick Barlow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:40"
+            },
+            "caption": "Dominick Barlow makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Terance Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "05:40"
+            },
+            "caption": "Terance Mann dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Terance Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "07:10"
+            },
+            "caption": "Terance Mann dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Terance Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "07:50"
+            },
+            "caption": "Terance Mann makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "11:00"
+            },
+            "caption": "Caris LeVert dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Terance Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:40"
+            },
+            "caption": "Terance Mann makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "Terance Mann",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "15:10"
+            },
+            "caption": "Terance Mann misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "Toumani Camara",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "15:40"
+            },
+            "caption": "Toumani Camara gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Toumani Camara",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "17:10"
+            },
+            "caption": "Toumani Camara dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Toumani Camara",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:10",
+                "end": "18:00"
+            },
+            "caption": "Toumani Camara makes a pass."
+        }
+    ]
+}

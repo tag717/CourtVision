@@ -1,0 +1,63 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_110_away_team (blue)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Derrick Rose",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:00"
+            },
+            "caption": "Derrick Rose dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Derrick Rose",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:20"
+            },
+            "caption": "Derrick Rose makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "12:40"
+            },
+            "caption": "Julius Randle dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "2ptShot",
+            "player": "Julius Randle",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "15:00"
+            },
+            "caption": "Julius Randle misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Karl-Anthony Towns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "16:00"
+            },
+            "caption": "Karl-Anthony Towns gets the defensive rebound."
+        }
+    ]
+}

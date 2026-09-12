@@ -1,0 +1,129 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_89_home_team(white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Dyson Daniels makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "03:10"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "03:50"
+            },
+            "caption": "Trae Young makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Georges Niang",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "06:40"
+            },
+            "caption": "Georges Niang dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Georges Niang",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:20"
+            },
+            "caption": "Georges Niang makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:20"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:40"
+            },
+            "caption": "Trae Young makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Georges Niang",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:20"
+            },
+            "caption": "Georges Niang makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "14:10"
+            },
+            "caption": "Caris LeVert dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "15:30"
+            },
+            "caption": "Caris LeVert makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Steal",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "15:30"
+            },
+            "caption": "Deni Avdija steals the ball."
+        }
+    ]
+}

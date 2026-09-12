@@ -1,0 +1,41 @@
+{
+    "video_id": "20240524_MIN_DAL",
+    "possession_id": "poss_103_home_team(white)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tim Hardaway Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Tim Hardaway Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Tim Hardaway Jr.",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:20"
+            },
+            "caption": "Tim Hardaway Jr. misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Derrick Jones Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:00"
+            },
+            "caption": "Derrick Jones Jr. gets the defensive rebound."
+        }
+    ]
+}

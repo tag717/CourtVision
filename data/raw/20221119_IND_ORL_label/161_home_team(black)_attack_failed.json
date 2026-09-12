@@ -1,0 +1,74 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_161_home_team(black)_attack_failed",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:40"
+            },
+            "caption": "T.J. McConnell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:40"
+            },
+            "caption": "T.J. McConnell makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Bennedict Mathurin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "09:10"
+            },
+            "caption": "Bennedict Mathurin dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Bennedict Mathurin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:10"
+            },
+            "caption": "Bennedict Mathurin makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "T.J. McConnell",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "12:30"
+            },
+            "caption": "T.J. McConnell misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Franz Wagner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "14:00"
+            },
+            "caption": "Franz Wagner gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_82_home_team(white)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:40"
+            },
+            "caption": "Caris LeVert dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "04:10"
+            },
+            "caption": "Caris LeVert makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Zaccharie Risacher",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "04:50"
+            },
+            "caption": "Zaccharie Risacher makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "05:50"
+            },
+            "caption": "Trae Young holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "06:50"
+            },
+            "caption": "Trae Young is fouled while dribbling."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Steal",
+            "player": "Matisse Thybulle",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "08:00"
+            },
+            "caption": "Matisse Thybulle is called for a foul on a steal attempt."
+        }
+    ]
+}

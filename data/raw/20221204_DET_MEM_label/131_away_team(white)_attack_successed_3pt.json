@@ -1,0 +1,107 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_131_away_team(white)_attack_successed_3pt",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:10"
+            },
+            "caption": "Ja Morant dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:30"
+            },
+            "caption": "Ja Morant makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Dillon Brooks",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "08:40"
+            },
+            "caption": "Dillon Brooks misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Xavier Tillman Sr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "10:30"
+            },
+            "caption": "Xavier Tillman Sr. gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Xavier Tillman Sr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:00"
+            },
+            "caption": "Xavier Tillman Sr. makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:00"
+            },
+            "caption": "Dillon Brooks makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Hold",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "16:10"
+            },
+            "caption": "Ja Morant holds the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "19:10"
+            },
+            "caption": "Ja Morant dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "Ja Morant",
+            "result": "made",
+            "timestamp_video": {
+                "start": "19:10",
+                "end": "21:00"
+            },
+            "caption": "Ja Morant makes 3-pt jump shot."
+        }
+    ]
+}

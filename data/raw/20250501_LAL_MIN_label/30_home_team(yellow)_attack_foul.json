@@ -1,0 +1,52 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_30_home_team(yellow)_attack_foul",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "LeBron James",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "08:30"
+            },
+            "caption": "LeBron James dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "LeBron James",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:30"
+            },
+            "caption": "LeBron James makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Austin Reaves",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "11:10"
+            },
+            "caption": "Austin Reaves dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Austin Reaves",
+            "result": "made",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:40"
+            },
+            "caption": "Austin Reaves makes layup."
+        }
+    ]
+}

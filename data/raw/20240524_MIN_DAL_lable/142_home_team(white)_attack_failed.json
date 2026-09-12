@@ -1,0 +1,85 @@
+{
+    "video_id": "20240524_MIN_DAL",
+    "possession_id": "poss_142_home_team(white)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:10"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:00"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "10:10"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Anthony Edwards",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:30"
+            },
+            "caption": "Anthony Edwards misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Rudy Gobert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "13:30"
+            },
+            "caption": "Rudy Gobert gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Rudy Gobert",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "15:10"
+            },
+            "caption": "Rudy Gobert misses layup."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Dereck Lively II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "16:00"
+            },
+            "caption": "Dereck Lively II gets the defensive rebound."
+        }
+    ]
+}

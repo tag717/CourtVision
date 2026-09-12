@@ -1,0 +1,30 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_104_home_team(black)_attack_successed_2pt",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:00"
+            },
+            "caption": "Josh Richardson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Josh Richardson",
+            "result": "made",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "07:00"
+            },
+            "caption": "Josh Richardson makes 2-pt jump shot."
+        }
+    ]
+}

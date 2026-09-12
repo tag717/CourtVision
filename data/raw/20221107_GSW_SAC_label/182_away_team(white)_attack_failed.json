@@ -1,0 +1,63 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_182_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Terence Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:30"
+            },
+            "caption": "Terence Davis dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Terence Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:00"
+            },
+            "caption": "Terence Davis makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Chimezie Metu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "04:30"
+            },
+            "caption": "Chimezie Metu dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "2ptShot",
+            "player": "Chimezie Metu",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:40"
+            },
+            "caption": "Chimezie Metu misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Andrew Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:30"
+            },
+            "caption": "Andrew Wiggins gets the defensive rebound."
+        }
+    ]
+}

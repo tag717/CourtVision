@@ -1,0 +1,41 @@
+{
+    "video_id": "20240528_DAL_MIN",
+    "possession_id": "poss_169_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "10:00"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Anthony Edwards",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:50"
+            },
+            "caption": "Anthony Edwards misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "13:00"
+            },
+            "caption": "Luka Dončić gets the defensive rebound."
+        }
+    ]
+}

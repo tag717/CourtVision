@@ -1,0 +1,52 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_89_away_team(gray)_attack_befouled",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Donte DiVincenzo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Donte DiVincenzo dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Donte DiVincenzo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "01:40"
+            },
+            "caption": "Donte DiVincenzo makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:30"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Anthony Edwards",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "04:20"
+            },
+            "caption": "Anthony Edwards is fouled on a layup attempt."
+        }
+    ]
+}

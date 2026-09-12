@@ -1,0 +1,74 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_146_away_team (blue)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Scotty Pippen Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:50"
+            },
+            "caption": "Scotty Pippen Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Scotty Pippen Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "08:00"
+            },
+            "caption": "Scotty Pippen Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:00"
+            },
+            "caption": "Jaren Jackson Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "09:50"
+            },
+            "caption": "Jaren Jackson Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Santi Aldama",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "11:40"
+            },
+            "caption": "Santi Aldama misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "12:40"
+            },
+            "caption": "Draymond Green gets the defensive rebound."
+        }
+    ]
+}

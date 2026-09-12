@@ -1,0 +1,30 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_210_home_team(white)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Stephen Curry dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Stephen Curry",
+            "result": "timeout",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "04:30"
+            },
+            "caption": "Stephen Curry holds the ball and calls a timeout."
+        }
+    ]
+}

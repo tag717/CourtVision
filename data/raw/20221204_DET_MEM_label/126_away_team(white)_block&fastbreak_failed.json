@@ -1,0 +1,129 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_126_away_team(white)_block&fastbreak_failed",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Cory Joseph makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Alec Burks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "02:40"
+            },
+            "caption": "Alec Burks holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Alec Burks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:40"
+            },
+            "caption": "Alec Burks dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Alec Burks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "04:40"
+            },
+            "caption": "Alec Burks makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Saddiq Bey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "06:10"
+            },
+            "caption": "Saddiq Bey dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Saddiq Bey",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:00"
+            },
+            "caption": "Saddiq Bey misses layup."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Block",
+            "player": "Xavier Tillman Sr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:00"
+            },
+            "caption": "Xavier Tillman Sr. blocks the shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Xavier Tillman Sr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "09:20"
+            },
+            "caption": "Xavier Tillman Sr. makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "16:00"
+            },
+            "caption": "Ja Morant dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Ja Morant",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "17:20"
+            },
+            "caption": "Ja Morant turnover: bad pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Steal",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "17:00"
+            },
+            "caption": "Jalen Duren steals the ball."
+        }
+    ]
+}

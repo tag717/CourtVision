@@ -1,0 +1,52 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_137_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:00"
+            },
+            "caption": "De'Aaron Fox dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:10"
+            },
+            "caption": "De'Aaron Fox makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "2ptShot",
+            "player": "Domantas Sabonis",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "10:00"
+            },
+            "caption": "Domantas Sabonis misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Andrew Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "10:40"
+            },
+            "caption": "Andrew Wiggins gets the defensive rebound."
+        }
+    ]
+}

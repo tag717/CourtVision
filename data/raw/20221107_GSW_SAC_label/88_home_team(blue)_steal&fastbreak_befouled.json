@@ -1,0 +1,85 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_88_home_team(blue)_steal&fastbreak_befouled",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Terence Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Terence Davis dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Terence Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "02:20"
+            },
+            "caption": "Terence Davis makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Davion Mitchell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:30"
+            },
+            "caption": "Davion Mitchell dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Davion Mitchell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:20"
+            },
+            "caption": "Davion Mitchell makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:30"
+            },
+            "caption": "Domantas Sabonis dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Domantas Sabonis",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "07:50"
+            },
+            "caption": "Domantas Sabonis is fouled while passing the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Steal",
+            "player": "Terence Davis",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "11:00"
+            },
+            "caption": "Terence Davis is called for a foul on a steal attempt."
+        }
+    ]
+}

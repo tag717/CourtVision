@@ -1,0 +1,140 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_211_away_team(white)_attack_failed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "06:00"
+            },
+            "caption": "Nikola Jokić dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:40"
+            },
+            "caption": "Nikola Jokić hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "10:40"
+            },
+            "caption": "Jamal Murray holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "14:50"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "15:50"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "18:20"
+            },
+            "caption": "Nikola Jokić holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "20:10"
+            },
+            "caption": "Nikola Jokić makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Russell Westbrook",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "20:10",
+                "end": "21:50"
+            },
+            "caption": "Russell Westbrook misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "OffensiveRebound",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:50",
+                "end": "24:20"
+            },
+            "caption": "Aaron Gordon gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Layup",
+            "player": "Aaron Gordon",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "24:20",
+                "end": "27:00"
+            },
+            "caption": "Aaron Gordon misses layup."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Block",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "25:50",
+                "end": "27:00"
+            },
+            "caption": "Jalen Williams blocks the shot."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Alex Caruso",
+            "result": "success",
+            "timestamp_video": {
+                "start": "29:00",
+                "end": "29:50"
+            },
+            "caption": "Alex Caruso makes a pass."
+        }
+    ]
+}

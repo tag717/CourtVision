@@ -1,0 +1,52 @@
+{
+    "video_id": "20240528_DAL_MIN",
+    "possession_id": "poss_36_home_team(black)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Luka Dončić makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "12:00"
+            },
+            "caption": "Jaden Hardy dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Jaden Hardy",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:20"
+            },
+            "caption": "Jaden Hardy misses layup."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:00"
+            },
+            "caption": "Naz Reid gets the defensive rebound."
+        }
+    ]
+}

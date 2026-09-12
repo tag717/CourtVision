@@ -1,0 +1,107 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_70_home_team(blue)_block&fastbreak_befouled",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Damion Lee",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Damion Lee dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Damion Lee",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:10"
+            },
+            "caption": "Damion Lee makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Deandre Ayton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "06:10"
+            },
+            "caption": "Deandre Ayton holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Deandre Ayton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "06:50"
+            },
+            "caption": "Deandre Ayton dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Deandre Ayton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "07:50"
+            },
+            "caption": "Deandre Ayton makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "09:00"
+            },
+            "caption": "Mikal Bridges dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Mikal Bridges",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "09:50"
+            },
+            "caption": "Mikal Bridges misses layup."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Steal",
+            "player": "Joel Embiid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:20"
+            },
+            "caption": "Joel Embiid steals the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Tyrese Maxey",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "17:20"
+            },
+            "caption": "Tyrese Maxey is fouled while dribbling."
+        }
+    ]
+}

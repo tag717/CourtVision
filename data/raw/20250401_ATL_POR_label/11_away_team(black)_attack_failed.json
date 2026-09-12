@@ -1,0 +1,52 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_11_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Donovan Clingan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Donovan Clingan makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Dalano Banton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "07:40"
+            },
+            "caption": "Dalano Banton dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Dalano Banton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:40"
+            },
+            "caption": "Dalano Banton makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "10:00"
+            },
+            "caption": "Shaedon Sharpe makes a pass."
+        }
+    ]
+}

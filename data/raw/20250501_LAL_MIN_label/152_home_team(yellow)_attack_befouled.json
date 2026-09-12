@@ -1,0 +1,63 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_152_home_team(yellow)_attack_befouled",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jarred Vanderbilt",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Jarred Vanderbilt dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jarred Vanderbilt",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "02:10"
+            },
+            "caption": "Jarred Vanderbilt makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Rui Hachimura",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:00"
+            },
+            "caption": "Rui Hachimura dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Rui Hachimura",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:00"
+            },
+            "caption": "Rui Hachimura makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Luka Dončić",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:10"
+            },
+            "caption": "Luka Dončić is fouled while passing the ball."
+        }
+    ]
+}

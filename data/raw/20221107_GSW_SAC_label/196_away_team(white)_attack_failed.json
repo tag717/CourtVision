@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_196_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Terence Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:40"
+            },
+            "caption": "Terence Davis dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Terence Davis",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "06:50"
+            },
+            "caption": "Terence Davis misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Kevon Looney",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "07:30"
+            },
+            "caption": "Kevon Looney gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_180_away_team(red)_attack_befouled",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Nassir Little",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Nassir Little dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Nassir Little",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:10"
+            },
+            "caption": "Nassir Little makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jerami Grant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "12:00"
+            },
+            "caption": "Jerami Grant dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jerami Grant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:30"
+            },
+            "caption": "Jerami Grant makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Trendon Watford",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "13:40"
+            },
+            "caption": "Trendon Watford is fouled while dribbling."
+        }
+    ]
+}

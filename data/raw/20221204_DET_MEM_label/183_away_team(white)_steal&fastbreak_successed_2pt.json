@@ -1,0 +1,63 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_183_away_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaden Ivey",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:30"
+            },
+            "caption": "Jaden Ivey turnover: lost ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "John Konchar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "02:30"
+            },
+            "caption": "John Konchar steals the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:50"
+            },
+            "caption": "Ja Morant makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "John Konchar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "06:50"
+            },
+            "caption": "John Konchar dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "John Konchar",
+            "result": "made",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "10:00"
+            },
+            "caption": "John Konchar makes layup."
+        }
+    ]
+}

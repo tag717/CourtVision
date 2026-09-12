@@ -1,0 +1,52 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_53_home_team(black)_attack_failed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Alex Caruso",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:40"
+            },
+            "caption": "Alex Caruso inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Isaiah Joe",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "07:50"
+            },
+            "caption": "Isaiah Joe misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "09:20"
+            },
+            "caption": "Christian Braun gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:00"
+            },
+            "caption": "Christian Braun dribbles the ball."
+        }
+    ]
+}

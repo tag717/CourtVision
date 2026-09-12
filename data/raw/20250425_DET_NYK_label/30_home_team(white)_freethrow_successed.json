@@ -1,0 +1,19 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_30_home_team(white)_freethrow_successed",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Tim Hardaway Jr.",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Tim Hardaway Jr. makes free throw."
+        }
+    ]
+}

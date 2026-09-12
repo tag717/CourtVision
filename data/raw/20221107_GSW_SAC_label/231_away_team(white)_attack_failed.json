@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_231_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "02:30"
+            },
+            "caption": "De'Aaron Fox inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Kevin Huerter",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "04:50"
+            },
+            "caption": "Kevin Huerter misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "05:00"
+            },
+            "caption": "Stephen Curry gets the defensive rebound."
+        }
+    ]
+}

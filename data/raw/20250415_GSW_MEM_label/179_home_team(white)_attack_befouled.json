@@ -1,0 +1,118 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_179_home_team(white)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:40"
+            },
+            "caption": "Stephen Curry dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:30"
+            },
+            "caption": "Stephen Curry makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "09:50"
+            },
+            "caption": "Jimmy Butler holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "10:40"
+            },
+            "caption": "Jimmy Butler makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Draymond Green",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "12:40"
+            },
+            "caption": "Draymond Green misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "OffensiveRebound",
+            "player": "Moses Moody",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "15:30"
+            },
+            "caption": "Moses Moody gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Moses Moody",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "16:20"
+            },
+            "caption": "Moses Moody makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "18:20"
+            },
+            "caption": "Draymond Green makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:20",
+                "end": "19:50"
+            },
+            "caption": "Jimmy Butler dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Layup",
+            "player": "Jimmy Butler",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "19:50",
+                "end": "21:30"
+            },
+            "caption": "Jimmy Butler is fouled on a layup attempt."
+        }
+    ]
+}

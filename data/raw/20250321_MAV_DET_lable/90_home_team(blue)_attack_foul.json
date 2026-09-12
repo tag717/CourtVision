@@ -1,0 +1,118 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_90_home_team(blue)_attack_foul",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Brandon Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Brandon Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Brandon Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:20"
+            },
+            "caption": "Brandon Williams makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Max Christie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "06:00"
+            },
+            "caption": "Max Christie dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Max Christie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:20"
+            },
+            "caption": "Max Christie makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Brandon Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "09:10"
+            },
+            "caption": "Brandon Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Steal",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "09:30"
+            },
+            "caption": "Jalen Duren steals the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:30"
+            },
+            "caption": "Jalen Duren makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "13:20"
+            },
+            "caption": "Cade Cunningham turnover: lost ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Steal",
+            "player": "Brandon Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:30"
+            },
+            "caption": "Brandon Williams steals the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Hold",
+            "player": "Brandon Williams",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "15:20"
+            },
+            "caption": "Brandon Williams is fouled while holding the ball."
+        }
+    ]
+}

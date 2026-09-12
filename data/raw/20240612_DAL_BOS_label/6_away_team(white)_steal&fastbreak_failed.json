@@ -1,0 +1,41 @@
+{
+    "video_id": "20240612_DAL_BOS",
+    "possession_id": "poss_6_away_team(white)_steal&fastbreak_failed",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Luka Dončić",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:40"
+            },
+            "caption": "Luka Dončić turnover: lost ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "11:00"
+            },
+            "caption": "Derrick White dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Derrick White",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "13:20"
+            },
+            "caption": "Derrick White misses 3-pt jump shot."
+        }
+    ]
+}

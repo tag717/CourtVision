@@ -1,0 +1,129 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_193_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Brice Sensabaugh",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Brice Sensabaugh makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Keyonte George",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "03:10"
+            },
+            "caption": "Keyonte George dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Keyonte George",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "03:50"
+            },
+            "caption": "Keyonte George makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Brice Sensabaugh",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "07:20"
+            },
+            "caption": "Brice Sensabaugh dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Brice Sensabaugh",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:30"
+            },
+            "caption": "Brice Sensabaugh makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Isaiah Collier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "10:40"
+            },
+            "caption": "Isaiah Collier dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Isaiah Collier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "11:10"
+            },
+            "caption": "Isaiah Collier makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Brice Sensabaugh",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "13:20"
+            },
+            "caption": "Brice Sensabaugh misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:10"
+            },
+            "caption": "Dyson Daniels gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "HandOff",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "15:00"
+            },
+            "caption": "Dyson Daniels hands off the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "17:00"
+            },
+            "caption": "Trae Young dribbles the ball."
+        }
+    ]
+}

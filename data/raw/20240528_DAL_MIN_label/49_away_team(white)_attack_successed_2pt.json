@@ -1,0 +1,52 @@
+{
+    "video_id": "20240528_DAL_MIN",
+    "possession_id": "poss_49_away_team(white)_attack_successed_2pt",
+    "home_team": "DAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kyle Anderson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Kyle Anderson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kyle Anderson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "03:50"
+            },
+            "caption": "Kyle Anderson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "05:20"
+            },
+            "caption": "Naz Reid dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Naz Reid",
+            "result": "made",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:50"
+            },
+            "caption": "Naz Reid makes layup."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_65_away_team(blue)_attack_failed",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Miles McBride",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "09:00"
+            },
+            "caption": "Miles McBride dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Miles McBride",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:50"
+            },
+            "caption": "Miles McBride misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "12:10"
+            },
+            "caption": "Tobias Harris gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:00"
+            },
+            "caption": "Tobias Harris dribbles the ball."
+        }
+    ]
+}

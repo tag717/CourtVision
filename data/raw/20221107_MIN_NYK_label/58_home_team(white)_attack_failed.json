@@ -1,0 +1,30 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_58_home_team(white)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:30"
+            },
+            "caption": "Jordan McLaughlin dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Jordan McLaughlin",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "04:00"
+            },
+            "caption": "Jordan McLaughlin misses 3-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_106_home_team(black)_attack_befouled",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Devin Vassell",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Devin Vassell is fouled while dribbling."
+        }
+    ]
+}

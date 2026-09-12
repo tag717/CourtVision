@@ -1,0 +1,41 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_101_away_team(white)_attack_failed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Christian Braun dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Christian Braun",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "03:10"
+            },
+            "caption": "Christian Braun misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Isaiah Hartenstein",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:10"
+            },
+            "caption": "Isaiah Hartenstein gets the defensive rebound."
+        }
+    ]
+}

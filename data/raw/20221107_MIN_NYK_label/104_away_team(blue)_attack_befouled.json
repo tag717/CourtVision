@@ -1,0 +1,52 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_104_away_team(blue)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "RJ Barrett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "RJ Barrett dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "RJ Barrett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "02:10"
+            },
+            "caption": "RJ Barrett makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Cam Reddish",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "04:00"
+            },
+            "caption": "Cam Reddish dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Cam Reddish",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "08:00"
+            },
+            "caption": "Cam Reddish is fouled on a layup attempt."
+        }
+    ]
+}

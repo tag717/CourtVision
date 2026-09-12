@@ -1,0 +1,41 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_28_away_team(white)_attack_befouled",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Ja Morant dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Ja Morant",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "04:10"
+            },
+            "caption": "Ja Morant misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "OffensiveRebound",
+            "player": "Xavier Tillman Sr.",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:00"
+            },
+            "caption": "Xavier Tillman Sr. is fouled on an offensive rebound."
+        }
+    ]
+}

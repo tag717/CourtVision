@@ -1,0 +1,52 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_194_home_team(white)_attack_timeout",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Trey Murphy III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:40"
+            },
+            "caption": "Trey Murphy III inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Devonte' Graham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "02:40"
+            },
+            "caption": "Devonte' Graham dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Devonte' Graham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:10"
+            },
+            "caption": "Devonte' Graham makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "CJ McCollum",
+            "result": "timeout",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "06:00"
+            },
+            "caption": "CJ McCollum dribbles and calls a timeout."
+        }
+    ]
+}

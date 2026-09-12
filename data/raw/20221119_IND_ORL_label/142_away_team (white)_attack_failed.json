@@ -1,0 +1,63 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_142_away_team (white)_attack_failed",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Franz Wagner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:50"
+            },
+            "caption": "Franz Wagner dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Franz Wagner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "08:30"
+            },
+            "caption": "Franz Wagner makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Terrence Ross",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "11:00"
+            },
+            "caption": "Terrence Ross misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Terry Taylor",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:00"
+            },
+            "caption": "Terry Taylor gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "HandOff",
+            "player": "Terry Taylor",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "12:30"
+            },
+            "caption": "Terry Taylor hands off the ball."
+        }
+    ]
+}

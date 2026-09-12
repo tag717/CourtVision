@@ -1,0 +1,85 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_60_away_team(blue)_steal&fastbreak_befouled",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Jordan McLaughlin dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "01:50"
+            },
+            "caption": "Jordan McLaughlin makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "03:30"
+            },
+            "caption": "Naz Reid hands off the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:20"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "06:50"
+            },
+            "caption": "Anthony Edwards turnover: bad pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Steal",
+            "player": "Obi Toppin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:50"
+            },
+            "caption": "Obi Toppin steals the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Obi Toppin",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "09:00"
+            },
+            "caption": "Obi Toppin is fouled while dribbling."
+        }
+    ]
+}

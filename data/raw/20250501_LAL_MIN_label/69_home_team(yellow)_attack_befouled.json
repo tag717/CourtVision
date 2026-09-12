@@ -1,0 +1,96 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_69_home_team(yellow)_attack_befouled",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Rui Hachimura",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Rui Hachimura inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Austin Reaves",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "07:30"
+            },
+            "caption": "Austin Reaves dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Austin Reaves",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:20"
+            },
+            "caption": "Austin Reaves makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jarred Vanderbilt",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "12:10"
+            },
+            "caption": "Jarred Vanderbilt dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jarred Vanderbilt",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "12:50"
+            },
+            "caption": "Jarred Vanderbilt makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Gabe Vincent",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "16:00"
+            },
+            "caption": "Gabe Vincent dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Gabe Vincent",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "17:10"
+            },
+            "caption": "Gabe Vincent makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dunk",
+            "player": "Jarred Vanderbilt",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "17:10",
+                "end": "18:10"
+            },
+            "caption": "Jarred Vanderbilt is fouled on a dunk attempt."
+        }
+    ]
+}

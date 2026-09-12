@@ -1,0 +1,30 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_80_away_team(blue)_attack_outside",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kris Dunn",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:50"
+            },
+            "caption": "Kris Dunn dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kris Dunn",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "06:00"
+            },
+            "caption": "Kris Dunn turnover: pass out of bounds."
+        }
+    ]
+}

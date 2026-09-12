@@ -1,0 +1,63 @@
+{
+    "video_id": "20240617_BOS_DAL",
+    "possession_id": "poss_185_away_team(white)_attack_befouled",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "A.J. Lawson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "01:20"
+            },
+            "caption": "A.J. Lawson makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Dwight Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "03:20"
+            },
+            "caption": "Dwight Powell dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Dwight Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:40"
+            },
+            "caption": "Dwight Powell makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "07:30"
+            },
+            "caption": "Jaden Hardy dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Jaden Hardy",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "10:00"
+            },
+            "caption": "Jaden Hardy is fouled on a layup attempt."
+        }
+    ]
+}

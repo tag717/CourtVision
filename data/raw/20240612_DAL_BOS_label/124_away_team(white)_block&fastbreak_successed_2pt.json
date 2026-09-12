@@ -1,0 +1,107 @@
+{
+    "video_id": "20240612_DAL_BOS",
+    "possession_id": "poss_124_away_team(white)_block&fastbreak_successed_2pt",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Kyrie Irving makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Tim Hardaway Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "03:40"
+            },
+            "caption": "Tim Hardaway Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Tim Hardaway Jr.",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "05:00"
+            },
+            "caption": "Tim Hardaway Jr. misses layup."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Block",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:00"
+            },
+            "caption": "Derrick White blocks the shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Xavier Tillman Sr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:50"
+            },
+            "caption": "Xavier Tillman Sr. gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Xavier Tillman Sr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "06:30"
+            },
+            "caption": "Xavier Tillman Sr. makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "08:00"
+            },
+            "caption": "Jrue Holiday dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:00"
+            },
+            "caption": "Jrue Holiday makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Layup",
+            "player": "Jayson Tatum",
+            "result": "made",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:30"
+            },
+            "caption": "Jayson Tatum makes layup."
+        }
+    ]
+}

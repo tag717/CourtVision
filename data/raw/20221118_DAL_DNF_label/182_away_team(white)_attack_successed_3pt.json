@@ -1,0 +1,74 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_182_away_team(white)_attack_successed_3pt",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:40"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:20"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:10"
+            },
+            "caption": "Christian Braun makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Vlatko Čančar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:30"
+            },
+            "caption": "Vlatko Čančar holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Vlatko Čančar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:00"
+            },
+            "caption": "Vlatko Čančar makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Bones Hyland",
+            "result": "made",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "08:30"
+            },
+            "caption": "Bones Hyland makes 3-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_103_home_team(white)_attack_successed_2pt",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:00"
+            },
+            "caption": "Tyrese Haliburton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Myles Turner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:20"
+            },
+            "caption": "Myles Turner holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Myles Turner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:20"
+            },
+            "caption": "Myles Turner makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "George Hill",
+            "result": "made",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "06:10"
+            },
+            "caption": "George Hill makes layup."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_166_home_team(black)_attack_befouled",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:40"
+            },
+            "caption": "Shai Gilgeous-Alexander is fouled while dribbling."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "made",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "10:50"
+            },
+            "caption": "Shai Gilgeous-Alexander makes 3-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_89_away_team(black)_steal&fastbreak_successed_2pt",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Jayson Tatum",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "Jayson Tatum turnover: bad pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "Maxi Kleber",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:20"
+            },
+            "caption": "Maxi Kleber steals the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "04:00"
+            },
+            "caption": "Kyrie Irving makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "08:00"
+            },
+            "caption": "Luka Dončić dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Luka Dončić",
+            "result": "made",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "11:00"
+            },
+            "caption": "Luka Dončić makes 2-pt jump shot."
+        }
+    ]
+}

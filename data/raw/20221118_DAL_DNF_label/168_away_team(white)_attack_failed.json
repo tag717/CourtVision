@@ -1,0 +1,217 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_168_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Michael Porter Jr. inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "09:20"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "09:50"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "11:20"
+            },
+            "caption": "Michael Porter Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "13:30"
+            },
+            "caption": "Bones Hyland holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "13:50"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Bones Hyland",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:50",
+                "end": "16:00"
+            },
+            "caption": "Bones Hyland misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "OffensiveRebound",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "17:40"
+            },
+            "caption": "Bones Hyland gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:40",
+                "end": "19:10"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:10",
+                "end": "19:50"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:50",
+                "end": "20:30"
+            },
+            "caption": "Jeff Green makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Hold",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:30",
+                "end": "22:40"
+            },
+            "caption": "Bones Hyland holds the ball."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:40",
+                "end": "23:40"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:40",
+                "end": "24:20"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "Dribble",
+            "player": "Vlatko Čančar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "24:20",
+                "end": "26:40"
+            },
+            "caption": "Vlatko Čančar dribbles the ball."
+        },
+        {
+            "event_id": "ev_16",
+            "event_label": "Layup",
+            "player": "Vlatko Čančar",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "26:40",
+                "end": "28:00"
+            },
+            "caption": "Vlatko Čančar misses layup."
+        },
+        {
+            "event_id": "ev_17",
+            "event_label": "Block",
+            "player": "JaVale McGee",
+            "result": "success",
+            "timestamp_video": {
+                "start": "28:00",
+                "end": "28:50"
+            },
+            "caption": "JaVale McGee blocks the shot."
+        },
+        {
+            "event_id": "ev_18",
+            "event_label": "DefensiveRebound",
+            "player": "Christian Wood",
+            "result": "success",
+            "timestamp_video": {
+                "start": "28:50",
+                "end": "29:00"
+            },
+            "caption": "Christian Wood gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_19",
+            "event_label": "Dribble",
+            "player": "Christian Wood",
+            "result": "success",
+            "timestamp_video": {
+                "start": "29:00",
+                "end": "30:00"
+            },
+            "caption": "Christian Wood dribbles the ball."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_77_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:10"
+            },
+            "caption": "Deni Avdija dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:40"
+            },
+            "caption": "Deni Avdija makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Matisse Thybulle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "08:10"
+            },
+            "caption": "Matisse Thybulle dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Matisse Thybulle",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "09:50"
+            },
+            "caption": "Matisse Thybulle misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "10:10"
+            },
+            "caption": "Dyson Daniels gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "12:00"
+            },
+            "caption": "Dyson Daniels dribbles the ball."
+        }
+    ]
+}

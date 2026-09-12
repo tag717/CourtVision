@@ -1,0 +1,74 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_6_away_team (blue)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "RJ Barrett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "RJ Barrett dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "RJ Barrett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:10"
+            },
+            "caption": "RJ Barrett makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "05:30"
+            },
+            "caption": "Julius Randle dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:10"
+            },
+            "caption": "Julius Randle hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Cam Reddish",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "09:30"
+            },
+            "caption": "Cam Reddish dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Cam Reddish",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "12:00"
+            },
+            "caption": "Cam Reddish misses layup."
+        }
+    ]
+}

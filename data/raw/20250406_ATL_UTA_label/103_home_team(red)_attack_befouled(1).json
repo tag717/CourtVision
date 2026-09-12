@@ -1,0 +1,74 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_103_home_team(red)_attack_befouled(1)",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "07:20"
+            },
+            "caption": "Trae Young makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Georges Niang",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "09:00"
+            },
+            "caption": "Georges Niang makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "09:30"
+            },
+            "caption": "Dyson Daniels makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Zaccharie Risacher",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "11:10"
+            },
+            "caption": "Zaccharie Risacher dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Zaccharie Risacher",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "13:00"
+            },
+            "caption": "Zaccharie Risacher is fouled on a layup attempt."
+        }
+    ]
+}

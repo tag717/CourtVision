@@ -1,0 +1,118 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_26_home_team(white)_block&fastbreak_befouled",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:00"
+            },
+            "caption": "Nikola Jokić dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:10"
+            },
+            "caption": "Nikola Jokić makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "10:00"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "10:30"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Nikola Jokić",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:20"
+            },
+            "caption": "Nikola Jokić misses layup."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Block",
+            "player": "Myles Turner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "13:50"
+            },
+            "caption": "Myles Turner blocks the shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Hold",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "15:20"
+            },
+            "caption": "Buddy Hield holds the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "18:00"
+            },
+            "caption": "Buddy Hield dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "18:50"
+            },
+            "caption": "Buddy Hield makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Myles Turner",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "20:30"
+            },
+            "caption": "Myles Turner is fouled while dribbling."
+        }
+    ]
+}

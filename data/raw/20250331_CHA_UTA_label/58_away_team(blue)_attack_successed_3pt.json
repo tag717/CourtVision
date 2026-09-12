@@ -1,0 +1,41 @@
+{
+    "video_id": "20250331_CHA_UTA",
+    "possession_id": "poss_58_away_team(blue)_attack_successed_3pt",
+    "home_team": "CHA",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:20"
+            },
+            "caption": "Jaden Springer dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:10"
+            },
+            "caption": "Jaden Springer makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Keyonte George",
+            "result": "made",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "07:10"
+            },
+            "caption": "Keyonte George makes 3-pt jump shot."
+        }
+    ]
+}

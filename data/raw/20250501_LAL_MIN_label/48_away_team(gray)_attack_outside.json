@@ -1,0 +1,30 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_48_away_team(gray)_attack_outside",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Nickeil Alexander-Walker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "02:00"
+            },
+            "caption": "Nickeil Alexander-Walker makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Donte DiVincenzo",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:30"
+            },
+            "caption": "Donte DiVincenzo misses layup."
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_183_away_team(blue)_attack_outside",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:00"
+            },
+            "caption": "Immanuel Quickley dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:30"
+            },
+            "caption": "Immanuel Quickley makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Isaiah Hartenstein",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:30"
+            },
+            "caption": "Isaiah Hartenstein makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Obi Toppin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:30"
+            },
+            "caption": "Obi Toppin holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Obi Toppin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:30"
+            },
+            "caption": "Obi Toppin makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "13:30"
+            },
+            "caption": "Immanuel Quickley holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "15:40"
+            },
+            "caption": "Immanuel Quickley dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "16:20"
+            },
+            "caption": "Immanuel Quickley makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Hold",
+            "player": "Isaiah Hartenstein",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "18:10"
+            },
+            "caption": "Isaiah Hartenstein holds the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Isaiah Hartenstein",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "18:10",
+                "end": "20:00"
+            },
+            "caption": "Isaiah Hartenstein turnover: pass out of bounds."
+        }
+    ]
+}

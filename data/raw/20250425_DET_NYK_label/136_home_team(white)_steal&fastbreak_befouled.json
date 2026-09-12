@@ -1,0 +1,41 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_136_home_team(white)_steal&fastbreak_befouled",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Josh Hart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:40"
+            },
+            "caption": "Josh Hart dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "Ausar Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "07:20"
+            },
+            "caption": "Ausar Thompson steals the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Ausar Thompson",
+            "result": "made",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "09:20"
+            },
+            "caption": "Ausar Thompson makes layup."
+        }
+    ]
+}

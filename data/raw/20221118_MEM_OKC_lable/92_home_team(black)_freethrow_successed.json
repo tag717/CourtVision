@@ -1,0 +1,19 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_92_home_team(black)_freethrow_successed",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Ja Morant",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Ja Morant makes free throw."
+        }
+    ]
+}

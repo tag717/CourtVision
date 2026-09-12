@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_143_home_team(blue)_attack_outside",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Tyrese Maxey dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:10"
+            },
+            "caption": "Tyrese Maxey makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Georges Niang.",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "07:40"
+            },
+            "caption": "Georges Niang. turnover: pass out of bounds."
+        }
+    ]
+}

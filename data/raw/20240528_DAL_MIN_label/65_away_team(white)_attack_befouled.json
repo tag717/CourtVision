@@ -1,0 +1,30 @@
+{
+    "video_id": "20240528_DAL_MIN",
+    "possession_id": "poss_65_away_team(white)_attack_befouled",
+    "home_team": "DAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kyle Anderson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Kyle Anderson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Block",
+            "player": "Daniel Gafford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:20"
+            },
+            "caption": "Daniel Gafford blocks the shot."
+        }
+    ]
+}

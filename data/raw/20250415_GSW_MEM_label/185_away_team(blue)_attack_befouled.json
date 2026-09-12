@@ -1,0 +1,74 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_185_away_team(blue)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:30"
+            },
+            "caption": "Ja Morant dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:40"
+            },
+            "caption": "Ja Morant makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Desmond Bane",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "07:40"
+            },
+            "caption": "Desmond Bane holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Desmond Bane",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "10:00"
+            },
+            "caption": "Desmond Bane dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Desmond Bane",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:20"
+            },
+            "caption": "Desmond Bane misses layup."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PutBack",
+            "player": "Zach Edey",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "14:00"
+            },
+            "caption": "Zach Edey is fouled on a putback attempt."
+        }
+    ]
+}

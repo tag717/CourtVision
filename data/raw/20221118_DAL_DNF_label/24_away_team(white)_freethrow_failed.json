@@ -1,0 +1,30 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_24_away_team(white)_freethrow_failed",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Jeff Green",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Jeff Green misses free throw."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "DefensiveRebound",
+            "player": "Dorian Finney-Smith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:40"
+            },
+            "caption": "Dorian Finney-Smith gets the defensive rebound."
+        }
+    ]
+}

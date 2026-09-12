@@ -1,0 +1,118 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_136_away_team(blue)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "01:20"
+            },
+            "caption": "Jalen Brunson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Isaiah Hartenstein",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "03:00"
+            },
+            "caption": "Isaiah Hartenstein makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:20"
+            },
+            "caption": "Julius Randle dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "HandOff",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "04:40"
+            },
+            "caption": "Julius Randle hands off the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Cam Reddish",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "06:00"
+            },
+            "caption": "Cam Reddish dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Cam Reddish",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:50"
+            },
+            "caption": "Cam Reddish makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Hold",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "09:30"
+            },
+            "caption": "Julius Randle holds the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "13:00"
+            },
+            "caption": "Julius Randle dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Layup",
+            "player": "Julius Randle",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "16:00"
+            },
+            "caption": "Julius Randle is fouled on a layup attempt."
+        }
+    ]
+}

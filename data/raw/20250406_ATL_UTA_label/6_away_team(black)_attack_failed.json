@@ -1,0 +1,129 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_6_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Isaiah Collier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Isaiah Collier dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Isaiah Collier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:10"
+            },
+            "caption": "Isaiah Collier makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Brice Sensabaugh",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "06:10"
+            },
+            "caption": "Brice Sensabaugh makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Collin Sexton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:10"
+            },
+            "caption": "Collin Sexton dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Collin Sexton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:10"
+            },
+            "caption": "Collin Sexton makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Kyle Filipowski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "11:10"
+            },
+            "caption": "Kyle Filipowski holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Kyle Filipowski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:00"
+            },
+            "caption": "Kyle Filipowski makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Johnny Juzang",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:00"
+            },
+            "caption": "Johnny Juzang dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Layup",
+            "player": "Johnny Juzang",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:10"
+            },
+            "caption": "Johnny Juzang misses layup."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "Georges Niang",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "15:20"
+            },
+            "caption": "Georges Niang gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Georges Niang",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "17:00"
+            },
+            "caption": "Georges Niang makes a pass."
+        }
+    ]
+}

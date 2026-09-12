@@ -1,0 +1,85 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_194_away_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:20"
+            },
+            "caption": "Stephen Curry dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "06:00"
+            },
+            "caption": "Stephen Curry makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:50"
+            },
+            "caption": "Klay Thompson holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Klay Thompson",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "08:00"
+            },
+            "caption": "Klay Thompson turnover: bad pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Steal",
+            "player": "Davion Mitchell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:00"
+            },
+            "caption": "Davion Mitchell steals the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Davion Mitchell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "10:40"
+            },
+            "caption": "Davion Mitchell dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Davion Mitchell",
+            "result": "made",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "13:20"
+            },
+            "caption": "Davion Mitchell makes layup."
+        }
+    ]
+}

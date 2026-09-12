@@ -1,0 +1,85 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_156_away_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:50"
+            },
+            "caption": "Dejounte Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "08:30"
+            },
+            "caption": "Dejounte Murray makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Bogdan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "13:40"
+            },
+            "caption": "Bogdan Bogdanović dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Block",
+            "player": "Luguentz Dort",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "14:00"
+            },
+            "caption": "Luguentz Dort blocks the shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "17:10"
+            },
+            "caption": "Jalen Williams makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Josh Giddey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:10",
+                "end": "19:00"
+            },
+            "caption": "Josh Giddey dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Josh Giddey",
+            "result": "made",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "21:00"
+            },
+            "caption": "Josh Giddey makes layup."
+        }
+    ]
+}

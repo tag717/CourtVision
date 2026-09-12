@@ -1,0 +1,30 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_218_home_team(black)_attack_successed_2pt",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Alex Caruso",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Alex Caruso inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dunk",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "02:50"
+            },
+            "caption": "Shai Gilgeous-Alexander makes dunk."
+        }
+    ]
+}

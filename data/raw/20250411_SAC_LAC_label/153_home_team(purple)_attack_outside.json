@@ -1,0 +1,30 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_153_home_team(purple)_attack_outside",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Zach LaVine dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:20"
+            },
+            "caption": "Zach LaVine makes a pass."
+        }
+    ]
+}

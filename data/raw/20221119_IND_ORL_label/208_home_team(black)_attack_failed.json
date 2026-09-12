@@ -1,0 +1,30 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_208_home_team(black)_attack_failed",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bennedict Mathurin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Bennedict Mathurin dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Bennedict Mathurin",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "04:00"
+            },
+            "caption": "Bennedict Mathurin misses 3-pt jump shot (out of bounds)."
+        }
+    ]
+}

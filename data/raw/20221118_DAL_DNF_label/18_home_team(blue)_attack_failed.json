@@ -1,0 +1,63 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_18_home_team(blue)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:50"
+            },
+            "caption": "Luka Dončić dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:30"
+            },
+            "caption": "Luka Dončić makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:10"
+            },
+            "caption": "Spencer Dinwiddie dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Spencer Dinwiddie",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:40"
+            },
+            "caption": "Spencer Dinwiddie misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:10"
+            },
+            "caption": "Jeff Green gets the defensive rebound."
+        }
+    ]
+}

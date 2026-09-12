@@ -1,0 +1,30 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_58_away_team(black)_attack_outside",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Shaedon Sharpe holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Shaedon Sharpe",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "02:20"
+            },
+            "caption": "Shaedon Sharpe turnover: out of bounds lost ball."
+        }
+    ]
+}

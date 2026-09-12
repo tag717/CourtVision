@@ -1,0 +1,63 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_117_away_team(white)_attack_failed",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:50"
+            },
+            "caption": "James Harden dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "07:40"
+            },
+            "caption": "James Harden makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "09:20"
+            },
+            "caption": "Kawhi Leonard dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Kawhi Leonard",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "11:10"
+            },
+            "caption": "Kawhi Leonard misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Trey Lyles",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:00"
+            },
+            "caption": "Trey Lyles gets the defensive rebound."
+        }
+    ]
+}

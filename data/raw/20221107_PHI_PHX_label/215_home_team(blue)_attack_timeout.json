@@ -1,0 +1,63 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_215_home_team(blue)_attack_timeout",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Georges Niang.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:20"
+            },
+            "caption": "Georges Niang. makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "10:20"
+            },
+            "caption": "Tyrese Maxey dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:40"
+            },
+            "caption": "Tyrese Maxey makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Joel Embiid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "19:40"
+            },
+            "caption": "Joel Embiid holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Joel Embiid",
+            "result": "timeout",
+            "timestamp_video": {
+                "start": "19:40",
+                "end": "24:00"
+            },
+            "caption": "Joel Embiid dribbles and calls a timeout."
+        }
+    ]
+}

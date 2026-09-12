@@ -1,0 +1,107 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_64_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:10"
+            },
+            "caption": "Jalen Green dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jalen Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:30"
+            },
+            "caption": "Jalen Green makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:50"
+            },
+            "caption": "Dillon Brooks dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:30"
+            },
+            "caption": "Dillon Brooks holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:20"
+            },
+            "caption": "Dillon Brooks makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Amen Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "19:10"
+            },
+            "caption": "Amen Thompson dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Amen Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:10",
+                "end": "20:00"
+            },
+            "caption": "Amen Thompson makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Jalen Green",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "22:10"
+            },
+            "caption": "Jalen Green misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:10",
+                "end": "24:10"
+            },
+            "caption": "Stephen Curry gets the defensive rebound."
+        }
+    ]
+}

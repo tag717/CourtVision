@@ -1,0 +1,30 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_216_home_team(white)_freethrow_failed",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Mike Conley",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Mike Conley misses free throw."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "DefensiveRebound",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "01:20"
+            },
+            "caption": "Luka Dončić gets the defensive rebound."
+        }
+    ]
+}

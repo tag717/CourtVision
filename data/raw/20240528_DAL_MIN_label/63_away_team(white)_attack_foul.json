@@ -1,0 +1,19 @@
+{
+    "video_id": "20240528_DAL_MIN",
+    "possession_id": "poss_63_away_team(white)_attack_foul",
+    "home_team": "DAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kyle Anderson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Kyle Anderson dribbles the ball."
+        }
+    ]
+}

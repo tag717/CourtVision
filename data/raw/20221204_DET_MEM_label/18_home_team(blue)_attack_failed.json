@@ -1,0 +1,118 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_18_home_team(blue)_attack_failed",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Killian Hayes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:00"
+            },
+            "caption": "Killian Hayes dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Killian Hayes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:50"
+            },
+            "caption": "Killian Hayes makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jaden Ivey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "11:20"
+            },
+            "caption": "Jaden Ivey dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jaden Ivey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:40"
+            },
+            "caption": "Jaden Ivey makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Killian Hayes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "13:50"
+            },
+            "caption": "Killian Hayes dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Killian Hayes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "15:30"
+            },
+            "caption": "Killian Hayes makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Jaden Ivey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "17:10"
+            },
+            "caption": "Jaden Ivey dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Jaden Ivey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:10",
+                "end": "17:50"
+            },
+            "caption": "Jaden Ivey makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "Isaiah Stewart",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "17:50",
+                "end": "20:00"
+            },
+            "caption": "Isaiah Stewart misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "John Konchar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "21:00"
+            },
+            "caption": "John Konchar gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_13_away_team(gray)_attack_befouled",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:50"
+            },
+            "caption": "Julius Randle dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Julius Randle",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "06:00"
+            },
+            "caption": "Julius Randle is fouled on a layup attempt."
+        }
+    ]
+}

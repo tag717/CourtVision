@@ -1,0 +1,52 @@
+{
+    "video_id": "20240609_BOS_DAL",
+    "possession_id": "poss_139_away_team(white)_attack_befouled",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dante Exum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "Dante Exum dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dante Exum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:00"
+            },
+            "caption": "Dante Exum makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Daniel Gafford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:30"
+            },
+            "caption": "Daniel Gafford makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Luka Dončić",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "11:00"
+            },
+            "caption": "Luka Dončić is fouled on a layup attempt."
+        }
+    ]
+}

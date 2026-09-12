@@ -1,0 +1,162 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_72_home_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Justise Winslow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "Justise Winslow dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Justise Winslow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:20"
+            },
+            "caption": "Justise Winslow hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Nassir Little",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:00"
+            },
+            "caption": "Nassir Little dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Nassir Little",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:40"
+            },
+            "caption": "Nassir Little makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Trendon Watford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "09:30"
+            },
+            "caption": "Trendon Watford holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Trendon Watford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "09:50"
+            },
+            "caption": "Trendon Watford makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Kevin Knox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "13:30"
+            },
+            "caption": "Kevin Knox dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Kevin Knox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:00"
+            },
+            "caption": "Kevin Knox makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Jabari Walker",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "16:00"
+            },
+            "caption": "Jabari Walker turnover: lost ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Steal",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "17:00"
+            },
+            "caption": "CJ McCollum steals the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "23:00"
+            },
+            "caption": "CJ McCollum dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:00",
+                "end": "23:30"
+            },
+            "caption": "CJ McCollum makes a pass."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "Dribble",
+            "player": "Zion Williamson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:30",
+                "end": "25:10"
+            },
+            "caption": "Zion Williamson dribbles the ball."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "Layup",
+            "player": "Zion Williamson",
+            "result": "made",
+            "timestamp_video": {
+                "start": "25:10",
+                "end": "26:30"
+            },
+            "caption": "Zion Williamson makes layup."
+        }
+    ]
+}

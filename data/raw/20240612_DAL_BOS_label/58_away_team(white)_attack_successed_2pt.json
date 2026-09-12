@@ -1,0 +1,30 @@
+{
+    "video_id": "20240612_DAL_BOS",
+    "possession_id": "poss_58_away_team(white)_attack_successed_2pt",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "02:40"
+            },
+            "caption": "Derrick White makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dunk",
+            "player": "Jayson Tatum",
+            "result": "made",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:50"
+            },
+            "caption": "Jayson Tatum makes dunk."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_145_away_team(black)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Isaiah Collier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Isaiah Collier dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Isaiah Collier",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:10"
+            },
+            "caption": "Isaiah Collier misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Block",
+            "player": "Mouhamed Gueye",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "03:20"
+            },
+            "caption": "Mouhamed Gueye blocks the shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Putback",
+            "player": "Collin Sexton",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:30"
+            },
+            "caption": "Collin Sexton is fouled on a putback attempt."
+        }
+    ]
+}

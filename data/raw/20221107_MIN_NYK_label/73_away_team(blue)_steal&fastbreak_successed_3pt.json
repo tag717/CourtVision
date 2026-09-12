@@ -1,0 +1,85 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_73_away_team(blue)_steal&fastbreak_successed_3pt",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "02:50"
+            },
+            "caption": "Anthony Edwards turnover: bad pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "Evan Fournier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:50"
+            },
+            "caption": "Evan Fournier steals the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Evan Fournier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "05:50"
+            },
+            "caption": "Evan Fournier makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "06:50"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "08:00"
+            },
+            "caption": "Jalen Brunson makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Obi Toppin",
+            "result": "made",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "11:00"
+            },
+            "caption": "Obi Toppin makes 3-pt jump shot."
+        }
+    ]
+}

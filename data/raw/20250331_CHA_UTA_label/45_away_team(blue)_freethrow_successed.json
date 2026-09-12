@@ -1,0 +1,19 @@
+{
+    "video_id": "20250331_CHA_UTA",
+    "possession_id": "poss_45_away_team(blue)_freethrow_successed",
+    "home_team": "CHA",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Jaden Springer",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Jaden Springer makes free throw."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_134_home_team(white)_attack_successed_3pt",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "03:50"
+            },
+            "caption": "Tyrese Haliburton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jalen Smith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:40"
+            },
+            "caption": "Jalen Smith dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jalen Smith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "05:10"
+            },
+            "caption": "Jalen Smith makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Buddy Hield",
+            "result": "made",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:50"
+            },
+            "caption": "Buddy Hield makes 3-pt jump shot."
+        }
+    ]
+}

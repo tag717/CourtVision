@@ -1,0 +1,63 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_93_away_team(blue)_attack_befouled",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:20"
+            },
+            "caption": "Kawhi Leonard dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:20"
+            },
+            "caption": "Kawhi Leonard makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dunk",
+            "player": "Ivica Zubac",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:30"
+            },
+            "caption": "Ivica Zubac misses dunk."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Block",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:30"
+            },
+            "caption": "Michael Porter Jr. blocks the shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Ivica Zubac",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "11:00"
+            },
+            "caption": "Ivica Zubac is fouled on a layup attempt."
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_199_home_team(white)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Trae Young inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Caris LeVert",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "03:10"
+            },
+            "caption": "Caris LeVert misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "OffensiveRebound",
+            "player": "Vit Krejci",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:40"
+            },
+            "caption": "Vit Krejci gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Vit Krejci",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "06:40"
+            },
+            "caption": "Vit Krejci dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Vit Krejci",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "09:00"
+            },
+            "caption": "Vit Krejci makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "12:30"
+            },
+            "caption": "Caris LeVert dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Caris LeVert",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "13:50"
+            },
+            "caption": "Caris LeVert is fouled on a layup attempt."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Block",
+            "player": "Toumani Camara",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "13:50"
+            },
+            "caption": "Toumani Camara is called for a foul on a block attempt."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_48_away_team(black)_steal&fastbreak_successed_2pt",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jeff Dowtin Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:30"
+            },
+            "caption": "Jeff Dowtin Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jeff Dowtin Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "07:10"
+            },
+            "caption": "Jeff Dowtin Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Jeff Dowtin Jr.",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:00"
+            },
+            "caption": "Jeff Dowtin Jr. misses layup."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Colby Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "08:20"
+            },
+            "caption": "Colby Jones gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Colby Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "11:20"
+            },
+            "caption": "Colby Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Colby Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:10"
+            },
+            "caption": "Colby Jones makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "JT Thor",
+            "result": "made",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "14:10"
+            },
+            "caption": "JT Thor makes layup."
+        }
+    ]
+}

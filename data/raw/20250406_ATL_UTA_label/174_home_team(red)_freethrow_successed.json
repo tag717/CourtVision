@@ -1,0 +1,19 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_174_home_team(red)_freethrow_successed",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Keyonte George",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Keyonte George makes free throw."
+        }
+    ]
+}

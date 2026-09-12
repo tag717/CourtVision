@@ -1,0 +1,74 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_138_home_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Aaron Gordon",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:20"
+            },
+            "caption": "Aaron Gordon turnover: lost ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "Jalen Smith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:10"
+            },
+            "caption": "Jalen Smith steals the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jalen Smith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "05:20"
+            },
+            "caption": "Jalen Smith makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Andrew Nembhard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "07:20"
+            },
+            "caption": "Andrew Nembhard makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:20"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Tyrese Haliburton",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "11:20"
+            },
+            "caption": "Tyrese Haliburton is fouled on a layup attempt."
+        }
+    ]
+}

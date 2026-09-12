@@ -1,0 +1,85 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_184_away_team (white)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cameron Payne",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:50"
+            },
+            "caption": "Cameron Payne dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cameron Payne",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "03:30"
+            },
+            "caption": "Cameron Payne makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Damion Lee",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "05:00"
+            },
+            "caption": "Damion Lee makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Cameron Payne",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "07:30"
+            },
+            "caption": "Cameron Payne dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Cameron Payne",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:10"
+            },
+            "caption": "Cameron Payne makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Deandre Ayton",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "09:40"
+            },
+            "caption": "Deandre Ayton misses layup."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:00"
+            },
+            "caption": "Paul Reed gets the defensive rebound."
+        }
+    ]
+}

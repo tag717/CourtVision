@@ -1,0 +1,52 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_92_home_team(red)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Caris LeVert dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Caris LeVert",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:10"
+            },
+            "caption": "Caris LeVert misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "Kyle Filipowski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "06:10"
+            },
+            "caption": "Kyle Filipowski steals the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Kyle Filipowski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "08:00"
+            },
+            "caption": "Kyle Filipowski dribbles the ball."
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_25_home_team(blue)_steal&fastbreak_successed_2pt",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Chris Paul",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:10"
+            },
+            "caption": "Chris Paul dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Chris Paul",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:20"
+            },
+            "caption": "Chris Paul makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Deandre Ayton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:30"
+            },
+            "caption": "Deandre Ayton holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Deandre Ayton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:20"
+            },
+            "caption": "Deandre Ayton dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Deandre Ayton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "09:50"
+            },
+            "caption": "Deandre Ayton makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "13:10"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Steal",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "13:20"
+            },
+            "caption": "Tyrese Maxey steals the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:40"
+            },
+            "caption": "Tyrese Maxey dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:40",
+                "end": "15:30"
+            },
+            "caption": "Tyrese Maxey makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "16:30"
+            },
+            "caption": "Tobias Harris dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "17:40"
+            },
+            "caption": "Tobias Harris makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Dribble",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:40",
+                "end": "18:20"
+            },
+            "caption": "Paul Reed dribbles the ball."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "Layup",
+            "player": "Paul Reed",
+            "result": "made",
+            "timestamp_video": {
+                "start": "18:20",
+                "end": "19:30"
+            },
+            "caption": "Paul Reed makes layup."
+        }
+    ]
+}

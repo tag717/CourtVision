@@ -1,0 +1,63 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_31_away_team(blue)_steal&fastbreak_successed_2pt",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Anthony Edwards turnover: lost ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "Derrick Rose",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Derrick Rose steals the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Derrick Rose",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "03:10"
+            },
+            "caption": "Derrick Rose misses layup."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "OffensiveRebound",
+            "player": "Derrick Rose",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "03:20"
+            },
+            "caption": "Derrick Rose gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Derrick Rose",
+            "result": "made",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "05:00"
+            },
+            "caption": "Derrick Rose makes layup."
+        }
+    ]
+}

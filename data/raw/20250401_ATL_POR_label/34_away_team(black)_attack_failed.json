@@ -1,0 +1,63 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_34_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:40"
+            },
+            "caption": "Shaedon Sharpe dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:20"
+            },
+            "caption": "Shaedon Sharpe makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Matisse Thybulle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "05:30"
+            },
+            "caption": "Matisse Thybulle dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Matisse Thybulle",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:10"
+            },
+            "caption": "Matisse Thybulle misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:40"
+            },
+            "caption": "Caris LeVert gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_142_away_team(white)_attack_failed",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Collin Gillespie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "01:30"
+            },
+            "caption": "Collin Gillespie makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "04:20"
+            },
+            "caption": "Tyus Jones holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:00"
+            },
+            "caption": "Tyus Jones makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Oso Ighodaro",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:00"
+            },
+            "caption": "Oso Ighodaro dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Oso Ighodaro",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:40"
+            },
+            "caption": "Oso Ighodaro makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "12:30"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Devin Booker",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "14:10"
+            },
+            "caption": "Devin Booker misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Ryan Rollins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "16:00"
+            },
+            "caption": "Ryan Rollins gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Ryan Rollins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "17:00"
+            },
+            "caption": "Ryan Rollins makes a pass."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_150_away_team(white)_attack_befouled】",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:50"
+            },
+            "caption": "Bruce Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Bruce Brown",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "06:40"
+            },
+            "caption": "Bruce Brown misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "OffensiveRebound",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:40"
+            },
+            "caption": "Bruce Brown gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:50"
+            },
+            "caption": "Bruce Brown makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Vlatko Čančar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:20"
+            },
+            "caption": "Vlatko Čančar holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Vlatko Čančar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "12:00"
+            },
+            "caption": "Vlatko Čančar dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "2ptShot",
+            "player": "Vlatko Čančar",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:40"
+            },
+            "caption": "Vlatko Čančar is fouled on a 2-pt shot attempt."
+        }
+    ]
+}

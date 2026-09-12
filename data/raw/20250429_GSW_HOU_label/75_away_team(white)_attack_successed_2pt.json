@@ -1,0 +1,74 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_75_away_team(white)_attack_successed_2pt",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:20"
+            },
+            "caption": "Fred VanVleet inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Amen Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "10:30"
+            },
+            "caption": "Amen Thompson dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Amen Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:00"
+            },
+            "caption": "Amen Thompson makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Alperen Şengün",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:00"
+            },
+            "caption": "Alperen Şengün holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Alperen Şengün",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "15:10"
+            },
+            "caption": "Alperen Şengün dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Alperen Şengün",
+            "result": "made",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "17:40"
+            },
+            "caption": "Alperen Şengün makes layup."
+        }
+    ]
+}

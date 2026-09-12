@@ -1,0 +1,96 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_193_home_team(white)_attack_failed",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Julian Strawther",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Julian Strawther inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jalen Pickett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "02:30"
+            },
+            "caption": "Jalen Pickett dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jalen Pickett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "03:50"
+            },
+            "caption": "Jalen Pickett makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Julian Strawther",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "05:50"
+            },
+            "caption": "Julian Strawther dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "HandOff",
+            "player": "Julian Strawther",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "06:00"
+            },
+            "caption": "Julian Strawther hands off the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Vlatko Čančar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:30"
+            },
+            "caption": "Vlatko Čančar makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Zeke Nnaji",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:10"
+            },
+            "caption": "Zeke Nnaji makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Jalen Pickett",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "13:00"
+            },
+            "caption": "Jalen Pickett turnover: bad pass."
+        }
+    ]
+}

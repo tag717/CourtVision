@@ -1,0 +1,19 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_202_home_team(black)_freethrow_failed",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Dejounte Murray",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Dejounte Murray misses free throw."
+        }
+    ]
+}

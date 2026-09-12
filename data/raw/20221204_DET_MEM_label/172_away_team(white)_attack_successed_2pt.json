@@ -1,0 +1,30 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_172_away_team(white)_attack_successed_2pt",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:40"
+            },
+            "caption": "Dillon Brooks dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Dillon Brooks",
+            "result": "made",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "03:20"
+            },
+            "caption": "Dillon Brooks makes layup."
+        }
+    ]
+}

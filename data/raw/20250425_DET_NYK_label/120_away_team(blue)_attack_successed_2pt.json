@@ -1,0 +1,30 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_120_away_team(blue)_attack_successed_2pt",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "16:20"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Jalen Brunson",
+            "result": "made",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "18:20"
+            },
+            "caption": "Jalen Brunson makes layup."
+        }
+    ]
+}

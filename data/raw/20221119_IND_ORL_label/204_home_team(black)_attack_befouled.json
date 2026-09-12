@@ -1,0 +1,41 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_204_home_team(black)_attack_befouled",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:30"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Tyrese Haliburton",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "10:30"
+            },
+            "caption": "Tyrese Haliburton misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PutBack",
+            "player": "Aaron Nesmith",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "13:10"
+            },
+            "caption": "Aaron Nesmith is fouled on a putback attempt."
+        }
+    ]
+}

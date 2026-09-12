@@ -1,0 +1,19 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_112_away_team(white)_attack_failed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "3ptShot",
+            "player": "Nikola Jokić",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Nikola Jokić misses 3-pt jump shot (out of bounds)."
+        }
+    ]
+}

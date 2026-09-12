@@ -1,0 +1,107 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_45_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Keegan Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:50"
+            },
+            "caption": "Keegan Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Keegan Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "06:20"
+            },
+            "caption": "Keegan Murray hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "09:40"
+            },
+            "caption": "De'Aaron Fox dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:30"
+            },
+            "caption": "De'Aaron Fox makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Keegan Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:50"
+            },
+            "caption": "Keegan Murray holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Keegan Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "12:40"
+            },
+            "caption": "Keegan Murray makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "15:00"
+            },
+            "caption": "De'Aaron Fox dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "De'Aaron Fox",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "17:20"
+            },
+            "caption": "De'Aaron Fox misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "18:20"
+            },
+            "caption": "Stephen Curry gets the defensive rebound."
+        }
+    ]
+}

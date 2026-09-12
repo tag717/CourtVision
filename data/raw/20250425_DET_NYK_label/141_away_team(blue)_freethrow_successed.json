@@ -1,0 +1,19 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_141_away_team(blue)_freethrow_successed",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Mikal Bridges",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Mikal Bridges makes free throw."
+        }
+    ]
+}

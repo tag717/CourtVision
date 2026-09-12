@@ -1,0 +1,96 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_109_away_team(white )_steal&fastbreak_befouled",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:20"
+            },
+            "caption": "Devin Vassell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Devin Vassell",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "09:20"
+            },
+            "caption": "Devin Vassell turnover: bad pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "09:20"
+            },
+            "caption": "Michael Porter Jr. steals the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "11:30"
+            },
+            "caption": "Michael Porter Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "12:30"
+            },
+            "caption": "Michael Porter Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "18:50"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:50",
+                "end": "19:40"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Nikola Jokić",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "19:40",
+                "end": "22:20"
+            },
+            "caption": "Nikola Jokić is fouled on a layup attempt."
+        }
+    ]
+}

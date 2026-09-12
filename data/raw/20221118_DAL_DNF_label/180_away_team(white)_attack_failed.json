@@ -1,0 +1,96 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_180_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Davon Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Davon Reed dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Davon Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "01:20"
+            },
+            "caption": "Davon Reed makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:30"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Davon Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "03:40"
+            },
+            "caption": "Davon Reed makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Vlatko Čančar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "04:20"
+            },
+            "caption": "Vlatko Čančar makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "06:30"
+            },
+            "caption": "Christian Braun holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Christian Braun",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "08:10"
+            },
+            "caption": "Christian Braun misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "09:10"
+            },
+            "caption": "Spencer Dinwiddie gets the defensive rebound."
+        }
+    ]
+}

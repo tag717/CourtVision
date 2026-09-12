@@ -1,0 +1,107 @@
+{
+    "video_id": "20250331_CHA_UTA",
+    "possession_id": "poss_22_away_team(blue)_attack_failed",
+    "home_team": "CHA",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Isaiah Collier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Isaiah Collier dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Isaiah Collier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:50"
+            },
+            "caption": "Isaiah Collier makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "KJ Martin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "03:30"
+            },
+            "caption": "KJ Martin makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Johnny Juzang",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "05:40"
+            },
+            "caption": "Johnny Juzang dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Johnny Juzang",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:40"
+            },
+            "caption": "Johnny Juzang makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Kyle Filipowski",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "08:40"
+            },
+            "caption": "Kyle Filipowski misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Josh Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "10:30"
+            },
+            "caption": "Josh Green gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Josh Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:30"
+            },
+            "caption": "Josh Green makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Seth Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "13:00"
+            },
+            "caption": "Seth Curry dribbles the ball."
+        }
+    ]
+}

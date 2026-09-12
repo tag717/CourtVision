@@ -1,0 +1,217 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_10_away_team(gray)_attack_failed",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:10"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "10:00"
+            },
+            "caption": "Anthony Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jaden McDaniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:30"
+            },
+            "caption": "Jaden McDaniels makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "12:40"
+            },
+            "caption": "Julius Randle dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Julius Randle",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "15:00"
+            },
+            "caption": "Julius Randle misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "OffensiveRebound",
+            "player": "Jaden McDaniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "18:10"
+            },
+            "caption": "Jaden McDaniels gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Jaden McDaniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:20",
+                "end": "19:20"
+            },
+            "caption": "Jaden McDaniels dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Jaden McDaniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:30",
+                "end": "20:00"
+            },
+            "caption": "Jaden McDaniels makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "Anthony Edwards",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "20:30",
+                "end": "22:20"
+            },
+            "caption": "Anthony Edwards misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "OffensiveRebound",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:20",
+                "end": "25:40"
+            },
+            "caption": "Julius Randle gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "25:40",
+                "end": "26:10"
+            },
+            "caption": "Julius Randle dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "26:40",
+                "end": "27:20"
+            },
+            "caption": "Julius Randle makes a pass."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "3ptShot",
+            "player": "Mike Conley",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "27:30",
+                "end": "29:10"
+            },
+            "caption": "Mike Conley misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "OffensiveRebound",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "29:10",
+                "end": "31:50"
+            },
+            "caption": "Anthony Edwards gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "31:50",
+                "end": "33:20"
+            },
+            "caption": "Anthony Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_16",
+            "event_label": "PassBall",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "34:30",
+                "end": "35:10"
+            },
+            "caption": "Julius Randle makes a pass."
+        },
+        {
+            "event_id": "ev_17",
+            "event_label": "3ptShot",
+            "player": "Jaden McDaniels",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "35:40",
+                "end": "37:20"
+            },
+            "caption": "Jaden McDaniels misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_18",
+            "event_label": "DefensiveRebound",
+            "player": "LeBron James",
+            "result": "success",
+            "timestamp_video": {
+                "start": "37:20",
+                "end": "38:10"
+            },
+            "caption": "LeBron James gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_19",
+            "event_label": "Dribble",
+            "player": "LeBron James",
+            "result": "success",
+            "timestamp_video": {
+                "start": "39:30",
+                "end": "40:00"
+            },
+            "caption": "LeBron James dribbles the ball."
+        }
+    ]
+}

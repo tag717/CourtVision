@@ -1,0 +1,96 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_190_away_team(black)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Donovan Clingan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "01:40"
+            },
+            "caption": "Donovan Clingan inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "08:40"
+            },
+            "caption": "Shaedon Sharpe dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:10"
+            },
+            "caption": "Shaedon Sharpe makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Donovan Clingan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "11:50"
+            },
+            "caption": "Donovan Clingan holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Donovan Clingan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "12:40"
+            },
+            "caption": "Donovan Clingan dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "HandOff",
+            "player": "Donovan Clingan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "13:30"
+            },
+            "caption": "Donovan Clingan hands off the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Shaedon Sharpe",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "16:20"
+            },
+            "caption": "Shaedon Sharpe is fouled while dribbling."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Steal",
+            "player": "Caris LeVert",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "16:50"
+            },
+            "caption": "Caris LeVert is called for a foul on a steal attempt."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_106_away_team(black)_freethrow_successed",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Kyrie Irving",
+            "result": "made",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:10"
+            },
+            "caption": "Kyrie Irving makes free throw."
+        }
+    ]
+}

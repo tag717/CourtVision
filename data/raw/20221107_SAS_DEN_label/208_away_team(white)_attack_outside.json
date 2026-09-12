@@ -1,0 +1,74 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_208_away_team(white)_attack_outside",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "15:10"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "15:40"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "2ptShot",
+            "player": "Nikola Jokić",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "18:10"
+            },
+            "caption": "Nikola Jokić misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "OffensiveRebound",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:10",
+                "end": "19:20"
+            },
+            "caption": "Aaron Gordon gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "20:20"
+            },
+            "caption": "Aaron Gordon makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "20:20",
+                "end": "22:10"
+            },
+            "caption": "Kentavious Caldwell-Pope turnover: out of bounds lost ball."
+        }
+    ]
+}

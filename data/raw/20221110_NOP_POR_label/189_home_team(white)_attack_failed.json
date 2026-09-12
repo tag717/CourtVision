@@ -1,0 +1,74 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_189_home_team(white)_attack_failed",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Devonte' Graham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Devonte' Graham dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Devonte' Graham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:10"
+            },
+            "caption": "Devonte' Graham makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Trey Murphy III",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "07:00"
+            },
+            "caption": "Trey Murphy III misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Nassir Little",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:20"
+            },
+            "caption": "Nassir Little gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Nassir Little",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:10"
+            },
+            "caption": "Nassir Little makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Drew Eubanks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "09:10"
+            },
+            "caption": "Drew Eubanks makes a pass."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_197_away_team(blue)_attack_timeout",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Kobe Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:40"
+            },
+            "caption": "Kobe Brown makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Drew Eubanks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "02:50"
+            },
+            "caption": "Drew Eubanks dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Drew Eubanks",
+            "result": "timeout",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "03:30"
+            },
+            "caption": "Drew Eubanks passes the ball and calls a timeout."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_125_away_team(white)_attack_foul",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:40"
+            },
+            "caption": "Ja Morant is fouled while dribbling."
+        }
+    ]
+}

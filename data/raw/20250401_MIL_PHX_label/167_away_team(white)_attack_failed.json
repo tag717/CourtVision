@@ -1,0 +1,63 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_167_away_team(white)_attack_failed",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:10",
+                "end": "01:30"
+            },
+            "caption": "Tyus Jones inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "12:20"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "12:50"
+            },
+            "caption": "Devin Booker makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Tyus Jones",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:40"
+            },
+            "caption": "Tyus Jones misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:40",
+                "end": "16:50"
+            },
+            "caption": "Unknown Player gets the defensive rebound."
+        }
+    ]
+}

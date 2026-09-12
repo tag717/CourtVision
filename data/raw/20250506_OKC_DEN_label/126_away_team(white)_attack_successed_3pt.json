@@ -1,0 +1,41 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_126_away_team(white)_attack_successed_3pt",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "11:20"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "15:30"
+            },
+            "caption": "Nikola Jokić makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Christian Braun",
+            "result": "made",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "17:30"
+            },
+            "caption": "Christian Braun makes 3-pt jump shot."
+        }
+    ]
+}

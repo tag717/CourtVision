@@ -1,0 +1,30 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_141_home_team(red)_attack_befouled(1)",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:00"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Trae Young",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:10"
+            },
+            "caption": "Trae Young is fouled on a layup attempt."
+        }
+    ]
+}

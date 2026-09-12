@@ -1,0 +1,30 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_41_away_team(red)_attack_foul",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "HandOff",
+            "player": "Brandon Ingram",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:20"
+            },
+            "caption": "Brandon Ingram hands off the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jose Alvarado",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "03:50"
+            },
+            "caption": "Jose Alvarado is fouled while dribbling."
+        }
+    ]
+}

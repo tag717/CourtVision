@@ -1,0 +1,41 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_67_home_team(white)_attack_failed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:50"
+            },
+            "caption": "Jayson Tatum dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Jayson Tatum",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "10:40"
+            },
+            "caption": "Jayson Tatum misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "12:00"
+            },
+            "caption": "P.J. Washington gets the defensive rebound."
+        }
+    ]
+}

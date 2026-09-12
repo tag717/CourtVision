@@ -1,0 +1,107 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_9_home_team(blue)_steal&fastbreak_befouled",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:20"
+            },
+            "caption": "Tobias Harris dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:10"
+            },
+            "caption": "Tobias Harris makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "Kai Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "09:00"
+            },
+            "caption": "Kai Jones steals the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Kai Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:20"
+            },
+            "caption": "Kai Jones makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Naji Marshall",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:20"
+            },
+            "caption": "Naji Marshall makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "13:10"
+            },
+            "caption": "P.J. Washington dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "P.J. Washington",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "14:20"
+            },
+            "caption": "P.J. Washington misses layup."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "OffensiveRebound",
+            "player": "Kai Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "14:30"
+            },
+            "caption": "Kai Jones gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dunk",
+            "player": "Kai Jones",
+            "result": "made",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "15:10"
+            },
+            "caption": "Kai Jones makes dunk."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_193_home_team(blue)_attack_successed_3pt",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Brandon Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:30"
+            },
+            "caption": "Brandon Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Brandon Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "06:00"
+            },
+            "caption": "Brandon Williams makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "P.J. Washington",
+            "result": "made",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:30"
+            },
+            "caption": "P.J. Washington makes 3-pt jump shot."
+        }
+    ]
+}

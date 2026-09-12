@@ -1,0 +1,85 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_166_home_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:00"
+            },
+            "caption": "Jimmy Butler dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "11:00"
+            },
+            "caption": "Jimmy Butler makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Moses Moody",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:20"
+            },
+            "caption": "Moses Moody holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Moses Moody",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "13:20"
+            },
+            "caption": "Moses Moody makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "16:00"
+            },
+            "caption": "Jimmy Butler holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "19:20"
+            },
+            "caption": "Jimmy Butler dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Jimmy Butler",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "22:00"
+            },
+            "caption": "Jimmy Butler turnover: bad pass."
+        }
+    ]
+}

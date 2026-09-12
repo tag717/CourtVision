@@ -1,0 +1,63 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_57_away_team (white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Jalen Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:20"
+            },
+            "caption": "Jalen Williams makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Aleksej Pokusevski",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:00"
+            },
+            "caption": "Aleksej Pokusevski misses layup."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PutBack",
+            "player": "Ousmane Dieng",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:20"
+            },
+            "caption": "Ousmane Dieng misses putback layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "AJ Griffin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "07:50"
+            },
+            "caption": "AJ Griffin gets the defensive rebound."
+        }
+    ]
+}

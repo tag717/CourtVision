@@ -1,0 +1,19 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_199_away_team(white)_freethrow_successed",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:30"
+            },
+            "caption": "Shai Gilgeous-Alexander makes free throw."
+        }
+    ]
+}

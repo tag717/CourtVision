@@ -1,0 +1,41 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_188_home_team(white)_attack_failed",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Tyrese Haliburton",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "06:20"
+            },
+            "caption": "Tyrese Haliburton misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "06:30"
+            },
+            "caption": "Michael Porter Jr. gets the defensive rebound."
+        }
+    ]
+}

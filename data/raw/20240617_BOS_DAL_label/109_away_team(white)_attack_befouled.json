@@ -1,0 +1,30 @@
+{
+    "video_id": "20240617_BOS_DAL",
+    "possession_id": "poss_109_away_team(white)_attack_befouled",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Kyrie Irving",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "04:00"
+            },
+            "caption": "Kyrie Irving is fouled on a layup attempt."
+        }
+    ]
+}

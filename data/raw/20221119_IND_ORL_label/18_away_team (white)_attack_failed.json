@@ -1,0 +1,41 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_18_away_team (white)_attack_failed",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "01:20"
+            },
+            "caption": "Jalen Suggs makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Franz Wagner",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:50"
+            },
+            "caption": "Franz Wagner misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "04:00"
+            },
+            "caption": "Buddy Hield gets the defensive rebound."
+        }
+    ]
+}

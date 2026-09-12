@@ -1,0 +1,85 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_152_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Payton Pritchard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Payton Pritchard dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Payton Pritchard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:10"
+            },
+            "caption": "Payton Pritchard makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Luke Kornet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "04:00"
+            },
+            "caption": "Luke Kornet holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Luke Kornet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "04:50"
+            },
+            "caption": "Luke Kornet makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Svi Mykhailiuk",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "08:30"
+            },
+            "caption": "Svi Mykhailiuk dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Svi Mykhailiuk",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "10:20"
+            },
+            "caption": "Svi Mykhailiuk misses layup."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Dwight Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:00"
+            },
+            "caption": "Dwight Powell gets the defensive rebound."
+        }
+    ]
+}

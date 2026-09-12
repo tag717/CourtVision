@@ -1,0 +1,107 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_82_away_team(blue)_steal&fastbreak_successed_2pt",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "D'Angelo Russell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:30"
+            },
+            "caption": "D'Angelo Russell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "D'Angelo Russell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:20"
+            },
+            "caption": "D'Angelo Russell makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "06:00"
+            },
+            "caption": "Anthony Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "D'Angelo Russell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:50"
+            },
+            "caption": "D'Angelo Russell dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "D'Angelo Russell",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "10:30"
+            },
+            "caption": "D'Angelo Russell turnover: bad pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Steal",
+            "player": "Evan Fournier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "10:30"
+            },
+            "caption": "Evan Fournier steals the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Evan Fournier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:20"
+            },
+            "caption": "Evan Fournier dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Evan Fournier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:20"
+            },
+            "caption": "Evan Fournier makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dunk",
+            "player": "Jericho Sims",
+            "result": "made",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "15:00"
+            },
+            "caption": "Jericho Sims makes dunk."
+        }
+    ]
+}

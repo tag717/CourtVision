@@ -1,0 +1,162 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_178_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "De'Aaron Fox dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:10"
+            },
+            "caption": "De'Aaron Fox makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Malik Monk",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "03:40"
+            },
+            "caption": "Malik Monk holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Malik Monk",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "04:50"
+            },
+            "caption": "Malik Monk dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Malik Monk",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "06:10"
+            },
+            "caption": "Malik Monk misses layup."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Terence Davis",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "08:30"
+            },
+            "caption": "Terence Davis misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "OffensiveRebound",
+            "player": "Keegan Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "08:40"
+            },
+            "caption": "Keegan Murray gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Keegan Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "10:00"
+            },
+            "caption": "Keegan Murray makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "10:30"
+            },
+            "caption": "De'Aaron Fox makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Hold",
+            "player": "Malik Monk",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:20"
+            },
+            "caption": "Malik Monk holds the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "3ptShot",
+            "player": "Malik Monk",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "13:10"
+            },
+            "caption": "Malik Monk misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "OffensiveRebound",
+            "player": "Terence Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "14:10"
+            },
+            "caption": "Terence Davis gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "2ptShot",
+            "player": "Terence Davis",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "15:40"
+            },
+            "caption": "Terence Davis misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "DefensiveRebound",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "16:40"
+            },
+            "caption": "Draymond Green gets the defensive rebound."
+        }
+    ]
+}

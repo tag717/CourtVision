@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_172_away_team(white)_attack_outside",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Bruce Brown inbounds the ball."
+        }
+    ]
+}

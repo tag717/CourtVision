@@ -1,0 +1,140 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_212_home_team(white)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Nathan Knight",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Nathan Knight dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "04:40"
+            },
+            "caption": "Naz Reid dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "05:30"
+            },
+            "caption": "Naz Reid makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "09:00"
+            },
+            "caption": "Jordan McLaughlin holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "11:20"
+            },
+            "caption": "Jordan McLaughlin dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:30"
+            },
+            "caption": "Jordan McLaughlin makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Austin Rivers",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "14:20"
+            },
+            "caption": "Austin Rivers dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Austin Rivers",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "14:50"
+            },
+            "caption": "Austin Rivers makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "16:40"
+            },
+            "caption": "Jordan McLaughlin dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:40",
+                "end": "17:20"
+            },
+            "caption": "Jordan McLaughlin makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Austin Rivers",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "20:00"
+            },
+            "caption": "Austin Rivers dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Layup",
+            "player": "Austin Rivers",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "23:00"
+            },
+            "caption": "Austin Rivers misses layup."
+        }
+    ]
+}

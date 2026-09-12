@@ -1,0 +1,19 @@
+{
+    "video_id": "20250331_CHA_UTA",
+    "possession_id": "poss_34_home_team(white)_attack_outside",
+    "home_team": "CHA",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Nick Smith Jr.",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "03:00"
+            },
+            "caption": "Nick Smith Jr. turnover: pass out of bounds."
+        }
+    ]
+}

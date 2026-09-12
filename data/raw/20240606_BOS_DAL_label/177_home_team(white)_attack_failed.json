@@ -1,0 +1,74 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_177_home_team(white)_attack_failed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:10"
+            },
+            "caption": "Derrick White dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:00"
+            },
+            "caption": "Derrick White makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Al Horford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "07:00"
+            },
+            "caption": "Al Horford holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Al Horford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:50"
+            },
+            "caption": "Al Horford makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Jayson Tatum",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "09:50"
+            },
+            "caption": "Jayson Tatum misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Josh Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "11:00"
+            },
+            "caption": "Josh Green gets the defensive rebound."
+        }
+    ]
+}

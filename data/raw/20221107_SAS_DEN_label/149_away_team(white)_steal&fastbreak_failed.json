@@ -1,0 +1,96 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_149_away_team(white)_steal&fastbreak_failed",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Tre Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:00"
+            },
+            "caption": "Tre Jones makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "07:10"
+            },
+            "caption": "Josh Richardson dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:20"
+            },
+            "caption": "Josh Richardson makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Doug McDermott",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "10:50"
+            },
+            "caption": "Doug McDermott dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "HandOff",
+            "player": "Doug McDermott",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "11:20"
+            },
+            "caption": "Doug McDermott hands off the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "15:00"
+            },
+            "caption": "Tre Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Tre Jones",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "17:00"
+            },
+            "caption": "Tre Jones turnover: bad pass."
+        }
+    ]
+}

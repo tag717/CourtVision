@@ -1,0 +1,140 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_113_away_team (white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Isaiah Joe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:40"
+            },
+            "caption": "Isaiah Joe dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Isaiah Joe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "02:20"
+            },
+            "caption": "Isaiah Joe makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Luguentz Dort",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:20"
+            },
+            "caption": "Luguentz Dort dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Luguentz Dort",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:00"
+            },
+            "caption": "Luguentz Dort hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Ousmane Dieng",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "04:50"
+            },
+            "caption": "Ousmane Dieng dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Ousmane Dieng",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "05:40"
+            },
+            "caption": "Ousmane Dieng makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Aleksej Pokusevski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:30"
+            },
+            "caption": "Aleksej Pokusevski dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Aleksej Pokusevski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:10"
+            },
+            "caption": "Aleksej Pokusevski makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Isaiah Joe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:50"
+            },
+            "caption": "Isaiah Joe dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Isaiah Joe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:20"
+            },
+            "caption": "Isaiah Joe makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "3ptShot",
+            "player": "Luguentz Dort",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "12:40"
+            },
+            "caption": "Luguentz Dort misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "DefensiveRebound",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "14:00"
+            },
+            "caption": "Trae Young gets the defensive rebound."
+        }
+    ]
+}

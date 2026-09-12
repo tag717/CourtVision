@@ -1,0 +1,107 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_1_home_team(black)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Clint Capela",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "04:30"
+            },
+            "caption": "Clint Capela dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Clint Capela",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:20"
+            },
+            "caption": "Clint Capela hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jalen Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:20"
+            },
+            "caption": "Jalen Johnson makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Clint Capela",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:20"
+            },
+            "caption": "Clint Capela makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "09:50"
+            },
+            "caption": "Trae Young makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "13:30"
+            },
+            "caption": "Dejounte Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:30"
+            },
+            "caption": "Dejounte Murray makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "17:00"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Layup",
+            "player": "Trae Young",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "19:00"
+            },
+            "caption": "Trae Young is fouled on a layup attempt."
+        }
+    ]
+}

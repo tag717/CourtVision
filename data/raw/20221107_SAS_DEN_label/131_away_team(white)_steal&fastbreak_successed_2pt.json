@@ -1,0 +1,129 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_131_away_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:10"
+            },
+            "caption": "Tre Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "06:50"
+            },
+            "caption": "Tre Jones makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "09:50"
+            },
+            "caption": "Devin Vassell makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jakob Poeltl",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "16:00"
+            },
+            "caption": "Jakob Poeltl dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jakob Poeltl",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "16:40"
+            },
+            "caption": "Jakob Poeltl makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Keldon Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:40",
+                "end": "17:30"
+            },
+            "caption": "Keldon Johnson dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Keldon Johnson",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "17:30",
+                "end": "19:00"
+            },
+            "caption": "Keldon Johnson turnover: bad pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Steal",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "19:20"
+            },
+            "caption": "Nikola Jokić steals the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "20:30"
+            },
+            "caption": "Nikola Jokić makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:30",
+                "end": "21:10"
+            },
+            "caption": "Kentavious Caldwell-Pope dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Layup",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "made",
+            "timestamp_video": {
+                "start": "21:10",
+                "end": "22:50"
+            },
+            "caption": "Kentavious Caldwell-Pope makes layup."
+        }
+    ]
+}

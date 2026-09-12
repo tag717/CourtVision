@@ -1,0 +1,19 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_121_away_team(blue)_freethrow_successed",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Kawhi Leonard",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Kawhi Leonard makes free throw."
+        }
+    ]
+}

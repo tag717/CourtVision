@@ -1,0 +1,52 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_31_away_team(white)_attack_successed_3pt",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tari Eason",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:40"
+            },
+            "caption": "Tari Eason dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tari Eason",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "05:30"
+            },
+            "caption": "Tari Eason makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jalen Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "09:00"
+            },
+            "caption": "Jalen Green dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Jalen Green",
+            "result": "made",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "11:00"
+            },
+            "caption": "Jalen Green makes 3-pt jump shot."
+        }
+    ]
+}

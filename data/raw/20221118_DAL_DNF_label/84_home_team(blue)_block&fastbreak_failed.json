@@ -1,0 +1,140 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_84_home_team(blue)_block&fastbreak_failed",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "12:10"
+            },
+            "caption": "Bruce Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:20"
+            },
+            "caption": "Bruce Brown makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jeff Green",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:10"
+            },
+            "caption": "Jeff Green turnover: lost ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Steal",
+            "player": "Reggie Bullock",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "15:10"
+            },
+            "caption": "Reggie Bullock steals the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Reggie Bullock",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "18:10"
+            },
+            "caption": "Reggie Bullock dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Reggie Bullock",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:10",
+                "end": "18:40"
+            },
+            "caption": "Reggie Bullock makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:40",
+                "end": "19:30"
+            },
+            "caption": "Spencer Dinwiddie dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:30",
+                "end": "21:10"
+            },
+            "caption": "Spencer Dinwiddie makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:10",
+                "end": "26:40"
+            },
+            "caption": "Luka Dončić dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Layup",
+            "player": "Luka Dončić",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "26:40",
+                "end": "27:30"
+            },
+            "caption": "Luka Dončić misses layup."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "DefensiveRebound",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "27:30",
+                "end": "29:20"
+            },
+            "caption": "Bruce Brown gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Dribble",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "29:20",
+                "end": "31:00"
+            },
+            "caption": "Bruce Brown dribbles the ball."
+        }
+    ]
+}

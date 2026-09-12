@@ -1,0 +1,63 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_229_away_team(red)_attack_successed_2pt",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Trendon Watford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Trendon Watford inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "19:30"
+            },
+            "caption": "Anfernee Simons dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:30",
+                "end": "20:50"
+            },
+            "caption": "Anfernee Simons makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Kevin Knox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:50",
+                "end": "22:50"
+            },
+            "caption": "Kevin Knox dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Kevin Knox",
+            "result": "made",
+            "timestamp_video": {
+                "start": "22:50",
+                "end": "24:20"
+            },
+            "caption": "Kevin Knox makes layup."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "video_id": "20240612_DAL_BOS",
+    "possession_id": "poss_148_home_team(black)_attack_befouled",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Luka Dončić makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Derrick Jones Jr.",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "03:30"
+            },
+            "caption": "Derrick Jones Jr. is fouled while dribbling."
+        }
+    ]
+}

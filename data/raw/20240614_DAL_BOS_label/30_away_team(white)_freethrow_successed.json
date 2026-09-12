@@ -1,0 +1,19 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_30_away_team(white)_freethrow_successed",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Xavier Tillman Sr.",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Xavier Tillman Sr. makes free throw."
+        }
+    ]
+}

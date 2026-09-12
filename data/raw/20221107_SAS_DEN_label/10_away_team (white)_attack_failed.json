@@ -1,0 +1,63 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_10_away_team (white)_attack_failed",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:10"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "08:50"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:20"
+            },
+            "caption": "Nikola Jokić makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "12:50"
+            },
+            "caption": "Kentavious Caldwell-Pope misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:50",
+                "end": "14:00"
+            },
+            "caption": "Devin Vassell gets the defensive rebound."
+        }
+    ]
+}

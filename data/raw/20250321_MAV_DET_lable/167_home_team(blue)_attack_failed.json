@@ -1,0 +1,30 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_167_home_team(blue)_attack_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "3ptShot",
+            "player": "P.J. Washington",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "P.J. Washington misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "DefensiveRebound",
+            "player": "Ron Holland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:20"
+            },
+            "caption": "Ron Holland gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "video_id": "20240524_MIN_DAL",
+    "possession_id": "poss_80_away_team(black)_freethrow_failed",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Tim Hardaway Jr.",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "01:30"
+            },
+            "caption": "Tim Hardaway Jr. misses free throw."
+        }
+    ]
+}

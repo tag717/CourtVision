@@ -1,0 +1,162 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_204_home_team(blue)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Frank Ntilikina",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Frank Ntilikina inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "01:40"
+            },
+            "caption": "Kyrie Irving makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Frank Ntilikina",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "04:40"
+            },
+            "caption": "Frank Ntilikina dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Frank Ntilikina",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "05:20"
+            },
+            "caption": "Frank Ntilikina makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Dāvis Bertāns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "05:50"
+            },
+            "caption": "Dāvis Bertāns dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Dāvis Bertāns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "08:10"
+            },
+            "caption": "Dāvis Bertāns makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "JaVale McGee",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "08:50"
+            },
+            "caption": "JaVale McGee dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "JaVale McGee",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:10"
+            },
+            "caption": "JaVale McGee makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Theo Pinson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:40"
+            },
+            "caption": "Theo Pinson makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "12:10"
+            },
+            "caption": "Kyrie Irving makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Dāvis Bertāns",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:30"
+            },
+            "caption": "Dāvis Bertāns makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:10"
+            },
+            "caption": "Kyrie Irving makes a pass."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "3ptShot",
+            "player": "Dāvis Bertāns",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "16:40"
+            },
+            "caption": "Dāvis Bertāns misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "DefensiveRebound",
+            "player": "Vlatko Čančar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:40",
+                "end": "17:30"
+            },
+            "caption": "Vlatko Čančar gets the defensive rebound."
+        }
+    ]
+}

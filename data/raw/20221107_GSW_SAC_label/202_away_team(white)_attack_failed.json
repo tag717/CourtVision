@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_202_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Malik Monk",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:40"
+            },
+            "caption": "Malik Monk dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Malik Monk",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:10"
+            },
+            "caption": "Malik Monk misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Kevon Looney",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:20"
+            },
+            "caption": "Kevon Looney gets the defensive rebound."
+        }
+    ]
+}

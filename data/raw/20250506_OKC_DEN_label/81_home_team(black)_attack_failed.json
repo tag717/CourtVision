@@ -1,0 +1,74 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_81_home_team(black)_attack_failed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Cason Wallace",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Cason Wallace inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Aaron Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "03:30"
+            },
+            "caption": "Aaron Wiggins dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Aaron Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:50"
+            },
+            "caption": "Aaron Wiggins makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "08:20"
+            },
+            "caption": "Shai Gilgeous-Alexander dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "10:30"
+            },
+            "caption": "Shai Gilgeous-Alexander misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:50"
+            },
+            "caption": "Nikola Jokić gets the defensive rebound."
+        }
+    ]
+}

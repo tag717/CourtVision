@@ -1,0 +1,129 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_195_away_team(blue)_steal&fastbreak_failed",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Austin Rivers",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Austin Rivers dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Austin Rivers",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:30"
+            },
+            "caption": "Austin Rivers makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Taurean Prince",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "07:40"
+            },
+            "caption": "Taurean Prince makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Austin Rivers",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "11:10"
+            },
+            "caption": "Austin Rivers dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Austin Rivers",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:10"
+            },
+            "caption": "Austin Rivers makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Karl-Anthony Towns",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "15:40"
+            },
+            "caption": "Karl-Anthony Towns turnover: bad pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Steal",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "15:40"
+            },
+            "caption": "Julius Randle steals the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "18:20"
+            },
+            "caption": "Julius Randle dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:20",
+                "end": "19:00"
+            },
+            "caption": "Julius Randle makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "36:30"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "3ptShot",
+            "player": "RJ Barrett",
+            "result": "timeout",
+            "timestamp_video": {
+                "start": "38:20",
+                "end": "42:00"
+            },
+            "caption": "RJ Barrett calls a timeout before a 3-pt shot."
+        }
+    ]
+}

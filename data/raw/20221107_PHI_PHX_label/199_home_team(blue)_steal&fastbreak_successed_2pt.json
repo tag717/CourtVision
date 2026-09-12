@@ -1,0 +1,129 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_199_home_team(blue)_steal&fastbreak_successed_2pt",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cameron Payne",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:30"
+            },
+            "caption": "Cameron Payne dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cameron Payne",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:20"
+            },
+            "caption": "Cameron Payne makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Deandre Ayton",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "07:50"
+            },
+            "caption": "Deandre Ayton misses layup."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "13:50"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Steal",
+            "player": "Georges Niang.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:40",
+                "end": "15:30"
+            },
+            "caption": "Georges Niang. steals the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Georges Niang.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "16:10"
+            },
+            "caption": "Georges Niang. makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "22:30"
+            },
+            "caption": "Tyrese Maxey dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:30",
+                "end": "23:20"
+            },
+            "caption": "Tyrese Maxey makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Georges Niang.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:20",
+                "end": "24:30"
+            },
+            "caption": "Georges Niang. makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "24:30",
+                "end": "26:20"
+            },
+            "caption": "Tobias Harris dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Layup",
+            "player": "Tobias Harris",
+            "result": "made",
+            "timestamp_video": {
+                "start": "26:20",
+                "end": "28:10"
+            },
+            "caption": "Tobias Harris makes layup."
+        }
+    ]
+}

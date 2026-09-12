@@ -1,0 +1,685 @@
+{
+  "num_events": 31928,
+  "num_videos": 32,
+  "num_possessions": 4918,
+  "num_shot_events": 6033,
+  "event_counts": {
+    "2ptShot": 853,
+    "3ptShot": 2152,
+    "Block": 114,
+    "DefensiveRebound": 1580,
+    "Dribble": 10708,
+    "Dunk": 291,
+    "FreeThrow": 599,
+    "HandOff": 562,
+    "Hold": 1568,
+    "InboundPass": 527,
+    "JumpBall": 13,
+    "Layup": 2040,
+    "OffensiveRebound": 413,
+    "PassBall": 10046,
+    "PutBack": 98,
+    "Putback": 22,
+    "Steal": 338,
+    "nan": 4
+  },
+  "result_counts": {
+    "fouled": 967,
+    "left": 5,
+    "made": 2813,
+    "missed": 2600,
+    "nan": 4,
+    "outside": 315,
+    "right": 8,
+    "score": 1,
+    "success": 24859,
+    "timeout": 55,
+    "turnover": 301
+  },
+  "event_result_counts": {
+    "2ptShot | fouled": 51,
+    "2ptShot | made": 355,
+    "2ptShot | missed": 436,
+    "2ptShot | outside": 7,
+    "2ptShot | timeout": 4,
+    "3ptShot | fouled": 35,
+    "3ptShot | made": 790,
+    "3ptShot | missed": 1273,
+    "3ptShot | outside": 38,
+    "3ptShot | timeout": 16,
+    "Block | fouled": 25,
+    "Block | success": 89,
+    "DefensiveRebound | fouled": 8,
+    "DefensiveRebound | outside": 1,
+    "DefensiveRebound | success": 1571,
+    "Dribble | fouled": 305,
+    "Dribble | outside": 91,
+    "Dribble | success": 10180,
+    "Dribble | timeout": 20,
+    "Dribble | turnover": 112,
+    "Dunk | fouled": 16,
+    "Dunk | made": 255,
+    "Dunk | missed": 18,
+    "Dunk | outside": 1,
+    "Dunk | timeout": 1,
+    "FreeThrow | made": 468,
+    "FreeThrow | missed": 131,
+    "HandOff | success": 562,
+    "Hold | fouled": 42,
+    "Hold | success": 1523,
+    "Hold | timeout": 3,
+    "InboundPass | outside": 3,
+    "InboundPass | success": 519,
+    "InboundPass | timeout": 1,
+    "InboundPass | turnover": 4,
+    "JumpBall | left": 5,
+    "JumpBall | right": 8,
+    "Layup | fouled": 423,
+    "Layup | made": 870,
+    "Layup | missed": 717,
+    "Layup | outside": 26,
+    "Layup | timeout": 4,
+    "OffensiveRebound | fouled": 12,
+    "OffensiveRebound | outside": 1,
+    "OffensiveRebound | success": 399,
+    "OffensiveRebound | timeout": 1,
+    "PassBall | fouled": 9,
+    "PassBall | outside": 145,
+    "PassBall | score": 1,
+    "PassBall | success": 9701,
+    "PassBall | timeout": 5,
+    "PassBall | turnover": 185,
+    "PutBack | fouled": 15,
+    "PutBack | made": 59,
+    "PutBack | missed": 22,
+    "PutBack | outside": 2,
+    "Putback | fouled": 3,
+    "Putback | made": 16,
+    "Putback | missed": 3,
+    "Steal | fouled": 23,
+    "Steal | success": 315,
+    "nan | nan": 4
+  },
+  "shot_type_counts": {
+    "2ptShot": 853,
+    "3ptShot": 2152,
+    "Dunk": 291,
+    "FreeThrow": 599,
+    "Layup": 2040,
+    "PutBack": 98
+  },
+  "shot_outcome_counts": {
+    "FOUL": 540,
+    "MADE": 2797,
+    "MISSED": 2671,
+    "UNKNOWN": 25
+  },
+  "shot_type_outcome_counts": {
+    "2ptShot | FOUL": 51,
+    "2ptShot | MADE": 355,
+    "2ptShot | MISSED": 443,
+    "2ptShot | UNKNOWN": 4,
+    "3ptShot | FOUL": 35,
+    "3ptShot | MADE": 790,
+    "3ptShot | MISSED": 1311,
+    "3ptShot | UNKNOWN": 16,
+    "Dunk | FOUL": 16,
+    "Dunk | MADE": 255,
+    "Dunk | MISSED": 19,
+    "Dunk | UNKNOWN": 1,
+    "FreeThrow | MADE": 468,
+    "FreeThrow | MISSED": 131,
+    "Layup | FOUL": 423,
+    "Layup | MADE": 870,
+    "Layup | MISSED": 743,
+    "Layup | UNKNOWN": 4,
+    "PutBack | FOUL": 15,
+    "PutBack | MADE": 59,
+    "PutBack | MISSED": 24
+  },
+  "zero_or_negative_effective_intervals": [
+    {
+      "video_id": "20221107_GSW_SAC",
+      "possession_id": "poss_138_home_team(blue)_attack_failed",
+      "event_id": "ev_1",
+      "event_label": "Dribble",
+      "effective_start_sec": 0.0,
+      "effective_end_sec": 0.0
+    },
+    {
+      "video_id": "20221107_GSW_SAC",
+      "possession_id": "poss_151_home_team(blue)_attack_befouled",
+      "event_id": "ev_10",
+      "event_label": "PutBack",
+      "effective_start_sec": 22.4,
+      "effective_end_sec": 22.4
+    },
+    {
+      "video_id": "20221107_GSW_SAC",
+      "possession_id": "poss_190_home_team(blue)_attack_successed_2pt",
+      "event_id": "ev_2",
+      "event_label": "2ptShot",
+      "effective_start_sec": 8.5,
+      "effective_end_sec": 8.5
+    },
+    {
+      "video_id": "20221107_GSW_SAC",
+      "possession_id": "poss_1_away_team(white) steal&fastbreak_befouled",
+      "event_id": "ev_12",
+      "event_label": "PassBall",
+      "effective_start_sec": 19.2,
+      "effective_end_sec": 19.2
+    },
+    {
+      "video_id": "20221107_GSW_SAC",
+      "possession_id": "poss_204_away_team(white)_attack_befouled",
+      "event_id": "ev_3",
+      "event_label": "Hold",
+      "effective_start_sec": 9.2,
+      "effective_end_sec": 9.2
+    },
+    {
+      "video_id": "20221107_GSW_SAC",
+      "possession_id": "poss_71_away_team(white)_attack_befouled",
+      "event_id": "ev_9",
+      "event_label": "PutBack",
+      "effective_start_sec": 20.0,
+      "effective_end_sec": 20.0
+    },
+    {
+      "video_id": "20221107_MIN_NYK",
+      "possession_id": "poss_31_away_team(blue)_steal&fastbreak_successed_2pt",
+      "event_id": "ev_1",
+      "event_label": "Dribble",
+      "effective_start_sec": 0.0,
+      "effective_end_sec": 0.0
+    },
+    {
+      "video_id": "20221107_MIN_NYK",
+      "possession_id": "poss_67_home_team(white)_attack_failed",
+      "event_id": "ev_1",
+      "event_label": "Dribble",
+      "effective_start_sec": 0.0,
+      "effective_end_sec": 0.0
+    },
+    {
+      "video_id": "20221107_SAS_DEN",
+      "possession_id": "poss_21_away_team (white)_attack_failed",
+      "event_id": "ev_8",
+      "event_label": "DefensiveRebound",
+      "effective_start_sec": 15.3,
+      "effective_end_sec": 15.3
+    },
+    {
+      "video_id": "20221107_SAS_DEN",
+      "possession_id": "poss_76_away_team(white)_attack_successed_2pt",
+      "event_id": "ev_8",
+      "event_label": "PassBall",
+      "effective_start_sec": 12.3,
+      "effective_end_sec": 12.3
+    },
+    {
+      "video_id": "20221118_MEM_OKC",
+      "possession_id": "poss_118_home_team(black)_attack_failed",
+      "event_id": "ev_1",
+      "event_label": "Dribble",
+      "effective_start_sec": 0.0,
+      "effective_end_sec": 0.0
+    },
+    {
+      "video_id": "20221118_MEM_OKC",
+      "possession_id": "poss_118_home_team(black)_attack_failed",
+      "event_id": "ev_9",
+      "event_label": "nan",
+      "effective_start_sec": 0.0,
+      "effective_end_sec": 0.0
+    },
+    {
+      "video_id": "20221118_MEM_OKC",
+      "possession_id": "poss_118_home_team(black)_attack_failed",
+      "event_id": "ev_10",
+      "event_label": "nan",
+      "effective_start_sec": 0.0,
+      "effective_end_sec": 0.0
+    },
+    {
+      "video_id": "20221118_MEM_OKC",
+      "possession_id": "poss_118_home_team(black)_attack_failed",
+      "event_id": "ev_11",
+      "event_label": "nan",
+      "effective_start_sec": 0.0,
+      "effective_end_sec": 0.0
+    },
+    {
+      "video_id": "20221118_MEM_OKC",
+      "possession_id": "poss_17_home_team(black)_attack_successed_3pt",
+      "event_id": "ev_4",
+      "event_label": "Layup",
+      "effective_start_sec": 5.4,
+      "effective_end_sec": 5.4
+    },
+    {
+      "video_id": "20221118_MEM_OKC",
+      "possession_id": "poss_183_away_team(blue)_steal&fastbreak_successed_2pt",
+      "event_id": "ev_7",
+      "event_label": "Dribble",
+      "effective_start_sec": 9.2,
+      "effective_end_sec": 9.2
+    },
+    {
+      "video_id": "20221119_IND_ORL",
+      "possession_id": "poss_157_home_team(black)_attack_befouled",
+      "event_id": "ev_8",
+      "event_label": "PassBall",
+      "effective_start_sec": 12.0,
+      "effective_end_sec": 12.0
+    },
+    {
+      "video_id": "20221204_DET_MEM",
+      "possession_id": "poss_95_away_team(white)_block&fastbreak_outside",
+      "event_id": "ev_8",
+      "event_label": "Layup",
+      "effective_start_sec": 13.3,
+      "effective_end_sec": 13.3
+    },
+    {
+      "video_id": "20221205_ATL_OKC",
+      "possession_id": "poss_152_home_team(black)_attack_failed",
+      "event_id": "ev_1",
+      "event_label": "Dribble",
+      "effective_start_sec": 0.0,
+      "effective_end_sec": 0.0
+    },
+    {
+      "video_id": "20240528_DAL_MIN",
+      "possession_id": "poss_138_home_team(black)_attack_successed_3pt",
+      "event_id": "ev_9",
+      "event_label": "3ptShot",
+      "effective_start_sec": 19.0,
+      "effective_end_sec": 19.0
+    },
+    {
+      "video_id": "20240612_DAL_BOS",
+      "possession_id": "poss_172_home_team(black)_steal&fastbreak_failed",
+      "event_id": "ev_10",
+      "event_label": "Steal",
+      "effective_start_sec": 15.1,
+      "effective_end_sec": 15.1
+    },
+    {
+      "video_id": "20250331_CHA_UTA",
+      "possession_id": "poss_12_home_team(white)_attack_failed",
+      "event_id": "ev_5",
+      "event_label": "DefensiveRebound",
+      "effective_start_sec": 8.0,
+      "effective_end_sec": 8.0
+    },
+    {
+      "video_id": "20250331_CHA_UTA",
+      "possession_id": "poss_141_away_team(blue)_attack_timeout",
+      "event_id": "ev_3",
+      "event_label": "3ptShot",
+      "effective_start_sec": 14.0,
+      "effective_end_sec": 14.0
+    },
+    {
+      "video_id": "20250331_CHA_UTA",
+      "possession_id": "poss_14_home_team(white)_steal&fastbreak_successed_2pt",
+      "event_id": "ev_2",
+      "event_label": "PassBall",
+      "effective_start_sec": 1.0,
+      "effective_end_sec": 1.0
+    },
+    {
+      "video_id": "20250331_CHA_UTA",
+      "possession_id": "poss_158_home_team(white)_steal&fastbreak_befouled",
+      "event_id": "ev_1",
+      "event_label": "InboundPass",
+      "effective_start_sec": 0.0,
+      "effective_end_sec": 0.0
+    },
+    {
+      "video_id": "20250331_CHA_UTA",
+      "possession_id": "poss_54_away_team(blue)_attack_successed_2pt",
+      "event_id": "ev_4",
+      "event_label": "Dribble",
+      "effective_start_sec": 8.4,
+      "effective_end_sec": 8.4
+    },
+    {
+      "video_id": "20250331_CHA_UTA",
+      "possession_id": "poss_5_home_team(white)_attack_successed_3pt",
+      "event_id": "ev_7",
+      "event_label": "Dribble",
+      "effective_start_sec": 9.4,
+      "effective_end_sec": 9.4
+    },
+    {
+      "video_id": "20250331_CHA_UTA",
+      "possession_id": "poss_5_home_team(white)_attack_successed_3pt",
+      "event_id": "ev_10",
+      "event_label": "3ptShot",
+      "effective_start_sec": 15.0,
+      "effective_end_sec": 15.0
+    },
+    {
+      "video_id": "20250331_CHA_UTA",
+      "possession_id": "poss_71_away_team(blue)_attack_outside",
+      "event_id": "ev_5",
+      "event_label": "OffensiveRebound",
+      "effective_start_sec": 7.4,
+      "effective_end_sec": 7.4
+    },
+    {
+      "video_id": "20250331_CHA_UTA",
+      "possession_id": "poss_74_home_team(white)_attack_failed",
+      "event_id": "ev_3",
+      "event_label": "Layup",
+      "effective_start_sec": 2.0,
+      "effective_end_sec": 2.0
+    },
+    {
+      "video_id": "20250401_ATL_POR",
+      "possession_id": "poss_152_home_team(white)_attack_failed",
+      "event_id": "ev_2",
+      "event_label": "PassBall",
+      "effective_start_sec": 4.0,
+      "effective_end_sec": 4.0
+    },
+    {
+      "video_id": "20250401_ATL_POR",
+      "possession_id": "poss_156_home_team(white)_attack_successed_2pt",
+      "event_id": "ev_5",
+      "event_label": "Layup",
+      "effective_start_sec": 5.1,
+      "effective_end_sec": 5.1
+    },
+    {
+      "video_id": "20250401_ATL_POR",
+      "possession_id": "poss_173_home_team(white)_steal&fastbreak_befouled",
+      "event_id": "ev_6",
+      "event_label": "3ptShot",
+      "effective_start_sec": 6.4,
+      "effective_end_sec": 6.4
+    },
+    {
+      "video_id": "20250401_ATL_POR",
+      "possession_id": "poss_176_home_team(white)_attack_befouled",
+      "event_id": "ev_2",
+      "event_label": "Layup",
+      "effective_start_sec": 6.0,
+      "effective_end_sec": 6.0
+    },
+    {
+      "video_id": "20250401_ATL_POR",
+      "possession_id": "poss_18_home_team(white)_attack_befouled",
+      "event_id": "ev_1",
+      "event_label": "Layup",
+      "effective_start_sec": 0.0,
+      "effective_end_sec": 0.0
+    },
+    {
+      "video_id": "20250401_ATL_POR",
+      "possession_id": "poss_20_away_team(black)_steal&fastbreak_successed_2pt",
+      "event_id": "ev_2",
+      "event_label": "Steal",
+      "effective_start_sec": 2.2,
+      "effective_end_sec": 2.2
+    },
+    {
+      "video_id": "20250401_ATL_POR",
+      "possession_id": "poss_24_away_team(black)_attack_befouled",
+      "event_id": "ev_7",
+      "event_label": "Layup",
+      "effective_start_sec": 12.1,
+      "effective_end_sec": 12.1
+    },
+    {
+      "video_id": "20250401_ATL_POR",
+      "possession_id": "poss_28_away_team(black)_steal&fastbreak_failed",
+      "event_id": "ev_4",
+      "event_label": "PassBall",
+      "effective_start_sec": 8.1,
+      "effective_end_sec": 8.1
+    },
+    {
+      "video_id": "20250401_ATL_POR",
+      "possession_id": "poss_38_home_team(white)_attack_failed",
+      "event_id": "ev_1",
+      "event_label": "InboundPass",
+      "effective_start_sec": 0.0,
+      "effective_end_sec": 0.0
+    },
+    {
+      "video_id": "20250401_ATL_POR",
+      "possession_id": "poss_87_home_team(white)_attack_befouled",
+      "event_id": "ev_7",
+      "event_label": "Layup",
+      "effective_start_sec": 10.1,
+      "effective_end_sec": 10.1
+    },
+    {
+      "video_id": "20250401_ATL_POR",
+      "possession_id": "poss_89_home_team(white)_attack_failed",
+      "event_id": "ev_10",
+      "event_label": "PassBall",
+      "effective_start_sec": 14.1,
+      "effective_end_sec": 14.1
+    },
+    {
+      "video_id": "20250415_GSW_MEM",
+      "possession_id": "poss_30_away_team(blue)_attack_outside",
+      "event_id": "ev_1",
+      "event_label": "Dribble",
+      "effective_start_sec": 0.0,
+      "effective_end_sec": 0.0
+    },
+    {
+      "video_id": "20250415_GSW_MEM",
+      "possession_id": "poss_43_home_team(white)_attack_successed_3pt",
+      "event_id": "ev_6",
+      "event_label": "Hold",
+      "effective_start_sec": 16.0,
+      "effective_end_sec": 16.0
+    },
+    {
+      "video_id": "20250429_GSW_HOU",
+      "possession_id": "poss_122_home_team(black)_attack_befouled",
+      "event_id": "ev_5",
+      "event_label": "Dribble",
+      "effective_start_sec": 8.5,
+      "effective_end_sec": 8.5
+    },
+    {
+      "video_id": "20250506_OKC_DEN",
+      "possession_id": "poss_202_away_team(white)_attack_successed_2pt",
+      "event_id": "ev_4",
+      "event_label": "Dribble",
+      "effective_start_sec": 10.3,
+      "effective_end_sec": 10.3
+    }
+  ],
+  "unknown_shot_outcomes": [
+    {
+      "video_id": "20221107_GSW_SAC",
+      "possession_id": "poss_193_away_team(white)_attack_timeout",
+      "event_id": "ev_14",
+      "shot_type": "2ptShot",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20221107_MIN_NYK",
+      "possession_id": "poss_134_home_team(white)_attack_timeout",
+      "event_id": "ev_13",
+      "shot_type": "Layup",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20221107_MIN_NYK",
+      "possession_id": "poss_195_away_team(blue)_steal&fastbreak_failed",
+      "event_id": "ev_11",
+      "shot_type": "3ptShot",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20221107_MIN_NYK",
+      "possession_id": "poss_202_away_team(blue)_attack_timeout",
+      "event_id": "ev_8",
+      "shot_type": "3ptShot",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20221109_IND_DEN",
+      "possession_id": "poss_118_away_team (black)_attack_failed",
+      "event_id": "ev_2",
+      "shot_type": "3ptShot",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20221109_IND_DEN",
+      "possession_id": "poss_165_away_team(black)_attack_timeout",
+      "event_id": "ev_8",
+      "shot_type": "Layup",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20221109_IND_DEN",
+      "possession_id": "poss_225_home_team(white)_attack_failed",
+      "event_id": "ev_5",
+      "shot_type": "3ptShot",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20221110_NOP_POR",
+      "possession_id": "poss_178_home_team(white)_attack_failed",
+      "event_id": "ev_3",
+      "shot_type": "3ptShot",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20221118_DAL_DNF",
+      "possession_id": "poss_203_away_team(white)_attack_timeout",
+      "event_id": "ev_12",
+      "shot_type": "3ptShot",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20221118_MEM_OKC",
+      "possession_id": "poss_171_away_team(blue)_attack_timeout",
+      "event_id": "ev_11",
+      "shot_type": "3ptShot",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20221118_MEM_OKC",
+      "possession_id": "poss_56_away_team (blue)_attack_failed",
+      "event_id": "ev_2",
+      "shot_type": "3ptShot",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20221204_DET_MEM",
+      "possession_id": "poss_153_home_team(blue)_attack_timeout",
+      "event_id": "ev_4",
+      "shot_type": "Layup",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20240522_MIN_DAL",
+      "possession_id": "poss_107_home_team(white)_attack_timeout",
+      "event_id": "ev_2",
+      "shot_type": "3ptShot",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20240522_MIN_DAL",
+      "possession_id": "poss_161_home_team(white)_attack_timeout",
+      "event_id": "ev_2",
+      "shot_type": "2ptShot",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20240522_MIN_DAL",
+      "possession_id": "poss_56_away_team(black)_attack_failed",
+      "event_id": "ev_2",
+      "shot_type": "3ptShot",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20240524_MIN_DAL",
+      "possession_id": "poss_113_away_team(black)_attack_failed",
+      "event_id": "ev_4",
+      "shot_type": "2ptShot",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20240524_MIN_DAL",
+      "possession_id": "poss_115_away_team(black)_attack_failed",
+      "event_id": "ev_6",
+      "shot_type": "2ptShot",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20240524_MIN_DAL",
+      "possession_id": "poss_171_away_team(black)_attack_failed",
+      "event_id": "ev_2",
+      "shot_type": "3ptShot",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20240524_MIN_DAL",
+      "possession_id": "poss_216_home_team(white)_attack_failed",
+      "event_id": "ev_3",
+      "shot_type": "3ptShot",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20240524_MIN_DAL",
+      "possession_id": "poss_60_away_team(black)_steal&fastbreak_timeout",
+      "event_id": "ev_5",
+      "shot_type": "3ptShot",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20250321_MAV_DET",
+      "possession_id": "poss_108_away_team(white)_attack_failed",
+      "event_id": "ev_5",
+      "shot_type": "3ptShot",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20250321_MAV_DET",
+      "possession_id": "poss_230_home_team(blue)_steal&fastbreak_failed",
+      "event_id": "ev_3",
+      "shot_type": "3ptShot",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20250321_MAV_DET",
+      "possession_id": "poss_53_home_team(blue)_attack_failed",
+      "event_id": "ev_1",
+      "shot_type": "3ptShot",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20250406_ATL_UTA",
+      "possession_id": "poss_150_home_team(red)_attack_timeout",
+      "event_id": "ev_5",
+      "shot_type": "Dunk",
+      "raw_result": "timeout"
+    },
+    {
+      "video_id": "20250425_DET_NYK",
+      "possession_id": "poss_68_away_team(blue)_attack_foul",
+      "event_id": "ev_7",
+      "shot_type": "Layup",
+      "raw_result": "timeout"
+    }
+  ],
+  "parse_errors": [
+    "data\\raw\\20221107_SAS_DEN_label\\192_away_team(white)_attack_successed_2pt.json: data\\raw\\20221107_SAS_DEN_label\\192_away_team(white)_attack_successed_2pt.json: event ev_4 has end < start (8.1 > 0.1)",
+    "data\\raw\\20221119_IND_ORL_label\\122_home_team(black)_attack_successed_2pt.json: data\\raw\\20221119_IND_ORL_label\\122_home_team(black)_attack_successed_2pt.json: event ev_11 has end < start (15.1 > 12.1)",
+    "data\\raw\\20250331_CHA_UTA_label\\52_away_team(blue)_attack_successed_3pt.json: data\\raw\\20250331_CHA_UTA_label\\52_away_team(blue)_attack_successed_3pt.json: event ev_11 has end < start (16.2 > 15.5)",
+    "data\\raw\\20250430_DEN_LAC_label\\152_away_team(blue)_attack_successed_3pt.json: data\\raw\\20250430_DEN_LAC_label\\152_away_team(blue)_attack_successed_3pt.json: event ev_5 has end < start (10.4 > 10.3)"
+  ]
+}

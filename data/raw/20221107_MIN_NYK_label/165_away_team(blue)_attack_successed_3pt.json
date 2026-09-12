@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_165_away_team(blue)_attack_successed_3pt",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:00"
+            },
+            "caption": "Immanuel Quickley dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:30"
+            },
+            "caption": "Immanuel Quickley makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Obi Toppin",
+            "result": "made",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "10:00"
+            },
+            "caption": "Obi Toppin makes 3-pt jump shot."
+        }
+    ]
+}

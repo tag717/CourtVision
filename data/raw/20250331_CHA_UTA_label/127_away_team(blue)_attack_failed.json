@@ -1,0 +1,52 @@
+{
+    "video_id": "20250331_CHA_UTA",
+    "possession_id": "poss_127_away_team(blue)_attack_failed",
+    "home_team": "CHA",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Svi Mykhailiuk",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Svi Mykhailiuk dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Svi Mykhailiuk",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "04:30"
+            },
+            "caption": "Svi Mykhailiuk makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Block",
+            "player": "Jusuf Nurkić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:40"
+            },
+            "caption": "Jusuf Nurkić blocks the shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "DaQuan Jeffries",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:00"
+            },
+            "caption": "DaQuan Jeffries holds the ball."
+        }
+    ]
+}

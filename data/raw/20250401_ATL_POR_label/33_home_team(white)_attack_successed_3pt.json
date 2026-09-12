@@ -1,0 +1,52 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_33_home_team(white)_attack_successed_3pt",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Dyson Daniels inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Onyeka Okongwu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "03:20"
+            },
+            "caption": "Onyeka Okongwu dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "Onyeka Okongwu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "03:30"
+            },
+            "caption": "Onyeka Okongwu hands off the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Vit Krejci",
+            "result": "made",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "05:50"
+            },
+            "caption": "Vit Krejci makes 3-pt jump shot."
+        }
+    ]
+}

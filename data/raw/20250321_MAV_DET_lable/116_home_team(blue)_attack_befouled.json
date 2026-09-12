@@ -1,0 +1,52 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_116_home_team(blue)_attack_befouled",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Marcus Sasser",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:20"
+            },
+            "caption": "Marcus Sasser dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Marcus Sasser",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:10"
+            },
+            "caption": "Marcus Sasser makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "06:20"
+            },
+            "caption": "Spencer Dinwiddie makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Naji Marshall",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "08:10"
+            },
+            "caption": "Naji Marshall is fouled while dribbling."
+        }
+    ]
+}

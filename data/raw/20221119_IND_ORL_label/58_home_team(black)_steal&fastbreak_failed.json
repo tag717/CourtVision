@@ -1,0 +1,206 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_58_home_team(black)_steal&fastbreak_failed",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Terrence Ross",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:20"
+            },
+            "caption": "Terrence Ross dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Terrence Ross",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:20"
+            },
+            "caption": "Terrence Ross makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Caleb Houstan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:40"
+            },
+            "caption": "Caleb Houstan dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Caleb Houstan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:20"
+            },
+            "caption": "Caleb Houstan makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Franz Wagner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "15:00"
+            },
+            "caption": "Franz Wagner dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Franz Wagner",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "16:10"
+            },
+            "caption": "Franz Wagner turnover: bad pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Myles Turner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "17:10"
+            },
+            "caption": "Myles Turner makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Aaron Nesmith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:10",
+                "end": "21:10"
+            },
+            "caption": "Aaron Nesmith dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "HandOff",
+            "player": "Aaron Nesmith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:10",
+                "end": "21:50"
+            },
+            "caption": "Aaron Nesmith hands off the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:50",
+                "end": "29:30"
+            },
+            "caption": "T.J. McConnell dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "29:30",
+                "end": "30:40"
+            },
+            "caption": "T.J. McConnell makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Dribble",
+            "player": "Bennedict Mathurin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "30:40",
+                "end": "33:40"
+            },
+            "caption": "Bennedict Mathurin dribbles the ball."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "PassBall",
+            "player": "Bennedict Mathurin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "33:40",
+                "end": "34:40"
+            },
+            "caption": "Bennedict Mathurin makes a pass."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "PassBall",
+            "player": "Oshae Brissett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "34:40",
+                "end": "35:20"
+            },
+            "caption": "Oshae Brissett makes a pass."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "Hold",
+            "player": "Bennedict Mathurin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "35:20",
+                "end": "36:40"
+            },
+            "caption": "Bennedict Mathurin holds the ball."
+        },
+        {
+            "event_id": "ev_16",
+            "event_label": "Dribble",
+            "player": "Bennedict Mathurin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "36:40",
+                "end": "40:30"
+            },
+            "caption": "Bennedict Mathurin dribbles the ball."
+        },
+        {
+            "event_id": "ev_17",
+            "event_label": "Layup",
+            "player": "Bennedict Mathurin",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "40:30",
+                "end": "42:40"
+            },
+            "caption": "Bennedict Mathurin misses layup."
+        },
+        {
+            "event_id": "ev_18",
+            "event_label": "DefensiveRebound",
+            "player": "Caleb Houstan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "42:40",
+                "end": "46:00"
+            },
+            "caption": "Caleb Houstan gets the defensive rebound."
+        }
+    ]
+}

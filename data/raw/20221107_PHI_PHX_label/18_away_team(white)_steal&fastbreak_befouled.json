@@ -1,0 +1,140 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_18_away_team(white)_steal&fastbreak_befouled",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Tobias Harris",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Tobias Harris makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "03:50"
+            },
+            "caption": "Tyrese Maxey dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Tyrese Maxey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:30"
+            },
+            "caption": "Tyrese Maxey makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "De'Anthony Melton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:50"
+            },
+            "caption": "De'Anthony Melton holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "De'Anthony Melton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "08:00"
+            },
+            "caption": "De'Anthony Melton makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Joel Embiid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "10:00"
+            },
+            "caption": "Joel Embiid holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Joel Embiid",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:30"
+            },
+            "caption": "Joel Embiid turnover: lost ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "20:10"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:10",
+                "end": "23:10"
+            },
+            "caption": "Devin Booker makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Hold",
+            "player": "Chris Paul",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:10",
+                "end": "26:20"
+            },
+            "caption": "Chris Paul holds the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Chris Paul",
+            "result": "success",
+            "timestamp_video": {
+                "start": "26:20",
+                "end": "28:50"
+            },
+            "caption": "Chris Paul dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Layup",
+            "player": "Chris Paul",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "28:50",
+                "end": "30:40"
+            },
+            "caption": "Chris Paul is fouled on a layup attempt."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_190_home_team(black)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Tim Hardaway Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Tim Hardaway Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "12:10"
+            },
+            "caption": "Jaden Hardy dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "14:30"
+            },
+            "caption": "Jaden Hardy makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Tim Hardaway Jr.",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "16:30"
+            },
+            "caption": "Tim Hardaway Jr. misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Payton Pritchard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "17:00"
+            },
+            "caption": "Payton Pritchard gets the defensive rebound."
+        }
+    ]
+}

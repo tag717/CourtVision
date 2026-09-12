@@ -1,0 +1,63 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_11_home_team(white)_attack_successed_3pt",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Brandon Ingram",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Brandon Ingram dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Brandon Ingram",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "01:50"
+            },
+            "caption": "Brandon Ingram makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "03:20"
+            },
+            "caption": "CJ McCollum dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:00"
+            },
+            "caption": "CJ McCollum makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Jonas Valančiūnas",
+            "result": "made",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "07:00"
+            },
+            "caption": "Jonas Valančiūnas makes 3-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_86_away_team (white)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cameron Payne",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:20"
+            },
+            "caption": "Cameron Payne dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cameron Payne",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:20"
+            },
+            "caption": "Cameron Payne makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Torrey Craig",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "11:40"
+            },
+            "caption": "Torrey Craig holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Torrey Craig",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "14:00"
+            },
+            "caption": "Torrey Craig misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "P.J. Tucker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "15:00"
+            },
+            "caption": "P.J. Tucker gets the defensive rebound."
+        }
+    ]
+}

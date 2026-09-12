@@ -1,0 +1,74 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_107_away_team(white)_attack_befouled",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Jalen Suggs dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "03:30"
+            },
+            "caption": "Jalen Suggs hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Franz Wagner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "05:30"
+            },
+            "caption": "Franz Wagner dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Bol Bol",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:30"
+            },
+            "caption": "Bol Bol makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Bol Bol",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "10:00"
+            },
+            "caption": "Bol Bol dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Bol Bol",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:40"
+            },
+            "caption": "Bol Bol is fouled on a layup attempt."
+        }
+    ]
+}

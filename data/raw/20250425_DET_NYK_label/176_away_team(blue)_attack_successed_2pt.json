@@ -1,0 +1,85 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_176_away_team(blue)_attack_successed_2pt",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Josh Hart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:30"
+            },
+            "caption": "Josh Hart inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "13:30"
+            },
+            "caption": "Jalen Brunson dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jalen Brunson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:10"
+            },
+            "caption": "Jalen Brunson makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Mikal Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "15:40"
+            },
+            "caption": "Mikal Bridges dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Mikal Bridges",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "17:20"
+            },
+            "caption": "Mikal Bridges misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "OffensiveRebound",
+            "player": "Josh Hart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "17:40"
+            },
+            "caption": "Josh Hart gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Josh Hart",
+            "result": "made",
+            "timestamp_video": {
+                "start": "17:40",
+                "end": "19:30"
+            },
+            "caption": "Josh Hart makes layup."
+        }
+    ]
+}

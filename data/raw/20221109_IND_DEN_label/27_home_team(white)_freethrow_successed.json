@@ -1,0 +1,30 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_27_home_team(white)_freethrow_successed",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Myles Turner",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "03:50"
+            },
+            "caption": "Myles Turner misses free throw."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "DefensiveRebound",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:00"
+            },
+            "caption": "Aaron Gordon gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_82_home_team(white)_attack_foul",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Gary Payton II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:40"
+            },
+            "caption": "Gary Payton II dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Gary Payton II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:40"
+            },
+            "caption": "Gary Payton II makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:40"
+            },
+            "caption": "Stephen Curry makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Kevon Looney",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "15:00"
+            },
+            "caption": "Kevon Looney is fouled while holding the ball."
+        }
+    ]
+}

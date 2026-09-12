@@ -1,0 +1,19 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_119_home_team(black)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Dejounte Murray dribbles the ball."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_10_away_team(blue)_attack_failed",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Norman Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Norman Powell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Norman Powell",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "04:30"
+            },
+            "caption": "Norman Powell misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "06:00"
+            },
+            "caption": "Michael Porter Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:00"
+            },
+            "caption": "Nikola Jokić dribbles the ball."
+        }
+    ]
+}

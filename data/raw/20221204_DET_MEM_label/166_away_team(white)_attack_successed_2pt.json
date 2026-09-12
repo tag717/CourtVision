@@ -1,0 +1,63 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_166_away_team(white)_attack_successed_2pt",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Brandon Clarke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "01:40"
+            },
+            "caption": "Brandon Clarke makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "David Roddy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:20"
+            },
+            "caption": "David Roddy dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "David Roddy",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "05:00"
+            },
+            "caption": "David Roddy misses layup."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "OffensiveRebound",
+            "player": "Brandon Clarke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:50"
+            },
+            "caption": "Brandon Clarke gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PutBack",
+            "player": "Brandon Clarke",
+            "result": "made",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "07:30"
+            },
+            "caption": "Brandon Clarke makes putback layup."
+        }
+    ]
+}

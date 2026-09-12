@@ -1,0 +1,30 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_56_away_team (blue)_attack_failed",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Josh Giddey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "04:20"
+            },
+            "caption": "Josh Giddey inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Lindy Waters III",
+            "result": "timeout",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "07:30"
+            },
+            "caption": "Lindy Waters III calls a timeout before a 3-pt shot."
+        }
+    ]
+}

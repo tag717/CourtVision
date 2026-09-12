@@ -1,0 +1,30 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_74_away_team (black)_attack_failed",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "2ptShot",
+            "player": "Bruce Brown",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "02:10"
+            },
+            "caption": "Bruce Brown misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "DefensiveRebound",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:00"
+            },
+            "caption": "T.J. McConnell gets the defensive rebound."
+        }
+    ]
+}

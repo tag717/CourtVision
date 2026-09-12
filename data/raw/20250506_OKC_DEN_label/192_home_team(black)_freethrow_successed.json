@@ -1,0 +1,19 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_192_home_team(black)_freethrow_successed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Luguentz Dort",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "02:30"
+            },
+            "caption": "Luguentz Dort makes free throw."
+        }
+    ]
+}

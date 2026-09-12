@@ -1,0 +1,96 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_191_away_team(white)_attack_foul",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:40"
+            },
+            "caption": "Aaron Gordon makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:50"
+            },
+            "caption": "Christian Braun dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Christian Braun",
+            "result": "made",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "05:50"
+            },
+            "caption": "Christian Braun makes layup."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "08:40"
+            },
+            "caption": "Nikola Jokić holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:40"
+            },
+            "caption": "Nikola Jokić makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:50"
+            },
+            "caption": "Christian Braun holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "12:00"
+            },
+            "caption": "Christian Braun makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Nikola Jokić",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:40"
+            },
+            "caption": "Nikola Jokić is fouled while dribbling."
+        }
+    ]
+}

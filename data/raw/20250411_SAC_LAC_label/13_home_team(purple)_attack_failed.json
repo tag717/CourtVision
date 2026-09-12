@@ -1,0 +1,41 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_13_home_team(purple)_attack_failed",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:50"
+            },
+            "caption": "Domantas Sabonis dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Domantas Sabonis",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "05:20"
+            },
+            "caption": "Domantas Sabonis misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Kris Dunn",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "07:00"
+            },
+            "caption": "Kris Dunn gets the defensive rebound."
+        }
+    ]
+}

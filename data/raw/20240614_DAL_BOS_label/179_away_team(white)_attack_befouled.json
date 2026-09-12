@@ -1,0 +1,41 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_179_away_team(white)_attack_befouled",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Payton Pritchard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "10:30"
+            },
+            "caption": "Payton Pritchard dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Payton Pritchard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "13:00"
+            },
+            "caption": "Payton Pritchard makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jaden Springer",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "17:00"
+            },
+            "caption": "Jaden Springer is fouled while dribbling."
+        }
+    ]
+}

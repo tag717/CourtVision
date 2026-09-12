@@ -1,0 +1,96 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_1_away_team (white)_attack_failed",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "12",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:50"
+            },
+            "caption": "12 dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "12",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "05:00"
+            },
+            "caption": "12 hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "24",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:10"
+            },
+            "caption": "24 makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "12",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "08:30"
+            },
+            "caption": "12 dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "12",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:10"
+            },
+            "caption": "12 holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "12",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:20"
+            },
+            "caption": "12 makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "24",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "12:20"
+            },
+            "caption": "24 misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "35",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "13:50"
+            },
+            "caption": "35 gets the defensive rebound."
+        }
+    ]
+}

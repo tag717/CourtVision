@@ -1,0 +1,30 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_96_away_team(white)_attack_outside",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "07:30"
+            },
+            "caption": "James Harden dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "James Harden",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "10:00"
+            },
+            "caption": "James Harden turnover: pass out of bounds."
+        }
+    ]
+}

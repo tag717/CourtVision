@@ -1,0 +1,96 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_17_home_team(black)_attack_successed_3pt",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Shai Gilgeous-Alexander dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:40"
+            },
+            "caption": "Shai Gilgeous-Alexander makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Josh Giddey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "05:40"
+            },
+            "caption": "Josh Giddey dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Josh Giddey",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:10"
+            },
+            "caption": "Josh Giddey misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Steal",
+            "player": "John Konchar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:10"
+            },
+            "caption": "John Konchar steals the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "17:20"
+            },
+            "caption": "Ja Morant dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "18:40"
+            },
+            "caption": "Ja Morant makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "John Konchar",
+            "result": "made",
+            "timestamp_video": {
+                "start": "18:40",
+                "end": "20:30"
+            },
+            "caption": "John Konchar makes 3-pt jump shot."
+        }
+    ]
+}

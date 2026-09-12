@@ -1,0 +1,30 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_52_home_team(black)_attack_outside",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Chet Holmgren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "01:50"
+            },
+            "caption": "Chet Holmgren inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Cason Wallace",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "08:00"
+            },
+            "caption": "Cason Wallace turnover: out of bounds lost ball."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_61_home_team(purple)_attack_failed",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "10:30"
+            },
+            "caption": "Zach LaVine dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Zach LaVine",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "12:50"
+            },
+            "caption": "Zach LaVine misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:50",
+                "end": "15:00"
+            },
+            "caption": "Kawhi Leonard gets the defensive rebound."
+        }
+    ]
+}

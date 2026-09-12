@@ -1,0 +1,63 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_172_home_team(black)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Olivier-Maxence Prosper",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Olivier-Maxence Prosper makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "11:50"
+            },
+            "caption": "Jaden Hardy dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jaden Hardy",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "12:50"
+            },
+            "caption": "Jaden Hardy makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Markieff Morris",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:50",
+                "end": "15:10"
+            },
+            "caption": "Markieff Morris misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "17:00"
+            },
+            "caption": "Jaden Springer gets the defensive rebound."
+        }
+    ]
+}

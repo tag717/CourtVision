@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_84_away_team(blue)_attack_successed_2pt",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dunk",
+            "player": "Obi Toppin",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Obi Toppin makes dunk."
+        }
+    ]
+}

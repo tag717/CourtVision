@@ -1,0 +1,96 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_54_home_team(white)_attack_failed",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jose Alvarado",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:30"
+            },
+            "caption": "Jose Alvarado dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jose Alvarado",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:00"
+            },
+            "caption": "Jose Alvarado makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Brandon Ingram",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:20"
+            },
+            "caption": "Brandon Ingram holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Brandon Ingram",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:00"
+            },
+            "caption": "Brandon Ingram dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Brandon Ingram",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:10"
+            },
+            "caption": "Brandon Ingram makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Jose Alvarado",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "09:20"
+            },
+            "caption": "Jose Alvarado misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Nassir Little",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:30"
+            },
+            "caption": "Nassir Little gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Block",
+            "player": "Nassir Little",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:20"
+            },
+            "caption": "Nassir Little blocks the shot."
+        }
+    ]
+}

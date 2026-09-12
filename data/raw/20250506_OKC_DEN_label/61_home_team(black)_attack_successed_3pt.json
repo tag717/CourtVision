@@ -1,0 +1,96 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_61_home_team(black)_attack_successed_3pt",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cason Wallace",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:40"
+            },
+            "caption": "Cason Wallace dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cason Wallace",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "04:30"
+            },
+            "caption": "Cason Wallace makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "06:00"
+            },
+            "caption": "Jalen Williams holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "08:30"
+            },
+            "caption": "Jalen Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:30"
+            },
+            "caption": "Jalen Williams makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Cason Wallace",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "11:30"
+            },
+            "caption": "Cason Wallace makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Isaiah Hartenstein",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "12:30"
+            },
+            "caption": "Isaiah Hartenstein makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Alex Caruso",
+            "result": "made",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "14:50"
+            },
+            "caption": "Alex Caruso makes 3-pt jump shot."
+        }
+    ]
+}

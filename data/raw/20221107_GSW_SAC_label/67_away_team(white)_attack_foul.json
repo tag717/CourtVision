@@ -1,0 +1,52 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_67_away_team(white)_attack_foul",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Malik Monk",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Malik Monk dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Malik Monk",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "03:20"
+            },
+            "caption": "Malik Monk misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "OffensiveRebound",
+            "player": "Keegan Murray",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "05:30"
+            },
+            "caption": "Keegan Murray is fouled on an offensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Andrew Wiggins",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "05:30"
+            },
+            "caption": "Andrew Wiggins is fouled on a defensive rebound."
+        }
+    ]
+}

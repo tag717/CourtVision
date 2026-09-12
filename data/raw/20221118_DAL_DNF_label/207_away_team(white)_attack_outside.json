@@ -1,0 +1,206 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_207_away_team(white)_attack_outside",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Davon Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Davon Reed makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "04:30"
+            },
+            "caption": "Christian Braun dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "06:00"
+            },
+            "caption": "Christian Braun makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Peyton Watson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:50"
+            },
+            "caption": "Peyton Watson dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Peyton Watson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "09:10"
+            },
+            "caption": "Peyton Watson makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Davon Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:20"
+            },
+            "caption": "Davon Reed dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Davon Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:00"
+            },
+            "caption": "Davon Reed makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Hold",
+            "player": "Vlatko Čančar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "14:10"
+            },
+            "caption": "Vlatko Čančar holds the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Vlatko Čančar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "15:00"
+            },
+            "caption": "Vlatko Čančar makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Davon Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "19:20"
+            },
+            "caption": "Davon Reed dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "2ptShot",
+            "player": "Davon Reed",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "21:20"
+            },
+            "caption": "Davon Reed misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "OffensiveRebound",
+            "player": "Jack White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:20",
+                "end": "22:30"
+            },
+            "caption": "Jack White gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "Dribble",
+            "player": "Jack White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:30",
+                "end": "23:40"
+            },
+            "caption": "Jack White dribbles the ball."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "PassBall",
+            "player": "Jack White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:40",
+                "end": "24:30"
+            },
+            "caption": "Jack White makes a pass."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "Dribble",
+            "player": "Davon Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "24:30",
+                "end": "25:50"
+            },
+            "caption": "Davon Reed dribbles the ball."
+        },
+        {
+            "event_id": "ev_16",
+            "event_label": "PassBall",
+            "player": "Davon Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "25:50",
+                "end": "26:30"
+            },
+            "caption": "Davon Reed makes a pass."
+        },
+        {
+            "event_id": "ev_17",
+            "event_label": "Dribble",
+            "player": "Peyton Watson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "26:30",
+                "end": "28:40"
+            },
+            "caption": "Peyton Watson dribbles the ball."
+        },
+        {
+            "event_id": "ev_18",
+            "event_label": "2ptShot",
+            "player": "Peyton Watson",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "28:40",
+                "end": "30:10"
+            },
+            "caption": "Peyton Watson misses 2-pt jump shot (out of bounds)."
+        }
+    ]
+}

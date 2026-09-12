@@ -1,0 +1,129 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_4_home_team(blue)_attack_failed",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Killian Hayes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Killian Hayes dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Killian Hayes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "02:20"
+            },
+            "caption": "Killian Hayes makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jaden Ivey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "03:10"
+            },
+            "caption": "Jaden Ivey makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Marvin Bagley III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "06:20"
+            },
+            "caption": "Marvin Bagley III dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Marvin Bagley III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "06:50"
+            },
+            "caption": "Marvin Bagley III holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Marvin Bagley III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "07:40"
+            },
+            "caption": "Marvin Bagley III makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "12:40"
+            },
+            "caption": "Isaiah Stewart dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Isaiah Stewart",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "13:40"
+            },
+            "caption": "Isaiah Stewart misses layup."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Brandon Clarke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "15:10"
+            },
+            "caption": "Brandon Clarke gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Brandon Clarke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "16:20"
+            },
+            "caption": "Brandon Clarke makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "John Konchar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "17:00"
+            },
+            "caption": "John Konchar makes a pass."
+        }
+    ]
+}

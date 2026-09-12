@@ -1,0 +1,30 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_176_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "18:30"
+            },
+            "caption": "De'Aaron Fox dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "De'Aaron Fox",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "18:30",
+                "end": "20:00"
+            },
+            "caption": "De'Aaron Fox misses layup."
+        }
+    ]
+}

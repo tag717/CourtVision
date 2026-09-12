@@ -1,0 +1,52 @@
+{
+    "video_id": "20240609_BOS_DAL",
+    "possession_id": "poss_58_away_team(white)_attack_successed_3pt",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dante Exum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Dante Exum dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dante Exum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "01:40"
+            },
+            "caption": "Dante Exum makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "03:40"
+            },
+            "caption": "Kyrie Irving makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Luka Dončić",
+            "result": "made",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "07:00"
+            },
+            "caption": "Luka Dončić makes 3-pt jump shot."
+        }
+    ]
+}

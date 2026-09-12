@@ -1,0 +1,41 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_191_away_team(black)_attack_successed_3pt",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Isaiah Collier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:30"
+            },
+            "caption": "Isaiah Collier dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Isaiah Collier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "03:10"
+            },
+            "caption": "Isaiah Collier makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Johnny Juzang",
+            "result": "made",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "05:20"
+            },
+            "caption": "Johnny Juzang makes 3-pt jump shot."
+        }
+    ]
+}

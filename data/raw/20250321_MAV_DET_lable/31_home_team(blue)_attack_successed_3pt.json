@@ -1,0 +1,74 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_31_home_team(blue)_attack_successed_3pt",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:20"
+            },
+            "caption": "Spencer Dinwiddie dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Spencer Dinwiddie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:10"
+            },
+            "caption": "Spencer Dinwiddie makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Max Christie",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "12:00"
+            },
+            "caption": "Max Christie misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "OffensiveRebound",
+            "player": "Max Christie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "12:20"
+            },
+            "caption": "Max Christie gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Max Christie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "14:20"
+            },
+            "caption": "Max Christie makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Spencer Dinwiddie",
+            "result": "made",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "17:20"
+            },
+            "caption": "Spencer Dinwiddie makes 3-pt jump shot."
+        }
+    ]
+}

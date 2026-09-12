@@ -1,0 +1,30 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_42_away_team(white)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kevon Looney",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:20"
+            },
+            "caption": "Kevon Looney is fouled while dribbling."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "Anthony Lamb",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "06:40"
+            },
+            "caption": "Anthony Lamb is called for a foul on a steal attempt."
+        }
+    ]
+}

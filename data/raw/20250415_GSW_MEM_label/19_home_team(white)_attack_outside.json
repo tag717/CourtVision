@@ -1,0 +1,30 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_19_home_team(white)_attack_outside",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Stephen Curry dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Stephen Curry",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "05:00"
+            },
+            "caption": "Stephen Curry turnover: pass out of bounds."
+        }
+    ]
+}

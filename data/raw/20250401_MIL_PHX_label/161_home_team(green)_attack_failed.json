@@ -1,0 +1,140 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_161_home_team(green)_attack_failed",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Unknown Player inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Brook Lopez",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:30"
+            },
+            "caption": "Brook Lopez dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Brook Lopez",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "03:40"
+            },
+            "caption": "Brook Lopez makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "09:20"
+            },
+            "caption": "Unknown Player dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:40"
+            },
+            "caption": "Unknown Player makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Brook Lopez",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "13:10"
+            },
+            "caption": "Brook Lopez dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Brook Lopez",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "13:40"
+            },
+            "caption": "Brook Lopez makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Gary Trent Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:50",
+                "end": "14:30"
+            },
+            "caption": "Gary Trent Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Gary Trent Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:40",
+                "end": "15:30"
+            },
+            "caption": "Gary Trent Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "3ptShot",
+            "player": "Brook Lopez",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "17:40"
+            },
+            "caption": "Brook Lopez misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "DefensiveRebound",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:40",
+                "end": "18:10"
+            },
+            "caption": "Tyus Jones gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:30",
+                "end": "20:00"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        }
+    ]
+}

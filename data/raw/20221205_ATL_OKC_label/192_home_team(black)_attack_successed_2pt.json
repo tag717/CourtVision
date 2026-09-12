@@ -1,0 +1,41 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_192_home_team(black)_attack_successed_2pt",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:30"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Trae Young",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "09:00"
+            },
+            "caption": "Trae Young misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PutBack",
+            "player": "Clint Capela",
+            "result": "made",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:00"
+            },
+            "caption": "Clint Capela makes putback layup."
+        }
+    ]
+}

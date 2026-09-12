@@ -1,0 +1,74 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_142_home_team(white)_attack_failed",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Russell Westbrook",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:10"
+            },
+            "caption": "Russell Westbrook dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Russell Westbrook",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:30"
+            },
+            "caption": "Russell Westbrook makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Hunter Tyson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "09:00"
+            },
+            "caption": "Hunter Tyson makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Peyton Watson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "11:20"
+            },
+            "caption": "Peyton Watson makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Russell Westbrook",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "15:00"
+            },
+            "caption": "Russell Westbrook dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "2ptShot",
+            "player": "Russell Westbrook",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "18:00"
+            },
+            "caption": "Russell Westbrook misses 2-pt jump shot."
+        }
+    ]
+}

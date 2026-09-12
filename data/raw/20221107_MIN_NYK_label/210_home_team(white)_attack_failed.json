@@ -1,0 +1,96 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_210_home_team(white)_attack_failed",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:50"
+            },
+            "caption": "Jordan McLaughlin dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:00"
+            },
+            "caption": "Jordan McLaughlin hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Austin Rivers",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "04:50"
+            },
+            "caption": "Austin Rivers holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Austin Rivers",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "06:00"
+            },
+            "caption": "Austin Rivers dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Austin Rivers",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:50"
+            },
+            "caption": "Austin Rivers makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Bryn Forbes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "10:20"
+            },
+            "caption": "Bryn Forbes makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:00"
+            },
+            "caption": "Jordan McLaughlin makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Austin Rivers",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "15:00"
+            },
+            "caption": "Austin Rivers misses 3-pt jump shot."
+        }
+    ]
+}

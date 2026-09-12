@@ -1,0 +1,19 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_58_home_team(white)_freethrow_failed",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Jimmy Butler",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Jimmy Butler misses free throw."
+        }
+    ]
+}

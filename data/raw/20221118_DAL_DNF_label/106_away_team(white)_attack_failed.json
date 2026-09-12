@@ -1,0 +1,140 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_106_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Kentavious Caldwell-Pope inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "02:40"
+            },
+            "caption": "Bruce Brown holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "06:40"
+            },
+            "caption": "Bruce Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "08:20"
+            },
+            "caption": "Bruce Brown holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "08:50"
+            },
+            "caption": "Bruce Brown makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "DeAndre Jordan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "11:00"
+            },
+            "caption": "DeAndre Jordan holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "DeAndre Jordan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "11:40"
+            },
+            "caption": "DeAndre Jordan dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "HandOff",
+            "player": "DeAndre Jordan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "12:10"
+            },
+            "caption": "DeAndre Jordan hands off the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:10"
+            },
+            "caption": "Michael Porter Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "2ptShot",
+            "player": "Michael Porter Jr.",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "15:30"
+            },
+            "caption": "Michael Porter Jr. misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "DefensiveRebound",
+            "player": "Reggie Bullock",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "16:20"
+            },
+            "caption": "Reggie Bullock gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Reggie Bullock",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "17:10"
+            },
+            "caption": "Reggie Bullock makes a pass."
+        }
+    ]
+}

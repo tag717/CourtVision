@@ -1,0 +1,30 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_10_away_team(black)_attack_successed_2pt",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jordan Poole",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:10"
+            },
+            "caption": "Jordan Poole dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Jordan Poole",
+            "result": "made",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:20"
+            },
+            "caption": "Jordan Poole makes layup."
+        }
+    ]
+}

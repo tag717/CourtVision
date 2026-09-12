@@ -1,0 +1,63 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_185_away_team (blue)_attack_failed",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:20"
+            },
+            "caption": "Jalen Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:10"
+            },
+            "caption": "Jalen Williams makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Lindy Waters III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:20"
+            },
+            "caption": "Lindy Waters III dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Lindy Waters III",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "10:20"
+            },
+            "caption": "Lindy Waters III misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Brandon Clarke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:10"
+            },
+            "caption": "Brandon Clarke gets the defensive rebound."
+        }
+    ]
+}

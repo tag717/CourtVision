@@ -1,0 +1,30 @@
+{
+    "video_id": "20240617_BOS_DAL",
+    "possession_id": "poss_17_away_team(white)_attack_befouled",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:30"
+            },
+            "caption": "P.J. Washington dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "03:50"
+            },
+            "caption": "P.J. Washington hands off the ball."
+        }
+    ]
+}

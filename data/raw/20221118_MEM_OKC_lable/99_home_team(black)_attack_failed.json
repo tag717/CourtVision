@@ -1,0 +1,63 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_99_home_team(black)_attack_failed",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Dillon Brooks makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:50"
+            },
+            "caption": "Ja Morant holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "05:10"
+            },
+            "caption": "Ja Morant makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Dillon Brooks",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "07:40"
+            },
+            "caption": "Dillon Brooks misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:10"
+            },
+            "caption": "Shai Gilgeous-Alexander gets the defensive rebound."
+        }
+    ]
+}

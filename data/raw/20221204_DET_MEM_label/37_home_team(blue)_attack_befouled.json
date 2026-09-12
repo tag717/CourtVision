@@ -1,0 +1,85 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_37_home_team(blue)_attack_befouled",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Alec Burks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Alec Burks makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jaden Ivey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "05:20"
+            },
+            "caption": "Jaden Ivey dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jaden Ivey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "07:00"
+            },
+            "caption": "Jaden Ivey makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Alec Burks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:00"
+            },
+            "caption": "Alec Burks dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Alec Burks",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:40"
+            },
+            "caption": "Alec Burks misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "OffensiveRebound",
+            "player": "Alec Burks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:40"
+            },
+            "caption": "Alec Burks gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "2ptShot",
+            "player": "Alec Burks",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "11:20"
+            },
+            "caption": "Alec Burks is fouled on a 2-pt shot attempt."
+        }
+    ]
+}

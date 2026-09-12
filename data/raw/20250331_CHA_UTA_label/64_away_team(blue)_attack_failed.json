@@ -1,0 +1,74 @@
+{
+    "video_id": "20250331_CHA_UTA",
+    "possession_id": "poss_64_away_team(blue)_attack_failed",
+    "home_team": "CHA",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Keyonte George",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:30"
+            },
+            "caption": "Keyonte George dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Keyonte George",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:30"
+            },
+            "caption": "Keyonte George makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "KJ Martin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:50"
+            },
+            "caption": "KJ Martin hands off the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Keyonte George",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "11:50"
+            },
+            "caption": "Keyonte George misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Mark Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "13:20"
+            },
+            "caption": "Mark Williams gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Mark Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:30"
+            },
+            "caption": "Mark Williams makes a pass."
+        }
+    ]
+}

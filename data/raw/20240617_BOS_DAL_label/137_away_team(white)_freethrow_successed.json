@@ -1,0 +1,19 @@
+{
+    "video_id": "20240617_BOS_DAL",
+    "possession_id": "poss_137_away_team(white)_freethrow_successed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Dante Exum",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Dante Exum makes free throw."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_119_away_team(white)_attack_successed_2pt",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Franz Wagner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:30"
+            },
+            "caption": "Franz Wagner dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Franz Wagner",
+            "result": "made",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "03:50"
+            },
+            "caption": "Franz Wagner makes layup."
+        }
+    ]
+}

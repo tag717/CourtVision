@@ -1,0 +1,52 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_24_home_team(green)_attack_outside",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ryan Rollins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:20"
+            },
+            "caption": "Ryan Rollins dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Ryan Rollins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:00"
+            },
+            "caption": "Ryan Rollins makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Kyle Kuzma",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:00"
+            },
+            "caption": "Kyle Kuzma dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "2ptShot",
+            "player": "Kyle Kuzma",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:40"
+            },
+            "caption": "Kyle Kuzma misses 2-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_167_away_team(red)_attack_outside",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Jerami Grant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Jerami Grant inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Trendon Watford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:20"
+            },
+            "caption": "Trendon Watford makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Nassir Little",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "05:00"
+            },
+            "caption": "Nassir Little holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Nassir Little",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:20"
+            },
+            "caption": "Nassir Little makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "08:30"
+            },
+            "caption": "Anfernee Simons holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "12:00"
+            },
+            "caption": "Anfernee Simons dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Anfernee Simons",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:50"
+            },
+            "caption": "Anfernee Simons misses 3-pt jump shot (out of bounds)."
+        }
+    ]
+}

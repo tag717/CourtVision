@@ -1,0 +1,118 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_50_away_team(red)_attack_failed",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kevin Knox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:10"
+            },
+            "caption": "Kevin Knox dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kevin Knox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "04:40"
+            },
+            "caption": "Kevin Knox makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Trendon Watford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "09:40"
+            },
+            "caption": "Trendon Watford holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Trendon Watford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:40",
+                "end": "10:10"
+            },
+            "caption": "Trendon Watford makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Jerami Grant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "13:50"
+            },
+            "caption": "Jerami Grant dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Jerami Grant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:50",
+                "end": "14:30"
+            },
+            "caption": "Jerami Grant makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Trendon Watford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "15:50"
+            },
+            "caption": "Trendon Watford makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Nassir Little",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "16:00"
+            },
+            "caption": "Nassir Little dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Layup",
+            "player": "Nassir Little",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "18:40"
+            },
+            "caption": "Nassir Little misses layup."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:40",
+                "end": "20:10"
+            },
+            "caption": "CJ McCollum gets the defensive rebound."
+        }
+    ]
+}

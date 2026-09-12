@@ -1,0 +1,85 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_147_home_team(black)_attack_successed_2pt",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Josh Richardson inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Jakob Poeltl",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "04:50"
+            },
+            "caption": "Jakob Poeltl holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jakob Poeltl",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "06:50"
+            },
+            "caption": "Jakob Poeltl dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jakob Poeltl",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "08:50"
+            },
+            "caption": "Jakob Poeltl makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Doug McDermott",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:20"
+            },
+            "caption": "Doug McDermott dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Doug McDermott",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:20"
+            },
+            "caption": "Doug McDermott makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "2ptShot",
+            "player": "Tre Jones",
+            "result": "made",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "14:30"
+            },
+            "caption": "Tre Jones makes 2-pt jump shot."
+        }
+    ]
+}

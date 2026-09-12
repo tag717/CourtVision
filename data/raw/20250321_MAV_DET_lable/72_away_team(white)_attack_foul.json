@@ -1,0 +1,19 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_72_away_team(white)_attack_foul",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:10"
+            },
+            "caption": "Cade Cunningham is fouled while dribbling."
+        }
+    ]
+}

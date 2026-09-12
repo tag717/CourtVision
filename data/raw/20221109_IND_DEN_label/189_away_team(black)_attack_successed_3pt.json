@@ -1,0 +1,52 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_189_away_team(black)_attack_successed_3pt",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:20"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:20"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:40"
+            },
+            "caption": "Aaron Gordon makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Michael Porter Jr.",
+            "result": "made",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "10:00"
+            },
+            "caption": "Michael Porter Jr. makes 3-pt jump shot."
+        }
+    ]
+}

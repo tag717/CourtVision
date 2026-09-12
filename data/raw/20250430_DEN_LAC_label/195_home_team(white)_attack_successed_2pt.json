@@ -1,0 +1,140 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_195_home_team(white)_attack_successed_2pt",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Julian Strawther",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Julian Strawther inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jalen Pickett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "03:00"
+            },
+            "caption": "Jalen Pickett dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jalen Pickett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:10"
+            },
+            "caption": "Jalen Pickett makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Julian Strawther",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "08:40"
+            },
+            "caption": "Julian Strawther dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "HandOff",
+            "player": "Julian Strawther",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "08:50"
+            },
+            "caption": "Julian Strawther hands off the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Vlatko Čančar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:30"
+            },
+            "caption": "Vlatko Čančar makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Hold",
+            "player": "Jalen Pickett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "12:40"
+            },
+            "caption": "Jalen Pickett holds the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Jalen Pickett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "15:40"
+            },
+            "caption": "Jalen Pickett dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "HandOff",
+            "player": "Jalen Pickett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "16:00"
+            },
+            "caption": "Jalen Pickett hands off the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Hold",
+            "player": "Hunter Tyson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "18:40"
+            },
+            "caption": "Hunter Tyson holds the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Hunter Tyson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:40",
+                "end": "19:50"
+            },
+            "caption": "Hunter Tyson dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Layup",
+            "player": "Hunter Tyson",
+            "result": "made",
+            "timestamp_video": {
+                "start": "19:50",
+                "end": "23:00"
+            },
+            "caption": "Hunter Tyson makes layup."
+        }
+    ]
+}

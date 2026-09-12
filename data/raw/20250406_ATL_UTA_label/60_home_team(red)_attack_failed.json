@@ -1,0 +1,41 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_60_home_team(red)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "3ptShot",
+            "player": "Zaccharie Risacher",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "02:20"
+            },
+            "caption": "Zaccharie Risacher misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "DefensiveRebound",
+            "player": "Collin Sexton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:10"
+            },
+            "caption": "Collin Sexton gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Collin Sexton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:20"
+            },
+            "caption": "Collin Sexton makes a pass."
+        }
+    ]
+}

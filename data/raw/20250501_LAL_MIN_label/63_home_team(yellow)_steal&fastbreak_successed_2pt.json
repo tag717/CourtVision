@@ -1,0 +1,107 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_63_home_team(yellow)_steal&fastbreak_successed_2pt",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "02:00"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Donte DiVincenzo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:30"
+            },
+            "caption": "Donte DiVincenzo dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Donte DiVincenzo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:30"
+            },
+            "caption": "Donte DiVincenzo makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "05:20"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Steal",
+            "player": "LeBron James",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "07:10"
+            },
+            "caption": "LeBron James steals the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "LeBron James",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "10:10"
+            },
+            "caption": "LeBron James makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Austin Reaves",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "10:40"
+            },
+            "caption": "Austin Reaves dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Layup",
+            "player": "Austin Reaves",
+            "result": "made",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "12:20"
+            },
+            "caption": "Austin Reaves makes layup."
+        }
+    ]
+}

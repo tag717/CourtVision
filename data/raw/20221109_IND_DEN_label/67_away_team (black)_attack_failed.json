@@ -1,0 +1,85 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_67_away_team (black)_attack_failed",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:00"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Bones Hyland",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:20"
+            },
+            "caption": "Bones Hyland misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Block",
+            "player": "Isaiah Jackson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "05:30"
+            },
+            "caption": "Isaiah Jackson blocks the shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "OffensiveRebound",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "07:00"
+            },
+            "caption": "Michael Porter Jr. gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "09:30"
+            },
+            "caption": "Michael Porter Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Michael Porter Jr.",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:00"
+            },
+            "caption": "Michael Porter Jr. misses layup."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Oshae Brissett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "10:20"
+            },
+            "caption": "Oshae Brissett gets the defensive rebound."
+        }
+    ]
+}

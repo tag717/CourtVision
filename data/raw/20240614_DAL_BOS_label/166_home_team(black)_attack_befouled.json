@@ -1,0 +1,41 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_166_home_team(black)_attack_befouled",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tim Hardaway Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "Tim Hardaway Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tim Hardaway Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:20"
+            },
+            "caption": "Tim Hardaway Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Dwight Powell",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "08:00"
+            },
+            "caption": "Dwight Powell is fouled while holding the ball."
+        }
+    ]
+}

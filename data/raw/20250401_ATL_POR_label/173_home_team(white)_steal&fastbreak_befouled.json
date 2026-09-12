@@ -1,0 +1,85 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_173_home_team(white)_steal&fastbreak_befouled",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Deni Avdija",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Deni Avdija dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Deni Avdija",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "03:50"
+            },
+            "caption": "Deni Avdija turnover: bad pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:20"
+            },
+            "caption": "Trae Young steals the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Onyeka Okongwu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:30"
+            },
+            "caption": "Onyeka Okongwu makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:40"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Trae Young",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "08:10"
+            },
+            "caption": "Trae Young is fouled on a 3-pt shot attempt."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Steal",
+            "player": "Toumani Camara",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "08:10"
+            },
+            "caption": "Toumani Camara is called for a foul on a steal attempt."
+        }
+    ]
+}

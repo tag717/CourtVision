@@ -1,0 +1,96 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_83_away_team(blue)_attack_failed",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Nicolas Batum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Nicolas Batum makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Kris Dunn",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "03:50"
+            },
+            "caption": "Kris Dunn dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Kris Dunn",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:30"
+            },
+            "caption": "Kris Dunn makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Nicolas Batum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:30"
+            },
+            "caption": "Nicolas Batum dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Nicolas Batum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:20"
+            },
+            "caption": "Nicolas Batum makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "09:10"
+            },
+            "caption": "Kawhi Leonard dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "09:50"
+            },
+            "caption": "Kawhi Leonard makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Nicolas Batum",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "15:00"
+            },
+            "caption": "Nicolas Batum misses 3-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "video_id": "20240524_MIN_DAL",
+    "possession_id": "poss_208_away_team(black)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:10"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Kyrie Irving",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:10"
+            },
+            "caption": "Kyrie Irving is fouled on a layup attempt."
+        }
+    ]
+}

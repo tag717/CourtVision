@@ -1,0 +1,63 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_10_home_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Luka Dončić",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "09:30"
+            },
+            "caption": "Luka Dončić turnover: lost ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "09:30"
+            },
+            "caption": "Jaylen Brown steals the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Al Horford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "11:50"
+            },
+            "caption": "Al Horford makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "12:50"
+            },
+            "caption": "Jaylen Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dunk",
+            "player": "Jaylen Brown",
+            "result": "made",
+            "timestamp_video": {
+                "start": "12:50",
+                "end": "15:00"
+            },
+            "caption": "Jaylen Brown makes dunk."
+        }
+    ]
+}

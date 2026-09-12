@@ -1,0 +1,30 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_214_away_team(white)_attack_befouled",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "01:40"
+            },
+            "caption": "Ja Morant is fouled while dribbling."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "Killian Hayes",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "01:40"
+            },
+            "caption": "Killian Hayes is called for a foul on a steal attempt."
+        }
+    ]
+}

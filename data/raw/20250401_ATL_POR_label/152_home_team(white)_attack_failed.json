@@ -1,0 +1,41 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_152_home_team(white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Caris LeVert dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Caris LeVert",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:40"
+            },
+            "caption": "Caris LeVert turnover: bad pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "06:00"
+            },
+            "caption": "Shaedon Sharpe steals the ball."
+        }
+    ]
+}

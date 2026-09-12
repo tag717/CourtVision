@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_159_home_team(white)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:30"
+            },
+            "caption": "Jordan McLaughlin dribbles the ball."
+        }
+    ]
+}

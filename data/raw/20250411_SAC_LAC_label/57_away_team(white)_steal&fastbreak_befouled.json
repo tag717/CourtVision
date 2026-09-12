@@ -1,0 +1,206 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_57_away_team(white)_steal&fastbreak_befouled",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:40"
+            },
+            "caption": "Domantas Sabonis dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "05:30"
+            },
+            "caption": "Domantas Sabonis makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Keegan Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "08:30"
+            },
+            "caption": "Keegan Murray makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "11:00"
+            },
+            "caption": "Zach LaVine holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:20"
+            },
+            "caption": "Zach LaVine makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "13:10"
+            },
+            "caption": "Domantas Sabonis dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "14:30"
+            },
+            "caption": "Domantas Sabonis makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "16:30"
+            },
+            "caption": "Zach LaVine dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "17:30"
+            },
+            "caption": "Zach LaVine makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Devin Carter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:30",
+                "end": "19:00"
+            },
+            "caption": "Devin Carter dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Layup",
+            "player": "Devin Carter",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "21:00"
+            },
+            "caption": "Devin Carter misses layup."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "OffensiveRebound",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:00",
+                "end": "22:20"
+            },
+            "caption": "Domantas Sabonis gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "Dribble",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:20",
+                "end": "23:20"
+            },
+            "caption": "Domantas Sabonis dribbles the ball."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "Dribble",
+            "player": "Ben Simmons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "24:50",
+                "end": "27:50"
+            },
+            "caption": "Ben Simmons dribbles the ball."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "PassBall",
+            "player": "Ben Simmons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "27:50",
+                "end": "28:30"
+            },
+            "caption": "Ben Simmons makes a pass."
+        },
+        {
+            "event_id": "ev_16",
+            "event_label": "PassBall",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "28:30",
+                "end": "29:30"
+            },
+            "caption": "Kawhi Leonard makes a pass."
+        },
+        {
+            "event_id": "ev_17",
+            "event_label": "Dribble",
+            "player": "Norman Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "29:30",
+                "end": "31:50"
+            },
+            "caption": "Norman Powell dribbles the ball."
+        },
+        {
+            "event_id": "ev_18",
+            "event_label": "PassBall",
+            "player": "Norman Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "31:50",
+                "end": "32:40"
+            },
+            "caption": "Norman Powell makes a pass."
+        }
+    ]
+}

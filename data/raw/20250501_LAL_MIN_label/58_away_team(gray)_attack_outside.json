@@ -1,0 +1,41 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_58_away_team(gray)_attack_outside",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Julius Randle inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Donte DiVincenzo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:30"
+            },
+            "caption": "Donte DiVincenzo dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Donte DiVincenzo",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "04:40"
+            },
+            "caption": "Donte DiVincenzo misses 3-pt jump shot."
+        }
+    ]
+}

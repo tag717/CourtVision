@@ -1,0 +1,19 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_44_home_team(blue)_attack_outside",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Alec Burks",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Alec Burks turnover: pass out of bounds."
+        }
+    ]
+}

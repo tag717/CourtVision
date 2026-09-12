@@ -1,0 +1,228 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_169_away_team(white)_steal&fastbreak_failed",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Devin Vassell inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "05:20"
+            },
+            "caption": "Josh Richardson dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:00"
+            },
+            "caption": "Josh Richardson makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:20"
+            },
+            "caption": "Devin Vassell dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Devin Vassell",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "10:10"
+            },
+            "caption": "Devin Vassell misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "OffensiveRebound",
+            "player": "Charles Bassey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "10:40"
+            },
+            "caption": "Charles Bassey gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Charles Bassey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "11:30"
+            },
+            "caption": "Charles Bassey makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Keita Bates-Diop",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "12:00"
+            },
+            "caption": "Keita Bates-Diop dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Keita Bates-Diop",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "12:50"
+            },
+            "caption": "Keita Bates-Diop makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:50",
+                "end": "14:10"
+            },
+            "caption": "Josh Richardson makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Keita Bates-Diop",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "15:30"
+            },
+            "caption": "Keita Bates-Diop dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:30",
+                "end": "22:10"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:10",
+                "end": "22:40"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "PassBall",
+            "player": "DeAndre Jordan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:40",
+                "end": "23:10"
+            },
+            "caption": "DeAndre Jordan makes a pass."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:10",
+                "end": "24:00"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_16",
+            "event_label": "Dribble",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "24:00",
+                "end": "25:40"
+            },
+            "caption": "Michael Porter Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_17",
+            "event_label": "PassBall",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "25:40",
+                "end": "26:30"
+            },
+            "caption": "Michael Porter Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_18",
+            "event_label": "PassBall",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "26:30",
+                "end": "28:10"
+            },
+            "caption": "Jeff Green makes a pass."
+        },
+        {
+            "event_id": "ev_19",
+            "event_label": "Hold",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "28:10",
+                "end": "30:10"
+            },
+            "caption": "Michael Porter Jr. holds the ball."
+        },
+        {
+            "event_id": "ev_20",
+            "event_label": "3ptShot",
+            "player": "Michael Porter Jr.",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "30:10",
+                "end": "33:10"
+            },
+            "caption": "Michael Porter Jr. misses 3-pt jump shot."
+        }
+    ]
+}

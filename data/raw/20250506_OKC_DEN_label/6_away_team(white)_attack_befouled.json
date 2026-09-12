@@ -1,0 +1,19 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_6_away_team(white)_attack_befouled",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Aaron Gordon dribbles the ball."
+        }
+    ]
+}

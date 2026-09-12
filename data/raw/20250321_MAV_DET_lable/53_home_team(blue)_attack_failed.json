@@ -1,0 +1,19 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_53_home_team(blue)_attack_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "3ptShot",
+            "player": "Brandon Williams",
+            "result": "timeout",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Brandon Williams calls a timeout before a 3-pt shot."
+        }
+    ]
+}

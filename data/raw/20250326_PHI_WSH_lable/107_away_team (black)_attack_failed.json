@@ -1,0 +1,30 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_107_away_team (black)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "3ptShot",
+            "player": "Jordan Poole",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Jordan Poole misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "DefensiveRebound",
+            "player": "Ricky Council IV",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:20"
+            },
+            "caption": "Ricky Council IV gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_108_away_team(white)_attack_failed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Aaron Gordon makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Russell Westbrook",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "04:10"
+            },
+            "caption": "Russell Westbrook misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:20"
+            },
+            "caption": "Shai Gilgeous-Alexander gets the defensive rebound."
+        }
+    ]
+}

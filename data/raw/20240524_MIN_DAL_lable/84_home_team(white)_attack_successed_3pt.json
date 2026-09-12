@@ -1,0 +1,52 @@
+{
+    "video_id": "20240524_MIN_DAL",
+    "possession_id": "poss_84_home_team(white)_attack_successed_3pt",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaden McDaniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Jaden McDaniels dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jaden McDaniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:20"
+            },
+            "caption": "Jaden McDaniels makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "10:10"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Anthony Edwards",
+            "result": "made",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "12:00"
+            },
+            "caption": "Anthony Edwards makes 3-pt jump shot."
+        }
+    ]
+}

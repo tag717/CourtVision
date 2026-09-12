@@ -1,0 +1,107 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_93_home_team(white)_attack_failed",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Jonas Valančiūnas",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Jonas Valančiūnas inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Herbert Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "08:10"
+            },
+            "caption": "Herbert Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Herbert Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "09:50"
+            },
+            "caption": "Herbert Jones holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Herbert Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "10:30"
+            },
+            "caption": "Herbert Jones makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Jonas Valančiūnas",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:50"
+            },
+            "caption": "Jonas Valančiūnas dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Jonas Valančiūnas",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "12:30"
+            },
+            "caption": "Jonas Valančiūnas makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Brandon Ingram",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "13:00"
+            },
+            "caption": "Brandon Ingram makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Trey Murphy III",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "15:10"
+            },
+            "caption": "Trey Murphy III misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Jabari Walker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "15:40"
+            },
+            "caption": "Jabari Walker gets the defensive rebound."
+        }
+    ]
+}

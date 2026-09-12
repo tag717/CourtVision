@@ -1,0 +1,74 @@
+{
+    "video_id": "20240528_DAL_MIN",
+    "possession_id": "poss_11_away_team(white)_steal&fastbreak_befouled",
+    "home_team": "DAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Derrick Jones Jr.",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "04:10"
+            },
+            "caption": "Derrick Jones Jr. turnover: bad pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Rudy Gobert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:20"
+            },
+            "caption": "Rudy Gobert makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "08:30"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:20"
+            },
+            "caption": "Mike Conley makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "15:40"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Anthony Edwards",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "17:00"
+            },
+            "caption": "Anthony Edwards is fouled on a layup attempt."
+        }
+    ]
+}

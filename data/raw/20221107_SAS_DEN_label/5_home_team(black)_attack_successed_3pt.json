@@ -1,0 +1,30 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_5_home_team(black)_attack_successed_3pt",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Jakob Poeltl",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Jakob Poeltl makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Devin Vassell",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "02:50"
+            },
+            "caption": "Devin Vassell makes 3-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_45_away_team(black)_attack_successed_2pt",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bub Carrington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Bub Carrington dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bub Carrington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:10"
+            },
+            "caption": "Bub Carrington makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Tristan Vukcevic",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "06:10"
+            },
+            "caption": "Tristan Vukcevic holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Tristan Vukcevic",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "06:30"
+            },
+            "caption": "Tristan Vukcevic makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "JT Thor",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "09:00"
+            },
+            "caption": "JT Thor dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "JT Thor",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:00"
+            },
+            "caption": "JT Thor makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Jared Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "12:20"
+            },
+            "caption": "Jared Butler dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Jared Butler",
+            "result": "made",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "14:10"
+            },
+            "caption": "Jared Butler makes layup."
+        }
+    ]
+}

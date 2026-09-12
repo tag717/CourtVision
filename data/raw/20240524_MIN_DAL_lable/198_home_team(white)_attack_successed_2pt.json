@@ -1,0 +1,30 @@
+{
+    "video_id": "20240524_MIN_DAL",
+    "possession_id": "poss_198_home_team(white)_attack_successed_2pt",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:00"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Mike Conley",
+            "result": "made",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:10"
+            },
+            "caption": "Mike Conley makes 2-pt jump shot."
+        }
+    ]
+}

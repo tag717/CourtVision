@@ -1,0 +1,96 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_56_home_team(green)_attack_successed_3pt",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "03:40"
+            },
+            "caption": "Unknown Player inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kyle Kuzma",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:20"
+            },
+            "caption": "Kyle Kuzma makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "08:00"
+            },
+            "caption": "Unknown Player dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Unknown Player",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "10:00"
+            },
+            "caption": "Unknown Player misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "OffensiveRebound",
+            "player": "Kyle Kuzma",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "12:10"
+            },
+            "caption": "Kyle Kuzma gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Kyle Kuzma",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "12:40"
+            },
+            "caption": "Kyle Kuzma makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Gary Trent Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:40"
+            },
+            "caption": "Gary Trent Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Gary Trent Jr.",
+            "result": "made",
+            "timestamp_video": {
+                "start": "14:40",
+                "end": "16:20"
+            },
+            "caption": "Gary Trent Jr. makes 3-pt jump shot."
+        }
+    ]
+}

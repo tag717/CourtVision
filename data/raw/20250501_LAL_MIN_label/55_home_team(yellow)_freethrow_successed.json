@@ -1,0 +1,19 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_55_home_team(yellow)_freethrow_successed",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Luka Dončić",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Luka Dončić makes free throw."
+        }
+    ]
+}

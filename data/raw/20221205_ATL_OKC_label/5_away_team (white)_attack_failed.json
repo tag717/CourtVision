@@ -1,0 +1,41 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_5_away_team (white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Josh Giddey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Josh Giddey dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Josh Giddey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "02:30"
+            },
+            "caption": "Josh Giddey makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Jeremiah Robinson-Earl",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "03:50"
+            },
+            "caption": "Jeremiah Robinson-Earl misses layup."
+        }
+    ]
+}

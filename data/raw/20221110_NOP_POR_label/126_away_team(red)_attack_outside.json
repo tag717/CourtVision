@@ -1,0 +1,41 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_126_away_team(red)_attack_outside",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Jerami Grant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Jerami Grant inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "05:50"
+            },
+            "caption": "Anfernee Simons dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Anfernee Simons",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "07:30"
+            },
+            "caption": "Anfernee Simons turnover: pass out of bounds."
+        }
+    ]
+}

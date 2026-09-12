@@ -1,0 +1,52 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_161_home_team(white)_attack_failed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:20"
+            },
+            "caption": "Jrue Holiday dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:30"
+            },
+            "caption": "Jrue Holiday makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "2ptShot",
+            "player": "Josh Green",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "13:00"
+            },
+            "caption": "Josh Green misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:00"
+            },
+            "caption": "Kyrie Irving gets the defensive rebound."
+        }
+    ]
+}

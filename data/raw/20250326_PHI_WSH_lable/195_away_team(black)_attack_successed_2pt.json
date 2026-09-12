@@ -1,0 +1,151 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_195_away_team(black)_attack_successed_2pt",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Alex Sarr",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Alex Sarr dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Alex Sarr",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:30"
+            },
+            "caption": "Alex Sarr makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "05:00"
+            },
+            "caption": "AJ Johnson makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Colby Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:30"
+            },
+            "caption": "Colby Jones makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Tristan Vukcevic",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "07:10"
+            },
+            "caption": "Tristan Vukcevic makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Colby Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "09:20"
+            },
+            "caption": "Colby Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Colby Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:00"
+            },
+            "caption": "Colby Jones makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Tristan Vukcevic",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:20"
+            },
+            "caption": "Tristan Vukcevic dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Tristan Vukcevic",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:10"
+            },
+            "caption": "Tristan Vukcevic makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "16:20"
+            },
+            "caption": "AJ Johnson dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "AJ Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "17:10"
+            },
+            "caption": "AJ Johnson makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Dribble",
+            "player": "Alex Sarr",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:10",
+                "end": "18:10"
+            },
+            "caption": "Alex Sarr dribbles the ball."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "2ptShot",
+            "player": "Alex Sarr",
+            "result": "made",
+            "timestamp_video": {
+                "start": "18:10",
+                "end": "19:20"
+            },
+            "caption": "Alex Sarr makes 2-pt jump shot."
+        }
+    ]
+}

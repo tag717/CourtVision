@@ -1,0 +1,30 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_18_home_team(white)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Layup",
+            "player": "David Roddy",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:30"
+            },
+            "caption": "David Roddy is fouled on a layup attempt."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Block",
+            "player": "Dalano Banton",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:30"
+            },
+            "caption": "Dalano Banton is called for a foul on a block attempt."
+        }
+    ]
+}

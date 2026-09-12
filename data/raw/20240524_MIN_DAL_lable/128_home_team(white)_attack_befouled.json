@@ -1,0 +1,30 @@
+{
+    "video_id": "20240524_MIN_DAL",
+    "possession_id": "poss_128_home_team(white)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:30"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Mike Conley",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "09:00"
+            },
+            "caption": "Mike Conley is fouled on a 3-pt shot attempt."
+        }
+    ]
+}

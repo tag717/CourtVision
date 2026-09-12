@@ -1,0 +1,30 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_107_home_team(white)_attack_timeout",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:20"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Mike Conley",
+            "result": "timeout",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "01:00"
+            },
+            "caption": "Mike Conley calls a timeout before a 3-pt shot."
+        }
+    ]
+}

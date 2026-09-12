@@ -1,0 +1,52 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_162_home_team(white)_attack_befouled",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "T.J. McConnell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "T.J. McConnell dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Isaiah Jackson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "02:30"
+            },
+            "caption": "Isaiah Jackson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Isaiah Jackson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "03:10"
+            },
+            "caption": "Isaiah Jackson dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Isaiah Jackson",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:00"
+            },
+            "caption": "Isaiah Jackson is fouled on a layup attempt."
+        }
+    ]
+}

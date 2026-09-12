@@ -1,0 +1,19 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_163_home_team(red)_attack_outside",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "11:10"
+            },
+            "caption": "Trae Young turnover: out of bounds lost ball."
+        }
+    ]
+}

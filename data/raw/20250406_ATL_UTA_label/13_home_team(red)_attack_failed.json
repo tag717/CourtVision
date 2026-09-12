@@ -1,0 +1,52 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_13_home_team(red)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "14:00"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Trae Young",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "15:00"
+            },
+            "caption": "Trae Young misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Block",
+            "player": "Kyle Filipowski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "16:00"
+            },
+            "caption": "Kyle Filipowski blocks the shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Brice Sensabaugh",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "17:00"
+            },
+            "caption": "Brice Sensabaugh makes a pass."
+        }
+    ]
+}

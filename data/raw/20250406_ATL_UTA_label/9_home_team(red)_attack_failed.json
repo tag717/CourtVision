@@ -1,0 +1,52 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_9_home_team(red)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:10"
+            },
+            "caption": "Trae Young makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dunk",
+            "player": "Onyeka Okongwu",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "05:30"
+            },
+            "caption": "Onyeka Okongwu misses dunk."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Johnny Juzang",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:20"
+            },
+            "caption": "Johnny Juzang gets the defensive rebound."
+        }
+    ]
+}

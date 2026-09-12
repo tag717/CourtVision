@@ -1,0 +1,19 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_125_home_team(white)_freethrow_successed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Onyeka Okongwu",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Onyeka Okongwu makes free throw."
+        }
+    ]
+}

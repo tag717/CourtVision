@@ -1,0 +1,74 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_166_home_team(black)_attack_failed",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "06:50"
+            },
+            "caption": "Josh Richardson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "07:20"
+            },
+            "caption": "Josh Richardson hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "09:30"
+            },
+            "caption": "Devin Vassell dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Devin Vassell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:10"
+            },
+            "caption": "Devin Vassell makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Doug McDermott",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "12:10"
+            },
+            "caption": "Doug McDermott dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Doug McDermott",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:40"
+            },
+            "caption": "Doug McDermott misses layup."
+        }
+    ]
+}

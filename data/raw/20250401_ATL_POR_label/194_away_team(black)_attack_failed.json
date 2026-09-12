@@ -1,0 +1,85 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_194_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Dalano Banton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Dalano Banton inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "02:10"
+            },
+            "caption": "Shaedon Sharpe holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Shaedon Sharpe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "12:10"
+            },
+            "caption": "Shaedon Sharpe dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Shaedon Sharpe",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:40"
+            },
+            "caption": "Shaedon Sharpe misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "OffensiveRebound",
+            "player": "Dalano Banton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "14:00"
+            },
+            "caption": "Dalano Banton gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Dalano Banton",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "15:20"
+            },
+            "caption": "Dalano Banton misses layup."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Vit Krejci",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "15:40"
+            },
+            "caption": "Vit Krejci gets the defensive rebound."
+        }
+    ]
+}

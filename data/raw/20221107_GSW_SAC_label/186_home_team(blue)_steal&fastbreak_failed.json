@@ -1,0 +1,74 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_186_home_team(blue)_steal&fastbreak_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Terence Davis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:50"
+            },
+            "caption": "Terence Davis dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Terence Davis",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "07:10"
+            },
+            "caption": "Terence Davis turnover: bad pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:10"
+            },
+            "caption": "Klay Thompson steals the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:40"
+            },
+            "caption": "Klay Thompson dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Klay Thompson",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "11:00"
+            },
+            "caption": "Klay Thompson misses layup."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Malik Monk",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "11:40"
+            },
+            "caption": "Malik Monk gets the defensive rebound."
+        }
+    ]
+}

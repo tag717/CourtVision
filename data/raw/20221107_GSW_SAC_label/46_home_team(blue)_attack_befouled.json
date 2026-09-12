@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_46_home_team(blue)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jordan Poole",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Jordan Poole dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jordan Poole",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "02:20"
+            },
+            "caption": "Jordan Poole makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "04:30"
+            },
+            "caption": "Stephen Curry is fouled while dribbling."
+        }
+    ]
+}

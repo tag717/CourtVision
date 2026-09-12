@@ -1,0 +1,63 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_126_away_team(black)_attack_outside",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Aaron Gordon dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:20"
+            },
+            "caption": "Aaron Gordon holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "04:50"
+            },
+            "caption": "Aaron Gordon makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "08:30"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:40"
+            },
+            "caption": "Jamal Murray turnover: pass out of bounds."
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_151_away_team(red)_steal&fastbreak_failed",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jose Alvarado",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "Jose Alvarado dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jose Alvarado",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "06:30"
+            },
+            "caption": "Jose Alvarado makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "Jonas Valančiūnas",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:00"
+            },
+            "caption": "Jonas Valančiūnas hands off the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jose Alvarado",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "10:10"
+            },
+            "caption": "Jose Alvarado dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jose Alvarado",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:00"
+            },
+            "caption": "Jose Alvarado makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Trey Murphy III",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "13:30"
+            },
+            "caption": "Trey Murphy III misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "OffensiveRebound",
+            "player": "Jose Alvarado",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:50"
+            },
+            "caption": "Jose Alvarado gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "HandOff",
+            "player": "Jose Alvarado",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "15:10"
+            },
+            "caption": "Jose Alvarado hands off the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Hold",
+            "player": "Trey Murphy III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "16:40"
+            },
+            "caption": "Trey Murphy III holds the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Trey Murphy III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:40",
+                "end": "17:10"
+            },
+            "caption": "Trey Murphy III makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Jose Alvarado",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:10",
+                "end": "18:00"
+            },
+            "caption": "Jose Alvarado makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Dribble",
+            "player": "CJ McCollum",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "20:20"
+            },
+            "caption": "CJ McCollum turnover: lost ball."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "Steal",
+            "player": "Justise Winslow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:20",
+                "end": "21:00"
+            },
+            "caption": "Justise Winslow steals the ball."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "Dribble",
+            "player": "Justise Winslow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:00",
+                "end": "23:40"
+            },
+            "caption": "Justise Winslow dribbles the ball."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "Layup",
+            "player": "Justise Winslow",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "23:40",
+                "end": "25:10"
+            },
+            "caption": "Justise Winslow misses layup."
+        },
+        {
+            "event_id": "ev_16",
+            "event_label": "Steal",
+            "player": "Jose Alvarado",
+            "result": "success",
+            "timestamp_video": {
+                "start": "25:10",
+                "end": "25:20"
+            },
+            "caption": "Jose Alvarado steals the ball."
+        }
+    ]
+}

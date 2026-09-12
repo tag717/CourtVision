@@ -1,0 +1,118 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_55_home_team(blue)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jordan Poole",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:20"
+            },
+            "caption": "Jordan Poole dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jordan Poole",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "05:50"
+            },
+            "caption": "Jordan Poole makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "07:00"
+            },
+            "caption": "Klay Thompson holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:50"
+            },
+            "caption": "Klay Thompson makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Anthony Lamb",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "11:00"
+            },
+            "caption": "Anthony Lamb dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Anthony Lamb",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "11:50"
+            },
+            "caption": "Anthony Lamb makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "14:20"
+            },
+            "caption": "Klay Thompson dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Klay Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "15:20"
+            },
+            "caption": "Klay Thompson makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "Anthony Lamb",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "17:40"
+            },
+            "caption": "Anthony Lamb misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "Keegan Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:40",
+                "end": "18:20"
+            },
+            "caption": "Keegan Murray gets the defensive rebound."
+        }
+    ]
+}

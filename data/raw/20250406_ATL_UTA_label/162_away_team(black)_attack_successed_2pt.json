@@ -1,0 +1,96 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_162_away_team(black)_attack_successed_2pt",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Collin Sexton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "Collin Sexton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Collin Sexton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:10"
+            },
+            "caption": "Collin Sexton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "07:00"
+            },
+            "caption": "Jaden Springer dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:00"
+            },
+            "caption": "Jaden Springer holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:10"
+            },
+            "caption": "Jaden Springer makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Svi Mykhailiuk",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "11:10"
+            },
+            "caption": "Svi Mykhailiuk holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Svi Mykhailiuk",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "13:10"
+            },
+            "caption": "Svi Mykhailiuk dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Svi Mykhailiuk",
+            "result": "made",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "15:20"
+            },
+            "caption": "Svi Mykhailiuk makes layup."
+        }
+    ]
+}

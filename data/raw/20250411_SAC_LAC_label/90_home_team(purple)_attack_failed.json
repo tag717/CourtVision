@@ -1,0 +1,19 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_90_home_team(purple)_attack_failed",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "3ptShot",
+            "player": "DeMar DeRozan",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "DeMar DeRozan misses 3-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_2_home_team(blue)_attack_failed",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Marvin Bagley III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Marvin Bagley III makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Killian Hayes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "07:40"
+            },
+            "caption": "Killian Hayes dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Killian Hayes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:50"
+            },
+            "caption": "Killian Hayes makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jaden Ivey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:50"
+            },
+            "caption": "Jaden Ivey makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Marvin Bagley III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "11:30"
+            },
+            "caption": "Marvin Bagley III holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Marvin Bagley III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "14:40"
+            },
+            "caption": "Marvin Bagley III dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Marvin Bagley III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:40",
+                "end": "15:20"
+            },
+            "caption": "Marvin Bagley III makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Bojan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "17:20"
+            },
+            "caption": "Bojan Bogdanović dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "2ptShot",
+            "player": "Bojan Bogdanović",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "19:20"
+            },
+            "caption": "Bojan Bogdanović misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "Brandon Clarke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "20:30"
+            },
+            "caption": "Brandon Clarke gets the defensive rebound."
+        }
+    ]
+}

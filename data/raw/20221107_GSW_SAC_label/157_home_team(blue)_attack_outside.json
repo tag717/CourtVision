@@ -1,0 +1,118 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_157_home_team(blue)_attack_outside",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:40"
+            },
+            "caption": "Stephen Curry dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:20"
+            },
+            "caption": "Stephen Curry makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Kevon Looney",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:00"
+            },
+            "caption": "Kevon Looney holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Kevon Looney",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "08:50"
+            },
+            "caption": "Kevon Looney dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Kevon Looney",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "09:50"
+            },
+            "caption": "Kevon Looney holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Kevon Looney",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "10:50"
+            },
+            "caption": "Kevon Looney makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Ty Jerome",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "13:20"
+            },
+            "caption": "Ty Jerome misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "OffensiveRebound",
+            "player": "Moses Moody",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:10"
+            },
+            "caption": "Moses Moody gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Moses Moody",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "15:30"
+            },
+            "caption": "Moses Moody makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "3ptShot",
+            "player": "Stephen Curry",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "17:30"
+            },
+            "caption": "Stephen Curry misses 3-pt jump shot."
+        }
+    ]
+}

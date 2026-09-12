@@ -1,0 +1,52 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_182_home_team(red)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "13:20"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "15:00"
+            },
+            "caption": "Trae Young turnover: bad pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "Brice Sensabaugh",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "15:10"
+            },
+            "caption": "Brice Sensabaugh steals the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Brice Sensabaugh",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "17:00"
+            },
+            "caption": "Brice Sensabaugh dribbles the ball."
+        }
+    ]
+}

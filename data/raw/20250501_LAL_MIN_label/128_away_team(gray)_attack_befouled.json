@@ -1,0 +1,41 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_128_away_team(gray)_attack_befouled",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "04:50"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:50"
+            },
+            "caption": "Anthony Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Julius Randle",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:40"
+            },
+            "caption": "Julius Randle is fouled on a 3-pt shot attempt."
+        }
+    ]
+}

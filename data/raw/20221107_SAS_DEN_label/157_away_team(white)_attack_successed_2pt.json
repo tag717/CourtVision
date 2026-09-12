@@ -1,0 +1,30 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_157_away_team(white)_attack_successed_2pt",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "02:10"
+            },
+            "caption": "Bruce Brown makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "made",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:40"
+            },
+            "caption": "Kentavious Caldwell-Pope makes layup."
+        }
+    ]
+}

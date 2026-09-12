@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_116_away_team(white)_freethrow_failed",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Aaron Gordon",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Aaron Gordon misses free throw."
+        }
+    ]
+}

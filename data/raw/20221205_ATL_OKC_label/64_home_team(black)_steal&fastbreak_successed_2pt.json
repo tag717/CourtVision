@@ -1,0 +1,118 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_64_home_team(black)_steal&fastbreak_successed_2pt",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Josh Giddey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:50"
+            },
+            "caption": "Josh Giddey dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Josh Giddey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:30"
+            },
+            "caption": "Josh Giddey makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Luguentz Dort",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "08:30"
+            },
+            "caption": "Luguentz Dort dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Luguentz Dort",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:30"
+            },
+            "caption": "Luguentz Dort makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Ousmane Dieng",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "11:40"
+            },
+            "caption": "Ousmane Dieng turnover: lost ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "15:30"
+            },
+            "caption": "Dejounte Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "16:10"
+            },
+            "caption": "Dejounte Murray makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "AJ Griffin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "18:20"
+            },
+            "caption": "AJ Griffin dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "AJ Griffin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:20",
+                "end": "19:00"
+            },
+            "caption": "AJ Griffin makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dunk",
+            "player": "Onyeka Okongwu",
+            "result": "made",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "20:10"
+            },
+            "caption": "Onyeka Okongwu makes dunk."
+        }
+    ]
+}

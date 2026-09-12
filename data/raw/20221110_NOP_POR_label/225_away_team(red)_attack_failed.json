@@ -1,0 +1,52 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_225_away_team(red)_attack_failed",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "16:40"
+            },
+            "caption": "Anfernee Simons dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Anfernee Simons",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:40",
+                "end": "18:30"
+            },
+            "caption": "Anfernee Simons misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Herbert Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:30",
+                "end": "19:30"
+            },
+            "caption": "Herbert Jones gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Herbert Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:30",
+                "end": "20:50"
+            },
+            "caption": "Herbert Jones makes a pass."
+        }
+    ]
+}

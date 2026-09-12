@@ -1,0 +1,96 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_156_away_team (white)_attack_failed",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "R.J. Hampton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:30"
+            },
+            "caption": "R.J. Hampton dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "R.J. Hampton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "03:30"
+            },
+            "caption": "R.J. Hampton makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Mo Bamba",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "05:30"
+            },
+            "caption": "Mo Bamba holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Mo Bamba",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:30"
+            },
+            "caption": "Mo Bamba dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "HandOff",
+            "player": "Mo Bamba",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:20"
+            },
+            "caption": "Mo Bamba hands off the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Franz Wagner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:30"
+            },
+            "caption": "Franz Wagner dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Franz Wagner",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "10:00"
+            },
+            "caption": "Franz Wagner misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Oshae Brissett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "12:00"
+            },
+            "caption": "Oshae Brissett gets the defensive rebound."
+        }
+    ]
+}

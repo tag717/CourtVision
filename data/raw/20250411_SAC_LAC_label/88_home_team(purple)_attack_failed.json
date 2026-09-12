@@ -1,0 +1,52 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_88_home_team(purple)_attack_failed",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "HandOff",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Domantas Sabonis hands off the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "10:50"
+            },
+            "caption": "DeMar DeRozan dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "2ptShot",
+            "player": "DeMar DeRozan",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "12:50"
+            },
+            "caption": "DeMar DeRozan misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Bogdan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:50",
+                "end": "14:00"
+            },
+            "caption": "Bogdan Bogdanović gets the defensive rebound."
+        }
+    ]
+}

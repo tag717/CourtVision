@@ -1,0 +1,118 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_71_away_team(white)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:20"
+            },
+            "caption": "De'Aaron Fox dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:00"
+            },
+            "caption": "De'Aaron Fox makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Chimezie Metu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:10"
+            },
+            "caption": "Chimezie Metu holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Chimezie Metu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "12:30"
+            },
+            "caption": "Chimezie Metu dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Chimezie Metu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:00"
+            },
+            "caption": "Chimezie Metu makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "15:10"
+            },
+            "caption": "De'Aaron Fox holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "De'Aaron Fox",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "19:00"
+            },
+            "caption": "De'Aaron Fox misses layup."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "OffensiveRebound",
+            "player": "De'Aaron Fox",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "19:40"
+            },
+            "caption": "De'Aaron Fox gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PutBack",
+            "player": "De'Aaron Fox",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "20:50"
+            },
+            "caption": "De'Aaron Fox is fouled on a putback attempt."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Block",
+            "player": "Anthony Lamb",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "20:50"
+            },
+            "caption": "Anthony Lamb is called for a foul on a block attempt."
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_1_home_team(black)_attack_successed_2pt",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Julian Champagnie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:40"
+            },
+            "caption": "Julian Champagnie dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Julian Champagnie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:10"
+            },
+            "caption": "Julian Champagnie makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jeremy Sochan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:30"
+            },
+            "caption": "Jeremy Sochan makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Keldon Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "09:10"
+            },
+            "caption": "Keldon Johnson holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Keldon Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:10"
+            },
+            "caption": "Keldon Johnson dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Keldon Johnson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "10:50"
+            },
+            "caption": "Keldon Johnson makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Hold",
+            "player": "Jakob Poeltl",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "12:20"
+            },
+            "caption": "Jakob Poeltl holds the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Jakob Poeltl",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "14:00"
+            },
+            "caption": "Jakob Poeltl dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "2ptShot",
+            "player": "Keldon Johnson",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "16:10"
+            },
+            "caption": "Keldon Johnson misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "OffensiveRebound",
+            "player": "Jeremy Sochan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "18:20"
+            },
+            "caption": "Jeremy Sochan gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Jeremy Sochan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:20",
+                "end": "19:20"
+            },
+            "caption": "Jeremy Sochan makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "2ptShot",
+            "player": "Tre Jones",
+            "result": "made",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "23:00"
+            },
+            "caption": "Tre Jones makes 2-pt jump shot."
+        }
+    ]
+}

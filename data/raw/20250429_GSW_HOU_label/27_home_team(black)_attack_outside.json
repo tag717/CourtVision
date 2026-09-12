@@ -1,0 +1,107 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_27_home_team(black)_attack_outside",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:30"
+            },
+            "caption": "Stephen Curry dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:20"
+            },
+            "caption": "Stephen Curry makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Gui Santos",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:50"
+            },
+            "caption": "Gui Santos makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Quinten Post",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "07:50"
+            },
+            "caption": "Quinten Post makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Gary Payton II",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "08:40"
+            },
+            "caption": "Gary Payton II makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "11:00"
+            },
+            "caption": "Draymond Green holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "11:50"
+            },
+            "caption": "Draymond Green makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Block",
+            "player": "Steven Adams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:40"
+            },
+            "caption": "Steven Adams blocks the shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "2ptShot",
+            "player": "Draymond Green",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "16:20"
+            },
+            "caption": "Draymond Green misses 2-pt jump shot."
+        }
+    ]
+}

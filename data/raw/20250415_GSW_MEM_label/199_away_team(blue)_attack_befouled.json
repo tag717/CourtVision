@@ -1,0 +1,41 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_199_away_team(blue)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Zach Edey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Zach Edey holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Zach Edey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:30"
+            },
+            "caption": "Zach Edey makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Desmond Bane",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "15:10"
+            },
+            "caption": "Desmond Bane dribbles the ball."
+        }
+    ]
+}

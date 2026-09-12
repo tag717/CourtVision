@@ -1,0 +1,217 @@
+{
+    "video_id": "20240617_BOS_DAL",
+    "possession_id": "poss_73_home_team(green)_attack_successed_2pt",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:30"
+            },
+            "caption": "Derrick White dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:10"
+            },
+            "caption": "Derrick White makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "07:10"
+            },
+            "caption": "Jayson Tatum holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "07:50"
+            },
+            "caption": "Jayson Tatum dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "08:30"
+            },
+            "caption": "Jayson Tatum makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "10:40"
+            },
+            "caption": "Jaylen Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Jaylen Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "11:20"
+            },
+            "caption": "Jaylen Brown makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:50"
+            },
+            "caption": "Jrue Holiday dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:50",
+                "end": "13:30"
+            },
+            "caption": "Jrue Holiday makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:30"
+            },
+            "caption": "Jayson Tatum dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "15:10"
+            },
+            "caption": "Jayson Tatum makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Dribble",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "15:40"
+            },
+            "caption": "Jrue Holiday dribbles the ball."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "PassBall",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "16:40"
+            },
+            "caption": "Derrick White makes a pass."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "3ptShot",
+            "player": "Derrick White",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:40",
+                "end": "19:00"
+            },
+            "caption": "Derrick White misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "OffensiveRebound",
+            "player": "Sam Hauser",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "20:10"
+            },
+            "caption": "Sam Hauser gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_16",
+            "event_label": "Dribble",
+            "player": "Sam Hauser",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:10",
+                "end": "20:30"
+            },
+            "caption": "Sam Hauser dribbles the ball."
+        },
+        {
+            "event_id": "ev_17",
+            "event_label": "PassBall",
+            "player": "Sam Hauser",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:30",
+                "end": "21:00"
+            },
+            "caption": "Sam Hauser makes a pass."
+        },
+        {
+            "event_id": "ev_18",
+            "event_label": "Dribble",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:00",
+                "end": "22:30"
+            },
+            "caption": "Jayson Tatum dribbles the ball."
+        },
+        {
+            "event_id": "ev_19",
+            "event_label": "Layup",
+            "player": "Jayson Tatum",
+            "result": "made",
+            "timestamp_video": {
+                "start": "22:30",
+                "end": "25:00"
+            },
+            "caption": "Jayson Tatum makes layup."
+        }
+    ]
+}

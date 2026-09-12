@@ -1,0 +1,52 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_87_away_team(white)_attack_befouled",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Jalen Suggs inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Mo Bamba",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "04:00"
+            },
+            "caption": "Mo Bamba holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Mo Bamba",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "06:30"
+            },
+            "caption": "Mo Bamba dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Mo Bamba",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:30"
+            },
+            "caption": "Mo Bamba is fouled on a layup attempt."
+        }
+    ]
+}

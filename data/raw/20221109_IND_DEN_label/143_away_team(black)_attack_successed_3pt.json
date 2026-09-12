@@ -1,0 +1,184 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_143_away_team(black)_attack_successed_3pt",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Kentavious Caldwell-Pope dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "01:20"
+            },
+            "caption": "Kentavious Caldwell-Pope makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "06:10"
+            },
+            "caption": "Bruce Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "06:50"
+            },
+            "caption": "Bruce Brown makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "10:30"
+            },
+            "caption": "Aaron Gordon holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Steal",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "11:20"
+            },
+            "caption": "Tyrese Haliburton steals the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Goga Bitadze",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:10"
+            },
+            "caption": "Goga Bitadze makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Andrew Nembhard",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:20"
+            },
+            "caption": "Andrew Nembhard turnover: bad pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Steal",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "15:30"
+            },
+            "caption": "Jamal Murray steals the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "16:40"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:40",
+                "end": "17:20"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "3ptShot",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "made",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "19:20"
+            },
+            "caption": "Kentavious Caldwell-Pope makes 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "OffensiveRebound",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:30",
+                "end": "20:10"
+            },
+            "caption": "Aaron Gordon gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "PassBall",
+            "player": "Aaron Gordon",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:50",
+                "end": "22:30"
+            },
+            "caption": "Aaron Gordon makes a pass."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "Dribble",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:30",
+                "end": "24:00"
+            },
+            "caption": "Kentavious Caldwell-Pope dribbles the ball."
+        },
+        {
+            "event_id": "ev_16",
+            "event_label": "3ptShot",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "made",
+            "timestamp_video": {
+                "start": "24:30",
+                "end": "26:10"
+            },
+            "caption": "Kentavious Caldwell-Pope makes 3-pt jump shot."
+        }
+    ]
+}

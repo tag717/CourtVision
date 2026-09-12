@@ -1,0 +1,107 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_167_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Keyonte George",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:20"
+            },
+            "caption": "Keyonte George makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "03:00"
+            },
+            "caption": "Jaden Springer holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:10"
+            },
+            "caption": "Jaden Springer dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "06:00"
+            },
+            "caption": "Jaden Springer makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Collin Sexton",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "08:20"
+            },
+            "caption": "Collin Sexton misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "OffensiveRebound",
+            "player": "Collin Sexton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:20"
+            },
+            "caption": "Collin Sexton gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Collin Sexton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "20:00"
+            },
+            "caption": "Collin Sexton dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Collin Sexton",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "22:10"
+            },
+            "caption": "Collin Sexton misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Caris LeVert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "22:10",
+                "end": "24:10"
+            },
+            "caption": "Caris LeVert gets the defensive rebound."
+        }
+    ]
+}

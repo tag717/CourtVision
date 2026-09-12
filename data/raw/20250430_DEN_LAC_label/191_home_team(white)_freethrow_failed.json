@@ -1,0 +1,19 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_191_home_team(white)_freethrow_failed",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Zeke Nnaji",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Zeke Nnaji misses free throw."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_127_away_team(white)_attack_failed",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Devin Booker",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:40"
+            },
+            "caption": "Devin Booker misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Taurean Prince",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "04:10"
+            },
+            "caption": "Taurean Prince gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Taurean Prince",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:00"
+            },
+            "caption": "Taurean Prince dribbles the ball."
+        }
+    ]
+}

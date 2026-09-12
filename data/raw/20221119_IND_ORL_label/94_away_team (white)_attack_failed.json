@@ -1,0 +1,41 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_94_away_team (white)_attack_failed",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bol Bol",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:50"
+            },
+            "caption": "Bol Bol dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Bol Bol",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "04:20"
+            },
+            "caption": "Bol Bol misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Jalen Smith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "07:00"
+            },
+            "caption": "Jalen Smith gets the defensive rebound."
+        }
+    ]
+}

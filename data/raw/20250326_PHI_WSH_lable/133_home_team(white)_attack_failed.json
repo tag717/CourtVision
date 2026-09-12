@@ -1,0 +1,63 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_133_home_team(white)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Quentin Grimes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:30"
+            },
+            "caption": "Quentin Grimes dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Quentin Grimes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:30"
+            },
+            "caption": "Quentin Grimes makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jared Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "10:10"
+            },
+            "caption": "Jared Butler dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Jared Butler",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:10"
+            },
+            "caption": "Jared Butler misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Jared Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "11:30"
+            },
+            "caption": "Jared Butler gets the defensive rebound."
+        }
+    ]
+}

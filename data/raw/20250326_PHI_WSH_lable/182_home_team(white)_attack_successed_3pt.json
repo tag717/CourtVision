@@ -1,0 +1,30 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_182_home_team(white)_attack_successed_3pt",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Quentin Grimes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:20"
+            },
+            "caption": "Quentin Grimes dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Quentin Grimes",
+            "result": "made",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "08:10"
+            },
+            "caption": "Quentin Grimes makes 3-pt jump shot."
+        }
+    ]
+}

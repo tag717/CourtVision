@@ -1,0 +1,162 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_42_away_team(white)_steal&fastbreak_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Naji Marshall",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:20"
+            },
+            "caption": "Naji Marshall dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Naji Marshall",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:10"
+            },
+            "caption": "Naji Marshall makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "10:00"
+            },
+            "caption": "Paul Reed holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:00"
+            },
+            "caption": "Paul Reed dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Paul Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "11:20"
+            },
+            "caption": "Paul Reed makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Brandon Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "14:10"
+            },
+            "caption": "Brandon Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Brandon Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "14:20"
+            },
+            "caption": "Brandon Williams makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "2ptShot",
+            "player": "Paul Reed",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "14:30"
+            },
+            "caption": "Paul Reed misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "15:20"
+            },
+            "caption": "Isaiah Stewart gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Isaiah Stewart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "17:00"
+            },
+            "caption": "Isaiah Stewart makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "18:00"
+            },
+            "caption": "Cade Cunningham dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "18:30"
+            },
+            "caption": "Cade Cunningham makes a pass."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "3ptShot",
+            "player": "Malik Beasley",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "18:30",
+                "end": "20:30"
+            },
+            "caption": "Malik Beasley misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "DefensiveRebound",
+            "player": "Naji Marshall",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:30",
+                "end": "23:20"
+            },
+            "caption": "Naji Marshall gets the defensive rebound."
+        }
+    ]
+}

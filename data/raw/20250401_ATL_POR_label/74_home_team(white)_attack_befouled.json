@@ -1,0 +1,30 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_74_home_team(white)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Zaccharie Risacher",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:40"
+            },
+            "caption": "Zaccharie Risacher is fouled while dribbling."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "Donovan Clingan",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:40"
+            },
+            "caption": "Donovan Clingan is called for a foul on a steal attempt."
+        }
+    ]
+}

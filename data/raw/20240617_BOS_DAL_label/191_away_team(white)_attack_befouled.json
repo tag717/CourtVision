@@ -1,0 +1,19 @@
+{
+    "video_id": "20240617_BOS_DAL",
+    "possession_id": "poss_191_away_team(white)_attack_befouled",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Olivier-Maxence Prosper",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:00"
+            },
+            "caption": "Olivier-Maxence Prosper is fouled while dribbling."
+        }
+    ]
+}

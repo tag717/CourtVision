@@ -1,0 +1,19 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_158_home_team(yellow)_freethrow_successed",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "LeBron James",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "LeBron James makes free throw."
+        }
+    ]
+}

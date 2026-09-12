@@ -1,0 +1,63 @@
+{
+    "video_id": "20250331_CHA_UTA",
+    "possession_id": "poss_151_away_team(blue)_attack_failed",
+    "home_team": "CHA",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Collin Sexton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Collin Sexton inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "13:50"
+            },
+            "caption": "Jaden Springer dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jaden Springer",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:50",
+                "end": "14:50"
+            },
+            "caption": "Jaden Springer makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "KJ Martin",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "16:50"
+            },
+            "caption": "KJ Martin misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Miles Bridges",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:50",
+                "end": "19:10"
+            },
+            "caption": "Miles Bridges gets the defensive rebound."
+        }
+    ]
+}

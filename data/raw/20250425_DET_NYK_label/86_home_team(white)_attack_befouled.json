@@ -1,0 +1,19 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_86_home_team(white)_attack_befouled",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ron Holland",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:30"
+            },
+            "caption": "Ron Holland is fouled while dribbling."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_176_away_team(red)_attack_befouled",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jabari Walker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Jabari Walker dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Jabari Walker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "04:10"
+            },
+            "caption": "Jabari Walker hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "07:10"
+            },
+            "caption": "Anfernee Simons holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "08:20"
+            },
+            "caption": "Anfernee Simons dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Anfernee Simons",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "10:20"
+            },
+            "caption": "Anfernee Simons is fouled on a layup attempt."
+        }
+    ]
+}

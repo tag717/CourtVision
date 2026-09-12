@@ -1,0 +1,85 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_55_home_team(black)_attack_befouled",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "05:20"
+            },
+            "caption": "Shai Gilgeous-Alexander dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:00"
+            },
+            "caption": "Shai Gilgeous-Alexander makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Alex Caruso",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:00"
+            },
+            "caption": "Alex Caruso makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jaylin Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:40"
+            },
+            "caption": "Jaylin Williams makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Alex Caruso",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "13:50"
+            },
+            "caption": "Alex Caruso misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "OffensiveRebound",
+            "player": "Jaylin Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:50",
+                "end": "15:40"
+            },
+            "caption": "Jaylin Williams gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PutBack",
+            "player": "Jaylin Williams",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "18:00"
+            },
+            "caption": "Jaylin Williams is fouled on a putback attempt."
+        }
+    ]
+}

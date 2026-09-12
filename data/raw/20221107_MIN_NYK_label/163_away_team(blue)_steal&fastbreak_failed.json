@@ -1,0 +1,129 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_163_away_team(blue)_steal&fastbreak_failed",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Jordan McLaughlin dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jordan McLaughlin",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:20"
+            },
+            "caption": "Jordan McLaughlin turnover: bad pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:20"
+            },
+            "caption": "Immanuel Quickley steals the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "08:10"
+            },
+            "caption": "Immanuel Quickley dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "09:30"
+            },
+            "caption": "Immanuel Quickley makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Obi Toppin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "12:40"
+            },
+            "caption": "Obi Toppin makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Hold",
+            "player": "Evan Fournier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "14:20"
+            },
+            "caption": "Evan Fournier holds the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Evan Fournier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "15:40"
+            },
+            "caption": "Evan Fournier dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Evan Fournier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "16:30"
+            },
+            "caption": "Evan Fournier makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "3ptShot",
+            "player": "Derrick Rose",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "19:10"
+            },
+            "caption": "Derrick Rose misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "DefensiveRebound",
+            "player": "Jordan McLaughlin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:10",
+                "end": "20:00"
+            },
+            "caption": "Jordan McLaughlin gets the defensive rebound."
+        }
+    ]
+}

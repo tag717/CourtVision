@@ -1,0 +1,30 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_181_home_team(black)_attack_outside",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Olivier-Maxence Prosper",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Olivier-Maxence Prosper dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Olivier-Maxence Prosper",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "07:00"
+            },
+            "caption": "Olivier-Maxence Prosper misses 2-pt jump shot."
+        }
+    ]
+}

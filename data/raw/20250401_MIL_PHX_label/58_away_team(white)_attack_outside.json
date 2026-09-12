@@ -1,0 +1,52 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_58_away_team(white)_attack_outside",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "01:50"
+            },
+            "caption": "Tyus Jones makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "05:00"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Devin Booker",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "07:10"
+            },
+            "caption": "Devin Booker misses 3-pt jump shot (out of bounds)."
+        }
+    ]
+}

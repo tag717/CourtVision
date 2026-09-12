@@ -1,0 +1,162 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_48_away_team(red)_steal&fastbreak_failed",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Jose Alvarado",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Jose Alvarado inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "01:30"
+            },
+            "caption": "CJ McCollum makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jose Alvarado",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "05:20"
+            },
+            "caption": "Jose Alvarado dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Jose Alvarado",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "05:50"
+            },
+            "caption": "Jose Alvarado hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Trey Murphy III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "07:20"
+            },
+            "caption": "Trey Murphy III makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Hold",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "09:20"
+            },
+            "caption": "CJ McCollum holds the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:00"
+            },
+            "caption": "CJ McCollum dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:10"
+            },
+            "caption": "CJ McCollum makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Brandon Ingram",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "12:00"
+            },
+            "caption": "Brandon Ingram turnover: bad pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Steal",
+            "player": "Nassir Little",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "12:30"
+            },
+            "caption": "Nassir Little steals the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Nassir Little",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "14:00"
+            },
+            "caption": "Nassir Little makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Dribble",
+            "player": "Trendon Watford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "16:20"
+            },
+            "caption": "Trendon Watford dribbles the ball."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "Layup",
+            "player": "Trendon Watford",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "18:00"
+            },
+            "caption": "Trendon Watford misses layup."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "DefensiveRebound",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "18:30"
+            },
+            "caption": "CJ McCollum gets the defensive rebound."
+        }
+    ]
+}

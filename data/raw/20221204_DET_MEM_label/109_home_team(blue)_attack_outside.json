@@ -1,0 +1,74 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_109_home_team(blue)_attack_outside",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Killian Hayes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:20"
+            },
+            "caption": "Killian Hayes dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Killian Hayes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "06:50"
+            },
+            "caption": "Killian Hayes hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Bojan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "08:10"
+            },
+            "caption": "Bojan Bogdanović dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Bojan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "08:40"
+            },
+            "caption": "Bojan Bogdanović makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Jaden Ivey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "11:00"
+            },
+            "caption": "Jaden Ivey dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Jaden Ivey",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "12:40"
+            },
+            "caption": "Jaden Ivey turnover: pass out of bounds."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_228_home_team(blue)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Stephen Curry holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "04:00"
+            },
+            "caption": "Stephen Curry dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Stephen Curry",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "09:00"
+            },
+            "caption": "Stephen Curry is fouled while holding the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Steal",
+            "player": "Chimezie Metu",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "09:00"
+            },
+            "caption": "Chimezie Metu is called for a foul on a steal attempt."
+        }
+    ]
+}

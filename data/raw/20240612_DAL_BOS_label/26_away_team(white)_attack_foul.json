@@ -1,0 +1,30 @@
+{
+    "video_id": "20240612_DAL_BOS",
+    "possession_id": "poss_26_away_team(white)_attack_foul",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:00"
+            },
+            "caption": "Jrue Holiday dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:50"
+            },
+            "caption": "Jrue Holiday makes a pass."
+        }
+    ]
+}

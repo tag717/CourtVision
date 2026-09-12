@@ -1,0 +1,107 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_156_away_team(black)_steal&fastbreak_outside",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Nickeil Alexander-Walker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "Nickeil Alexander-Walker dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Nickeil Alexander-Walker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:00"
+            },
+            "caption": "Nickeil Alexander-Walker makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Naz Reid",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:00"
+            },
+            "caption": "Naz Reid makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Kyle Anderson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "10:10"
+            },
+            "caption": "Kyle Anderson holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Kyle Anderson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:00"
+            },
+            "caption": "Kyle Anderson makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Naz Reid",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "13:30"
+            },
+            "caption": "Naz Reid turnover: lost ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Steal",
+            "player": "Josh Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "15:00"
+            },
+            "caption": "Josh Green steals the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Josh Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "17:20"
+            },
+            "caption": "Josh Green dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Josh Green",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "19:00"
+            },
+            "caption": "Josh Green turnover: pass out of bounds."
+        }
+    ]
+}

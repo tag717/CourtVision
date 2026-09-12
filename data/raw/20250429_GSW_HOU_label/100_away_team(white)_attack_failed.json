@@ -1,0 +1,85 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_100_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Amen Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:30"
+            },
+            "caption": "Amen Thompson dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Amen Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:30"
+            },
+            "caption": "Amen Thompson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "11:00"
+            },
+            "caption": "Fred VanVleet holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "13:10"
+            },
+            "caption": "Fred VanVleet dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Jalen Green",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "16:40"
+            },
+            "caption": "Jalen Green misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:40",
+                "end": "17:50"
+            },
+            "caption": "Buddy Hield gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:50",
+                "end": "19:00"
+            },
+            "caption": "Buddy Hield dribbles the ball."
+        }
+    ]
+}

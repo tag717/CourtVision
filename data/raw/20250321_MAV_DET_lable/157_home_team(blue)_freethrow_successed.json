@@ -1,0 +1,19 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_157_home_team(blue)_freethrow_successed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Max Christie",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Max Christie makes free throw."
+        }
+    ]
+}

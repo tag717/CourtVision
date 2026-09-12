@@ -1,0 +1,195 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_183_away_team(blue)_steal&fastbreak_successed_2pt",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:40"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:30"
+            },
+            "caption": "Tyus Jones makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "06:10"
+            },
+            "caption": "Jaren Jackson Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jaren Jackson Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "06:20"
+            },
+            "caption": "Jaren Jackson Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "08:40"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:20"
+            },
+            "caption": "Tyus Jones makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Dillon Brooks",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "11:00"
+            },
+            "caption": "Dillon Brooks turnover: lost ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Steal",
+            "player": "Lindy Waters III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "12:20"
+            },
+            "caption": "Lindy Waters III steals the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Hold",
+            "player": "Lindy Waters III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "13:20"
+            },
+            "caption": "Lindy Waters III holds the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Lindy Waters III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:00"
+            },
+            "caption": "Lindy Waters III makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "15:00"
+            },
+            "caption": "Jalen Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "16:10"
+            },
+            "caption": "Jalen Williams makes a pass."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "Dribble",
+            "player": "Aaron Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "18:40"
+            },
+            "caption": "Aaron Wiggins dribbles the ball."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "PassBall",
+            "player": "Aaron Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:40",
+                "end": "19:40"
+            },
+            "caption": "Aaron Wiggins makes a pass."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "PassBall",
+            "player": "Jeremiah Robinson-Earl",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:40",
+                "end": "21:20"
+            },
+            "caption": "Jeremiah Robinson-Earl makes a pass."
+        },
+        {
+            "event_id": "ev_16",
+            "event_label": "Dribble",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:20",
+                "end": "25:10"
+            },
+            "caption": "Jalen Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_17",
+            "event_label": "3ptShot",
+            "player": "Jalen Williams",
+            "result": "made",
+            "timestamp_video": {
+                "start": "25:10",
+                "end": "26:50"
+            },
+            "caption": "Jalen Williams makes 3-pt jump shot."
+        }
+    ]
+}

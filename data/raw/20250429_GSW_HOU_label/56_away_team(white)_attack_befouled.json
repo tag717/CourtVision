@@ -1,0 +1,85 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_56_away_team(white)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Alperen Şengün",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Alperen Şengün makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "13:00"
+            },
+            "caption": "Fred VanVleet dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:00"
+            },
+            "caption": "Fred VanVleet makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "19:20"
+            },
+            "caption": "Dillon Brooks dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "2ptShot",
+            "player": "Dillon Brooks",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "21:30"
+            },
+            "caption": "Dillon Brooks misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "OffensiveRebound",
+            "player": "Dillon Brooks",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:30",
+                "end": "23:50"
+            },
+            "caption": "Dillon Brooks gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "Dillon Brooks",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "23:50",
+                "end": "26:50"
+            },
+            "caption": "Dillon Brooks is fouled on a layup attempt."
+        }
+    ]
+}

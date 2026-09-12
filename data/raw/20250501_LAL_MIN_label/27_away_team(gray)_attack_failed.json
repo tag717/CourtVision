@@ -1,0 +1,52 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_27_away_team(gray)_attack_failed",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Donte DiVincenzo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:30"
+            },
+            "caption": "Donte DiVincenzo makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Julius Randle",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "03:50"
+            },
+            "caption": "Julius Randle turnover: lost ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:00"
+            },
+            "caption": "Luka Dončić steals the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:00"
+            },
+            "caption": "Luka Dončić dribbles the ball."
+        }
+    ]
+}

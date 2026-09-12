@@ -1,0 +1,41 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_117_home_team(white)_attack_successed_3pt",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:10"
+            },
+            "caption": "Tyrese Haliburton inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Isaiah Jackson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:10",
+                "end": "00:20"
+            },
+            "caption": "Isaiah Jackson makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Tyrese Haliburton",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "02:30"
+            },
+            "caption": "Tyrese Haliburton makes 3-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_151_home_team(green)_attack_failed",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "12:30"
+            },
+            "caption": "Unknown Player dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Unknown Player",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "14:20"
+            },
+            "caption": "Unknown Player misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Cody Martin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "15:30"
+            },
+            "caption": "Cody Martin gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Cody Martin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "17:20"
+            },
+            "caption": "Cody Martin makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "18:00"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        }
+    ]
+}

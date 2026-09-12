@@ -1,0 +1,41 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_186_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Davon Reed",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:40"
+            },
+            "caption": "Davon Reed dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Davon Reed",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "04:30"
+            },
+            "caption": "Davon Reed misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "DefensiveRebound",
+            "player": "Tim Hardaway Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:40"
+            },
+            "caption": "Tim Hardaway Jr. gets the defensive rebound."
+        }
+    ]
+}

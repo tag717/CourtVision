@@ -1,0 +1,85 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_172_away_team(blue)_attack_outside",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Josh Hart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "02:40"
+            },
+            "caption": "Josh Hart inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Miles McBride",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "14:20"
+            },
+            "caption": "Miles McBride dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Miles McBride",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:40",
+                "end": "15:40"
+            },
+            "caption": "Miles McBride makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Josh Hart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "18:20"
+            },
+            "caption": "Josh Hart dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Josh Hart",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:20",
+                "end": "19:00"
+            },
+            "caption": "Josh Hart makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "OG Anunoby",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:10",
+                "end": "20:20"
+            },
+            "caption": "OG Anunoby dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Block",
+            "player": "Cade Cunningham",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:20",
+                "end": "21:40"
+            },
+            "caption": "Cade Cunningham blocks the shot."
+        }
+    ]
+}

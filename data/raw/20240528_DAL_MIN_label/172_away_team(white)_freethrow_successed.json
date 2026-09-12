@@ -1,0 +1,19 @@
+{
+    "video_id": "20240528_DAL_MIN",
+    "possession_id": "poss_172_away_team(white)_freethrow_successed",
+    "home_team": "DAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Karl-Anthony Towns",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "Karl-Anthony Towns makes free throw."
+        }
+    ]
+}

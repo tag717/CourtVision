@@ -1,0 +1,19 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_115_home_team(white)_attack_outside",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ausar Thompson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:10"
+            },
+            "caption": "Ausar Thompson dribbles the ball."
+        }
+    ]
+}

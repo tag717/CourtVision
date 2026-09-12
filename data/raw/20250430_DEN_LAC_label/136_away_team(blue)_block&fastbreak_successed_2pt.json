@@ -1,0 +1,96 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_136_away_team(blue)_block&fastbreak_successed_2pt",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:10"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "05:50"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "08:20"
+            },
+            "caption": "Nikola Jokić dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Nikola Jokić",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:20"
+            },
+            "caption": "Nikola Jokić misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Block",
+            "player": "Nicolas Batum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:20"
+            },
+            "caption": "Nicolas Batum blocks the shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "10:40"
+            },
+            "caption": "James Harden dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Layup",
+            "player": "James Harden",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "15:00"
+            },
+            "caption": "James Harden misses layup."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PutBack",
+            "player": "Kawhi Leonard",
+            "result": "made",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "17:00"
+            },
+            "caption": "Kawhi Leonard makes putback layup."
+        }
+    ]
+}

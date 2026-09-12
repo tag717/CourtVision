@@ -1,0 +1,19 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_5_home_team(purple)_freethrow_successed",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Keegan Murray",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Keegan Murray makes free throw."
+        }
+    ]
+}

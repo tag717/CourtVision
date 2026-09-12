@@ -1,0 +1,52 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_149_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Oshae Brissett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Oshae Brissett dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Oshae Brissett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "03:50"
+            },
+            "caption": "Oshae Brissett hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Svi Mykhailiuk",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "06:00"
+            },
+            "caption": "Svi Mykhailiuk misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Dante Exum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:00"
+            },
+            "caption": "Dante Exum gets the defensive rebound."
+        }
+    ]
+}

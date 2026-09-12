@@ -1,0 +1,74 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_5_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Anfernee Simons dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Anfernee Simons",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "03:50"
+            },
+            "caption": "Anfernee Simons misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "OffensiveRebound",
+            "player": "Donovan Clingan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:40"
+            },
+            "caption": "Donovan Clingan gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Anfernee Simons",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "06:40"
+            },
+            "caption": "Anfernee Simons misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "08:30"
+            },
+            "caption": "Trae Young gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:50"
+            },
+            "caption": "Trae Young makes a pass."
+        }
+    ]
+}

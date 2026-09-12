@@ -1,0 +1,30 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_52_away_team(white)_attack_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "3ptShot",
+            "player": "Ron Holland",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "04:10"
+            },
+            "caption": "Ron Holland misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "DefensiveRebound",
+            "player": "Brandon Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "04:20"
+            },
+            "caption": "Brandon Williams gets the defensive rebound."
+        }
+    ]
+}

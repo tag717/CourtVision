@@ -1,0 +1,30 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_123_home_team(green)_freethrow_failed",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Giannis Antetokounmpo",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:40"
+            },
+            "caption": "Giannis Antetokounmpo misses free throw."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "DefensiveRebound",
+            "player": "Cody Martin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "04:00"
+            },
+            "caption": "Cody Martin gets the defensive rebound."
+        }
+    ]
+}

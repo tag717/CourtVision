@@ -1,0 +1,19 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_171_home_team(white)_attack_timeout",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "T.J. McConnell",
+            "result": "timeout",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "T.J. McConnell dribbles and calls a timeout."
+        }
+    ]
+}

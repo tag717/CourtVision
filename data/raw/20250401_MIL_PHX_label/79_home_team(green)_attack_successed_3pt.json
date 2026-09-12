@@ -1,0 +1,96 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_79_home_team(green)_attack_successed_3pt",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:00"
+            },
+            "caption": "Giannis Antetokounmpo dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "05:30"
+            },
+            "caption": "Giannis Antetokounmpo makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Pat Connaughton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:50"
+            },
+            "caption": "Pat Connaughton dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Pat Connaughton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "09:10"
+            },
+            "caption": "Pat Connaughton makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:10"
+            },
+            "caption": "Giannis Antetokounmpo dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "11:40"
+            },
+            "caption": "Giannis Antetokounmpo makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Brook Lopez",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "12:40"
+            },
+            "caption": "Brook Lopez makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Ryan Rollins",
+            "result": "made",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:40"
+            },
+            "caption": "Ryan Rollins makes 3-pt jump shot."
+        }
+    ]
+}

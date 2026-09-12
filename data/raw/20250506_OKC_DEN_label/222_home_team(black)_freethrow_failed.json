@@ -1,0 +1,19 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_222_home_team(black)_freethrow_failed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Chet Holmgren",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "05:30"
+            },
+            "caption": "Chet Holmgren misses free throw."
+        }
+    ]
+}

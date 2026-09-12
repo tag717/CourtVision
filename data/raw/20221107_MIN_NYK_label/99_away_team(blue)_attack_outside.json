@@ -1,0 +1,30 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_99_away_team(blue)_attack_outside",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Julius Randle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:30"
+            },
+            "caption": "Julius Randle dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Julius Randle",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "03:00"
+            },
+            "caption": "Julius Randle turnover: pass out of bounds."
+        }
+    ]
+}

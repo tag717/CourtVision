@@ -1,0 +1,85 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_45_away_team(white)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tre Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Tre Mann dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Tre Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "03:50"
+            },
+            "caption": "Tre Mann makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Aaron Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:50"
+            },
+            "caption": "Aaron Wiggins makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Ousmane Dieng",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "06:10"
+            },
+            "caption": "Ousmane Dieng dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Ousmane Dieng",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "06:50"
+            },
+            "caption": "Ousmane Dieng makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Aleksej Pokusevski",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:50",
+                "end": "09:00"
+            },
+            "caption": "Aleksej Pokusevski misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PutBack",
+            "player": "Aaron Wiggins",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "09:50"
+            },
+            "caption": "Aaron Wiggins is fouled on a putback attempt."
+        }
+    ]
+}

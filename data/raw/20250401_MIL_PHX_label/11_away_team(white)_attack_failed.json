@@ -1,0 +1,118 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_11_away_team(white)_attack_failed",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Collin Gillespie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Collin Gillespie dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Grayson Allen",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "11:10"
+            },
+            "caption": "Grayson Allen dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Grayson Allen",
+            "result": "made",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "13:00"
+            },
+            "caption": "Grayson Allen makes 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "OffensiveRebound",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:50"
+            },
+            "caption": "Unknown Player gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "15:40"
+            },
+            "caption": "Unknown Player dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:40",
+                "end": "17:30"
+            },
+            "caption": "Unknown Player makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Grayson Allen",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:40",
+                "end": "20:50"
+            },
+            "caption": "Grayson Allen makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:50",
+                "end": "23:20"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Steal",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "24:30",
+                "end": "26:30"
+            },
+            "caption": "Giannis Antetokounmpo steals the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "26:30",
+                "end": "28:00"
+            },
+            "caption": "Giannis Antetokounmpo dribbles the ball."
+        }
+    ]
+}

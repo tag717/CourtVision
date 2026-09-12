@@ -1,0 +1,30 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_172_away_team(white)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Terence Davis",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "09:40"
+            },
+            "caption": "Terence Davis is fouled while dribbling."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "Ty Jerome",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:40"
+            },
+            "caption": "Ty Jerome steals the ball."
+        }
+    ]
+}

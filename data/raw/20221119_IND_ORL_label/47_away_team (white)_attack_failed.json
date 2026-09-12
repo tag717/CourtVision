@@ -1,0 +1,85 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_47_away_team (white)_attack_failed",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Franz Wagner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Franz Wagner makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Caleb Houstan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "02:00"
+            },
+            "caption": "Caleb Houstan dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "HandOff",
+            "player": "Caleb Houstan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:30"
+            },
+            "caption": "Caleb Houstan hands off the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Admiral Schofield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "04:00"
+            },
+            "caption": "Admiral Schofield holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Admiral Schofield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "06:00"
+            },
+            "caption": "Admiral Schofield dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Admiral Schofield",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:00"
+            },
+            "caption": "Admiral Schofield misses layup."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "DefensiveRebound",
+            "player": "Oshae Brissett",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:00"
+            },
+            "caption": "Oshae Brissett gets the defensive rebound."
+        }
+    ]
+}

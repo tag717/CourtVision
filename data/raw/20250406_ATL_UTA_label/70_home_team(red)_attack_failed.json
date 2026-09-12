@@ -1,0 +1,184 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_70_home_team(red)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:20"
+            },
+            "caption": "Dyson Daniels dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "01:10"
+            },
+            "caption": "Dyson Daniels makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Terance Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "03:10"
+            },
+            "caption": "Terance Mann dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Terance Mann",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "05:10"
+            },
+            "caption": "Terance Mann misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "OffensiveRebound",
+            "player": "Vít Krejčí",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "06:30"
+            },
+            "caption": "Vít Krejčí gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Vít Krejčí",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:20"
+            },
+            "caption": "Vít Krejčí dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Vít Krejčí",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:10"
+            },
+            "caption": "Vít Krejčí makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Zaccharie Risacher",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "09:20"
+            },
+            "caption": "Zaccharie Risacher makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "11:00"
+            },
+            "caption": "Dyson Daniels dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:00",
+                "end": "11:40"
+            },
+            "caption": "Dyson Daniels makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "Dribble",
+            "player": "Vít Krejčí",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "12:20"
+            },
+            "caption": "Vít Krejčí dribbles the ball."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Vít Krejčí",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "14:00"
+            },
+            "caption": "Vít Krejčí makes a pass."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "PassBall",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:00",
+                "end": "14:40"
+            },
+            "caption": "Dyson Daniels makes a pass."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "3ptShot",
+            "player": "Zaccharie Risacher",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "14:40",
+                "end": "17:20"
+            },
+            "caption": "Zaccharie Risacher misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "DefensiveRebound",
+            "player": "Kyle Filipowski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "18:10"
+            },
+            "caption": "Kyle Filipowski gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_16",
+            "event_label": "Dribble",
+            "player": "Kyle Filipowski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:10",
+                "end": "20:00"
+            },
+            "caption": "Kyle Filipowski dribbles the ball."
+        }
+    ]
+}

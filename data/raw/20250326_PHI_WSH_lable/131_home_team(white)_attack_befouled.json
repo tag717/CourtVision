@@ -1,0 +1,41 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_131_home_team(white)_attack_befouled",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jared Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:00"
+            },
+            "caption": "Jared Butler dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jared Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:20"
+            },
+            "caption": "Jared Butler makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Quentin Grimes",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "12:10"
+            },
+            "caption": "Quentin Grimes is fouled while dribbling."
+        }
+    ]
+}

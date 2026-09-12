@@ -1,0 +1,19 @@
+{
+    "video_id": "20240528_DAL_MIN",
+    "possession_id": "poss_29_away_team(white)_freethrow_failed",
+    "home_team": "DAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Rudy Gobert",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Rudy Gobert misses free throw."
+        }
+    ]
+}

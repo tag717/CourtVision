@@ -1,0 +1,63 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_62_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jabari Walker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "Jabari Walker dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jabari Walker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "02:30"
+            },
+            "caption": "Jabari Walker makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Deni Avdija",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "09:00"
+            },
+            "caption": "Deni Avdija turnover: lost ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Steal",
+            "player": "Terance Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "09:50"
+            },
+            "caption": "Terance Mann steals the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "12:00"
+            },
+            "caption": "Trae Young dribbles the ball."
+        }
+    ]
+}

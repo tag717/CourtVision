@@ -1,0 +1,63 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_149_home_team(green)_attack_successed_2pt",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Taurean Prince",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Taurean Prince dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Taurean Prince",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "03:20"
+            },
+            "caption": "Taurean Prince makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Brook Lopez",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "07:50"
+            },
+            "caption": "Brook Lopez dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Brook Lopez",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:00"
+            },
+            "caption": "Brook Lopez makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Pat Connaughton",
+            "result": "made",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:40"
+            },
+            "caption": "Pat Connaughton makes layup."
+        }
+    ]
+}

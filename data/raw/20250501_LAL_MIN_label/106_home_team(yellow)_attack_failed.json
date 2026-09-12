@@ -1,0 +1,63 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_106_home_team(yellow)_attack_failed",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Gabe Vincent",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "02:10"
+            },
+            "caption": "Gabe Vincent inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Austin Reaves",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "08:20"
+            },
+            "caption": "Austin Reaves dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Austin Reaves",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "10:10"
+            },
+            "caption": "Austin Reaves misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:10"
+            },
+            "caption": "Anthony Edwards gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "13:00"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        }
+    ]
+}

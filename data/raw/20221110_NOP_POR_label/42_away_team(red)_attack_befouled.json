@@ -1,0 +1,85 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_42_away_team(red)_attack_befouled",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Anfernee Simons dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "03:20"
+            },
+            "caption": "Anfernee Simons hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Trendon Watford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "06:20"
+            },
+            "caption": "Trendon Watford dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Trendon Watford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "06:40"
+            },
+            "caption": "Trendon Watford hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Jerami Grant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "09:10"
+            },
+            "caption": "Jerami Grant dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Jerami Grant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:10",
+                "end": "10:40"
+            },
+            "caption": "Jerami Grant makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Nassir Little",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "14:50"
+            },
+            "caption": "Nassir Little makes a pass."
+        }
+    ]
+}

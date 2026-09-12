@@ -1,0 +1,118 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_15_home_team(black)_block&fastbreak_failed",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Nikola Jokić makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dunk",
+            "player": "Aaron Gordon",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:50"
+            },
+            "caption": "Aaron Gordon misses dunk."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Block",
+            "player": "Jack White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "02:50"
+            },
+            "caption": "Jack White blocks the shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "04:50"
+            },
+            "caption": "Tre Jones gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "08:30"
+            },
+            "caption": "Tre Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Tre Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:50"
+            },
+            "caption": "Tre Jones makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Jeremy Sochan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "11:50"
+            },
+            "caption": "Jeremy Sochan dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Jeremy Sochan",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "12:40"
+            },
+            "caption": "Jeremy Sochan misses layup."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Block",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:20",
+                "end": "12:40"
+            },
+            "caption": "Nikola Jokić blocks the shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "15:00"
+            },
+            "caption": "Michael Porter Jr. gets the defensive rebound."
+        }
+    ]
+}

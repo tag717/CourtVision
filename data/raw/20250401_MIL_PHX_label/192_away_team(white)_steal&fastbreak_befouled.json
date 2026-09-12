@@ -1,0 +1,140 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_192_away_team(white)_steal&fastbreak_befouled",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Giannis Antetokounmpo inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Brook Lopez",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "01:40"
+            },
+            "caption": "Brook Lopez makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Giannis Antetokounmpo",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:40",
+                "end": "12:00"
+            },
+            "caption": "Giannis Antetokounmpo dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Steal",
+            "player": "Cody Martin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "13:40"
+            },
+            "caption": "Cody Martin steals the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Cody Martin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "14:10"
+            },
+            "caption": "Cody Martin makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Collin Gillespie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "15:00"
+            },
+            "caption": "Collin Gillespie dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Collin Gillespie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "15:30"
+            },
+            "caption": "Collin Gillespie makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "17:20"
+            },
+            "caption": "Devin Booker dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Devin Booker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "18:00"
+            },
+            "caption": "Devin Booker makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Grayson Allen",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:50",
+                "end": "20:00"
+            },
+            "caption": "Grayson Allen dribbles the ball."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "PassBall",
+            "player": "Grayson Allen",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:30",
+                "end": "21:10"
+            },
+            "caption": "Grayson Allen makes a pass."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "Layup",
+            "player": "Unknown Player",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "21:10",
+                "end": "22:00"
+            },
+            "caption": "Unknown Player is fouled on a layup attempt."
+        }
+    ]
+}

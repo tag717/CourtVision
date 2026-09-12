@@ -1,0 +1,118 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_158_away_team(black)_steal&fastbreak_successed_2pt",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Dyson Daniels holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "03:00"
+            },
+            "caption": "Dyson Daniels dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Dyson Daniels",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "03:40"
+            },
+            "caption": "Dyson Daniels turnover: bad pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Steal",
+            "player": "Matisse Thybulle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "04:20"
+            },
+            "caption": "Matisse Thybulle steals the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Matisse Thybulle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:40"
+            },
+            "caption": "Matisse Thybulle dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Matisse Thybulle",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "06:40"
+            },
+            "caption": "Matisse Thybulle makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Shaedon Sharp",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:40"
+            },
+            "caption": "Shaedon Sharp dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Layup",
+            "player": "Shaedon Sharp",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:50"
+            },
+            "caption": "Shaedon Sharp misses layup."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "OffensiveRebound",
+            "player": "Jabari Walker",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:10"
+            },
+            "caption": "Jabari Walker gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Layup",
+            "player": "Jabari Walker",
+            "result": "made",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:10"
+            },
+            "caption": "Jabari Walker makes layup."
+        }
+    ]
+}

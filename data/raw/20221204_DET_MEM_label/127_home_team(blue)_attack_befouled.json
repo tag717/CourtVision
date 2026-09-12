@@ -1,0 +1,30 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_127_home_team(blue)_attack_befouled",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Saddiq Bey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:10"
+            },
+            "caption": "Saddiq Bey dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Saddiq Bey",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "03:20"
+            },
+            "caption": "Saddiq Bey is fouled on a layup attempt."
+        }
+    ]
+}

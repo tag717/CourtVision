@@ -1,0 +1,107 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_197_home_team(white)_attack_befouled",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Zion Williamson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Zion Williamson inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Brandon Ingram",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "10:20"
+            },
+            "caption": "Brandon Ingram dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Brandon Ingram",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "10:40"
+            },
+            "caption": "Brandon Ingram makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Trey Murphy III",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "11:50"
+            },
+            "caption": "Trey Murphy III makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "13:20"
+            },
+            "caption": "CJ McCollum makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Brandon Ingram",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "14:30"
+            },
+            "caption": "Brandon Ingram makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "CJ McCollum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "15:50"
+            },
+            "caption": "CJ McCollum makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Zion Williamson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "17:20"
+            },
+            "caption": "Zion Williamson dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Layup",
+            "player": "Zion Williamson",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "18:30"
+            },
+            "caption": "Zion Williamson is fouled on a layup attempt."
+        }
+    ]
+}

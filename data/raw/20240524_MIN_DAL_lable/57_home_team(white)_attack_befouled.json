@@ -1,0 +1,19 @@
+{
+    "video_id": "20240524_MIN_DAL",
+    "possession_id": "poss_57_home_team(white)_attack_befouled",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Kyle Anderson",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Kyle Anderson is fouled while holding the ball."
+        }
+    ]
+}

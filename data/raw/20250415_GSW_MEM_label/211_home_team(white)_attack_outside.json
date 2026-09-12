@@ -1,0 +1,30 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_211_home_team(white)_attack_outside",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Brandin Podziemski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:10"
+            },
+            "caption": "Brandin Podziemski inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "07:00"
+            },
+            "caption": "Stephen Curry turnover: out of bounds lost ball."
+        }
+    ]
+}

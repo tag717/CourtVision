@@ -1,0 +1,118 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_193_home_team(blue)_attack_befouled",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "JaVale McGee",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "JaVale McGee makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "04:10"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "04:40"
+            },
+            "caption": "Kyrie Irving makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "JaVale McGee",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "05:50"
+            },
+            "caption": "JaVale McGee dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "JaVale McGee",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "06:30"
+            },
+            "caption": "JaVale McGee makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Theo Pinson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "08:00"
+            },
+            "caption": "Theo Pinson dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Theo Pinson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "08:50"
+            },
+            "caption": "Theo Pinson makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Frank Ntilikina",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:20"
+            },
+            "caption": "Frank Ntilikina dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Frank Ntilikina",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "12:00"
+            },
+            "caption": "Frank Ntilikina makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Layup",
+            "player": "JaVale McGee",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "12:30"
+            },
+            "caption": "JaVale McGee is fouled on a layup attempt."
+        }
+    ]
+}

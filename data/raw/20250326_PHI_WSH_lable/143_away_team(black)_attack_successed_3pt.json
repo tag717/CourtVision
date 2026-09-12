@@ -1,0 +1,30 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_143_away_team(black)_attack_successed_3pt",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bub Carrington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "12:10"
+            },
+            "caption": "Bub Carrington dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "3ptShot",
+            "player": "Bub Carrington",
+            "result": "made",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:20"
+            },
+            "caption": "Bub Carrington makes 3-pt jump shot."
+        }
+    ]
+}

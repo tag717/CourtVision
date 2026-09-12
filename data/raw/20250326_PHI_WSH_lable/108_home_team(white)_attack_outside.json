@@ -1,0 +1,118 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_108_home_team(white)_attack_outside",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ricky Council IV",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:20"
+            },
+            "caption": "Ricky Council IV dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Ricky Council IV",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:10"
+            },
+            "caption": "Ricky Council IV makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Guerschon Yabusele",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "04:30"
+            },
+            "caption": "Guerschon Yabusele makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Ricky Council IV",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "10:20"
+            },
+            "caption": "Ricky Council IV dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Ricky Council IV",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:20"
+            },
+            "caption": "Ricky Council IV makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Quentin Grimes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "14:30"
+            },
+            "caption": "Quentin Grimes dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Quentin Grimes",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "15:10"
+            },
+            "caption": "Quentin Grimes makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Ricky Council IV",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "18:00"
+            },
+            "caption": "Ricky Council IV misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "OffensiveRebound",
+            "player": "Guerschon Yabusele",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "18:20"
+            },
+            "caption": "Guerschon Yabusele gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Guerschon Yabusele",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "18:20",
+                "end": "19:00"
+            },
+            "caption": "Guerschon Yabusele turnover: out of bounds lost ball."
+        }
+    ]
+}

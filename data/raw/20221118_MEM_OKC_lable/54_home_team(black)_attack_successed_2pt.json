@@ -1,0 +1,63 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_54_home_team(black)_attack_successed_2pt",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "16:30"
+            },
+            "caption": "Ja Morant dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "18:10"
+            },
+            "caption": "Ja Morant makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Tyus Jones",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "18:10",
+                "end": "20:10"
+            },
+            "caption": "Tyus Jones misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:50",
+                "end": "23:00"
+            },
+            "caption": "Ja Morant makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Santi Aldama",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "23:00",
+                "end": "25:50"
+            },
+            "caption": "Santi Aldama is fouled on a layup attempt."
+        }
+    ]
+}

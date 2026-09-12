@@ -1,0 +1,30 @@
+{
+    "video_id": "20240617_BOS_DAL",
+    "possession_id": "poss_80_away_team(white)_attack_foul",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "P.J. Washington dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "P.J. Washington",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "05:00"
+            },
+            "caption": "P.J. Washington is fouled on a layup attempt."
+        }
+    ]
+}

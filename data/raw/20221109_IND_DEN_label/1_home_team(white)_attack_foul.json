@@ -1,0 +1,19 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_1_home_team(white)_attack_foul",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:10"
+            },
+            "caption": "Tyrese Haliburton dribbles the ball."
+        }
+    ]
+}

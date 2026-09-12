@@ -1,0 +1,30 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_109_away_team(white)_attack_befouled",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Luguentz Dort",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:30"
+            },
+            "caption": "Luguentz Dort dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Luguentz Dort",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "03:30"
+            },
+            "caption": "Luguentz Dort is fouled on a layup attempt."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "video_id": "20240524_MIN_DAL",
+    "possession_id": "poss_58_home_team(white)_freethrow_successed",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Kyle Anderson",
+            "result": "made",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "03:00"
+            },
+            "caption": "Kyle Anderson makes free throw."
+        }
+    ]
+}

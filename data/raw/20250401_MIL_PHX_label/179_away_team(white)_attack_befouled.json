@@ -1,0 +1,74 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_179_away_team(white)_attack_befouled",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "JumpBall",
+            "player": "Unknown Player",
+            "result": "right",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Unknown Player wins jump ball (taps to right)."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Cody Martin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:20"
+            },
+            "caption": "Cody Martin hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Grayson Allen",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "05:20"
+            },
+            "caption": "Grayson Allen dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Grayson Allen",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:40"
+            },
+            "caption": "Grayson Allen misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "OffensiveRebound",
+            "player": "Unknown Player",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:40"
+            },
+            "caption": "Unknown Player gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Unknown Player",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "08:20"
+            },
+            "caption": "Unknown Player is fouled on a layup attempt."
+        }
+    ]
+}

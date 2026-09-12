@@ -1,0 +1,41 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_81_home_team(black)_attack_successed_2pt",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Buddy Hield inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Stephen Curry",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "12:50"
+            },
+            "caption": "Stephen Curry dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Stephen Curry",
+            "result": "made",
+            "timestamp_video": {
+                "start": "12:50",
+                "end": "15:30"
+            },
+            "caption": "Stephen Curry makes layup."
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_123_home_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:20"
+            },
+            "caption": "Dejounte Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:00"
+            },
+            "caption": "Dejounte Murray makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jarrett Culver",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "09:30"
+            },
+            "caption": "Jarrett Culver dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jarrett Culver",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "10:10"
+            },
+            "caption": "Jarrett Culver makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "AJ Griffin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "12:10"
+            },
+            "caption": "AJ Griffin dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "AJ Griffin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:00"
+            },
+            "caption": "AJ Griffin makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Jarrett Culver",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:30"
+            },
+            "caption": "Jarrett Culver dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Jarrett Culver",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "15:30"
+            },
+            "caption": "Jarrett Culver makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "Trae Young",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:30",
+                "end": "17:40"
+            },
+            "caption": "Trae Young misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:40",
+                "end": "19:00"
+            },
+            "caption": "Shai Gilgeous-Alexander gets the defensive rebound."
+        }
+    ]
+}

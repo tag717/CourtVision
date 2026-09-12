@@ -1,0 +1,30 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_153_away_team(white)_attack_successed_2pt",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tre Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "Tre Mann dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Tre Mann",
+            "result": "made",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:00"
+            },
+            "caption": "Tre Mann makes layup."
+        }
+    ]
+}

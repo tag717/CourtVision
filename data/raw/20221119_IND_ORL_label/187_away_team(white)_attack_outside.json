@@ -1,0 +1,19 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_187_away_team(white)_attack_outside",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Suggs",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Jalen Suggs turnover: out of bounds lost ball."
+        }
+    ]
+}

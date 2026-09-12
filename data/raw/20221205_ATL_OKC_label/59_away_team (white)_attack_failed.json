@@ -1,0 +1,118 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_59_away_team (white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:20"
+            },
+            "caption": "Jalen Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jalen Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:00"
+            },
+            "caption": "Jalen Williams makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Ousmane Dieng",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "08:30"
+            },
+            "caption": "Ousmane Dieng dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Ousmane Dieng",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:30",
+                "end": "09:30"
+            },
+            "caption": "Ousmane Dieng makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Tre Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "11:40"
+            },
+            "caption": "Tre Mann dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Tre Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "12:40"
+            },
+            "caption": "Tre Mann makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Aaron Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "14:30"
+            },
+            "caption": "Aaron Wiggins dribbles the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Aaron Wiggins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "15:00"
+            },
+            "caption": "Aaron Wiggins makes a pass."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "3ptShot",
+            "player": "Aleksej Pokusevski",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "17:30"
+            },
+            "caption": "Aleksej Pokusevski misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "DefensiveRebound",
+            "player": "AJ Griffin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:30",
+                "end": "18:00"
+            },
+            "caption": "AJ Griffin gets the defensive rebound."
+        }
+    ]
+}

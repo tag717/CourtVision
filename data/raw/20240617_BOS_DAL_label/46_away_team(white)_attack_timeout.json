@@ -1,0 +1,30 @@
+{
+    "video_id": "20240617_BOS_DAL",
+    "possession_id": "poss_46_away_team(white)_attack_timeout",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:20"
+            },
+            "caption": "P.J. Washington makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Dante Exum",
+            "result": "timeout",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "05:00"
+            },
+            "caption": "Dante Exum dribbles and calls a timeout."
+        }
+    ]
+}

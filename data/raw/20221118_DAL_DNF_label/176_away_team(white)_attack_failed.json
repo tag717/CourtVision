@@ -1,0 +1,63 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_176_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Michael Porter Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Michael Porter Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "03:00"
+            },
+            "caption": "Bones Hyland holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:50"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "06:40"
+            },
+            "caption": "Bones Hyland turnover: bad pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Steal",
+            "player": "Tim Hardaway Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:10"
+            },
+            "caption": "Tim Hardaway Jr. steals the ball."
+        }
+    ]
+}

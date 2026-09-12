@@ -1,0 +1,85 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_96_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Fred VanVleet inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jalen Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:30"
+            },
+            "caption": "Jalen Green makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "12:00"
+            },
+            "caption": "Fred VanVleet dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "12:50"
+            },
+            "caption": "Fred VanVleet makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Alperen Şengün",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:50",
+                "end": "17:50"
+            },
+            "caption": "Alperen Şengün misses layup."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:50",
+                "end": "18:40"
+            },
+            "caption": "Draymond Green gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "18:40",
+                "end": "19:30"
+            },
+            "caption": "Draymond Green makes a pass."
+        }
+    ]
+}

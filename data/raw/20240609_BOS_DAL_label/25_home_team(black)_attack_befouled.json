@@ -1,0 +1,74 @@
+{
+    "video_id": "20240609_BOS_DAL",
+    "possession_id": "poss_25_home_team(black)_attack_befouled",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Kristaps Porziņģis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:30"
+            },
+            "caption": "Kristaps Porziņģis holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Kristaps Porziņģis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "03:10"
+            },
+            "caption": "Kristaps Porziņģis hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:20"
+            },
+            "caption": "Jayson Tatum dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jayson Tatum",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:00"
+            },
+            "caption": "Jayson Tatum makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Kristaps Porziņģis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "08:00"
+            },
+            "caption": "Kristaps Porziņģis dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "2ptShot",
+            "player": "Kristaps Porziņģis",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "11:00"
+            },
+            "caption": "Kristaps Porziņģis is fouled on a 2-pt shot attempt."
+        }
+    ]
+}

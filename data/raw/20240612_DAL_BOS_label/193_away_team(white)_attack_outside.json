@@ -1,0 +1,19 @@
+{
+    "video_id": "20240612_DAL_BOS",
+    "possession_id": "poss_193_away_team(white)_attack_outside",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Al Horford",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Al Horford dribbles the ball."
+        }
+    ]
+}

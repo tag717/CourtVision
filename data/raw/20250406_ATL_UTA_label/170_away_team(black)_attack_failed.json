@@ -1,0 +1,74 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_170_away_team(black)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Keyonte George",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Keyonte George dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Keyonte George",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "03:30"
+            },
+            "caption": "Keyonte George makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Collin Sexton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "08:10"
+            },
+            "caption": "Collin Sexton holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Collin Sexton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "12:10"
+            },
+            "caption": "Collin Sexton dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Collin Sexton",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:10"
+            },
+            "caption": "Collin Sexton misses layup."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Onyeka Okongwu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "14:00"
+            },
+            "caption": "Onyeka Okongwu gets the defensive rebound."
+        }
+    ]
+}

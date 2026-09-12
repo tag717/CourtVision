@@ -1,0 +1,118 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_40_away_team(white)_attack_outside",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Franz Wagner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Franz Wagner inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Admiral Schofield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "04:10"
+            },
+            "caption": "Admiral Schofield dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Admiral Schofield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:00"
+            },
+            "caption": "Admiral Schofield makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Caleb Houstan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:00"
+            },
+            "caption": "Caleb Houstan makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Terrence Ross",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:50"
+            },
+            "caption": "Terrence Ross holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Terrence Ross",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:50",
+                "end": "10:50"
+            },
+            "caption": "Terrence Ross dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "2ptShot",
+            "player": "Terrence Ross",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "12:30"
+            },
+            "caption": "Terrence Ross misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "OffensiveRebound",
+            "player": "Admiral Schofield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "13:20"
+            },
+            "caption": "Admiral Schofield gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Admiral Schofield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "15:10"
+            },
+            "caption": "Admiral Schofield makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "2ptShot",
+            "player": "Caleb Houstan",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "17:00"
+            },
+            "caption": "Caleb Houstan misses 2-pt jump shot."
+        }
+    ]
+}

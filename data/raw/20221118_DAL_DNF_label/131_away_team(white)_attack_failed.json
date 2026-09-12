@@ -1,0 +1,85 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_131_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:00"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:30"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Jeff Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "07:20"
+            },
+            "caption": "Jeff Green makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Bruce Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "09:50"
+            },
+            "caption": "Bruce Brown dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Bruce Brown",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "12:00"
+            },
+            "caption": "Bruce Brown misses layup."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Reggie Bullock",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "14:10"
+            },
+            "caption": "Reggie Bullock gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Reggie Bullock",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "15:40"
+            },
+            "caption": "Reggie Bullock makes a pass."
+        }
+    ]
+}

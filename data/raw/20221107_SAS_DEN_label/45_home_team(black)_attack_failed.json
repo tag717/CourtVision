@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_45_home_team(black)_attack_failed",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Josh Richardson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:50"
+            },
+            "caption": "Josh Richardson dribbles the ball."
+        }
+    ]
+}

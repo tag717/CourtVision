@@ -1,0 +1,30 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_49_away_team(black)_attack_timeout",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Micah Potter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Micah Potter inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Keyonte George",
+            "result": "timeout",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "04:00"
+            },
+            "caption": "Keyonte George holds the ball and calls a timeout."
+        }
+    ]
+}

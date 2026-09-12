@@ -1,0 +1,30 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_90_away_team(red)_attack_befouled",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jerami Grant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Jerami Grant dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Jerami Grant",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:00"
+            },
+            "caption": "Jerami Grant is fouled on a layup attempt."
+        }
+    ]
+}

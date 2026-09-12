@@ -1,0 +1,19 @@
+{
+    "video_id": "20240609_BOS_DAL",
+    "possession_id": "poss_42_away_team(white)_attack_foul",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "16:30"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        }
+    ]
+}

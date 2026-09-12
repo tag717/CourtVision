@@ -1,0 +1,30 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_188_home_team(black)_freethrow_failed",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "David Roddy",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "David Roddy misses free throw."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "DefensiveRebound",
+            "player": "Jeremiah Robinson-Earl",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "02:10"
+            },
+            "caption": "Jeremiah Robinson-Earl gets the defensive rebound."
+        }
+    ]
+}

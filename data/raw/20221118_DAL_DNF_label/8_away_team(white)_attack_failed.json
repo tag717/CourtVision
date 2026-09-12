@@ -1,0 +1,41 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_8_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:50"
+            },
+            "caption": "Kentavious Caldwell-Pope dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "05:30"
+            },
+            "caption": "Kentavious Caldwell-Pope turnover: bad pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:10"
+            },
+            "caption": "Luka Dončić steals the ball."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_159_home_team(yellow)_freethrow_failed",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "LeBron James",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:20"
+            },
+            "caption": "LeBron James misses free throw."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "DefensiveRebound",
+            "player": "Rudy Gobert",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:30"
+            },
+            "caption": "Rudy Gobert gets the defensive rebound."
+        }
+    ]
+}

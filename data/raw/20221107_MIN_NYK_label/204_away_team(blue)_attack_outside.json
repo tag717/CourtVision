@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_204_away_team(blue)_attack_outside",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "RJ Barrett",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "RJ Barrett turnover: out of bounds lost ball."
+        }
+    ]
+}

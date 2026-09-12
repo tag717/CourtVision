@@ -1,0 +1,52 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_49_home_team(white)_attack_foul",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:40"
+            },
+            "caption": "Nikola Jokić dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:10"
+            },
+            "caption": "Nikola Jokić makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Christian Braun",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "09:50"
+            },
+            "caption": "Christian Braun misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "DefensiveRebound",
+            "player": "Russell Westbrook",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "12:00"
+            },
+            "caption": "Russell Westbrook is fouled on a defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_60_away_team(white)_steal&fastbreak_failed",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dejounte Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:00"
+            },
+            "caption": "Dejounte Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dejounte Murray",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:20"
+            },
+            "caption": "Dejounte Murray turnover: bad pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Tre Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "09:50"
+            },
+            "caption": "Tre Mann dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Tre Mann",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "11:10"
+            },
+            "caption": "Tre Mann makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Aaron Wiggins",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "13:30"
+            },
+            "caption": "Aaron Wiggins misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "DefensiveRebound",
+            "player": "Onyeka Okongwu",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "14:30"
+            },
+            "caption": "Onyeka Okongwu gets the defensive rebound."
+        }
+    ]
+}

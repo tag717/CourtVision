@@ -1,0 +1,74 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_122_home_team(black)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:00",
+                "end": "04:50"
+            },
+            "caption": "Buddy Hield dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "05:50"
+            },
+            "caption": "Buddy Hield makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Pass Ball",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:50",
+                "end": "07:00"
+            },
+            "caption": "Pass Ball makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Buddy Hield",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:50"
+            },
+            "caption": "Buddy Hield makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Quinten Post",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "12:10"
+            },
+            "caption": "Quinten Post dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dunk",
+            "player": "Quinten Post",
+            "result": "made",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "13:40"
+            },
+            "caption": "Quinten Post makes dunk."
+        }
+    ]
+}

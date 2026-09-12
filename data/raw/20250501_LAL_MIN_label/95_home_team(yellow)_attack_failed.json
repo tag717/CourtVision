@@ -1,0 +1,118 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_95_home_team(yellow)_attack_failed",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Dorian Finney-Smith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "00:40"
+            },
+            "caption": "Dorian Finney-Smith inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Austin Reaves",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "06:40"
+            },
+            "caption": "Austin Reaves dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Austin Reaves",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:10"
+            },
+            "caption": "Austin Reaves makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:20"
+            },
+            "caption": "Luka Dončić makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "LeBron James",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "17:00"
+            },
+            "caption": "LeBron James dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "LeBron James",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:30",
+                "end": "19:40"
+            },
+            "caption": "LeBron James makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Dorian Finney-Smith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "20:20"
+            },
+            "caption": "Dorian Finney-Smith makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "3ptShot",
+            "player": "Austin Reaves",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "20:20",
+                "end": "23:10"
+            },
+            "caption": "Austin Reaves misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "DefensiveRebound",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "23:10",
+                "end": "23:40"
+            },
+            "caption": "Mike Conley gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Dribble",
+            "player": "Mike Conley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "25:10",
+                "end": "26:00"
+            },
+            "caption": "Mike Conley dribbles the ball."
+        }
+    ]
+}

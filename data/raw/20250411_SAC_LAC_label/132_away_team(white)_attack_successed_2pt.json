@@ -1,0 +1,74 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_132_away_team(white)_attack_successed_2pt",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:40"
+            },
+            "caption": "James Harden makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Ben Simmons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "10:20"
+            },
+            "caption": "Ben Simmons dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Ben Simmons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:20",
+                "end": "11:30"
+            },
+            "caption": "Ben Simmons makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Derrick Jones Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "14:30"
+            },
+            "caption": "Derrick Jones Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Norman Powell",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:30",
+                "end": "17:30"
+            },
+            "caption": "Norman Powell dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Layup",
+            "player": "Norman Powell",
+            "result": "made",
+            "timestamp_video": {
+                "start": "17:30",
+                "end": "20:00"
+            },
+            "caption": "Norman Powell makes layup."
+        }
+    ]
+}

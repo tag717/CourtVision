@@ -1,0 +1,19 @@
+{
+    "video_id": "20240614_DAL_BOS",
+    "possession_id": "poss_131_away_team(white)_attack_outside",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jrue Holiday",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:00"
+            },
+            "caption": "Jrue Holiday dribbles the ball."
+        }
+    ]
+}

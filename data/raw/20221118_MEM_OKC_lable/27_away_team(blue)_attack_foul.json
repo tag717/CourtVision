@@ -1,0 +1,41 @@
+{
+    "video_id": "20221118_MEM_OKC",
+    "possession_id": "poss_27_away_team(blue)_attack_foul",
+    "home_team": "MEM",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Luguentz Dort",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:20"
+            },
+            "caption": "Luguentz Dort dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Luguentz Dort",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "05:30"
+            },
+            "caption": "Luguentz Dort makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "11:00"
+            },
+            "caption": "Shai Gilgeous-Alexander is fouled while dribbling."
+        }
+    ]
+}

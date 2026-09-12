@@ -1,0 +1,19 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_193_away_team(black)_attack_befouled",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "AJ Johnson",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "AJ Johnson is fouled while dribbling."
+        }
+    ]
+}

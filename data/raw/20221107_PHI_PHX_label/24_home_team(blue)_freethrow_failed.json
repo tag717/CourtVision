@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_24_home_team(blue)_freethrow_failed",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Tyrese Maxey",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "07:20"
+            },
+            "caption": "Tyrese Maxey misses free throw."
+        }
+    ]
+}

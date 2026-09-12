@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_SAS_DEN",
+    "possession_id": "poss_56_away_team(white)_attack_foul",
+    "home_team": "SAS",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "15:20"
+            },
+            "caption": "Bones Hyland is fouled while dribbling."
+        }
+    ]
+}

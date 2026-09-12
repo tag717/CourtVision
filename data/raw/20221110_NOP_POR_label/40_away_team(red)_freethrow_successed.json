@@ -1,0 +1,19 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_40_away_team(red)_freethrow_successed",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Kevin Knox",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:40"
+            },
+            "caption": "Kevin Knox makes free throw."
+        }
+    ]
+}

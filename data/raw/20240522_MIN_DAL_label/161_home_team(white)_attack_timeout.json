@@ -1,0 +1,30 @@
+{
+    "video_id": "20240522_MIN_DAL",
+    "possession_id": "poss_161_home_team(white)_attack_timeout",
+    "home_team": "MIN",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jaden McDaniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "04:10"
+            },
+            "caption": "Jaden McDaniels dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Jaden McDaniels",
+            "result": "timeout",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "04:20"
+            },
+            "caption": "Jaden McDaniels calls a timeout before a 2-pt shot."
+        }
+    ]
+}

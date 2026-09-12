@@ -1,0 +1,30 @@
+{
+    "video_id": "20221205_ATL_OKC",
+    "possession_id": "poss_111_home_team(black)_attack_outside",
+    "home_team": "ATL",
+    "away_team": "OKC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Trae Young",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:40"
+            },
+            "caption": "Trae Young dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Trae Young",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "02:40",
+                "end": "06:00"
+            },
+            "caption": "Trae Young turnover: pass out of bounds."
+        }
+    ]
+}

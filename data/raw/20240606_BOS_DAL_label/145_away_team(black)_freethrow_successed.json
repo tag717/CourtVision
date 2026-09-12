@@ -1,0 +1,19 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_145_away_team(black)_freethrow_successed",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Daniel Gafford",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Daniel Gafford makes free throw."
+        }
+    ]
+}

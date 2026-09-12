@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_135_away_team(white)_attack_outside",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Harrison Barnes",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "00:30",
+                "end": "05:00"
+            },
+            "caption": "Harrison Barnes turnover: inbound pass out of bounds."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "video_id": "20221109_IND_DEN",
+    "possession_id": "poss_48_away_team(black)_freethrow_successed",
+    "home_team": "IND",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Kentavious Caldwell-Pope",
+            "result": "made",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "03:20"
+            },
+            "caption": "Kentavious Caldwell-Pope makes free throw."
+        }
+    ]
+}

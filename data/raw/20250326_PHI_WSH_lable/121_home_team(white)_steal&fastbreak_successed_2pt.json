@@ -1,0 +1,118 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_121_home_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jordan Poole",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Jordan Poole dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jordan Poole",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:00",
+                "end": "04:00"
+            },
+            "caption": "Jordan Poole makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Alex Sarr",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "06:10"
+            },
+            "caption": "Alex Sarr dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Alex Sarr",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:10",
+                "end": "07:20"
+            },
+            "caption": "Alex Sarr misses layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "OffensiveRebound",
+            "player": "Justin Champagnie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "08:10"
+            },
+            "caption": "Justin Champagnie gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Justin Champagnie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:10",
+                "end": "09:00"
+            },
+            "caption": "Justin Champagnie makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Alex Sarr",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "10:10"
+            },
+            "caption": "Alex Sarr turnover: bad pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Steal",
+            "player": "Justin Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "11:10"
+            },
+            "caption": "Justin Edwards steals the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "Dribble",
+            "player": "Justin Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "15:00"
+            },
+            "caption": "Justin Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "Layup",
+            "player": "Justin Edwards",
+            "result": "made",
+            "timestamp_video": {
+                "start": "15:00",
+                "end": "16:00"
+            },
+            "caption": "Justin Edwards makes layup."
+        }
+    ]
+}

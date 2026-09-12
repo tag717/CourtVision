@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_191_home_team(blue)_freethrow_successed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Stephen Curry",
+            "result": "made",
+            "timestamp_video": {
+                "start": "03:10",
+                "end": "04:40"
+            },
+            "caption": "Stephen Curry makes free throw."
+        }
+    ]
+}

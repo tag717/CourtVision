@@ -1,0 +1,107 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_11_away_team(white)_attack_outside",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Jalen Suggs dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "HandOff",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "02:20"
+            },
+            "caption": "Jalen Suggs hands off the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Chuma Okeke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:20",
+                "end": "03:30"
+            },
+            "caption": "Chuma Okeke makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Michael Carter-Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "04:40"
+            },
+            "caption": "Michael Carter-Williams makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Franz Wagner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "08:00"
+            },
+            "caption": "Franz Wagner holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Franz Wagner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:20"
+            },
+            "caption": "Franz Wagner dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Franz Wagner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:00"
+            },
+            "caption": "Franz Wagner makes a pass."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Michael Carter-Williams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "11:30"
+            },
+            "caption": "Michael Carter-Williams dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Michael Carter-Williams",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "12:50"
+            },
+            "caption": "Michael Carter-Williams turnover: pass out of bounds."
+        }
+    ]
+}

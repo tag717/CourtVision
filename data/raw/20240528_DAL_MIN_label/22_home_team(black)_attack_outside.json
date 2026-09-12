@@ -1,0 +1,30 @@
+{
+    "video_id": "20240528_DAL_MIN",
+    "possession_id": "poss_22_home_team(black)_attack_outside",
+    "home_team": "DAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:40"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "2ptShot",
+            "player": "Kyrie Irving",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "03:40",
+                "end": "05:10"
+            },
+            "caption": "Kyrie Irving misses 2-pt jump shot."
+        }
+    ]
+}

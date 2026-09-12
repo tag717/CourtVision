@@ -1,0 +1,85 @@
+{
+    "video_id": "20240609_BOS_DAL",
+    "possession_id": "poss_117_home_team(black)_steal&fastbreak_befouled",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "P.J. Washington makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "03:20"
+            },
+            "caption": "Kyrie Irving dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Kyrie Irving",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:20"
+            },
+            "caption": "Kyrie Irving makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Derrick Jones Jr.",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:20",
+                "end": "06:40"
+            },
+            "caption": "Derrick Jones Jr. misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "OffensiveRebound",
+            "player": "Derrick Jones Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:40",
+                "end": "07:40"
+            },
+            "caption": "Derrick Jones Jr. gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Steal",
+            "player": "Derrick White",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:40",
+                "end": "09:00"
+            },
+            "caption": "Derrick White steals the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Dribble",
+            "player": "Jrue Holiday",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "11:00"
+            },
+            "caption": "Jrue Holiday is fouled while dribbling."
+        }
+    ]
+}

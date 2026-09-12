@@ -1,0 +1,96 @@
+{
+    "video_id": "20221204_DET_MEM",
+    "possession_id": "poss_57_home_team(blue)_attack_outside",
+    "home_team": "DET",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:00"
+            },
+            "caption": "Cory Joseph dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Cory Joseph",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "08:30"
+            },
+            "caption": "Cory Joseph makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Steven Adams",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:30",
+                "end": "15:40"
+            },
+            "caption": "Steven Adams dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "2ptShot",
+            "player": "Steven Adams",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:50",
+                "end": "17:20"
+            },
+            "caption": "Steven Adams misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "OffensiveRebound",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "19:00"
+            },
+            "caption": "Jalen Duren gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Jalen Duren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:00",
+                "end": "20:00"
+            },
+            "caption": "Jalen Duren makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "2ptShot",
+            "player": "Alec Burks",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "20:00",
+                "end": "21:20"
+            },
+            "caption": "Alec Burks misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "PassBall",
+            "player": "Brandon Clarke",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "21:20",
+                "end": "22:30"
+            },
+            "caption": "Brandon Clarke turnover: pass out of bounds."
+        }
+    ]
+}

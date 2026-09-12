@@ -1,0 +1,41 @@
+{
+    "video_id": "20250501_LAL_MIN",
+    "possession_id": "poss_86_away_team(gray)_attack_successed_3pt",
+    "home_team": "LAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:40"
+            },
+            "caption": "Anthony Edwards dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Anthony Edwards",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:50"
+            },
+            "caption": "Anthony Edwards makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Donte DiVincenzo",
+            "result": "made",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:50"
+            },
+            "caption": "Donte DiVincenzo makes 3-pt jump shot."
+        }
+    ]
+}

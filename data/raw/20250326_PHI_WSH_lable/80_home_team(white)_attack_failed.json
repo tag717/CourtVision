@@ -1,0 +1,63 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_80_home_team(white)_attack_failed",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jeff Dowtin Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "11:10"
+            },
+            "caption": "Jeff Dowtin Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Adem Bona",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:10",
+                "end": "13:20"
+            },
+            "caption": "Adem Bona makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jeff Dowtin Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "16:10"
+            },
+            "caption": "Jeff Dowtin Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "3ptShot",
+            "player": "Jeff Dowtin Jr.",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "16:10",
+                "end": "17:30"
+            },
+            "caption": "Jeff Dowtin Jr. misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Justin Champagnie",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:30",
+                "end": "18:30"
+            },
+            "caption": "Justin Champagnie gets the defensive rebound."
+        }
+    ]
+}

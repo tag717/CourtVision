@@ -1,0 +1,85 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_157_home_team(purple)_attack_successed_2pt",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:20"
+            },
+            "caption": "Zach LaVine dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Zach LaVine",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:10"
+            },
+            "caption": "Zach LaVine makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:10",
+                "end": "13:40"
+            },
+            "caption": "DeMar DeRozan dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "15:20"
+            },
+            "caption": "DeMar DeRozan makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Domantas Sabonis",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "16:40"
+            },
+            "caption": "Domantas Sabonis misses layup."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "OffensiveRebound",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:40",
+                "end": "17:00"
+            },
+            "caption": "DeMar DeRozan gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PutBack",
+            "player": "DeMar DeRozan",
+            "result": "made",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "19:00"
+            },
+            "caption": "DeMar DeRozan makes putback layup."
+        }
+    ]
+}

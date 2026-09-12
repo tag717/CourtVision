@@ -1,0 +1,74 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_140_home_team(purple)_attack_successed_3pt",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Devin Carter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "13:10"
+            },
+            "caption": "Devin Carter dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Devin Carter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:10",
+                "end": "14:10"
+            },
+            "caption": "Devin Carter makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Domantas Sabonis",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:10",
+                "end": "16:30"
+            },
+            "caption": "Domantas Sabonis makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:30",
+                "end": "21:10"
+            },
+            "caption": "DeMar DeRozan holds the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "DeMar DeRozan",
+            "result": "success",
+            "timestamp_video": {
+                "start": "21:10",
+                "end": "23:10"
+            },
+            "caption": "DeMar DeRozan makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Devin Carter",
+            "result": "made",
+            "timestamp_video": {
+                "start": "23:10",
+                "end": "26:00"
+            },
+            "caption": "Devin Carter makes 3-pt jump shot."
+        }
+    ]
+}

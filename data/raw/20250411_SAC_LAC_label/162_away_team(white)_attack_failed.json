@@ -1,0 +1,41 @@
+{
+    "video_id": "20250411_SAC_LAC",
+    "possession_id": "poss_162_away_team(white)_attack_failed",
+    "home_team": "SAC",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "James Harden",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:30"
+            },
+            "caption": "James Harden makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:30",
+                "end": "05:20"
+            },
+            "caption": "Kawhi Leonard dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Kawhi Leonard",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "08:00"
+            },
+            "caption": "Kawhi Leonard misses layup."
+        }
+    ]
+}

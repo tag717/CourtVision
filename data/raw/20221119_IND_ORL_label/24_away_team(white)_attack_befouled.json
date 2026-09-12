@@ -1,0 +1,63 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_24_away_team(white)_attack_befouled",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:40"
+            },
+            "caption": "Jalen Suggs dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jalen Suggs",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:40",
+                "end": "06:00"
+            },
+            "caption": "Jalen Suggs makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Chuma Okeke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "08:50"
+            },
+            "caption": "Chuma Okeke holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Chuma Okeke",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "10:50"
+            },
+            "caption": "Chuma Okeke dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Chuma Okeke",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "11:50"
+            },
+            "caption": "Chuma Okeke is fouled on a layup attempt."
+        }
+    ]
+}

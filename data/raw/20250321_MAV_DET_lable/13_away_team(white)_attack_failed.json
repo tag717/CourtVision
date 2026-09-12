@@ -1,0 +1,19 @@
+{
+    "video_id": "20250321_MAV_DET",
+    "possession_id": "poss_13_away_team(white)_attack_failed",
+    "home_team": "MAV",
+    "away_team": "DET",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Naji Marshall",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "00:20",
+                "end": "02:00"
+            },
+            "caption": "Naji Marshall misses free throw."
+        }
+    ]
+}

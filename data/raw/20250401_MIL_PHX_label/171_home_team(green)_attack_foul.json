@@ -1,0 +1,19 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_171_home_team(green)_attack_foul",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Unknown Player",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Unknown Player is fouled while dribbling."
+        }
+    ]
+}

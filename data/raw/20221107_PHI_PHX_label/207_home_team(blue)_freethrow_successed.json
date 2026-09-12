@@ -1,0 +1,19 @@
+{
+    "video_id": "20221107_PHI_PHX",
+    "possession_id": "poss_207_home_team(blue)_freethrow_successed",
+    "home_team": "PHI",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Tobias Harris",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Tobias Harris makes free throw."
+        }
+    ]
+}

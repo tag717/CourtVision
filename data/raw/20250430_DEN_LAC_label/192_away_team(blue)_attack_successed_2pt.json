@@ -1,0 +1,63 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_192_away_team(blue)_attack_successed_2pt",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Kobe Brown",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:10"
+            },
+            "caption": "Kobe Brown makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Bogdan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "07:00"
+            },
+            "caption": "Bogdan Bogdanović dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Bogdan Bogdanović",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:20"
+            },
+            "caption": "Bogdan Bogdanović makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Jordan Miller",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "10:40"
+            },
+            "caption": "Jordan Miller dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Jordan Miller",
+            "result": "made",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "13:00"
+            },
+            "caption": "Jordan Miller makes layup."
+        }
+    ]
+}

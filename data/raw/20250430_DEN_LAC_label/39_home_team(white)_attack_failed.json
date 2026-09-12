@@ -1,0 +1,41 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_39_home_team(white)_attack_failed",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Nikola Jokić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Nikola Jokić holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Nikola Jokić",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "04:00"
+            },
+            "caption": "Nikola Jokić turnover: lost ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "Ben Simmons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "04:40"
+            },
+            "caption": "Ben Simmons steals the ball."
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "video_id": "20221118_DAL_DNF",
+    "possession_id": "poss_45_away_team(white)_attack_failed",
+    "home_team": "DAL",
+    "away_team": "DNF",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:50"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "03:20"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "06:00"
+            },
+            "caption": "Christian Braun holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:00"
+            },
+            "caption": "Christian Braun dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "07:20"
+            },
+            "caption": "Christian Braun makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dribble",
+            "player": "Zeke Nnaji",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:20",
+                "end": "09:00"
+            },
+            "caption": "Zeke Nnaji dribbles the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "HandOff",
+            "player": "Zeke Nnaji",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "09:30"
+            },
+            "caption": "Zeke Nnaji hands off the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:30",
+                "end": "11:20"
+            },
+            "caption": "Bones Hyland dribbles the ball."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Bones Hyland",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "11:50"
+            },
+            "caption": "Bones Hyland makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "3ptShot",
+            "player": "Michael Porter Jr.",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "11:50",
+                "end": "14:40"
+            },
+            "caption": "Michael Porter Jr. misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "OffensiveRebound",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:40",
+                "end": "16:00"
+            },
+            "caption": "Christian Braun gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "PassBall",
+            "player": "Christian Braun",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "16:50"
+            },
+            "caption": "Christian Braun makes a pass."
+        },
+        {
+            "event_id": "ev_13",
+            "event_label": "PassBall",
+            "player": "Vlatko Čančar",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:50",
+                "end": "17:50"
+            },
+            "caption": "Vlatko Čančar makes a pass."
+        },
+        {
+            "event_id": "ev_14",
+            "event_label": "3ptShot",
+            "player": "Bones Hyland",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "17:50",
+                "end": "20:40"
+            },
+            "caption": "Bones Hyland misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_15",
+            "event_label": "DefensiveRebound",
+            "player": "Luka Dončić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "20:40",
+                "end": "21:40"
+            },
+            "caption": "Luka Dončić gets the defensive rebound."
+        }
+    ]
+}

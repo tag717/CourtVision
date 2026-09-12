@@ -1,0 +1,63 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_164_away_team (white)_attack_failed",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Franz Wagner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:40"
+            },
+            "caption": "Franz Wagner dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Franz Wagner",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "02:00"
+            },
+            "caption": "Franz Wagner makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "R.J. Hampton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "04:30"
+            },
+            "caption": "R.J. Hampton dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "R.J. Hampton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:30",
+                "end": "05:10"
+            },
+            "caption": "R.J. Hampton makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "3ptShot",
+            "player": "Mo Bamba",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "07:40"
+            },
+            "caption": "Mo Bamba misses 3-pt jump shot."
+        }
+    ]
+}

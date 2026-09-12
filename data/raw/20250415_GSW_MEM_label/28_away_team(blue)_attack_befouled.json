@@ -1,0 +1,85 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_28_away_team(blue)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Desmond Bane",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "07:30"
+            },
+            "caption": "Desmond Bane dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Desmond Bane",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:30",
+                "end": "08:20"
+            },
+            "caption": "Desmond Bane makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Scotty Pippen Jr.",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "10:30"
+            },
+            "caption": "Scotty Pippen Jr. misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Zach Edey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:40",
+                "end": "13:30"
+            },
+            "caption": "Zach Edey makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Scotty Pippen Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:30",
+                "end": "16:40"
+            },
+            "caption": "Scotty Pippen Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "HandOff",
+            "player": "Scotty Pippen Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:40",
+                "end": "17:20"
+            },
+            "caption": "Scotty Pippen Jr. hands off the ball."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Santi Aldama",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "17:20",
+                "end": "20:00"
+            },
+            "caption": "Santi Aldama is fouled on a 3-pt shot attempt."
+        }
+    ]
+}

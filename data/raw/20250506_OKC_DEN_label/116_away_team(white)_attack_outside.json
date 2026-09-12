@@ -1,0 +1,41 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_116_away_team(white)_attack_outside",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "05:20"
+            },
+            "caption": "Jamal Murray dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jamal Murray",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "06:20"
+            },
+            "caption": "Jamal Murray makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Nikola Jokić",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "06:20",
+                "end": "07:40"
+            },
+            "caption": "Nikola Jokić turnover: pass out of bounds."
+        }
+    ]
+}

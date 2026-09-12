@@ -1,0 +1,140 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_42_away_team(white)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:50"
+            },
+            "caption": "Fred VanVleet dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:50",
+                "end": "05:40"
+            },
+            "caption": "Fred VanVleet makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Alperen Şengün",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:40",
+                "end": "08:20"
+            },
+            "caption": "Alperen Şengün holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Alperen Şengün",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:20",
+                "end": "09:20"
+            },
+            "caption": "Alperen Şengün hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "10:10"
+            },
+            "caption": "Fred VanVleet dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Fred VanVleet",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:10",
+                "end": "10:50"
+            },
+            "caption": "Fred VanVleet makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "2ptShot",
+            "player": "Alperen Şengün",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "10:50",
+                "end": "12:30"
+            },
+            "caption": "Alperen Şengün misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "OffensiveRebound",
+            "player": "Alperen Şengün",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "13:40"
+            },
+            "caption": "Alperen Şengün gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Alperen Şengün",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:40",
+                "end": "14:50"
+            },
+            "caption": "Alperen Şengün makes a pass."
+        },
+        {
+            "event_id": "ev_10",
+            "event_label": "PassBall",
+            "player": "Tari Eason",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:20",
+                "end": "17:40"
+            },
+            "caption": "Tari Eason makes a pass."
+        },
+        {
+            "event_id": "ev_11",
+            "event_label": "2ptShot",
+            "player": "Alperen Şengün",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "17:40",
+                "end": "19:20"
+            },
+            "caption": "Alperen Şengün misses 2-pt jump shot."
+        },
+        {
+            "event_id": "ev_12",
+            "event_label": "DefensiveRebound",
+            "player": "Jimmy Butler",
+            "result": "success",
+            "timestamp_video": {
+                "start": "19:20",
+                "end": "20:50"
+            },
+            "caption": "Jimmy Butler gets the defensive rebound."
+        }
+    ]
+}

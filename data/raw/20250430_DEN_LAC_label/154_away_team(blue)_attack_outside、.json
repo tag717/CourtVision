@@ -1,0 +1,41 @@
+{
+    "video_id": "20250430_DEN_LAC",
+    "possession_id": "poss_154_away_team(blue)_attack_outside、",
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Derrick Jones Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Derrick Jones Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Kawhi Leonard",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "05:10"
+            },
+            "caption": "Kawhi Leonard holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "2ptShot",
+            "player": "Kawhi Leonard",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "10:00"
+            },
+            "caption": "Kawhi Leonard misses 2-pt jump shot (out of bounds)."
+        }
+    ]
+}

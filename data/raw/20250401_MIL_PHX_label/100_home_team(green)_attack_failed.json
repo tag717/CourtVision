@@ -1,0 +1,41 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_100_home_team(green)_attack_failed",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Kyle Kuzma",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:30",
+                "end": "02:50"
+            },
+            "caption": "Kyle Kuzma inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Ryan Rollins",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "05:10"
+            },
+            "caption": "Ryan Rollins dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Ryan Rollins",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:30"
+            },
+            "caption": "Ryan Rollins misses 3-pt jump shot."
+        }
+    ]
+}

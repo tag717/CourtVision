@@ -1,0 +1,41 @@
+{
+    "video_id": "20250326_PHI_WSH",
+    "possession_id": "poss_33_away_team(black)_attack_successed_3pt",
+    "home_team": "PHI",
+    "away_team": "WSH",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jordan Poole",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:30"
+            },
+            "caption": "Jordan Poole dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Jordan Poole",
+            "result": "success",
+            "timestamp_video": {
+                "start": "03:30",
+                "end": "05:10"
+            },
+            "caption": "Jordan Poole makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "3ptShot",
+            "player": "Alex Sarr",
+            "result": "made",
+            "timestamp_video": {
+                "start": "05:10",
+                "end": "07:20"
+            },
+            "caption": "Alex Sarr makes 3-pt jump shot."
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "video_id": "20221107_MIN_NYK",
+    "possession_id": "poss_59_home_team(white)_steal&fastbreak_befouled",
+    "home_team": "MIN",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Hold",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:40",
+                "end": "02:50"
+            },
+            "caption": "Immanuel Quickley holds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "05:00"
+            },
+            "caption": "Immanuel Quickley dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Immanuel Quickley",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:00",
+                "end": "06:00"
+            },
+            "caption": "Immanuel Quickley makes a pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "HandOff",
+            "player": "Obi Toppin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "08:40"
+            },
+            "caption": "Obi Toppin hands off the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Evan Fournier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "09:50"
+            },
+            "caption": "Evan Fournier dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Evan Fournier",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "09:50",
+                "end": "12:10"
+            },
+            "caption": "Evan Fournier turnover: bad pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "Steal",
+            "player": "Kyle Anderson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:00",
+                "end": "12:10"
+            },
+            "caption": "Kyle Anderson steals the ball."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "Dribble",
+            "player": "Kyle Anderson",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "12:10",
+                "end": "13:50"
+            },
+            "caption": "Kyle Anderson is fouled while dribbling."
+        }
+    ]
+}

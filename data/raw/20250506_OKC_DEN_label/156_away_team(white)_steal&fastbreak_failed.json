@@ -1,0 +1,63 @@
+{
+    "video_id": "20250506_OKC_DEN",
+    "possession_id": "poss_156_away_team(white)_steal&fastbreak_failed",
+    "home_team": "OKC",
+    "away_team": "DEN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Shai Gilgeous-Alexander",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "10:40"
+            },
+            "caption": "Shai Gilgeous-Alexander dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "Peyton Watson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "12:50"
+            },
+            "caption": "Peyton Watson steals the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Peyton Watson",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:50",
+                "end": "14:20"
+            },
+            "caption": "Peyton Watson dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Peyton Watson",
+            "result": "made",
+            "timestamp_video": {
+                "start": "14:20",
+                "end": "15:50"
+            },
+            "caption": "Peyton Watson makes layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Chet Holmgren",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:50",
+                "end": "16:50"
+            },
+            "caption": "Chet Holmgren gets the defensive rebound."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "video_id": "20250331_CHA_UTA",
+    "possession_id": "poss_140_away_team(blue)_attack_failed",
+    "home_team": "CHA",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Nick Smith Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "08:00"
+            },
+            "caption": "Nick Smith Jr. dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Nick Smith Jr.",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:00",
+                "end": "09:00"
+            },
+            "caption": "Nick Smith Jr. makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Jusuf Nurkić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "11:30"
+            },
+            "caption": "Jusuf Nurkić dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Jusuf Nurkić",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "12:30"
+            },
+            "caption": "Jusuf Nurkić makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Layup",
+            "player": "Nick Smith Jr.",
+            "result": "made",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "13:20"
+            },
+            "caption": "Nick Smith Jr. makes layup."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Nick Smith Jr.",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "13:20",
+                "end": "15:20"
+            },
+            "caption": "Nick Smith Jr. turnover: bad pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "PassBall",
+            "player": "Oscar Tshiebwe",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:20",
+                "end": "16:10"
+            },
+            "caption": "Oscar Tshiebwe makes a pass."
+        }
+    ]
+}

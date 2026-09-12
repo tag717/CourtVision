@@ -1,0 +1,41 @@
+{
+    "video_id": "20221107_GSW_SAC",
+    "possession_id": "poss_57_home_team(blue)_attack_failed",
+    "home_team": "GSW",
+    "away_team": "SAC",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Anthony Lamb",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Anthony Lamb inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dribble",
+            "player": "Ty Jerome",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "02:50"
+            },
+            "caption": "Ty Jerome dribbles the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Layup",
+            "player": "Ty Jerome",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "04:50"
+            },
+            "caption": "Ty Jerome misses layup."
+        }
+    ]
+}

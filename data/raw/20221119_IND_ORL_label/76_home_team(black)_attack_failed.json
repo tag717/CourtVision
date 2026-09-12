@@ -1,0 +1,63 @@
+{
+    "video_id": "20221119_IND_ORL",
+    "possession_id": "poss_76_home_team(black)_attack_failed",
+    "home_team": "IND",
+    "away_team": "ORL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Tyrese Haliburton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "Tyrese Haliburton inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Jalen Smith",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:50"
+            },
+            "caption": "Jalen Smith misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "OffensiveRebound",
+            "player": "Jalen Smith",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:50",
+                "end": "04:10"
+            },
+            "caption": "Jalen Smith gets the offensive rebound."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PutBack",
+            "player": "Jalen Smith",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "04:10",
+                "end": "05:20"
+            },
+            "caption": "Jalen Smith misses putback layup."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "DefensiveRebound",
+            "player": "Bol Bol",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:20",
+                "end": "07:00"
+            },
+            "caption": "Bol Bol gets the defensive rebound."
+        }
+    ]
+}

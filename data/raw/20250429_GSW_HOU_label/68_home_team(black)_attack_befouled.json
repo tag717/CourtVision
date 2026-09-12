@@ -1,0 +1,52 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_68_home_team(black)_attack_befouled",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "02:00"
+            },
+            "caption": "Draymond Green inbounds the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Hold",
+            "player": "Quinten Post",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "05:00"
+            },
+            "caption": "Quinten Post holds the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Draymond Green",
+            "result": "success",
+            "timestamp_video": {
+                "start": "07:00",
+                "end": "08:40"
+            },
+            "caption": "Draymond Green dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Hold",
+            "player": "Draymond Green",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "08:40",
+                "end": "11:00"
+            },
+            "caption": "Draymond Green is fouled while holding the ball."
+        }
+    ]
+}

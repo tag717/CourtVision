@@ -1,0 +1,107 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_123_home_team(red)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "05:30"
+            },
+            "caption": "Dyson Daniels dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "05:30",
+                "end": "06:30"
+            },
+            "caption": "Dyson Daniels makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Vít Krejčí",
+            "result": "success",
+            "timestamp_video": {
+                "start": "06:30",
+                "end": "08:50"
+            },
+            "caption": "Vít Krejčí dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Vít Krejčí",
+            "result": "success",
+            "timestamp_video": {
+                "start": "08:50",
+                "end": "09:20"
+            },
+            "caption": "Vít Krejčí makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Dribble",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "09:20",
+                "end": "11:20"
+            },
+            "caption": "Dyson Daniels dribbles the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "PassBall",
+            "player": "Dyson Daniels",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:20",
+                "end": "12:30"
+            },
+            "caption": "Dyson Daniels makes a pass."
+        },
+        {
+            "event_id": "ev_7",
+            "event_label": "3ptShot",
+            "player": "Onyeka Okongwu",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "12:30",
+                "end": "15:10"
+            },
+            "caption": "Onyeka Okongwu misses 3-pt jump shot."
+        },
+        {
+            "event_id": "ev_8",
+            "event_label": "DefensiveRebound",
+            "player": "Micah Potter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "15:10",
+                "end": "16:00"
+            },
+            "caption": "Micah Potter gets the defensive rebound."
+        },
+        {
+            "event_id": "ev_9",
+            "event_label": "PassBall",
+            "player": "Micah Potter",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "16:30"
+            },
+            "caption": "Micah Potter makes a pass."
+        }
+    ]
+}

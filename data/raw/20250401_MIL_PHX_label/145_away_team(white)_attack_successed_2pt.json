@@ -1,0 +1,30 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_145_away_team(white)_attack_successed_2pt",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Tyus Jones",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "06:00"
+            },
+            "caption": "Tyus Jones dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Tyus Jones",
+            "result": "made",
+            "timestamp_video": {
+                "start": "06:00",
+                "end": "07:30"
+            },
+            "caption": "Tyus Jones makes layup."
+        }
+    ]
+}

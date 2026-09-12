@@ -1,0 +1,41 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_12_home_team(white)_attack_failed",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Dominick Barlow",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:50"
+            },
+            "caption": "Dominick Barlow dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Layup",
+            "player": "Dominick Barlow",
+            "result": "missed",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "02:00"
+            },
+            "caption": "Dominick Barlow misses layup."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Steal",
+            "player": "Anfernee Simons",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:00",
+                "end": "03:00"
+            },
+            "caption": "Anfernee Simons steals the ball."
+        }
+    ]
+}

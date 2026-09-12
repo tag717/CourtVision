@@ -1,0 +1,19 @@
+{
+    "video_id": "20240606_BOS_DAL",
+    "possession_id": "poss_19_home_team(white)_attack_befouled",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Layup",
+            "player": "Jaylen Brown",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "03:00"
+            },
+            "caption": "Jaylen Brown is fouled on a layup attempt."
+        }
+    ]
+}

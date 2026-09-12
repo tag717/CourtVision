@@ -1,0 +1,30 @@
+{
+    "video_id": "20240609_BOS_DAL",
+    "possession_id": "poss_70_away_team(white)_attack_foul",
+    "home_team": "BOS",
+    "away_team": "DAL",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "P.J. Washington",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:10"
+            },
+            "caption": "P.J. Washington dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Dunk",
+            "player": "P.J. Washington",
+            "result": "made",
+            "timestamp_video": {
+                "start": "01:10",
+                "end": "03:00"
+            },
+            "caption": "P.J. Washington makes dunk."
+        }
+    ]
+}

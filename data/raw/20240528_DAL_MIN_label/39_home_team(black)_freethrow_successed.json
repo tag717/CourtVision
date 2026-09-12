@@ -1,0 +1,19 @@
+{
+    "video_id": "20240528_DAL_MIN",
+    "possession_id": "poss_39_home_team(black)_freethrow_successed",
+    "home_team": "DAL",
+    "away_team": "MIN",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Luka Dončić",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:50"
+            },
+            "caption": "Luka Dončić makes free throw."
+        }
+    ]
+}

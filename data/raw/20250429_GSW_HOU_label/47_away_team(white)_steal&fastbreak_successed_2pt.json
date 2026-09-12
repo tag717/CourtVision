@@ -1,0 +1,74 @@
+{
+    "video_id": "20250429_GSW_HOU",
+    "possession_id": "poss_47_away_team(white)_steal&fastbreak_successed_2pt",
+    "home_team": "GSW",
+    "away_team": "HOU",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Brandin Podziemski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "10:40"
+            },
+            "caption": "Brandin Podziemski dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Brandin Podziemski",
+            "result": "success",
+            "timestamp_video": {
+                "start": "10:40",
+                "end": "12:00"
+            },
+            "caption": "Brandin Podziemski makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "PassBall",
+            "player": "Draymond Green",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "12:00",
+                "end": "13:00"
+            },
+            "caption": "Draymond Green turnover: bad pass."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Tari Eason",
+            "result": "success",
+            "timestamp_video": {
+                "start": "13:00",
+                "end": "14:50"
+            },
+            "caption": "Tari Eason dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Tari Eason",
+            "result": "success",
+            "timestamp_video": {
+                "start": "14:50",
+                "end": "16:00"
+            },
+            "caption": "Tari Eason makes a pass."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "Dunk",
+            "player": "Amen Thompson",
+            "result": "made",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "17:00"
+            },
+            "caption": "Amen Thompson makes dunk."
+        }
+    ]
+}

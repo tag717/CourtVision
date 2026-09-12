@@ -1,0 +1,19 @@
+{
+    "video_id": "20240612_DAL_BOS",
+    "possession_id": "poss_197_away_team(white)_attack_befouled",
+    "home_team": "DAL",
+    "away_team": "BOS",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Jayson Tatum",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Jayson Tatum is fouled while dribbling."
+        }
+    ]
+}

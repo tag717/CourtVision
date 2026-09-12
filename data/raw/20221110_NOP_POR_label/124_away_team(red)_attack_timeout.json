@@ -1,0 +1,19 @@
+{
+    "video_id": "20221110_NOP_POR",
+    "possession_id": "poss_124_away_team(red)_attack_timeout",
+    "home_team": "NOP",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "InboundPass",
+            "player": "Drew Eubanks",
+            "result": "timeout",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:00"
+            },
+            "caption": "Drew Eubanks calls a timeout before the inbound pass."
+        }
+    ]
+}

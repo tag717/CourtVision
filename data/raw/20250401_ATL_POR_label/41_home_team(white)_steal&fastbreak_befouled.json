@@ -1,0 +1,63 @@
+{
+    "video_id": "20250401_ATL_POR",
+    "possession_id": "poss_41_home_team(white)_steal&fastbreak_befouled",
+    "home_team": "ATL",
+    "away_team": "POR",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "PassBall",
+            "player": "Deni Avdija",
+            "result": "turnover",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "00:50"
+            },
+            "caption": "Deni Avdija turnover: bad pass."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "Steal",
+            "player": "Kobe Bufkin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:50",
+                "end": "01:50"
+            },
+            "caption": "Kobe Bufkin steals the ball."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Dribble",
+            "player": "Kobe Bufkin",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:50",
+                "end": "03:20"
+            },
+            "caption": "Kobe Bufkin dribbles the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Layup",
+            "player": "Kobe Bufkin",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "03:20",
+                "end": "04:50"
+            },
+            "caption": "Kobe Bufkin is fouled on a layup attempt."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Steal",
+            "player": "Deni Avdija",
+            "result": "fouled",
+            "timestamp_video": {
+                "start": "03:50",
+                "end": "04:50"
+            },
+            "caption": "Deni Avdija is called for a foul on a steal attempt."
+        }
+    ]
+}

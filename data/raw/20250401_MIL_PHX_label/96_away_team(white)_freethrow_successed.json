@@ -1,0 +1,19 @@
+{
+    "video_id": "20250401_MIL_PHX",
+    "possession_id": "poss_96_away_team(white)_freethrow_successed",
+    "home_team": "MIL",
+    "away_team": "PHX",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Devin Booker",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "02:00"
+            },
+            "caption": "Devin Booker makes free throw."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "video_id": "20250415_GSW_MEM",
+    "possession_id": "poss_112_away_team(blue)_attack_successed_3pt",
+    "home_team": "GSW",
+    "away_team": "MEM",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "11:30"
+            },
+            "caption": "Ja Morant dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Ja Morant",
+            "result": "success",
+            "timestamp_video": {
+                "start": "11:30",
+                "end": "12:40"
+            },
+            "caption": "Ja Morant makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Zach Edey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "12:40",
+                "end": "16:00"
+            },
+            "caption": "Zach Edey holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "PassBall",
+            "player": "Zach Edey",
+            "result": "success",
+            "timestamp_video": {
+                "start": "16:00",
+                "end": "17:00"
+            },
+            "caption": "Zach Edey makes a pass."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "Hold",
+            "player": "Desmond Bane",
+            "result": "success",
+            "timestamp_video": {
+                "start": "17:00",
+                "end": "18:30"
+            },
+            "caption": "Desmond Bane holds the ball."
+        },
+        {
+            "event_id": "ev_6",
+            "event_label": "3ptShot",
+            "player": "Desmond Bane",
+            "result": "made",
+            "timestamp_video": {
+                "start": "18:00",
+                "end": "21:00"
+            },
+            "caption": "Desmond Bane makes 3-pt jump shot."
+        }
+    ]
+}

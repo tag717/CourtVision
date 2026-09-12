@@ -1,0 +1,63 @@
+{
+    "video_id": "20250406_ATL_UTA",
+    "possession_id": "poss_176_away_team(black)_attack_outside",
+    "home_team": "ATL",
+    "away_team": "UTA",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "Dribble",
+            "player": "Isaiah Collier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "01:20"
+            },
+            "caption": "Isaiah Collier dribbles the ball."
+        },
+        {
+            "event_id": "ev_2",
+            "event_label": "PassBall",
+            "player": "Isaiah Collier",
+            "result": "success",
+            "timestamp_video": {
+                "start": "01:20",
+                "end": "02:10"
+            },
+            "caption": "Isaiah Collier makes a pass."
+        },
+        {
+            "event_id": "ev_3",
+            "event_label": "Hold",
+            "player": "Collin Sexton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "02:10",
+                "end": "04:00"
+            },
+            "caption": "Collin Sexton holds the ball."
+        },
+        {
+            "event_id": "ev_4",
+            "event_label": "Dribble",
+            "player": "Collin Sexton",
+            "result": "success",
+            "timestamp_video": {
+                "start": "04:00",
+                "end": "09:00"
+            },
+            "caption": "Collin Sexton dribbles the ball."
+        },
+        {
+            "event_id": "ev_5",
+            "event_label": "PassBall",
+            "player": "Collin Sexton",
+            "result": "outside",
+            "timestamp_video": {
+                "start": "09:00",
+                "end": "09:30"
+            },
+            "caption": "Collin Sexton turnover: pass out of bounds."
+        }
+    ]
+}

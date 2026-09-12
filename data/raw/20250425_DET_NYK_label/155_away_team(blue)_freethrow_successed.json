@@ -1,0 +1,19 @@
+{
+    "video_id": "20250425_DET_NYK",
+    "possession_id": "poss_155_away_team(blue)_freethrow_successed",
+    "home_team": "DET",
+    "away_team": "NYK",
+    "events": [
+        {
+            "event_id": "ev_1",
+            "event_label": "FreeThrow",
+            "player": "Jalen Brunson",
+            "result": "made",
+            "timestamp_video": {
+                "start": "00:00",
+                "end": "04:00"
+            },
+            "caption": "Jalen Brunson makes free throw."
+        }
+    ]
+}
