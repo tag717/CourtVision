@@ -46,6 +46,11 @@ SHOT_LABELS = {
     "Dunk",
 }
 
+# Normalization due to input file inconsistancy
+LABEL_NORMALIZATION = {
+    "Putback": "PutBack",
+}
+
 # Normalize only when the event itself is a shot.
 SHOT_OUTCOME_MAP = {
     "made": "MADE",
@@ -63,9 +68,6 @@ def parse_timestamp(timestamp: str) -> float:
         "00:00" -> 0.00
         "05:50" -> 5.50
         "17:20" -> 17.20
-
-    The project has confirmed that these values represent seconds, with the
-    digits after ':' representing the decimal portion.
     """
     if not isinstance(timestamp, str) or ":" not in timestamp:
         raise ValueError(f"Invalid timestamp: {timestamp!r}")
@@ -108,11 +110,15 @@ def normalize_possession(path: Path) -> list[dict[str, Any]]:
         raw_start = parse_timestamp(ts.get("start"))
         raw_end = parse_timestamp(ts.get("end"))
 
+        # if one event in that possession is invalid, only mark that event
+        # invalid and continue
         if raw_end < raw_start:
-            raise ValueError(
-                f"{path}: event {event.get('event_id')} has end < start "
-                f"({raw_start} > {raw_end})"
+            print(
+                f"Skipping invalid event: {path.name} "
+                f"{event.get('event_id')} "
+                f"({raw_start} -> {raw_end})"
             )
+            continue
 
         parsed_events.append(
             {
@@ -123,8 +129,7 @@ def normalize_possession(path: Path) -> list[dict[str, Any]]:
             }
         )
 
-    # Python's sort is stable, so events with the same start time preserve
-    # their original JSON order.
+    # events with the same start time preserve their original JSON order.
     parsed_events.sort(key=lambda x: (x["_raw_start"], x["_original_index"]))
 
     rows: list[dict[str, Any]] = []
@@ -137,17 +142,19 @@ def normalize_possession(path: Path) -> list[dict[str, Any]]:
         if i < len(parsed_events) - 1:
             next_start = parsed_events[i + 1]["_raw_start"]
 
-            # CourtVision policy:
-            # - gap: extend current state until next event starts
-            # - overlap: truncate current state when next event starts
-            effective_end = next_start
+            if next_start > raw_start:
+                effective_end = next_start
+            else:
+                # Simultaneous/overlapping event:
+                # preserve this event's original interval
+                effective_end = raw_end
         else:
-            # Final event has no following boundary.
             effective_end = raw_end
 
         effective_start = raw_start
-
-        event_label = event.get("event_label")
+        
+        event_label_raw = event.get("event_label", "")
+        event_label = LABEL_NORMALIZATION.get(event_label_raw, event_label_raw)
         raw_result = event.get("result")
         is_shot = event_label in SHOT_LABELS
 
@@ -157,6 +164,10 @@ def normalize_possession(path: Path) -> list[dict[str, Any]]:
             if is_shot
             else ""
         )
+
+        is_valid_interval = int(effective_end > effective_start)
+        # later for train valid_df = df[df["is_valid_interval"] == 1] will 
+        # exclude invalid datas
 
         rows.append(
             {
@@ -178,6 +189,7 @@ def normalize_possession(path: Path) -> list[dict[str, Any]]:
                 "effective_duration_sec": round(
                     effective_end - effective_start, 4
                 ),
+                "is_valid_interval": is_valid_interval,
                 "is_shot": int(is_shot),
                 "shot_type": shot_type,
                 "shot_outcome": shot_outcome,
